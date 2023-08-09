@@ -1,0 +1,3971 @@
+jurisdiction,state,year,drug_type,deaths,crude_rate
+United States,United States,1999,Fentanyl,730,0.3
+United States,United States,2000,Fentanyl,782,0.3
+United States,United States,2001,Fentanyl,957,0.3
+United States,United States,2002,Fentanyl,1295,0.5
+United States,United States,2003,Fentanyl,1400,0.5
+United States,United States,2004,Fentanyl,1664,0.6
+United States,United States,2005,Fentanyl,1742,0.6
+United States,United States,2006,Fentanyl,2707,0.9
+United States,United States,2007,Fentanyl,2213,0.7
+United States,United States,2008,Fentanyl,2306,0.8
+United States,United States,2009,Fentanyl,2946,1.0
+United States,United States,2010,Fentanyl,3007,1.0
+United States,United States,2011,Fentanyl,2666,0.9
+United States,United States,2012,Fentanyl,2628,0.8
+United States,United States,2013,Fentanyl,3105,1.0
+United States,United States,2014,Fentanyl,5544,1.7
+United States,United States,2015,Fentanyl,9580,3.0
+United States,United States,2016,Fentanyl,19413,6.0
+United States,United States,2017,Fentanyl,28466,8.7
+United States,United States,2018,Fentanyl,31335,9.6
+United States,United States,2019,Fentanyl,36359,11.1
+United States,United States,2020,Fentanyl,56516,17.2
+United States,United States,2021,Fentanyl,70601,21.3
+United States,United States,1999,Heroin,1960,0.7
+United States,United States,2000,Heroin,1842,0.7
+United States,United States,2001,Heroin,1779,0.6
+United States,United States,2002,Heroin,2089,0.7
+United States,United States,2003,Heroin,2080,0.7
+United States,United States,2004,Heroin,1878,0.6
+United States,United States,2005,Heroin,2009,0.7
+United States,United States,2006,Heroin,2088,0.7
+United States,United States,2007,Heroin,2399,0.8
+United States,United States,2008,Heroin,3041,1.0
+United States,United States,2009,Heroin,3278,1.1
+United States,United States,2010,Heroin,3036,1.0
+United States,United States,2011,Heroin,4397,1.4
+United States,United States,2012,Heroin,5925,1.9
+United States,United States,2013,Heroin,8257,2.6
+United States,United States,2014,Heroin,10574,3.3
+United States,United States,2015,Heroin,12989,4.0
+United States,United States,2016,Heroin,15469,4.8
+United States,United States,2017,Heroin,15482,4.8
+United States,United States,2018,Heroin,14996,4.6
+United States,United States,2019,Heroin,14019,4.3
+United States,United States,2020,Heroin,13165,4.0
+United States,United States,2021,Heroin,9173,2.8
+United States,United States,1999,Meth,547,0.2
+United States,United States,2000,Meth,578,0.2
+United States,United States,2001,Meth,563,0.2
+United States,United States,2002,Meth,941,0.3
+United States,United States,2003,Meth,1179,0.4
+United States,United States,2004,Meth,1305,0.4
+United States,United States,2005,Meth,1608,0.5
+United States,United States,2006,Meth,1462,0.5
+United States,United States,2007,Meth,1378,0.5
+United States,United States,2008,Meth,1302,0.4
+United States,United States,2009,Meth,1632,0.5
+United States,United States,2010,Meth,1854,0.6
+United States,United States,2011,Meth,2266,0.7
+United States,United States,2012,Meth,2635,0.8
+United States,United States,2013,Meth,3627,1.1
+United States,United States,2014,Meth,4298,1.3
+United States,United States,2015,Meth,5716,1.8
+United States,United States,2016,Meth,7542,2.3
+United States,United States,2017,Meth,10333,3.2
+United States,United States,2018,Meth,12676,3.9
+United States,United States,2019,Meth,16167,4.9
+United States,United States,2020,Meth,23837,7.2
+United States,United States,2021,Meth,32537,9.8
+United States,United States,1999,Otheropioids,3442,1.2
+United States,United States,2000,Otheropioids,3785,1.3
+United States,United States,2001,Otheropioids,4770,1.7
+United States,United States,2002,Otheropioids,6483,2.3
+United States,United States,2003,Otheropioids,7461,2.6
+United States,United States,2004,Otheropioids,8577,2.9
+United States,United States,2005,Otheropioids,9612,3.3
+United States,United States,2006,Otheropioids,11589,3.9
+United States,United States,2007,Otheropioids,12796,4.2
+United States,United States,2008,Otheropioids,13149,4.3
+United States,United States,2009,Otheropioids,13523,4.4
+United States,United States,2010,Otheropioids,14583,4.7
+United States,United States,2011,Otheropioids,15140,4.9
+United States,United States,2012,Otheropioids,14240,4.5
+United States,United States,2013,Otheropioids,14145,4.5
+United States,United States,2014,Otheropioids,14838,4.7
+United States,United States,2015,Otheropioids,15281,4.8
+United States,United States,2016,Otheropioids,17087,5.3
+United States,United States,2017,Otheropioids,17029,5.2
+United States,United States,2018,Otheropioids,14975,4.6
+United States,United States,2019,Otheropioids,14139,4.3
+United States,United States,2020,Otheropioids,16416,5.0
+United States,United States,2021,Otheropioids,16706,5.0
+United States,United States,2022,Otheropioids,14585,4.4
+United States,United States,2022,Meth,33728,10.2
+United States,United States,2022,Heroin,5828,1.8
+United States,United States,2022,Fentanyl,73220,22.1
+Alabama,Alabama,1999,Fentanyl,10,0.2
+Alabama,Alabama,2000,Fentanyl,11,0.2
+Alabama,Alabama,2004,Fentanyl,12,0.3
+Alabama,Alabama,2005,Fentanyl,11,0.2
+Alabama,Alabama,2006,Fentanyl,22,0.5
+Alabama,Alabama,2007,Fentanyl,21,0.4
+Alabama,Alabama,2008,Fentanyl,19,0.4
+Alabama,Alabama,2009,Fentanyl,31,0.7
+Alabama,Alabama,2010,Fentanyl,34,0.7
+Alabama,Alabama,2011,Fentanyl,19,0.4
+Alabama,Alabama,2012,Fentanyl,16,0.3
+Alabama,Alabama,2013,Fentanyl,30,0.6
+Alabama,Alabama,2014,Fentanyl,47,1.0
+Alabama,Alabama,2015,Fentanyl,70,1.4
+Alabama,Alabama,2016,Fentanyl,157,3.2
+Alabama,Alabama,2017,Fentanyl,198,4.1
+Alabama,Alabama,2018,Fentanyl,147,3.0
+Alabama,Alabama,2019,Fentanyl,213,4.3
+Alabama,Alabama,2020,Fentanyl,442,9.0
+Alabama,Alabama,2021,Fentanyl,847,16.8
+Alabama,Alabama,2009,Heroin,12,0.3
+Alabama,Alabama,2011,Heroin,14,0.3
+Alabama,Alabama,2012,Heroin,35,0.7
+Alabama,Alabama,2013,Heroin,40,0.8
+Alabama,Alabama,2014,Heroin,122,2.5
+Alabama,Alabama,2015,Heroin,111,2.3
+Alabama,Alabama,2016,Heroin,126,2.6
+Alabama,Alabama,2017,Heroin,125,2.6
+Alabama,Alabama,2018,Heroin,137,2.8
+Alabama,Alabama,2019,Heroin,141,2.9
+Alabama,Alabama,2020,Heroin,138,2.8
+Alabama,Alabama,2021,Heroin,138,2.7
+Alabama,Alabama,2004,Meth,10,0.2
+Alabama,Alabama,2005,Meth,10,0.2
+Alabama,Alabama,2008,Meth,13,0.3
+Alabama,Alabama,2010,Meth,24,0.5
+Alabama,Alabama,2011,Meth,11,0.2
+Alabama,Alabama,2012,Meth,15,0.3
+Alabama,Alabama,2013,Meth,22,0.5
+Alabama,Alabama,2014,Meth,28,0.6
+Alabama,Alabama,2015,Meth,40,0.8
+Alabama,Alabama,2016,Meth,55,1.1
+Alabama,Alabama,2017,Meth,116,2.4
+Alabama,Alabama,2018,Meth,155,3.2
+Alabama,Alabama,2019,Meth,230,4.7
+Alabama,Alabama,2020,Meth,297,6.0
+Alabama,Alabama,2021,Meth,493,9.8
+Alabama,Alabama,1999,Otheropioids,26,0.6
+Alabama,Alabama,2000,Otheropioids,36,0.8
+Alabama,Alabama,2001,Otheropioids,47,1.1
+Alabama,Alabama,2002,Otheropioids,58,1.3
+Alabama,Alabama,2003,Otheropioids,41,0.9
+Alabama,Alabama,2004,Otheropioids,70,1.5
+Alabama,Alabama,2005,Otheropioids,66,1.4
+Alabama,Alabama,2006,Otheropioids,105,2.3
+Alabama,Alabama,2007,Otheropioids,140,3.0
+Alabama,Alabama,2008,Otheropioids,161,3.4
+Alabama,Alabama,2009,Otheropioids,169,3.6
+Alabama,Alabama,2010,Otheropioids,145,3.0
+Alabama,Alabama,2011,Otheropioids,140,2.9
+Alabama,Alabama,2012,Otheropioids,110,2.3
+Alabama,Alabama,2013,Otheropioids,98,2.0
+Alabama,Alabama,2014,Otheropioids,130,2.7
+Alabama,Alabama,2015,Otheropioids,119,2.4
+Alabama,Alabama,2016,Otheropioids,124,2.5
+Alabama,Alabama,2017,Otheropioids,167,3.4
+Alabama,Alabama,2018,Otheropioids,152,3.1
+Alabama,Alabama,2019,Otheropioids,161,3.3
+Alabama,Alabama,2020,Otheropioids,146,3.0
+Alabama,Alabama,2021,Otheropioids,172,3.4
+Alabama,Alabama,2022,Otheropioids,176,3.5
+Alabama,Alabama,2022,Meth,590,11.7
+Alabama,Alabama,2022,Heroin,47,0.9
+Alabama,Alabama,2022,Fentanyl,990,19.6
+Arizona,Arizona,1999,Fentanyl,22,0.4
+Arizona,Arizona,2000,Fentanyl,17,0.3
+Arizona,Arizona,2001,Fentanyl,20,0.4
+Arizona,Arizona,2002,Fentanyl,21,0.4
+Arizona,Arizona,2003,Fentanyl,22,0.4
+Arizona,Arizona,2004,Fentanyl,28,0.5
+Arizona,Arizona,2005,Fentanyl,35,0.6
+Arizona,Arizona,2006,Fentanyl,54,0.9
+Arizona,Arizona,2007,Fentanyl,38,0.6
+Arizona,Arizona,2008,Fentanyl,49,0.8
+Arizona,Arizona,2009,Fentanyl,55,0.9
+Arizona,Arizona,2010,Fentanyl,68,1.1
+Arizona,Arizona,2011,Fentanyl,40,0.6
+Arizona,Arizona,2012,Fentanyl,36,0.5
+Arizona,Arizona,2013,Fentanyl,52,0.8
+Arizona,Arizona,2014,Fentanyl,57,0.8
+Arizona,Arizona,2015,Fentanyl,72,1.1
+Arizona,Arizona,2016,Fentanyl,123,1.8
+Arizona,Arizona,2017,Fentanyl,267,3.8
+Arizona,Arizona,2018,Fentanyl,522,7.3
+Arizona,Arizona,2019,Fentanyl,796,10.9
+Arizona,Arizona,2020,Fentanyl,1476,19.9
+Arizona,Arizona,2021,Fentanyl,1753,24.1
+Arizona,Arizona,1999,Heroin,23,0.5
+Arizona,Arizona,2000,Heroin,14,0.3
+Arizona,Arizona,2001,Heroin,23,0.4
+Arizona,Arizona,2002,Heroin,24,0.4
+Arizona,Arizona,2003,Heroin,64,1.2
+Arizona,Arizona,2004,Heroin,40,0.7
+Arizona,Arizona,2005,Heroin,32,0.5
+Arizona,Arizona,2006,Heroin,52,0.9
+Arizona,Arizona,2007,Heroin,51,0.8
+Arizona,Arizona,2008,Heroin,63,1.0
+Arizona,Arizona,2009,Heroin,84,1.3
+Arizona,Arizona,2010,Heroin,90,1.4
+Arizona,Arizona,2011,Heroin,117,1.8
+Arizona,Arizona,2012,Heroin,101,1.5
+Arizona,Arizona,2013,Heroin,146,2.2
+Arizona,Arizona,2014,Heroin,197,2.9
+Arizona,Arizona,2015,Heroin,247,3.6
+Arizona,Arizona,2016,Heroin,299,4.3
+Arizona,Arizona,2017,Heroin,334,4.8
+Arizona,Arizona,2018,Heroin,352,4.9
+Arizona,Arizona,2019,Heroin,271,3.7
+Arizona,Arizona,2020,Heroin,217,2.9
+Arizona,Arizona,2021,Heroin,112,1.5
+Arizona,Arizona,1999,Meth,27,0.5
+Arizona,Arizona,2000,Meth,27,0.5
+Arizona,Arizona,2001,Meth,52,1.0
+Arizona,Arizona,2002,Meth,49,0.9
+Arizona,Arizona,2003,Meth,68,1.2
+Arizona,Arizona,2004,Meth,82,1.5
+Arizona,Arizona,2005,Meth,98,1.7
+Arizona,Arizona,2006,Meth,107,1.8
+Arizona,Arizona,2007,Meth,107,1.7
+Arizona,Arizona,2008,Meth,81,1.3
+Arizona,Arizona,2009,Meth,99,1.6
+Arizona,Arizona,2010,Meth,107,1.7
+Arizona,Arizona,2011,Meth,126,1.9
+Arizona,Arizona,2012,Meth,126,1.9
+Arizona,Arizona,2013,Meth,185,2.8
+Arizona,Arizona,2014,Meth,229,3.4
+Arizona,Arizona,2015,Meth,333,4.9
+Arizona,Arizona,2016,Meth,454,6.6
+Arizona,Arizona,2017,Meth,572,8.2
+Arizona,Arizona,2018,Meth,577,8.0
+Arizona,Arizona,2019,Meth,717,9.9
+Arizona,Arizona,2020,Meth,1015,13.7
+Arizona,Arizona,2021,Meth,1257,17.3
+Arizona,Arizona,1999,Otheropioids,97,1.9
+Arizona,Arizona,2000,Otheropioids,103,2.0
+Arizona,Arizona,2001,Otheropioids,109,2.1
+Arizona,Arizona,2002,Otheropioids,177,3.3
+Arizona,Arizona,2003,Otheropioids,197,3.6
+Arizona,Arizona,2004,Otheropioids,200,3.5
+Arizona,Arizona,2005,Otheropioids,245,4.2
+Arizona,Arizona,2006,Otheropioids,261,4.3
+Arizona,Arizona,2007,Otheropioids,290,4.7
+Arizona,Arizona,2008,Otheropioids,328,5.2
+Arizona,Arizona,2009,Otheropioids,394,6.2
+Arizona,Arizona,2010,Otheropioids,412,6.4
+Arizona,Arizona,2011,Otheropioids,352,5.4
+Arizona,Arizona,2012,Otheropioids,367,5.6
+Arizona,Arizona,2013,Otheropioids,309,4.7
+Arizona,Arizona,2014,Otheropioids,342,5.1
+Arizona,Arizona,2015,Otheropioids,362,5.3
+Arizona,Arizona,2016,Otheropioids,380,5.5
+Arizona,Arizona,2017,Otheropioids,414,5.9
+Arizona,Arizona,2018,Otheropioids,362,5.0
+Arizona,Arizona,2019,Otheropioids,364,5.0
+Arizona,Arizona,2020,Otheropioids,389,5.2
+Arizona,Arizona,2021,Otheropioids,327,4.5
+Arizona,Arizona,2022,Otheropioids,292,4.0
+Arizona,Arizona,2022,Meth,1343,18.5
+Arizona,Arizona,2022,Heroin,55,0.8
+Arizona,Arizona,2022,Fentanyl,1735,23.8
+California,California,1999,Fentanyl,87,0.3
+California,California,2000,Fentanyl,68,0.2
+California,California,2001,Fentanyl,31,0.1
+California,California,2002,Fentanyl,117,0.3
+California,California,2003,Fentanyl,119,0.3
+California,California,2004,Fentanyl,140,0.4
+California,California,2005,Fentanyl,123,0.3
+California,California,2006,Fentanyl,154,0.4
+California,California,2007,Fentanyl,138,0.4
+California,California,2008,Fentanyl,155,0.4
+California,California,2009,Fentanyl,201,0.5
+California,California,2010,Fentanyl,205,0.6
+California,California,2011,Fentanyl,164,0.4
+California,California,2012,Fentanyl,146,0.4
+California,California,2013,Fentanyl,176,0.5
+California,California,2014,Fentanyl,194,0.5
+California,California,2015,Fentanyl,229,0.6
+California,California,2016,Fentanyl,355,0.9
+California,California,2017,Fentanyl,536,1.4
+California,California,2018,Fentanyl,865,2.2
+California,California,2019,Fentanyl,1675,4.2
+California,California,2020,Fentanyl,4009,10.2
+California,California,2021,Fentanyl,6060,15.4
+California,California,1999,Heroin,468,1.4
+California,California,2000,Heroin,330,1.0
+California,California,2001,Heroin,220,0.6
+California,California,2002,Heroin,361,1.0
+California,California,2003,Heroin,351,1.0
+California,California,2004,Heroin,286,0.8
+California,California,2005,Heroin,251,0.7
+California,California,2006,Heroin,274,0.8
+California,California,2007,Heroin,291,0.8
+California,California,2008,Heroin,325,0.9
+California,California,2009,Heroin,352,1.0
+California,California,2010,Heroin,326,0.9
+California,California,2011,Heroin,364,1.0
+California,California,2012,Heroin,362,1.0
+California,California,2013,Heroin,486,1.3
+California,California,2014,Heroin,561,1.4
+California,California,2015,Heroin,593,1.5
+California,California,2016,Heroin,587,1.5
+California,California,2017,Heroin,715,1.8
+California,California,2018,Heroin,778,2.0
+California,California,2019,Heroin,964,2.4
+California,California,2020,Heroin,1002,2.5
+California,California,2021,Heroin,779,2.0
+California,California,1999,Meth,228,0.7
+California,California,2000,Meth,200,0.6
+California,California,2001,Meth,107,0.3
+California,California,2002,Meth,371,1.1
+California,California,2003,Meth,457,1.3
+California,California,2004,Meth,445,1.3
+California,California,2005,Meth,528,1.5
+California,California,2006,Meth,504,1.4
+California,California,2007,Meth,478,1.3
+California,California,2008,Meth,460,1.3
+California,California,2009,Meth,527,1.4
+California,California,2010,Meth,569,1.5
+California,California,2011,Meth,666,1.8
+California,California,2012,Meth,778,2.0
+California,California,2013,Meth,1042,2.7
+California,California,2014,Meth,1141,2.9
+California,California,2015,Meth,1470,3.8
+California,California,2016,Meth,1579,4.0
+California,California,2017,Meth,1916,4.8
+California,California,2018,Meth,2404,6.1
+California,California,2019,Meth,2862,7.2
+California,California,2020,Meth,4411,11.2
+California,California,2021,Meth,5742,14.6
+California,California,1999,Otheropioids,994,3.0
+California,California,2000,Otheropioids,673,2.0
+California,California,2001,Otheropioids,353,1.0
+California,California,2002,Otheropioids,1011,2.9
+California,California,2003,Otheropioids,935,2.7
+California,California,2004,Otheropioids,928,2.6
+California,California,2005,Otheropioids,949,2.6
+California,California,2006,Otheropioids,1037,2.9
+California,California,2007,Otheropioids,1182,3.3
+California,California,2008,Otheropioids,1347,3.7
+California,California,2009,Otheropioids,1495,4.0
+California,California,2010,Otheropioids,1431,3.8
+California,California,2011,Otheropioids,1472,3.9
+California,California,2012,Otheropioids,1233,3.2
+California,California,2013,Otheropioids,1305,3.4
+California,California,2014,Otheropioids,1315,3.4
+California,California,2015,Otheropioids,1248,3.2
+California,California,2016,Otheropioids,1172,3.0
+California,California,2017,Otheropioids,1169,3.0
+California,California,2018,Otheropioids,1084,2.7
+California,California,2019,Otheropioids,1073,2.7
+California,California,2020,Otheropioids,1208,3.1
+California,California,2021,Otheropioids,1240,3.2
+California,California,2022,Otheropioids,1086,2.8
+California,California,2022,Meth,5728,14.6
+California,California,2022,Heroin,490,1.2
+California,California,2022,Fentanyl,6374,16.2
+Colorado,Colorado,1999,Fentanyl,21,0.5
+Colorado,Colorado,2000,Fentanyl,25,0.6
+Colorado,Colorado,2001,Fentanyl,19,0.4
+Colorado,Colorado,2002,Fentanyl,30,0.7
+Colorado,Colorado,2003,Fentanyl,22,0.5
+Colorado,Colorado,2004,Fentanyl,22,0.5
+Colorado,Colorado,2005,Fentanyl,35,0.8
+Colorado,Colorado,2006,Fentanyl,27,0.6
+Colorado,Colorado,2007,Fentanyl,44,0.9
+Colorado,Colorado,2008,Fentanyl,39,0.8
+Colorado,Colorado,2009,Fentanyl,68,1.4
+Colorado,Colorado,2010,Fentanyl,58,1.2
+Colorado,Colorado,2011,Fentanyl,78,1.5
+Colorado,Colorado,2012,Fentanyl,52,1.0
+Colorado,Colorado,2013,Fentanyl,67,1.3
+Colorado,Colorado,2014,Fentanyl,80,1.5
+Colorado,Colorado,2015,Fentanyl,64,1.2
+Colorado,Colorado,2016,Fentanyl,72,1.3
+Colorado,Colorado,2017,Fentanyl,112,2.0
+Colorado,Colorado,2018,Fentanyl,134,2.4
+Colorado,Colorado,2019,Fentanyl,255,4.4
+Colorado,Colorado,2020,Fentanyl,590,10.2
+Colorado,Colorado,2021,Fentanyl,973,16.7
+Colorado,Colorado,1999,Heroin,42,1.0
+Colorado,Colorado,2000,Heroin,38,0.9
+Colorado,Colorado,2001,Heroin,23,0.5
+Colorado,Colorado,2002,Heroin,28,0.6
+Colorado,Colorado,2003,Heroin,21,0.5
+Colorado,Colorado,2004,Heroin,23,0.5
+Colorado,Colorado,2005,Heroin,41,0.9
+Colorado,Colorado,2006,Heroin,39,0.8
+Colorado,Colorado,2007,Heroin,39,0.8
+Colorado,Colorado,2008,Heroin,48,1.0
+Colorado,Colorado,2009,Heroin,70,1.4
+Colorado,Colorado,2010,Heroin,46,0.9
+Colorado,Colorado,2011,Heroin,79,1.5
+Colorado,Colorado,2012,Heroin,91,1.8
+Colorado,Colorado,2013,Heroin,120,2.3
+Colorado,Colorado,2014,Heroin,156,2.9
+Colorado,Colorado,2015,Heroin,159,2.9
+Colorado,Colorado,2016,Heroin,234,4.2
+Colorado,Colorado,2017,Heroin,224,4.0
+Colorado,Colorado,2018,Heroin,233,4.1
+Colorado,Colorado,2019,Heroin,215,3.7
+Colorado,Colorado,2020,Heroin,220,3.8
+Colorado,Colorado,2021,Heroin,189,3.3
+Colorado,Colorado,1999,Meth,16,0.4
+Colorado,Colorado,2000,Meth,17,0.4
+Colorado,Colorado,2001,Meth,23,0.5
+Colorado,Colorado,2002,Meth,13,0.3
+Colorado,Colorado,2003,Meth,33,0.7
+Colorado,Colorado,2004,Meth,30,0.7
+Colorado,Colorado,2005,Meth,53,1.1
+Colorado,Colorado,2006,Meth,36,0.8
+Colorado,Colorado,2007,Meth,43,0.9
+Colorado,Colorado,2008,Meth,39,0.8
+Colorado,Colorado,2009,Meth,39,0.8
+Colorado,Colorado,2010,Meth,39,0.8
+Colorado,Colorado,2011,Meth,64,1.3
+Colorado,Colorado,2012,Meth,60,1.2
+Colorado,Colorado,2013,Meth,98,1.9
+Colorado,Colorado,2014,Meth,118,2.2
+Colorado,Colorado,2015,Meth,140,2.6
+Colorado,Colorado,2016,Meth,200,3.6
+Colorado,Colorado,2017,Meth,301,5.4
+Colorado,Colorado,2018,Meth,326,5.7
+Colorado,Colorado,2019,Meth,353,6.1
+Colorado,Colorado,2020,Meth,535,9.2
+Colorado,Colorado,2021,Meth,752,12.9
+Colorado,Colorado,1999,Otheropioids,55,1.3
+Colorado,Colorado,2000,Otheropioids,71,1.7
+Colorado,Colorado,2001,Otheropioids,109,2.5
+Colorado,Colorado,2002,Otheropioids,95,2.1
+Colorado,Colorado,2003,Otheropioids,101,2.2
+Colorado,Colorado,2004,Otheropioids,119,2.6
+Colorado,Colorado,2005,Otheropioids,152,3.3
+Colorado,Colorado,2006,Otheropioids,178,3.8
+Colorado,Colorado,2007,Otheropioids,236,4.9
+Colorado,Colorado,2008,Otheropioids,216,4.4
+Colorado,Colorado,2009,Otheropioids,222,4.5
+Colorado,Colorado,2010,Otheropioids,176,3.5
+Colorado,Colorado,2011,Otheropioids,254,5.0
+Colorado,Colorado,2012,Otheropioids,258,5.0
+Colorado,Colorado,2013,Otheropioids,249,4.7
+Colorado,Colorado,2014,Otheropioids,298,5.6
+Colorado,Colorado,2015,Otheropioids,288,5.3
+Colorado,Colorado,2016,Otheropioids,258,4.7
+Colorado,Colorado,2017,Otheropioids,300,5.4
+Colorado,Colorado,2018,Otheropioids,268,4.7
+Colorado,Colorado,2019,Otheropioids,258,4.5
+Colorado,Colorado,2020,Otheropioids,323,5.6
+Colorado,Colorado,2021,Otheropioids,333,5.7
+Colorado,Colorado,2022,Otheropioids,266,4.6
+Colorado,Colorado,2022,Meth,712,12.3
+Colorado,Colorado,2022,Heroin,64,1.1
+Colorado,Colorado,2022,Fentanyl,971,16.7
+Florida,Florida,1999,Fentanyl,59,0.4
+Florida,Florida,2000,Fentanyl,84,0.5
+Florida,Florida,2001,Fentanyl,117,0.7
+Florida,Florida,2002,Fentanyl,136,0.8
+Florida,Florida,2003,Fentanyl,175,1.0
+Florida,Florida,2004,Fentanyl,160,0.9
+Florida,Florida,2005,Fentanyl,144,0.8
+Florida,Florida,2006,Fentanyl,131,0.7
+Florida,Florida,2007,Fentanyl,137,0.7
+Florida,Florida,2008,Fentanyl,132,0.7
+Florida,Florida,2009,Fentanyl,171,0.9
+Florida,Florida,2010,Fentanyl,146,0.8
+Florida,Florida,2011,Fentanyl,138,0.7
+Florida,Florida,2012,Fentanyl,162,0.8
+Florida,Florida,2013,Fentanyl,200,1.0
+Florida,Florida,2014,Fentanyl,343,1.7
+Florida,Florida,2015,Fentanyl,610,3.0
+Florida,Florida,2016,Fentanyl,1566,7.6
+Florida,Florida,2017,Fentanyl,2126,10.1
+Florida,Florida,2018,Fentanyl,2091,9.8
+Florida,Florida,2019,Fentanyl,2837,13.2
+Florida,Florida,2020,Fentanyl,4734,21.8
+Florida,Florida,2021,Fentanyl,5358,24.6
+Florida,Florida,1999,Heroin,124,0.8
+Florida,Florida,2000,Heroin,170,1.1
+Florida,Florida,2001,Heroin,202,1.2
+Florida,Florida,2002,Heroin,206,1.2
+Florida,Florida,2003,Heroin,205,1.2
+Florida,Florida,2004,Heroin,140,0.8
+Florida,Florida,2005,Heroin,108,0.6
+Florida,Florida,2006,Heroin,87,0.5
+Florida,Florida,2007,Heroin,78,0.4
+Florida,Florida,2008,Heroin,108,0.6
+Florida,Florida,2009,Heroin,96,0.5
+Florida,Florida,2010,Heroin,51,0.3
+Florida,Florida,2011,Heroin,62,0.3
+Florida,Florida,2012,Heroin,101,0.5
+Florida,Florida,2013,Heroin,181,0.9
+Florida,Florida,2014,Heroin,344,1.7
+Florida,Florida,2015,Heroin,567,2.8
+Florida,Florida,2016,Heroin,669,3.2
+Florida,Florida,2017,Heroin,707,3.4
+Florida,Florida,2018,Heroin,689,3.2
+Florida,Florida,2019,Heroin,698,3.2
+Florida,Florida,2020,Heroin,639,2.9
+Florida,Florida,2021,Heroin,359,1.6
+Florida,Florida,1999,Meth,24,0.2
+Florida,Florida,2000,Meth,23,0.1
+Florida,Florida,2001,Meth,47,0.3
+Florida,Florida,2002,Meth,26,0.2
+Florida,Florida,2003,Meth,22,0.1
+Florida,Florida,2004,Meth,32,0.2
+Florida,Florida,2005,Meth,35,0.2
+Florida,Florida,2006,Meth,32,0.2
+Florida,Florida,2007,Meth,37,0.2
+Florida,Florida,2008,Meth,40,0.2
+Florida,Florida,2009,Meth,41,0.2
+Florida,Florida,2010,Meth,58,0.3
+Florida,Florida,2011,Meth,62,0.3
+Florida,Florida,2012,Meth,67,0.3
+Florida,Florida,2013,Meth,82,0.4
+Florida,Florida,2014,Meth,86,0.4
+Florida,Florida,2015,Meth,151,0.7
+Florida,Florida,2016,Meth,278,1.3
+Florida,Florida,2017,Meth,423,2.0
+Florida,Florida,2018,Meth,592,2.8
+Florida,Florida,2019,Meth,825,3.8
+Florida,Florida,2020,Meth,1329,6.1
+Florida,Florida,2021,Meth,1908,8.8
+Florida,Florida,1999,Otheropioids,190,1.2
+Florida,Florida,2000,Otheropioids,280,1.8
+Florida,Florida,2001,Otheropioids,545,3.3
+Florida,Florida,2002,Otheropioids,595,3.6
+Florida,Florida,2003,Otheropioids,677,4.0
+Florida,Florida,2004,Otheropioids,915,5.3
+Florida,Florida,2005,Otheropioids,853,4.8
+Florida,Florida,2006,Otheropioids,1012,5.6
+Florida,Florida,2007,Otheropioids,1232,6.7
+Florida,Florida,2008,Otheropioids,1230,6.6
+Florida,Florida,2009,Otheropioids,1358,7.3
+Florida,Florida,2010,Otheropioids,1494,7.9
+Florida,Florida,2011,Otheropioids,1403,7.4
+Florida,Florida,2012,Otheropioids,1107,5.7
+Florida,Florida,2013,Otheropioids,961,4.9
+Florida,Florida,2014,Otheropioids,889,4.5
+Florida,Florida,2015,Otheropioids,943,4.7
+Florida,Florida,2016,Otheropioids,1183,5.7
+Florida,Florida,2017,Otheropioids,1272,6.1
+Florida,Florida,2018,Otheropioids,1282,6.0
+Florida,Florida,2019,Otheropioids,1190,5.5
+Florida,Florida,2020,Otheropioids,1255,5.8
+Florida,Florida,2021,Otheropioids,1153,5.3
+Florida,Florida,2022,Otheropioids,1020,4.7
+Florida,Florida,2022,Meth,1905,8.7
+Florida,Florida,2022,Heroin,169,0.8
+Florida,Florida,2022,Fentanyl,5067,23.3
+Georgia,Georgia,1999,Fentanyl,11,0.1
+Georgia,Georgia,2000,Fentanyl,12,0.1
+Georgia,Georgia,2001,Fentanyl,27,0.3
+Georgia,Georgia,2002,Fentanyl,36,0.4
+Georgia,Georgia,2003,Fentanyl,36,0.4
+Georgia,Georgia,2004,Fentanyl,35,0.4
+Georgia,Georgia,2005,Fentanyl,47,0.5
+Georgia,Georgia,2006,Fentanyl,57,0.6
+Georgia,Georgia,2007,Fentanyl,65,0.7
+Georgia,Georgia,2008,Fentanyl,57,0.6
+Georgia,Georgia,2009,Fentanyl,83,0.9
+Georgia,Georgia,2010,Fentanyl,103,1.1
+Georgia,Georgia,2011,Fentanyl,86,0.9
+Georgia,Georgia,2012,Fentanyl,61,0.6
+Georgia,Georgia,2013,Fentanyl,80,0.8
+Georgia,Georgia,2014,Fentanyl,174,1.7
+Georgia,Georgia,2015,Fentanyl,284,2.8
+Georgia,Georgia,2016,Fentanyl,277,2.7
+Georgia,Georgia,2017,Fentanyl,419,4.0
+Georgia,Georgia,2018,Fentanyl,349,3.3
+Georgia,Georgia,2019,Fentanyl,419,3.9
+Georgia,Georgia,2020,Fentanyl,896,8.4
+Georgia,Georgia,2021,Fentanyl,1448,13.4
+Georgia,Georgia,2007,Heroin,11,0.1
+Georgia,Georgia,2008,Heroin,23,0.2
+Georgia,Georgia,2009,Heroin,21,0.2
+Georgia,Georgia,2010,Heroin,10,0.1
+Georgia,Georgia,2011,Heroin,30,0.3
+Georgia,Georgia,2012,Heroin,40,0.4
+Georgia,Georgia,2013,Heroin,67,0.7
+Georgia,Georgia,2014,Heroin,153,1.5
+Georgia,Georgia,2015,Heroin,222,2.2
+Georgia,Georgia,2016,Heroin,226,2.2
+Georgia,Georgia,2017,Heroin,263,2.5
+Georgia,Georgia,2018,Heroin,299,2.8
+Georgia,Georgia,2019,Heroin,298,2.8
+Georgia,Georgia,2020,Heroin,395,3.7
+Georgia,Georgia,2021,Heroin,319,3.0
+Georgia,Georgia,2001,Meth,11,0.1
+Georgia,Georgia,2002,Meth,21,0.2
+Georgia,Georgia,2003,Meth,16,0.2
+Georgia,Georgia,2004,Meth,42,0.5
+Georgia,Georgia,2005,Meth,46,0.5
+Georgia,Georgia,2006,Meth,43,0.5
+Georgia,Georgia,2007,Meth,28,0.3
+Georgia,Georgia,2008,Meth,28,0.3
+Georgia,Georgia,2009,Meth,45,0.5
+Georgia,Georgia,2010,Meth,67,0.7
+Georgia,Georgia,2011,Meth,58,0.6
+Georgia,Georgia,2012,Meth,76,0.8
+Georgia,Georgia,2013,Meth,114,1.1
+Georgia,Georgia,2014,Meth,134,1.3
+Georgia,Georgia,2015,Meth,220,2.2
+Georgia,Georgia,2016,Meth,243,2.4
+Georgia,Georgia,2017,Meth,364,3.5
+Georgia,Georgia,2018,Meth,392,3.7
+Georgia,Georgia,2019,Meth,439,4.1
+Georgia,Georgia,2020,Meth,591,5.5
+Georgia,Georgia,2021,Meth,969,9.0
+Georgia,Georgia,1999,Otheropioids,39,0.5
+Georgia,Georgia,2000,Otheropioids,76,0.9
+Georgia,Georgia,2001,Otheropioids,129,1.5
+Georgia,Georgia,2002,Otheropioids,140,1.6
+Georgia,Georgia,2003,Otheropioids,155,1.8
+Georgia,Georgia,2004,Otheropioids,190,2.2
+Georgia,Georgia,2005,Otheropioids,231,2.6
+Georgia,Georgia,2006,Otheropioids,258,2.8
+Georgia,Georgia,2007,Otheropioids,293,3.1
+Georgia,Georgia,2008,Otheropioids,319,3.4
+Georgia,Georgia,2009,Otheropioids,395,4.1
+Georgia,Georgia,2010,Otheropioids,429,4.4
+Georgia,Georgia,2011,Otheropioids,436,4.4
+Georgia,Georgia,2012,Otheropioids,420,4.2
+Georgia,Georgia,2013,Otheropioids,394,3.9
+Georgia,Georgia,2014,Otheropioids,482,4.8
+Georgia,Georgia,2015,Otheropioids,519,5.1
+Georgia,Georgia,2016,Otheropioids,536,5.2
+Georgia,Georgia,2017,Otheropioids,568,5.4
+Georgia,Georgia,2018,Otheropioids,440,4.2
+Georgia,Georgia,2019,Otheropioids,396,3.7
+Georgia,Georgia,2020,Otheropioids,493,4.6
+Georgia,Georgia,2021,Otheropioids,545,5.0
+Georgia,Georgia,2022,Otheropioids,502,4.6
+Georgia,Georgia,2022,Meth,959,8.9
+Georgia,Georgia,2022,Heroin,155,1.4
+Georgia,Georgia,2022,Fentanyl,1710,15.8
+Illinois,Illinois,1999,Fentanyl,25,0.2
+Illinois,Illinois,2000,Fentanyl,24,0.2
+Illinois,Illinois,2001,Fentanyl,34,0.3
+Illinois,Illinois,2002,Fentanyl,40,0.3
+Illinois,Illinois,2003,Fentanyl,32,0.3
+Illinois,Illinois,2004,Fentanyl,38,0.3
+Illinois,Illinois,2005,Fentanyl,59,0.5
+Illinois,Illinois,2006,Fentanyl,375,3.0
+Illinois,Illinois,2007,Fentanyl,101,0.8
+Illinois,Illinois,2008,Fentanyl,83,0.7
+Illinois,Illinois,2009,Fentanyl,111,0.9
+Illinois,Illinois,2010,Fentanyl,115,0.9
+Illinois,Illinois,2011,Fentanyl,86,0.7
+Illinois,Illinois,2012,Fentanyl,84,0.7
+Illinois,Illinois,2013,Fentanyl,87,0.7
+Illinois,Illinois,2014,Fentanyl,127,1.0
+Illinois,Illinois,2015,Fentanyl,278,2.2
+Illinois,Illinois,2016,Fentanyl,907,7.1
+Illinois,Illinois,2017,Fentanyl,1251,9.8
+Illinois,Illinois,2018,Fentanyl,1568,12.3
+Illinois,Illinois,2019,Fentanyl,1706,13.5
+Illinois,Illinois,2020,Fentanyl,2471,19.6
+Illinois,Illinois,2021,Fentanyl,2706,21.4
+Illinois,Illinois,1999,Heroin,30,0.2
+Illinois,Illinois,2000,Heroin,35,0.3
+Illinois,Illinois,2001,Heroin,37,0.3
+Illinois,Illinois,2002,Heroin,48,0.4
+Illinois,Illinois,2003,Heroin,20,0.2
+Illinois,Illinois,2004,Heroin,36,0.3
+Illinois,Illinois,2005,Heroin,49,0.4
+Illinois,Illinois,2006,Heroin,63,0.5
+Illinois,Illinois,2007,Heroin,63,0.5
+Illinois,Illinois,2008,Heroin,107,0.8
+Illinois,Illinois,2009,Heroin,116,0.9
+Illinois,Illinois,2010,Heroin,150,1.2
+Illinois,Illinois,2011,Heroin,168,1.3
+Illinois,Illinois,2012,Heroin,269,2.1
+Illinois,Illinois,2013,Heroin,583,4.5
+Illinois,Illinois,2014,Heroin,711,5.5
+Illinois,Illinois,2015,Heroin,844,6.6
+Illinois,Illinois,2016,Heroin,1040,8.1
+Illinois,Illinois,2017,Heroin,1187,9.3
+Illinois,Illinois,2018,Heroin,1050,8.2
+Illinois,Illinois,2019,Heroin,978,7.7
+Illinois,Illinois,2020,Heroin,1052,8.4
+Illinois,Illinois,2021,Heroin,761,6.0
+Illinois,Illinois,2002,Meth,10,0.1
+Illinois,Illinois,2004,Meth,14,0.1
+Illinois,Illinois,2005,Meth,11,0.1
+Illinois,Illinois,2007,Meth,11,0.1
+Illinois,Illinois,2008,Meth,15,0.1
+Illinois,Illinois,2009,Meth,19,0.1
+Illinois,Illinois,2010,Meth,12,0.1
+Illinois,Illinois,2011,Meth,13,0.1
+Illinois,Illinois,2012,Meth,22,0.2
+Illinois,Illinois,2013,Meth,24,0.2
+Illinois,Illinois,2014,Meth,45,0.3
+Illinois,Illinois,2015,Meth,60,0.5
+Illinois,Illinois,2016,Meth,112,0.9
+Illinois,Illinois,2017,Meth,171,1.3
+Illinois,Illinois,2018,Meth,255,2.0
+Illinois,Illinois,2019,Meth,257,2.0
+Illinois,Illinois,2020,Meth,431,3.4
+Illinois,Illinois,2021,Meth,546,4.3
+Illinois,Illinois,1999,Otheropioids,71,0.6
+Illinois,Illinois,2000,Otheropioids,98,0.8
+Illinois,Illinois,2001,Otheropioids,121,1.0
+Illinois,Illinois,2002,Otheropioids,141,1.1
+Illinois,Illinois,2003,Otheropioids,123,1.0
+Illinois,Illinois,2004,Otheropioids,140,1.1
+Illinois,Illinois,2005,Otheropioids,171,1.4
+Illinois,Illinois,2006,Otheropioids,193,1.5
+Illinois,Illinois,2007,Otheropioids,234,1.8
+Illinois,Illinois,2008,Otheropioids,251,2.0
+Illinois,Illinois,2009,Otheropioids,276,2.2
+Illinois,Illinois,2010,Otheropioids,250,1.9
+Illinois,Illinois,2011,Otheropioids,239,1.9
+Illinois,Illinois,2012,Otheropioids,269,2.1
+Illinois,Illinois,2013,Otheropioids,273,2.1
+Illinois,Illinois,2014,Otheropioids,343,2.7
+Illinois,Illinois,2015,Otheropioids,351,2.7
+Illinois,Illinois,2016,Otheropioids,479,3.7
+Illinois,Illinois,2017,Otheropioids,623,4.9
+Illinois,Illinois,2018,Otheropioids,539,4.2
+Illinois,Illinois,2019,Otheropioids,545,4.3
+Illinois,Illinois,2020,Otheropioids,696,5.5
+Illinois,Illinois,2021,Otheropioids,655,5.2
+Illinois,Illinois,2022,Otheropioids,561,4.4
+Illinois,Illinois,2022,Meth,544,4.3
+Illinois,Illinois,2022,Heroin,534,4.2
+Illinois,Illinois,2022,Fentanyl,2915,23.0
+Kentucky,Kentucky,1999,Fentanyl,10,0.2
+Kentucky,Kentucky,2001,Fentanyl,19,0.5
+Kentucky,Kentucky,2002,Fentanyl,30,0.7
+Kentucky,Kentucky,2003,Fentanyl,27,0.7
+Kentucky,Kentucky,2004,Fentanyl,32,0.8
+Kentucky,Kentucky,2005,Fentanyl,31,0.7
+Kentucky,Kentucky,2006,Fentanyl,50,1.2
+Kentucky,Kentucky,2007,Fentanyl,37,0.9
+Kentucky,Kentucky,2008,Fentanyl,44,1.0
+Kentucky,Kentucky,2009,Fentanyl,65,1.5
+Kentucky,Kentucky,2010,Fentanyl,53,1.2
+Kentucky,Kentucky,2011,Fentanyl,76,1.7
+Kentucky,Kentucky,2012,Fentanyl,70,1.6
+Kentucky,Kentucky,2013,Fentanyl,76,1.7
+Kentucky,Kentucky,2014,Fentanyl,179,4.1
+Kentucky,Kentucky,2015,Fentanyl,323,7.3
+Kentucky,Kentucky,2016,Fentanyl,465,10.5
+Kentucky,Kentucky,2017,Fentanyl,780,17.5
+Kentucky,Kentucky,2018,Fentanyl,744,16.7
+Kentucky,Kentucky,2019,Fentanyl,825,18.5
+Kentucky,Kentucky,2020,Fentanyl,1498,33.5
+Kentucky,Kentucky,2021,Fentanyl,1714,38.0
+Kentucky,Kentucky,2008,Heroin,12,0.3
+Kentucky,Kentucky,2009,Heroin,23,0.5
+Kentucky,Kentucky,2010,Heroin,37,0.9
+Kentucky,Kentucky,2011,Heroin,55,1.3
+Kentucky,Kentucky,2012,Heroin,143,3.3
+Kentucky,Kentucky,2013,Heroin,215,4.9
+Kentucky,Kentucky,2014,Heroin,228,5.2
+Kentucky,Kentucky,2015,Heroin,310,7.0
+Kentucky,Kentucky,2016,Heroin,311,7.0
+Kentucky,Kentucky,2017,Heroin,269,6.0
+Kentucky,Kentucky,2018,Heroin,140,3.1
+Kentucky,Kentucky,2019,Heroin,152,3.4
+Kentucky,Kentucky,2020,Heroin,117,2.6
+Kentucky,Kentucky,2021,Heroin,60,1.3
+Kentucky,Kentucky,2002,Meth,11,0.3
+Kentucky,Kentucky,2003,Meth,13,0.3
+Kentucky,Kentucky,2004,Meth,17,0.4
+Kentucky,Kentucky,2005,Meth,15,0.4
+Kentucky,Kentucky,2006,Meth,10,0.2
+Kentucky,Kentucky,2009,Meth,16,0.4
+Kentucky,Kentucky,2010,Meth,15,0.3
+Kentucky,Kentucky,2011,Meth,29,0.7
+Kentucky,Kentucky,2012,Meth,26,0.6
+Kentucky,Kentucky,2013,Meth,42,1.0
+Kentucky,Kentucky,2014,Meth,61,1.4
+Kentucky,Kentucky,2015,Meth,92,2.1
+Kentucky,Kentucky,2016,Meth,192,4.3
+Kentucky,Kentucky,2017,Meth,330,7.4
+Kentucky,Kentucky,2018,Meth,362,8.1
+Kentucky,Kentucky,2019,Meth,459,10.3
+Kentucky,Kentucky,2020,Meth,746,16.7
+Kentucky,Kentucky,2021,Meth,1040,23.1
+Kentucky,Kentucky,1999,Otheropioids,40,1.0
+Kentucky,Kentucky,2000,Otheropioids,72,1.8
+Kentucky,Kentucky,2001,Otheropioids,117,2.9
+Kentucky,Kentucky,2002,Otheropioids,140,3.4
+Kentucky,Kentucky,2003,Otheropioids,196,4.8
+Kentucky,Kentucky,2004,Otheropioids,188,4.5
+Kentucky,Kentucky,2005,Otheropioids,251,6.0
+Kentucky,Kentucky,2006,Otheropioids,280,6.6
+Kentucky,Kentucky,2007,Otheropioids,299,7.0
+Kentucky,Kentucky,2008,Otheropioids,321,7.5
+Kentucky,Kentucky,2009,Otheropioids,349,8.1
+Kentucky,Kentucky,2010,Otheropioids,501,11.5
+Kentucky,Kentucky,2011,Otheropioids,523,12.0
+Kentucky,Kentucky,2012,Otheropioids,450,10.3
+Kentucky,Kentucky,2013,Otheropioids,398,9.1
+Kentucky,Kentucky,2014,Otheropioids,380,8.6
+Kentucky,Kentucky,2015,Otheropioids,424,9.6
+Kentucky,Kentucky,2016,Otheropioids,429,9.7
+Kentucky,Kentucky,2017,Otheropioids,433,9.7
+Kentucky,Kentucky,2018,Otheropioids,315,7.0
+Kentucky,Kentucky,2019,Otheropioids,345,7.7
+Kentucky,Kentucky,2020,Otheropioids,466,10.4
+Kentucky,Kentucky,2021,Otheropioids,439,9.7
+Kentucky,Kentucky,2022,Otheropioids,355,7.9
+Kentucky,Kentucky,2022,Meth,1014,22.5
+Kentucky,Kentucky,2022,Heroin,34,0.8
+Kentucky,Kentucky,2022,Fentanyl,1613,35.8
+Massachusetts,Massachusetts,1999,Fentanyl,10,0.2
+Massachusetts,Massachusetts,2000,Fentanyl,16,0.3
+Massachusetts,Massachusetts,2001,Fentanyl,11,0.2
+Massachusetts,Massachusetts,2002,Fentanyl,21,0.3
+Massachusetts,Massachusetts,2003,Fentanyl,26,0.4
+Massachusetts,Massachusetts,2004,Fentanyl,34,0.5
+Massachusetts,Massachusetts,2005,Fentanyl,38,0.6
+Massachusetts,Massachusetts,2006,Fentanyl,88,1.4
+Massachusetts,Massachusetts,2007,Fentanyl,74,1.2
+Massachusetts,Massachusetts,2008,Fentanyl,54,0.8
+Massachusetts,Massachusetts,2009,Fentanyl,63,1.0
+Massachusetts,Massachusetts,2010,Fentanyl,68,1.0
+Massachusetts,Massachusetts,2011,Fentanyl,64,1.0
+Massachusetts,Massachusetts,2012,Fentanyl,67,1.0
+Massachusetts,Massachusetts,2013,Fentanyl,98,1.5
+Massachusetts,Massachusetts,2014,Fentanyl,453,6.7
+Massachusetts,Massachusetts,2015,Fentanyl,949,14.0
+Massachusetts,Massachusetts,2016,Fentanyl,1550,22.8
+Massachusetts,Massachusetts,2017,Fentanyl,1649,24.0
+Massachusetts,Massachusetts,2018,Fentanyl,1806,26.2
+Massachusetts,Massachusetts,2019,Fentanyl,1861,27.0
+Massachusetts,Massachusetts,2020,Fentanyl,1943,28.2
+Massachusetts,Massachusetts,2021,Fentanyl,2178,31.2
+Massachusetts,Massachusetts,1999,Heroin,17,0.3
+Massachusetts,Massachusetts,2001,Heroin,18,0.3
+Massachusetts,Massachusetts,2002,Heroin,17,0.3
+Massachusetts,Massachusetts,2003,Heroin,23,0.4
+Massachusetts,Massachusetts,2004,Heroin,14,0.2
+Massachusetts,Massachusetts,2005,Heroin,20,0.3
+Massachusetts,Massachusetts,2006,Heroin,37,0.6
+Massachusetts,Massachusetts,2007,Heroin,68,1.1
+Massachusetts,Massachusetts,2008,Heroin,58,0.9
+Massachusetts,Massachusetts,2009,Heroin,61,0.9
+Massachusetts,Massachusetts,2010,Heroin,68,1.0
+Massachusetts,Massachusetts,2011,Heroin,144,2.2
+Massachusetts,Massachusetts,2012,Heroin,246,3.7
+Massachusetts,Massachusetts,2013,Heroin,288,4.3
+Massachusetts,Massachusetts,2014,Heroin,469,7.0
+Massachusetts,Massachusetts,2015,Heroin,634,9.3
+Massachusetts,Massachusetts,2016,Heroin,630,9.2
+Massachusetts,Massachusetts,2017,Heroin,466,6.8
+Massachusetts,Massachusetts,2018,Heroin,475,6.9
+Massachusetts,Massachusetts,2019,Heroin,375,5.4
+Massachusetts,Massachusetts,2020,Heroin,221,3.2
+Massachusetts,Massachusetts,2021,Heroin,152,2.2
+Massachusetts,Massachusetts,2006,Meth,14,0.2
+Massachusetts,Massachusetts,2007,Meth,11,0.2
+Massachusetts,Massachusetts,2008,Meth,11,0.2
+Massachusetts,Massachusetts,2009,Meth,13,0.2
+Massachusetts,Massachusetts,2011,Meth,19,0.3
+Massachusetts,Massachusetts,2012,Meth,20,0.3
+Massachusetts,Massachusetts,2013,Meth,29,0.4
+Massachusetts,Massachusetts,2014,Meth,43,0.6
+Massachusetts,Massachusetts,2015,Meth,43,0.6
+Massachusetts,Massachusetts,2016,Meth,45,0.7
+Massachusetts,Massachusetts,2017,Meth,64,0.9
+Massachusetts,Massachusetts,2018,Meth,73,1.1
+Massachusetts,Massachusetts,2019,Meth,104,1.5
+Massachusetts,Massachusetts,2020,Meth,176,2.6
+Massachusetts,Massachusetts,2021,Meth,227,3.2
+Massachusetts,Massachusetts,1999,Otheropioids,40,0.6
+Massachusetts,Massachusetts,2000,Otheropioids,38,0.6
+Massachusetts,Massachusetts,2001,Otheropioids,92,1.4
+Massachusetts,Massachusetts,2002,Otheropioids,98,1.5
+Massachusetts,Massachusetts,2003,Otheropioids,122,1.9
+Massachusetts,Massachusetts,2004,Otheropioids,119,1.9
+Massachusetts,Massachusetts,2005,Otheropioids,176,2.7
+Massachusetts,Massachusetts,2006,Otheropioids,288,4.5
+Massachusetts,Massachusetts,2007,Otheropioids,280,4.4
+Massachusetts,Massachusetts,2008,Otheropioids,209,3.2
+Massachusetts,Massachusetts,2009,Otheropioids,255,3.9
+Massachusetts,Massachusetts,2010,Otheropioids,242,3.7
+Massachusetts,Massachusetts,2011,Otheropioids,231,3.5
+Massachusetts,Massachusetts,2012,Otheropioids,243,3.7
+Massachusetts,Massachusetts,2013,Otheropioids,261,3.9
+Massachusetts,Massachusetts,2014,Otheropioids,258,3.8
+Massachusetts,Massachusetts,2015,Otheropioids,298,4.4
+Massachusetts,Massachusetts,2016,Otheropioids,351,5.2
+Massachusetts,Massachusetts,2017,Otheropioids,321,4.7
+Massachusetts,Massachusetts,2018,Otheropioids,331,4.8
+Massachusetts,Massachusetts,2019,Otheropioids,288,4.2
+Massachusetts,Massachusetts,2020,Otheropioids,363,5.3
+Massachusetts,Massachusetts,2021,Otheropioids,301,4.3
+Massachusetts,Massachusetts,2022,Otheropioids,352,5.0
+Massachusetts,Massachusetts,2022,Meth,219,3.1
+Massachusetts,Massachusetts,2022,Heroin,112,1.6
+Massachusetts,Massachusetts,2022,Fentanyl,2220,31.8
+Michigan,Michigan,1999,Fentanyl,20,0.2
+Michigan,Michigan,2000,Fentanyl,17,0.2
+Michigan,Michigan,2001,Fentanyl,17,0.2
+Michigan,Michigan,2002,Fentanyl,41,0.4
+Michigan,Michigan,2003,Fentanyl,34,0.3
+Michigan,Michigan,2004,Fentanyl,48,0.5
+Michigan,Michigan,2005,Fentanyl,88,0.9
+Michigan,Michigan,2006,Fentanyl,199,2.0
+Michigan,Michigan,2007,Fentanyl,71,0.7
+Michigan,Michigan,2008,Fentanyl,73,0.7
+Michigan,Michigan,2009,Fentanyl,93,0.9
+Michigan,Michigan,2010,Fentanyl,85,0.9
+Michigan,Michigan,2011,Fentanyl,89,0.9
+Michigan,Michigan,2012,Fentanyl,72,0.7
+Michigan,Michigan,2013,Fentanyl,86,0.9
+Michigan,Michigan,2014,Fentanyl,178,1.8
+Michigan,Michigan,2015,Fentanyl,457,4.6
+Michigan,Michigan,2016,Fentanyl,921,9.3
+Michigan,Michigan,2017,Fentanyl,1368,13.7
+Michigan,Michigan,2018,Fentanyl,1531,15.3
+Michigan,Michigan,2019,Fentanyl,1458,14.6
+Michigan,Michigan,2020,Fentanyl,1926,19.3
+Michigan,Michigan,2021,Fentanyl,2285,22.7
+Michigan,Michigan,1999,Heroin,39,0.4
+Michigan,Michigan,2000,Heroin,87,0.9
+Michigan,Michigan,2001,Heroin,80,0.8
+Michigan,Michigan,2002,Heroin,65,0.6
+Michigan,Michigan,2003,Heroin,70,0.7
+Michigan,Michigan,2004,Heroin,94,0.9
+Michigan,Michigan,2005,Heroin,151,1.5
+Michigan,Michigan,2006,Heroin,149,1.5
+Michigan,Michigan,2007,Heroin,114,1.1
+Michigan,Michigan,2008,Heroin,216,2.2
+Michigan,Michigan,2009,Heroin,250,2.5
+Michigan,Michigan,2010,Heroin,215,2.2
+Michigan,Michigan,2011,Heroin,267,2.7
+Michigan,Michigan,2012,Heroin,263,2.7
+Michigan,Michigan,2013,Heroin,421,4.3
+Michigan,Michigan,2014,Heroin,525,5.3
+Michigan,Michigan,2015,Heroin,646,6.5
+Michigan,Michigan,2016,Heroin,727,7.3
+Michigan,Michigan,2017,Heroin,783,7.9
+Michigan,Michigan,2018,Heroin,633,6.3
+Michigan,Michigan,2019,Heroin,477,4.8
+Michigan,Michigan,2020,Heroin,453,4.5
+Michigan,Michigan,2021,Heroin,204,2.0
+Michigan,Michigan,2010,Meth,11,0.1
+Michigan,Michigan,2011,Meth,25,0.3
+Michigan,Michigan,2012,Meth,17,0.2
+Michigan,Michigan,2013,Meth,26,0.3
+Michigan,Michigan,2014,Meth,54,0.5
+Michigan,Michigan,2015,Meth,57,0.6
+Michigan,Michigan,2016,Meth,88,0.9
+Michigan,Michigan,2017,Meth,145,1.5
+Michigan,Michigan,2018,Meth,172,1.7
+Michigan,Michigan,2019,Meth,225,2.3
+Michigan,Michigan,2020,Meth,390,3.9
+Michigan,Michigan,2021,Meth,536,5.3
+Michigan,Michigan,1999,Otheropioids,47,0.5
+Michigan,Michigan,2000,Otheropioids,57,0.6
+Michigan,Michigan,2001,Otheropioids,75,0.8
+Michigan,Michigan,2002,Otheropioids,123,1.2
+Michigan,Michigan,2003,Otheropioids,129,1.3
+Michigan,Michigan,2004,Otheropioids,195,1.9
+Michigan,Michigan,2005,Otheropioids,259,2.6
+Michigan,Michigan,2006,Otheropioids,298,3.0
+Michigan,Michigan,2007,Otheropioids,316,3.2
+Michigan,Michigan,2008,Otheropioids,347,3.5
+Michigan,Michigan,2009,Otheropioids,371,3.7
+Michigan,Michigan,2010,Otheropioids,387,3.9
+Michigan,Michigan,2011,Otheropioids,347,3.5
+Michigan,Michigan,2012,Otheropioids,378,3.8
+Michigan,Michigan,2013,Otheropioids,411,4.2
+Michigan,Michigan,2014,Otheropioids,438,4.4
+Michigan,Michigan,2015,Otheropioids,518,5.2
+Michigan,Michigan,2016,Otheropioids,678,6.8
+Michigan,Michigan,2017,Otheropioids,633,6.4
+Michigan,Michigan,2018,Otheropioids,556,5.6
+Michigan,Michigan,2019,Otheropioids,454,4.5
+Michigan,Michigan,2020,Otheropioids,495,5.0
+Michigan,Michigan,2021,Otheropioids,512,5.1
+Michigan,Michigan,2022,Otheropioids,355,3.5
+Michigan,Michigan,2022,Meth,493,4.9
+Michigan,Michigan,2022,Heroin,158,1.6
+Michigan,Michigan,2022,Fentanyl,2200,21.9
+Missouri,Missouri,1999,Fentanyl,18,0.3
+Missouri,Missouri,2000,Fentanyl,27,0.5
+Missouri,Missouri,2001,Fentanyl,36,0.6
+Missouri,Missouri,2002,Fentanyl,30,0.5
+Missouri,Missouri,2003,Fentanyl,33,0.6
+Missouri,Missouri,2004,Fentanyl,47,0.8
+Missouri,Missouri,2005,Fentanyl,47,0.8
+Missouri,Missouri,2006,Fentanyl,140,2.4
+Missouri,Missouri,2007,Fentanyl,70,1.2
+Missouri,Missouri,2008,Fentanyl,55,0.9
+Missouri,Missouri,2009,Fentanyl,67,1.1
+Missouri,Missouri,2010,Fentanyl,92,1.5
+Missouri,Missouri,2011,Fentanyl,66,1.1
+Missouri,Missouri,2012,Fentanyl,56,0.9
+Missouri,Missouri,2013,Fentanyl,97,1.6
+Missouri,Missouri,2014,Fentanyl,109,1.8
+Missouri,Missouri,2015,Fentanyl,183,3.0
+Missouri,Missouri,2016,Fentanyl,441,7.2
+Missouri,Missouri,2017,Fentanyl,618,10.1
+Missouri,Missouri,2018,Fentanyl,868,14.2
+Missouri,Missouri,2019,Fentanyl,886,14.4
+Missouri,Missouri,2020,Fentanyl,1205,19.6
+Missouri,Missouri,2021,Fentanyl,1445,23.4
+Missouri,Missouri,1999,Heroin,48,0.9
+Missouri,Missouri,2000,Heroin,48,0.9
+Missouri,Missouri,2001,Heroin,24,0.4
+Missouri,Missouri,2002,Heroin,53,0.9
+Missouri,Missouri,2003,Heroin,42,0.7
+Missouri,Missouri,2004,Heroin,57,1.0
+Missouri,Missouri,2005,Heroin,52,0.9
+Missouri,Missouri,2006,Heroin,61,1.0
+Missouri,Missouri,2007,Heroin,67,1.1
+Missouri,Missouri,2008,Heroin,120,2.0
+Missouri,Missouri,2009,Heroin,162,2.7
+Missouri,Missouri,2010,Heroin,183,3.1
+Missouri,Missouri,2011,Heroin,250,4.2
+Missouri,Missouri,2012,Heroin,210,3.5
+Missouri,Missouri,2013,Heroin,261,4.3
+Missouri,Missouri,2014,Heroin,334,5.5
+Missouri,Missouri,2015,Heroin,303,5.0
+Missouri,Missouri,2016,Heroin,380,6.2
+Missouri,Missouri,2017,Heroin,299,4.9
+Missouri,Missouri,2018,Heroin,351,5.7
+Missouri,Missouri,2019,Heroin,224,3.6
+Missouri,Missouri,2020,Heroin,145,2.4
+Missouri,Missouri,2021,Heroin,90,1.5
+Missouri,Missouri,2000,Meth,10,0.2
+Missouri,Missouri,2001,Meth,14,0.2
+Missouri,Missouri,2002,Meth,16,0.3
+Missouri,Missouri,2003,Meth,19,0.3
+Missouri,Missouri,2004,Meth,24,0.4
+Missouri,Missouri,2005,Meth,30,0.5
+Missouri,Missouri,2006,Meth,27,0.5
+Missouri,Missouri,2007,Meth,23,0.4
+Missouri,Missouri,2008,Meth,22,0.4
+Missouri,Missouri,2009,Meth,28,0.5
+Missouri,Missouri,2010,Meth,45,0.8
+Missouri,Missouri,2011,Meth,44,0.7
+Missouri,Missouri,2012,Meth,58,1.0
+Missouri,Missouri,2013,Meth,75,1.2
+Missouri,Missouri,2014,Meth,101,1.7
+Missouri,Missouri,2015,Meth,133,2.2
+Missouri,Missouri,2016,Meth,185,3.0
+Missouri,Missouri,2017,Meth,248,4.1
+Missouri,Missouri,2018,Meth,367,6.0
+Missouri,Missouri,2019,Meth,452,7.4
+Missouri,Missouri,2020,Meth,568,9.2
+Missouri,Missouri,2021,Meth,718,11.6
+Missouri,Missouri,1999,Otheropioids,36,0.6
+Missouri,Missouri,2000,Otheropioids,59,1.1
+Missouri,Missouri,2001,Otheropioids,69,1.2
+Missouri,Missouri,2002,Otheropioids,102,1.8
+Missouri,Missouri,2003,Otheropioids,200,3.5
+Missouri,Missouri,2004,Otheropioids,170,3.0
+Missouri,Missouri,2005,Otheropioids,215,3.7
+Missouri,Missouri,2006,Otheropioids,223,3.8
+Missouri,Missouri,2007,Otheropioids,252,4.3
+Missouri,Missouri,2008,Otheropioids,289,4.9
+Missouri,Missouri,2009,Otheropioids,259,4.3
+Missouri,Missouri,2010,Otheropioids,318,5.3
+Missouri,Missouri,2011,Otheropioids,285,4.7
+Missouri,Missouri,2012,Otheropioids,256,4.3
+Missouri,Missouri,2013,Otheropioids,282,4.7
+Missouri,Missouri,2014,Otheropioids,281,4.6
+Missouri,Missouri,2015,Otheropioids,289,4.8
+Missouri,Missouri,2016,Otheropioids,268,4.4
+Missouri,Missouri,2017,Otheropioids,253,4.1
+Missouri,Missouri,2018,Otheropioids,265,4.3
+Missouri,Missouri,2019,Otheropioids,242,3.9
+Missouri,Missouri,2020,Otheropioids,233,3.8
+Missouri,Missouri,2021,Otheropioids,212,3.4
+Missouri,Missouri,2022,Otheropioids,212,3.4
+Missouri,Missouri,2022,Meth,727,11.8
+Missouri,Missouri,2022,Heroin,44,0.7
+Missouri,Missouri,2022,Fentanyl,1468,23.8
+Nevada,Nevada,1999,Fentanyl,21,1.1
+Nevada,Nevada,2000,Fentanyl,15,0.8
+Nevada,Nevada,2001,Fentanyl,20,1.0
+Nevada,Nevada,2002,Fentanyl,23,1.1
+Nevada,Nevada,2003,Fentanyl,17,0.8
+Nevada,Nevada,2004,Fentanyl,23,1.0
+Nevada,Nevada,2005,Fentanyl,29,1.2
+Nevada,Nevada,2006,Fentanyl,27,1.1
+Nevada,Nevada,2007,Fentanyl,23,0.9
+Nevada,Nevada,2008,Fentanyl,27,1.0
+Nevada,Nevada,2009,Fentanyl,42,1.6
+Nevada,Nevada,2010,Fentanyl,39,1.4
+Nevada,Nevada,2011,Fentanyl,45,1.7
+Nevada,Nevada,2012,Fentanyl,27,1.0
+Nevada,Nevada,2013,Fentanyl,26,0.9
+Nevada,Nevada,2014,Fentanyl,32,1.1
+Nevada,Nevada,2015,Fentanyl,32,1.1
+Nevada,Nevada,2016,Fentanyl,53,1.8
+Nevada,Nevada,2017,Fentanyl,66,2.2
+Nevada,Nevada,2018,Fentanyl,85,2.8
+Nevada,Nevada,2019,Fentanyl,114,3.7
+Nevada,Nevada,2020,Fentanyl,291,9.3
+Nevada,Nevada,2021,Fentanyl,369,11.7
+Nevada,Nevada,1999,Heroin,43,2.2
+Nevada,Nevada,2000,Heroin,39,2.0
+Nevada,Nevada,2001,Heroin,24,1.1
+Nevada,Nevada,2002,Heroin,39,1.8
+Nevada,Nevada,2003,Heroin,36,1.6
+Nevada,Nevada,2004,Heroin,27,1.2
+Nevada,Nevada,2005,Heroin,46,1.9
+Nevada,Nevada,2006,Heroin,36,1.4
+Nevada,Nevada,2007,Heroin,42,1.6
+Nevada,Nevada,2008,Heroin,31,1.2
+Nevada,Nevada,2009,Heroin,22,0.8
+Nevada,Nevada,2010,Heroin,19,0.7
+Nevada,Nevada,2011,Heroin,40,1.5
+Nevada,Nevada,2012,Heroin,45,1.6
+Nevada,Nevada,2013,Heroin,48,1.7
+Nevada,Nevada,2014,Heroin,64,2.3
+Nevada,Nevada,2015,Heroin,82,2.8
+Nevada,Nevada,2016,Heroin,86,2.9
+Nevada,Nevada,2017,Heroin,94,3.1
+Nevada,Nevada,2018,Heroin,108,3.6
+Nevada,Nevada,2019,Heroin,122,4.0
+Nevada,Nevada,2020,Heroin,130,4.1
+Nevada,Nevada,2021,Heroin,120,3.8
+Nevada,Nevada,1999,Meth,17,0.9
+Nevada,Nevada,2000,Meth,24,1.2
+Nevada,Nevada,2001,Meth,18,0.9
+Nevada,Nevada,2002,Meth,46,2.1
+Nevada,Nevada,2003,Meth,43,1.9
+Nevada,Nevada,2004,Meth,70,3.0
+Nevada,Nevada,2005,Meth,64,2.6
+Nevada,Nevada,2006,Meth,70,2.8
+Nevada,Nevada,2007,Meth,49,1.9
+Nevada,Nevada,2008,Meth,52,2.0
+Nevada,Nevada,2009,Meth,70,2.6
+Nevada,Nevada,2010,Meth,80,3.0
+Nevada,Nevada,2011,Meth,112,4.1
+Nevada,Nevada,2012,Meth,104,3.8
+Nevada,Nevada,2013,Meth,139,5.0
+Nevada,Nevada,2014,Meth,130,4.6
+Nevada,Nevada,2015,Meth,172,5.9
+Nevada,Nevada,2016,Meth,228,7.8
+Nevada,Nevada,2017,Meth,257,8.6
+Nevada,Nevada,2018,Meth,309,10.2
+Nevada,Nevada,2019,Meth,303,9.8
+Nevada,Nevada,2020,Meth,373,11.9
+Nevada,Nevada,2021,Meth,446,14.2
+Nevada,Nevada,1999,Otheropioids,95,4.9
+Nevada,Nevada,2000,Otheropioids,117,5.9
+Nevada,Nevada,2001,Otheropioids,128,6.1
+Nevada,Nevada,2002,Otheropioids,133,6.1
+Nevada,Nevada,2003,Otheropioids,153,6.8
+Nevada,Nevada,2004,Otheropioids,171,7.3
+Nevada,Nevada,2005,Otheropioids,231,9.5
+Nevada,Nevada,2006,Otheropioids,253,10.0
+Nevada,Nevada,2007,Otheropioids,288,11.1
+Nevada,Nevada,2008,Otheropioids,302,11.4
+Nevada,Nevada,2009,Otheropioids,353,13.1
+Nevada,Nevada,2010,Otheropioids,369,13.7
+Nevada,Nevada,2011,Otheropioids,362,13.3
+Nevada,Nevada,2012,Otheropioids,361,13.1
+Nevada,Nevada,2013,Otheropioids,294,10.5
+Nevada,Nevada,2014,Otheropioids,269,9.5
+Nevada,Nevada,2015,Otheropioids,298,10.3
+Nevada,Nevada,2016,Otheropioids,275,9.4
+Nevada,Nevada,2017,Otheropioids,276,9.2
+Nevada,Nevada,2018,Otheropioids,235,7.7
+Nevada,Nevada,2019,Otheropioids,189,6.1
+Nevada,Nevada,2020,Otheropioids,245,7.8
+Nevada,Nevada,2021,Otheropioids,239,7.6
+Nevada,Nevada,2022,Otheropioids,199,6.3
+Nevada,Nevada,2022,Meth,522,16.6
+Nevada,Nevada,2022,Heroin,91,2.9
+Nevada,Nevada,2022,Fentanyl,454,14.4
+New Jersey,New Jersey,1999,Fentanyl,23,0.3
+New Jersey,New Jersey,2000,Fentanyl,19,0.2
+New Jersey,New Jersey,2001,Fentanyl,33,0.4
+New Jersey,New Jersey,2002,Fentanyl,29,0.3
+New Jersey,New Jersey,2003,Fentanyl,29,0.3
+New Jersey,New Jersey,2004,Fentanyl,23,0.3
+New Jersey,New Jersey,2005,Fentanyl,25,0.3
+New Jersey,New Jersey,2006,Fentanyl,38,0.4
+New Jersey,New Jersey,2007,Fentanyl,33,0.4
+New Jersey,New Jersey,2008,Fentanyl,19,0.2
+New Jersey,New Jersey,2010,Fentanyl,35,0.4
+New Jersey,New Jersey,2011,Fentanyl,31,0.4
+New Jersey,New Jersey,2012,Fentanyl,38,0.4
+New Jersey,New Jersey,2013,Fentanyl,57,0.6
+New Jersey,New Jersey,2014,Fentanyl,111,1.2
+New Jersey,New Jersey,2015,Fentanyl,243,2.7
+New Jersey,New Jersey,2016,Fentanyl,689,7.7
+New Jersey,New Jersey,2017,Fentanyl,1376,15.3
+New Jersey,New Jersey,2018,Fentanyl,2219,24.9
+New Jersey,New Jersey,2019,Fentanyl,2221,25.0
+New Jersey,New Jersey,2020,Fentanyl,2331,26.2
+New Jersey,New Jersey,2021,Fentanyl,2498,27.0
+New Jersey,New Jersey,1999,Heroin,207,2.5
+New Jersey,New Jersey,2000,Heroin,206,2.4
+New Jersey,New Jersey,2001,Heroin,196,2.3
+New Jersey,New Jersey,2002,Heroin,239,2.8
+New Jersey,New Jersey,2003,Heroin,214,2.5
+New Jersey,New Jersey,2004,Heroin,118,1.4
+New Jersey,New Jersey,2005,Heroin,168,1.9
+New Jersey,New Jersey,2006,Heroin,106,1.2
+New Jersey,New Jersey,2007,Heroin,103,1.2
+New Jersey,New Jersey,2008,Heroin,116,1.3
+New Jersey,New Jersey,2009,Heroin,19,0.2
+New Jersey,New Jersey,2010,Heroin,97,1.1
+New Jersey,New Jersey,2011,Heroin,131,1.5
+New Jersey,New Jersey,2012,Heroin,304,3.4
+New Jersey,New Jersey,2013,Heroin,383,4.3
+New Jersey,New Jersey,2014,Heroin,424,4.7
+New Jersey,New Jersey,2015,Heroin,508,5.7
+New Jersey,New Jersey,2016,Heroin,850,9.5
+New Jersey,New Jersey,2017,Heroin,1085,12.0
+New Jersey,New Jersey,2018,Heroin,1287,14.4
+New Jersey,New Jersey,2019,Heroin,1007,11.3
+New Jersey,New Jersey,2020,Heroin,687,7.7
+New Jersey,New Jersey,2021,Heroin,423,4.6
+New Jersey,New Jersey,2005,Meth,11,0.1
+New Jersey,New Jersey,2011,Meth,10,0.1
+New Jersey,New Jersey,2012,Meth,16,0.2
+New Jersey,New Jersey,2013,Meth,19,0.2
+New Jersey,New Jersey,2014,Meth,16,0.2
+New Jersey,New Jersey,2015,Meth,24,0.3
+New Jersey,New Jersey,2016,Meth,51,0.6
+New Jersey,New Jersey,2017,Meth,75,0.8
+New Jersey,New Jersey,2018,Meth,142,1.6
+New Jersey,New Jersey,2019,Meth,203,2.3
+New Jersey,New Jersey,2020,Meth,263,3.0
+New Jersey,New Jersey,2021,Meth,307,3.3
+New Jersey,New Jersey,1999,Otheropioids,114,1.4
+New Jersey,New Jersey,2000,Otheropioids,92,1.1
+New Jersey,New Jersey,2001,Otheropioids,117,1.4
+New Jersey,New Jersey,2002,Otheropioids,134,1.6
+New Jersey,New Jersey,2003,Otheropioids,163,1.9
+New Jersey,New Jersey,2004,Otheropioids,131,1.5
+New Jersey,New Jersey,2005,Otheropioids,187,2.2
+New Jersey,New Jersey,2006,Otheropioids,190,2.2
+New Jersey,New Jersey,2007,Otheropioids,191,2.2
+New Jersey,New Jersey,2008,Otheropioids,170,2.0
+New Jersey,New Jersey,2009,Otheropioids,20,0.2
+New Jersey,New Jersey,2010,Otheropioids,210,2.4
+New Jersey,New Jersey,2011,Otheropioids,270,3.1
+New Jersey,New Jersey,2012,Otheropioids,273,3.1
+New Jersey,New Jersey,2013,Otheropioids,279,3.1
+New Jersey,New Jersey,2014,Otheropioids,288,3.2
+New Jersey,New Jersey,2015,Otheropioids,283,3.2
+New Jersey,New Jersey,2016,Otheropioids,416,4.7
+New Jersey,New Jersey,2017,Otheropioids,490,5.4
+New Jersey,New Jersey,2018,Otheropioids,517,5.8
+New Jersey,New Jersey,2019,Otheropioids,456,5.1
+New Jersey,New Jersey,2020,Otheropioids,457,5.1
+New Jersey,New Jersey,2021,Otheropioids,464,5.0
+New Jersey,New Jersey,2022,Otheropioids,349,3.8
+New Jersey,New Jersey,2022,Meth,352,3.8
+New Jersey,New Jersey,2022,Heroin,292,3.2
+New Jersey,New Jersey,2022,Fentanyl,2445,26.4
+New Mexico,New Mexico,1999,Fentanyl,26,1.4
+New Mexico,New Mexico,2000,Fentanyl,20,1.1
+New Mexico,New Mexico,2001,Fentanyl,16,0.9
+New Mexico,New Mexico,2002,Fentanyl,17,0.9
+New Mexico,New Mexico,2003,Fentanyl,23,1.2
+New Mexico,New Mexico,2004,Fentanyl,15,0.8
+New Mexico,New Mexico,2005,Fentanyl,12,0.6
+New Mexico,New Mexico,2006,Fentanyl,24,1.2
+New Mexico,New Mexico,2007,Fentanyl,19,1.0
+New Mexico,New Mexico,2008,Fentanyl,22,1.1
+New Mexico,New Mexico,2009,Fentanyl,24,1.2
+New Mexico,New Mexico,2010,Fentanyl,20,1.0
+New Mexico,New Mexico,2011,Fentanyl,20,1.0
+New Mexico,New Mexico,2012,Fentanyl,37,1.8
+New Mexico,New Mexico,2013,Fentanyl,23,1.1
+New Mexico,New Mexico,2014,Fentanyl,66,3.2
+New Mexico,New Mexico,2015,Fentanyl,42,2.0
+New Mexico,New Mexico,2016,Fentanyl,78,3.7
+New Mexico,New Mexico,2017,Fentanyl,75,3.6
+New Mexico,New Mexico,2018,Fentanyl,105,5.0
+New Mexico,New Mexico,2019,Fentanyl,149,7.1
+New Mexico,New Mexico,2020,Fentanyl,323,15.3
+New Mexico,New Mexico,2021,Fentanyl,605,28.6
+New Mexico,New Mexico,1999,Heroin,23,1.3
+New Mexico,New Mexico,2000,Heroin,40,2.2
+New Mexico,New Mexico,2001,Heroin,22,1.2
+New Mexico,New Mexico,2002,Heroin,23,1.2
+New Mexico,New Mexico,2003,Heroin,25,1.3
+New Mexico,New Mexico,2004,Heroin,33,1.7
+New Mexico,New Mexico,2005,Heroin,45,2.3
+New Mexico,New Mexico,2006,Heroin,21,1.1
+New Mexico,New Mexico,2007,Heroin,28,1.4
+New Mexico,New Mexico,2008,Heroin,65,3.2
+New Mexico,New Mexico,2009,Heroin,48,2.4
+New Mexico,New Mexico,2010,Heroin,21,1.0
+New Mexico,New Mexico,2011,Heroin,68,3.3
+New Mexico,New Mexico,2012,Heroin,104,5.0
+New Mexico,New Mexico,2013,Heroin,89,4.3
+New Mexico,New Mexico,2014,Heroin,139,6.7
+New Mexico,New Mexico,2015,Heroin,156,7.5
+New Mexico,New Mexico,2016,Heroin,161,7.7
+New Mexico,New Mexico,2017,Heroin,144,6.9
+New Mexico,New Mexico,2018,Heroin,130,6.2
+New Mexico,New Mexico,2019,Heroin,182,8.7
+New Mexico,New Mexico,2020,Heroin,184,8.7
+New Mexico,New Mexico,2021,Heroin,164,7.8
+New Mexico,New Mexico,1999,Meth,13,0.7
+New Mexico,New Mexico,2002,Meth,11,0.6
+New Mexico,New Mexico,2003,Meth,24,1.3
+New Mexico,New Mexico,2004,Meth,28,1.5
+New Mexico,New Mexico,2005,Meth,39,2.0
+New Mexico,New Mexico,2006,Meth,36,1.8
+New Mexico,New Mexico,2007,Meth,37,1.9
+New Mexico,New Mexico,2008,Meth,29,1.4
+New Mexico,New Mexico,2009,Meth,28,1.4
+New Mexico,New Mexico,2010,Meth,28,1.4
+New Mexico,New Mexico,2011,Meth,34,1.6
+New Mexico,New Mexico,2012,Meth,66,3.2
+New Mexico,New Mexico,2013,Meth,82,3.9
+New Mexico,New Mexico,2014,Meth,124,5.9
+New Mexico,New Mexico,2015,Meth,119,5.7
+New Mexico,New Mexico,2016,Meth,135,6.5
+New Mexico,New Mexico,2017,Meth,158,7.6
+New Mexico,New Mexico,2018,Meth,212,10.1
+New Mexico,New Mexico,2019,Meth,277,13.2
+New Mexico,New Mexico,2020,Meth,325,15.4
+New Mexico,New Mexico,2021,Meth,535,25.3
+New Mexico,New Mexico,1999,Otheropioids,136,7.5
+New Mexico,New Mexico,2000,Otheropioids,118,6.5
+New Mexico,New Mexico,2001,Otheropioids,104,5.7
+New Mexico,New Mexico,2002,Otheropioids,160,8.6
+New Mexico,New Mexico,2003,Otheropioids,175,9.3
+New Mexico,New Mexico,2004,Otheropioids,133,7.0
+New Mexico,New Mexico,2005,Otheropioids,155,8.0
+New Mexico,New Mexico,2006,Otheropioids,210,10.7
+New Mexico,New Mexico,2007,Otheropioids,216,10.9
+New Mexico,New Mexico,2008,Otheropioids,241,12.0
+New Mexico,New Mexico,2009,Otheropioids,139,6.8
+New Mexico,New Mexico,2010,Otheropioids,139,6.8
+New Mexico,New Mexico,2011,Otheropioids,153,7.3
+New Mexico,New Mexico,2012,Otheropioids,203,9.7
+New Mexico,New Mexico,2013,Otheropioids,229,11.0
+New Mexico,New Mexico,2014,Otheropioids,257,12.3
+New Mexico,New Mexico,2015,Otheropioids,189,9.1
+New Mexico,New Mexico,2016,Otheropioids,186,8.9
+New Mexico,New Mexico,2017,Otheropioids,171,8.2
+New Mexico,New Mexico,2018,Otheropioids,176,8.4
+New Mexico,New Mexico,2019,Otheropioids,179,8.5
+New Mexico,New Mexico,2020,Otheropioids,204,9.7
+New Mexico,New Mexico,2021,Otheropioids,199,9.4
+New Mexico,New Mexico,2022,Otheropioids,139,6.6
+New Mexico,New Mexico,2022,Meth,502,23.7
+New Mexico,New Mexico,2022,Heroin,44,2.1
+New Mexico,New Mexico,2022,Fentanyl,643,30.4
+New York,New York,1999,Fentanyl,18,0.1
+New York,New York,2000,Fentanyl,16,0.1
+New York,New York,2001,Fentanyl,31,0.2
+New York,New York,2002,Fentanyl,27,0.1
+New York,New York,2003,Fentanyl,29,0.2
+New York,New York,2004,Fentanyl,16,0.1
+New York,New York,2005,Fentanyl,20,0.1
+New York,New York,2006,Fentanyl,137,0.7
+New York,New York,2007,Fentanyl,113,0.6
+New York,New York,2008,Fentanyl,121,0.6
+New York,New York,2009,Fentanyl,177,0.9
+New York,New York,2010,Fentanyl,173,0.9
+New York,New York,2011,Fentanyl,155,0.8
+New York,New York,2012,Fentanyl,164,0.8
+New York,New York,2013,Fentanyl,210,1.1
+New York,New York,2014,Fentanyl,294,1.5
+New York,New York,2015,Fentanyl,668,3.4
+New York,New York,2016,Fentanyl,1641,8.3
+New York,New York,2017,Fentanyl,2238,11.3
+New York,New York,2018,Fentanyl,2195,11.2
+New York,New York,2019,Fentanyl,2338,12.0
+New York,New York,2020,Fentanyl,3721,19.2
+New York,New York,2021,Fentanyl,4527,22.8
+New York,New York,1999,Heroin,41,0.2
+New York,New York,2000,Heroin,27,0.1
+New York,New York,2001,Heroin,57,0.3
+New York,New York,2002,Heroin,50,0.3
+New York,New York,2003,Heroin,49,0.3
+New York,New York,2004,Heroin,33,0.2
+New York,New York,2005,Heroin,34,0.2
+New York,New York,2006,Heroin,111,0.6
+New York,New York,2007,Heroin,195,1.0
+New York,New York,2008,Heroin,219,1.1
+New York,New York,2009,Heroin,251,1.3
+New York,New York,2010,Heroin,193,1.0
+New York,New York,2011,Heroin,334,1.7
+New York,New York,2012,Heroin,516,2.6
+New York,New York,2013,Heroin,666,3.4
+New York,New York,2014,Heroin,825,4.2
+New York,New York,2015,Heroin,1058,5.3
+New York,New York,2016,Heroin,1307,6.6
+New York,New York,2017,Heroin,1356,6.8
+New York,New York,2018,Heroin,1243,6.4
+New York,New York,2019,Heroin,1145,5.9
+New York,New York,2020,Heroin,1275,6.6
+New York,New York,2021,Heroin,1045,5.3
+New York,New York,1999,Meth,10,0.1
+New York,New York,2002,Meth,15,0.1
+New York,New York,2003,Meth,10,0.1
+New York,New York,2006,Meth,27,0.1
+New York,New York,2007,Meth,25,0.1
+New York,New York,2008,Meth,22,0.1
+New York,New York,2009,Meth,29,0.2
+New York,New York,2010,Meth,30,0.2
+New York,New York,2011,Meth,47,0.2
+New York,New York,2012,Meth,50,0.3
+New York,New York,2013,Meth,53,0.3
+New York,New York,2014,Meth,83,0.4
+New York,New York,2015,Meth,80,0.4
+New York,New York,2016,Meth,150,0.8
+New York,New York,2017,Meth,191,1.0
+New York,New York,2018,Meth,180,0.9
+New York,New York,2019,Meth,240,1.2
+New York,New York,2020,Meth,432,2.2
+New York,New York,2021,Meth,589,3.0
+New York,New York,1999,Otheropioids,164,0.9
+New York,New York,2000,Otheropioids,124,0.7
+New York,New York,2001,Otheropioids,187,1.0
+New York,New York,2002,Otheropioids,175,0.9
+New York,New York,2003,Otheropioids,197,1.0
+New York,New York,2004,Otheropioids,204,1.1
+New York,New York,2005,Otheropioids,264,1.4
+New York,New York,2006,Otheropioids,558,2.9
+New York,New York,2007,Otheropioids,631,3.3
+New York,New York,2008,Otheropioids,682,3.5
+New York,New York,2009,Otheropioids,633,3.3
+New York,New York,2010,Otheropioids,737,3.8
+New York,New York,2011,Otheropioids,873,4.5
+New York,New York,2012,Otheropioids,884,4.5
+New York,New York,2013,Otheropioids,859,4.4
+New York,New York,2014,Otheropioids,797,4.0
+New York,New York,2015,Otheropioids,895,4.5
+New York,New York,2016,Otheropioids,1100,5.6
+New York,New York,2017,Otheropioids,1044,5.3
+New York,New York,2018,Otheropioids,998,5.1
+New York,New York,2019,Otheropioids,939,4.8
+New York,New York,2020,Otheropioids,1257,6.5
+New York,New York,2021,Otheropioids,1322,6.7
+New York,New York,2022,Otheropioids,1248,6.3
+New York,New York,2022,Meth,654,3.3
+New York,New York,2022,Heroin,914,4.6
+New York,New York,2022,Fentanyl,4915,24.8
+North Carolina,North Carolina,1999,Fentanyl,27,0.3
+North Carolina,North Carolina,2000,Fentanyl,49,0.6
+North Carolina,North Carolina,2001,Fentanyl,58,0.7
+North Carolina,North Carolina,2002,Fentanyl,50,0.6
+North Carolina,North Carolina,2003,Fentanyl,71,0.8
+North Carolina,North Carolina,2004,Fentanyl,109,1.3
+North Carolina,North Carolina,2005,Fentanyl,115,1.3
+North Carolina,North Carolina,2006,Fentanyl,105,1.2
+North Carolina,North Carolina,2007,Fentanyl,112,1.2
+North Carolina,North Carolina,2008,Fentanyl,127,1.4
+North Carolina,North Carolina,2009,Fentanyl,169,1.8
+North Carolina,North Carolina,2010,Fentanyl,170,1.8
+North Carolina,North Carolina,2011,Fentanyl,155,1.6
+North Carolina,North Carolina,2012,Fentanyl,141,1.4
+North Carolina,North Carolina,2013,Fentanyl,116,1.2
+North Carolina,North Carolina,2014,Fentanyl,217,2.2
+North Carolina,North Carolina,2015,Fentanyl,300,3.0
+North Carolina,North Carolina,2016,Fentanyl,601,5.9
+North Carolina,North Carolina,2017,Fentanyl,1285,12.5
+North Carolina,North Carolina,2018,Fentanyl,1272,12.3
+North Carolina,North Carolina,2019,Fentanyl,1363,13.0
+North Carolina,North Carolina,2020,Fentanyl,2279,21.5
+North Carolina,North Carolina,2021,Fentanyl,3065,29.0
+North Carolina,North Carolina,1999,Heroin,43,0.5
+North Carolina,North Carolina,2000,Heroin,41,0.5
+North Carolina,North Carolina,2001,Heroin,50,0.6
+North Carolina,North Carolina,2002,Heroin,47,0.6
+North Carolina,North Carolina,2003,Heroin,52,0.6
+North Carolina,North Carolina,2004,Heroin,49,0.6
+North Carolina,North Carolina,2005,Heroin,62,0.7
+North Carolina,North Carolina,2006,Heroin,57,0.6
+North Carolina,North Carolina,2007,Heroin,50,0.5
+North Carolina,North Carolina,2008,Heroin,64,0.7
+North Carolina,North Carolina,2009,Heroin,76,0.8
+North Carolina,North Carolina,2010,Heroin,39,0.4
+North Carolina,North Carolina,2011,Heroin,82,0.8
+North Carolina,North Carolina,2012,Heroin,152,1.6
+North Carolina,North Carolina,2013,Heroin,189,1.9
+North Carolina,North Carolina,2014,Heroin,266,2.7
+North Carolina,North Carolina,2015,Heroin,393,3.9
+North Carolina,North Carolina,2016,Heroin,544,5.4
+North Carolina,North Carolina,2017,Heroin,537,5.2
+North Carolina,North Carolina,2018,Heroin,619,6.0
+North Carolina,North Carolina,2019,Heroin,586,5.6
+North Carolina,North Carolina,2020,Heroin,534,5.0
+North Carolina,North Carolina,2021,Heroin,257,2.4
+North Carolina,North Carolina,2002,Meth,10,0.1
+North Carolina,North Carolina,2004,Meth,15,0.2
+North Carolina,North Carolina,2005,Meth,20,0.2
+North Carolina,North Carolina,2006,Meth,11,0.1
+North Carolina,North Carolina,2007,Meth,14,0.2
+North Carolina,North Carolina,2008,Meth,10,0.1
+North Carolina,North Carolina,2009,Meth,10,0.1
+North Carolina,North Carolina,2010,Meth,13,0.1
+North Carolina,North Carolina,2011,Meth,20,0.2
+North Carolina,North Carolina,2012,Meth,27,0.3
+North Carolina,North Carolina,2013,Meth,33,0.3
+North Carolina,North Carolina,2014,Meth,33,0.3
+North Carolina,North Carolina,2015,Meth,67,0.7
+North Carolina,North Carolina,2016,Meth,115,1.1
+North Carolina,North Carolina,2017,Meth,176,1.7
+North Carolina,North Carolina,2018,Meth,258,2.5
+North Carolina,North Carolina,2019,Meth,338,3.2
+North Carolina,North Carolina,2020,Meth,593,5.6
+North Carolina,North Carolina,2021,Meth,966,9.2
+North Carolina,North Carolina,1999,Otheropioids,96,1.2
+North Carolina,North Carolina,2000,Otheropioids,199,2.5
+North Carolina,North Carolina,2001,Otheropioids,246,3.0
+North Carolina,North Carolina,2002,Otheropioids,312,3.7
+North Carolina,North Carolina,2003,Otheropioids,373,4.4
+North Carolina,North Carolina,2004,Otheropioids,414,4.8
+North Carolina,North Carolina,2005,Otheropioids,496,5.7
+North Carolina,North Carolina,2006,Otheropioids,554,6.2
+North Carolina,North Carolina,2007,Otheropioids,608,6.7
+North Carolina,North Carolina,2008,Otheropioids,665,7.1
+North Carolina,North Carolina,2009,Otheropioids,642,6.8
+North Carolina,North Carolina,2010,Otheropioids,591,6.2
+North Carolina,North Carolina,2011,Otheropioids,617,6.4
+North Carolina,North Carolina,2012,Otheropioids,557,5.7
+North Carolina,North Carolina,2013,Otheropioids,541,5.5
+North Carolina,North Carolina,2014,Otheropioids,562,5.7
+North Carolina,North Carolina,2015,Otheropioids,635,6.3
+North Carolina,North Carolina,2016,Otheropioids,695,6.8
+North Carolina,North Carolina,2017,Otheropioids,659,6.4
+North Carolina,North Carolina,2018,Otheropioids,489,4.7
+North Carolina,North Carolina,2019,Otheropioids,420,4.0
+North Carolina,North Carolina,2020,Otheropioids,487,4.6
+North Carolina,North Carolina,2021,Otheropioids,557,5.3
+North Carolina,North Carolina,2022,Otheropioids,511,4.8
+North Carolina,North Carolina,2022,Meth,1194,11.3
+North Carolina,North Carolina,2022,Heroin,121,1.1
+North Carolina,North Carolina,2022,Fentanyl,3119,29.6
+Ohio,Ohio,1999,Fentanyl,24,0.2
+Ohio,Ohio,2000,Fentanyl,33,0.3
+Ohio,Ohio,2001,Fentanyl,55,0.5
+Ohio,Ohio,2002,Fentanyl,58,0.5
+Ohio,Ohio,2003,Fentanyl,43,0.4
+Ohio,Ohio,2004,Fentanyl,78,0.7
+Ohio,Ohio,2005,Fentanyl,102,0.9
+Ohio,Ohio,2006,Fentanyl,128,1.1
+Ohio,Ohio,2007,Fentanyl,109,0.9
+Ohio,Ohio,2008,Fentanyl,107,0.9
+Ohio,Ohio,2009,Fentanyl,91,0.8
+Ohio,Ohio,2010,Fentanyl,175,1.5
+Ohio,Ohio,2011,Fentanyl,162,1.4
+Ohio,Ohio,2012,Fentanyl,139,1.2
+Ohio,Ohio,2013,Fentanyl,167,1.4
+Ohio,Ohio,2014,Fentanyl,590,5.1
+Ohio,Ohio,2015,Fentanyl,1234,10.6
+Ohio,Ohio,2016,Fentanyl,2296,19.8
+Ohio,Ohio,2017,Fentanyl,3523,30.2
+Ohio,Ohio,2018,Fentanyl,2783,23.8
+Ohio,Ohio,2019,Fentanyl,3117,26.7
+Ohio,Ohio,2020,Fentanyl,4110,35.1
+Ohio,Ohio,2021,Fentanyl,4183,35.5
+Ohio,Ohio,1999,Heroin,53,0.5
+Ohio,Ohio,2000,Heroin,76,0.7
+Ohio,Ohio,2001,Heroin,86,0.8
+Ohio,Ohio,2002,Heroin,118,1.0
+Ohio,Ohio,2003,Heroin,91,0.8
+Ohio,Ohio,2004,Heroin,129,1.1
+Ohio,Ohio,2005,Heroin,134,1.2
+Ohio,Ohio,2006,Heroin,124,1.1
+Ohio,Ohio,2007,Heroin,156,1.4
+Ohio,Ohio,2008,Heroin,238,2.1
+Ohio,Ohio,2009,Heroin,214,1.9
+Ohio,Ohio,2010,Heroin,355,3.1
+Ohio,Ohio,2011,Heroin,438,3.8
+Ohio,Ohio,2012,Heroin,696,6.0
+Ohio,Ohio,2013,Heroin,998,8.6
+Ohio,Ohio,2014,Heroin,1208,10.4
+Ohio,Ohio,2015,Heroin,1444,12.4
+Ohio,Ohio,2016,Heroin,1478,12.7
+Ohio,Ohio,2017,Heroin,1000,8.6
+Ohio,Ohio,2018,Heroin,721,6.2
+Ohio,Ohio,2019,Heroin,527,4.5
+Ohio,Ohio,2020,Heroin,310,2.7
+Ohio,Ohio,2021,Heroin,162,1.4
+Ohio,Ohio,2004,Meth,13,0.1
+Ohio,Ohio,2005,Meth,15,0.1
+Ohio,Ohio,2008,Meth,10,0.1
+Ohio,Ohio,2010,Meth,15,0.1
+Ohio,Ohio,2011,Meth,31,0.3
+Ohio,Ohio,2012,Meth,33,0.3
+Ohio,Ohio,2013,Meth,51,0.4
+Ohio,Ohio,2014,Meth,68,0.6
+Ohio,Ohio,2015,Meth,105,0.9
+Ohio,Ohio,2016,Meth,243,2.1
+Ohio,Ohio,2017,Meth,556,4.8
+Ohio,Ohio,2018,Meth,577,4.9
+Ohio,Ohio,2019,Meth,846,7.2
+Ohio,Ohio,2020,Meth,1083,9.3
+Ohio,Ohio,2021,Meth,1371,11.6
+Ohio,Ohio,1999,Otheropioids,81,0.7
+Ohio,Ohio,2000,Otheropioids,122,1.1
+Ohio,Ohio,2001,Otheropioids,179,1.6
+Ohio,Ohio,2002,Otheropioids,238,2.1
+Ohio,Ohio,2003,Otheropioids,224,2.0
+Ohio,Ohio,2004,Otheropioids,313,2.7
+Ohio,Ohio,2005,Otheropioids,335,2.9
+Ohio,Ohio,2006,Otheropioids,406,3.5
+Ohio,Ohio,2007,Otheropioids,448,3.9
+Ohio,Ohio,2008,Otheropioids,481,4.2
+Ohio,Ohio,2009,Otheropioids,388,3.4
+Ohio,Ohio,2010,Otheropioids,654,5.7
+Ohio,Ohio,2011,Otheropioids,710,6.1
+Ohio,Ohio,2012,Otheropioids,605,5.2
+Ohio,Ohio,2013,Otheropioids,603,5.2
+Ohio,Ohio,2014,Otheropioids,694,6.0
+Ohio,Ohio,2015,Otheropioids,780,6.7
+Ohio,Ohio,2016,Otheropioids,867,7.5
+Ohio,Ohio,2017,Otheropioids,947,8.1
+Ohio,Ohio,2018,Otheropioids,571,4.9
+Ohio,Ohio,2019,Otheropioids,477,4.1
+Ohio,Ohio,2020,Otheropioids,511,4.4
+Ohio,Ohio,2021,Otheropioids,506,4.3
+Ohio,Ohio,2022,Otheropioids,479,4.1
+Ohio,Ohio,2022,Meth,1385,11.8
+Ohio,Ohio,2022,Heroin,91,0.8
+Ohio,Ohio,2022,Fentanyl,3987,33.8
+Oklahoma,Oklahoma,1999,Fentanyl,24,0.7
+Oklahoma,Oklahoma,2000,Fentanyl,26,0.8
+Oklahoma,Oklahoma,2001,Fentanyl,20,0.6
+Oklahoma,Oklahoma,2002,Fentanyl,23,0.7
+Oklahoma,Oklahoma,2003,Fentanyl,44,1.3
+Oklahoma,Oklahoma,2004,Fentanyl,46,1.3
+Oklahoma,Oklahoma,2005,Fentanyl,54,1.5
+Oklahoma,Oklahoma,2006,Fentanyl,45,1.3
+Oklahoma,Oklahoma,2007,Fentanyl,67,1.8
+Oklahoma,Oklahoma,2008,Fentanyl,70,1.9
+Oklahoma,Oklahoma,2009,Fentanyl,160,4.3
+Oklahoma,Oklahoma,2010,Fentanyl,107,2.9
+Oklahoma,Oklahoma,2011,Fentanyl,83,2.2
+Oklahoma,Oklahoma,2012,Fentanyl,107,2.8
+Oklahoma,Oklahoma,2013,Fentanyl,88,2.3
+Oklahoma,Oklahoma,2014,Fentanyl,73,1.9
+Oklahoma,Oklahoma,2015,Fentanyl,93,2.4
+Oklahoma,Oklahoma,2016,Fentanyl,98,2.5
+Oklahoma,Oklahoma,2017,Fentanyl,102,2.6
+Oklahoma,Oklahoma,2018,Fentanyl,79,2.0
+Oklahoma,Oklahoma,2019,Fentanyl,81,2.0
+Oklahoma,Oklahoma,2020,Fentanyl,150,3.8
+Oklahoma,Oklahoma,2021,Fentanyl,337,8.5
+Oklahoma,Oklahoma,2000,Heroin,12,0.3
+Oklahoma,Oklahoma,2009,Heroin,17,0.5
+Oklahoma,Oklahoma,2011,Heroin,14,0.4
+Oklahoma,Oklahoma,2012,Heroin,26,0.7
+Oklahoma,Oklahoma,2013,Heroin,22,0.6
+Oklahoma,Oklahoma,2014,Heroin,26,0.7
+Oklahoma,Oklahoma,2015,Heroin,36,0.9
+Oklahoma,Oklahoma,2016,Heroin,53,1.4
+Oklahoma,Oklahoma,2017,Heroin,61,1.6
+Oklahoma,Oklahoma,2018,Heroin,84,2.1
+Oklahoma,Oklahoma,2019,Heroin,75,1.9
+Oklahoma,Oklahoma,2020,Heroin,86,2.2
+Oklahoma,Oklahoma,2021,Heroin,45,1.1
+Oklahoma,Oklahoma,1999,Meth,14,0.4
+Oklahoma,Oklahoma,2000,Meth,24,0.7
+Oklahoma,Oklahoma,2001,Meth,23,0.7
+Oklahoma,Oklahoma,2002,Meth,20,0.6
+Oklahoma,Oklahoma,2003,Meth,44,1.3
+Oklahoma,Oklahoma,2004,Meth,49,1.4
+Oklahoma,Oklahoma,2005,Meth,62,1.7
+Oklahoma,Oklahoma,2006,Meth,40,1.1
+Oklahoma,Oklahoma,2007,Meth,43,1.2
+Oklahoma,Oklahoma,2008,Meth,26,0.7
+Oklahoma,Oklahoma,2009,Meth,67,1.8
+Oklahoma,Oklahoma,2010,Meth,90,2.4
+Oklahoma,Oklahoma,2011,Meth,85,2.2
+Oklahoma,Oklahoma,2012,Meth,112,2.9
+Oklahoma,Oklahoma,2013,Meth,145,3.8
+Oklahoma,Oklahoma,2014,Meth,140,3.6
+Oklahoma,Oklahoma,2015,Meth,199,5.1
+Oklahoma,Oklahoma,2016,Meth,263,6.7
+Oklahoma,Oklahoma,2017,Meth,275,7.0
+Oklahoma,Oklahoma,2018,Meth,327,8.3
+Oklahoma,Oklahoma,2019,Meth,327,8.3
+Oklahoma,Oklahoma,2020,Meth,408,10.2
+Oklahoma,Oklahoma,2021,Meth,512,12.8
+Oklahoma,Oklahoma,1999,Otheropioids,66,1.9
+Oklahoma,Oklahoma,2000,Otheropioids,101,2.9
+Oklahoma,Oklahoma,2001,Otheropioids,132,3.8
+Oklahoma,Oklahoma,2002,Otheropioids,118,3.4
+Oklahoma,Oklahoma,2003,Otheropioids,220,6.3
+Oklahoma,Oklahoma,2004,Otheropioids,262,7.4
+Oklahoma,Oklahoma,2005,Otheropioids,266,7.5
+Oklahoma,Oklahoma,2006,Otheropioids,337,9.4
+Oklahoma,Oklahoma,2007,Otheropioids,436,12.0
+Oklahoma,Oklahoma,2008,Otheropioids,347,9.5
+Oklahoma,Oklahoma,2009,Otheropioids,432,11.6
+Oklahoma,Oklahoma,2010,Otheropioids,427,11.4
+Oklahoma,Oklahoma,2011,Otheropioids,406,10.7
+Oklahoma,Oklahoma,2012,Otheropioids,444,11.6
+Oklahoma,Oklahoma,2013,Otheropioids,432,11.2
+Oklahoma,Oklahoma,2014,Otheropioids,424,10.9
+Oklahoma,Oklahoma,2015,Otheropioids,328,8.4
+Oklahoma,Oklahoma,2016,Otheropioids,322,8.2
+Oklahoma,Oklahoma,2017,Otheropioids,251,6.4
+Oklahoma,Oklahoma,2018,Otheropioids,172,4.4
+Oklahoma,Oklahoma,2019,Otheropioids,133,3.4
+Oklahoma,Oklahoma,2020,Otheropioids,117,2.9
+Oklahoma,Oklahoma,2021,Otheropioids,143,3.6
+Oklahoma,Oklahoma,2022,Otheropioids,136,3.4
+Oklahoma,Oklahoma,2022,Meth,607,15.2
+Oklahoma,Oklahoma,2022,Heroin,36,0.9
+Oklahoma,Oklahoma,2022,Fentanyl,639,16.0
+Pennsylvania,Pennsylvania,1999,Fentanyl,24,0.2
+Pennsylvania,Pennsylvania,2000,Fentanyl,32,0.3
+Pennsylvania,Pennsylvania,2001,Fentanyl,28,0.2
+Pennsylvania,Pennsylvania,2002,Fentanyl,42,0.3
+Pennsylvania,Pennsylvania,2003,Fentanyl,68,0.5
+Pennsylvania,Pennsylvania,2004,Fentanyl,86,0.7
+Pennsylvania,Pennsylvania,2005,Fentanyl,72,0.6
+Pennsylvania,Pennsylvania,2006,Fentanyl,93,0.7
+Pennsylvania,Pennsylvania,2007,Fentanyl,83,0.7
+Pennsylvania,Pennsylvania,2008,Fentanyl,99,0.8
+Pennsylvania,Pennsylvania,2009,Fentanyl,105,0.8
+Pennsylvania,Pennsylvania,2010,Fentanyl,98,0.8
+Pennsylvania,Pennsylvania,2011,Fentanyl,111,0.9
+Pennsylvania,Pennsylvania,2012,Fentanyl,99,0.8
+Pennsylvania,Pennsylvania,2013,Fentanyl,108,0.8
+Pennsylvania,Pennsylvania,2014,Fentanyl,217,1.7
+Pennsylvania,Pennsylvania,2015,Fentanyl,429,3.4
+Pennsylvania,Pennsylvania,2016,Fentanyl,1309,10.2
+Pennsylvania,Pennsylvania,2017,Fentanyl,1982,15.5
+Pennsylvania,Pennsylvania,2018,Fentanyl,2430,19.0
+Pennsylvania,Pennsylvania,2019,Fentanyl,2661,20.8
+Pennsylvania,Pennsylvania,2020,Fentanyl,3574,28.0
+Pennsylvania,Pennsylvania,2021,Fentanyl,3782,29.2
+Pennsylvania,Pennsylvania,1999,Heroin,182,1.5
+Pennsylvania,Pennsylvania,2000,Heroin,145,1.2
+Pennsylvania,Pennsylvania,2001,Heroin,119,1.0
+Pennsylvania,Pennsylvania,2002,Heroin,137,1.1
+Pennsylvania,Pennsylvania,2003,Heroin,165,1.3
+Pennsylvania,Pennsylvania,2004,Heroin,131,1.1
+Pennsylvania,Pennsylvania,2005,Heroin,138,1.1
+Pennsylvania,Pennsylvania,2006,Heroin,94,0.8
+Pennsylvania,Pennsylvania,2007,Heroin,86,0.7
+Pennsylvania,Pennsylvania,2008,Heroin,158,1.3
+Pennsylvania,Pennsylvania,2009,Heroin,175,1.4
+Pennsylvania,Pennsylvania,2010,Heroin,131,1.0
+Pennsylvania,Pennsylvania,2011,Heroin,240,1.9
+Pennsylvania,Pennsylvania,2012,Heroin,323,2.5
+Pennsylvania,Pennsylvania,2013,Heroin,409,3.2
+Pennsylvania,Pennsylvania,2014,Heroin,503,3.9
+Pennsylvania,Pennsylvania,2015,Heroin,663,5.2
+Pennsylvania,Pennsylvania,2016,Heroin,926,7.2
+Pennsylvania,Pennsylvania,2017,Heroin,819,6.4
+Pennsylvania,Pennsylvania,2018,Heroin,845,6.6
+Pennsylvania,Pennsylvania,2019,Heroin,816,6.4
+Pennsylvania,Pennsylvania,2020,Heroin,800,6.3
+Pennsylvania,Pennsylvania,2021,Heroin,462,3.6
+Pennsylvania,Pennsylvania,2004,Meth,11,0.1
+Pennsylvania,Pennsylvania,2008,Meth,12,0.1
+Pennsylvania,Pennsylvania,2010,Meth,19,0.1
+Pennsylvania,Pennsylvania,2011,Meth,22,0.2
+Pennsylvania,Pennsylvania,2012,Meth,28,0.2
+Pennsylvania,Pennsylvania,2013,Meth,33,0.3
+Pennsylvania,Pennsylvania,2014,Meth,37,0.3
+Pennsylvania,Pennsylvania,2015,Meth,67,0.5
+Pennsylvania,Pennsylvania,2016,Meth,106,0.8
+Pennsylvania,Pennsylvania,2017,Meth,191,1.5
+Pennsylvania,Pennsylvania,2018,Meth,300,2.3
+Pennsylvania,Pennsylvania,2019,Meth,454,3.5
+Pennsylvania,Pennsylvania,2020,Meth,794,6.2
+Pennsylvania,Pennsylvania,2021,Meth,993,7.7
+Pennsylvania,Pennsylvania,1999,Otheropioids,89,0.7
+Pennsylvania,Pennsylvania,2000,Otheropioids,112,0.9
+Pennsylvania,Pennsylvania,2001,Otheropioids,85,0.7
+Pennsylvania,Pennsylvania,2002,Otheropioids,127,1.0
+Pennsylvania,Pennsylvania,2003,Otheropioids,197,1.6
+Pennsylvania,Pennsylvania,2004,Otheropioids,233,1.9
+Pennsylvania,Pennsylvania,2005,Otheropioids,254,2.0
+Pennsylvania,Pennsylvania,2006,Otheropioids,225,1.8
+Pennsylvania,Pennsylvania,2007,Otheropioids,318,2.5
+Pennsylvania,Pennsylvania,2008,Otheropioids,356,2.8
+Pennsylvania,Pennsylvania,2009,Otheropioids,380,3.0
+Pennsylvania,Pennsylvania,2010,Otheropioids,411,3.2
+Pennsylvania,Pennsylvania,2011,Otheropioids,392,3.1
+Pennsylvania,Pennsylvania,2012,Otheropioids,430,3.4
+Pennsylvania,Pennsylvania,2013,Otheropioids,468,3.7
+Pennsylvania,Pennsylvania,2014,Otheropioids,481,3.8
+Pennsylvania,Pennsylvania,2015,Otheropioids,528,4.1
+Pennsylvania,Pennsylvania,2016,Otheropioids,729,5.7
+Pennsylvania,Pennsylvania,2017,Otheropioids,618,4.8
+Pennsylvania,Pennsylvania,2018,Otheropioids,690,5.4
+Pennsylvania,Pennsylvania,2019,Otheropioids,623,4.9
+Pennsylvania,Pennsylvania,2020,Otheropioids,764,6.0
+Pennsylvania,Pennsylvania,2021,Otheropioids,770,5.9
+Pennsylvania,Pennsylvania,2022,Otheropioids,613,4.7
+Pennsylvania,Pennsylvania,2022,Meth,956,7.4
+Pennsylvania,Pennsylvania,2022,Heroin,307,2.4
+Pennsylvania,Pennsylvania,2022,Fentanyl,3689,28.5
+Tennessee,Tennessee,1999,Fentanyl,17,0.3
+Tennessee,Tennessee,2000,Fentanyl,16,0.3
+Tennessee,Tennessee,2001,Fentanyl,10,0.2
+Tennessee,Tennessee,2002,Fentanyl,21,0.4
+Tennessee,Tennessee,2003,Fentanyl,64,1.1
+Tennessee,Tennessee,2004,Fentanyl,74,1.3
+Tennessee,Tennessee,2005,Fentanyl,79,1.3
+Tennessee,Tennessee,2006,Fentanyl,64,1.1
+Tennessee,Tennessee,2007,Fentanyl,84,1.4
+Tennessee,Tennessee,2008,Fentanyl,98,1.6
+Tennessee,Tennessee,2009,Fentanyl,75,1.2
+Tennessee,Tennessee,2010,Fentanyl,72,1.1
+Tennessee,Tennessee,2011,Fentanyl,64,1.0
+Tennessee,Tennessee,2012,Fentanyl,77,1.2
+Tennessee,Tennessee,2013,Fentanyl,99,1.5
+Tennessee,Tennessee,2014,Fentanyl,132,2.0
+Tennessee,Tennessee,2015,Fentanyl,251,3.8
+Tennessee,Tennessee,2016,Fentanyl,395,5.9
+Tennessee,Tennessee,2017,Fentanyl,590,8.8
+Tennessee,Tennessee,2018,Fentanyl,827,12.2
+Tennessee,Tennessee,2019,Fentanyl,1152,16.9
+Tennessee,Tennessee,2020,Fentanyl,2104,30.6
+Tennessee,Tennessee,2021,Fentanyl,2796,40.1
+Tennessee,Tennessee,1999,Heroin,11,0.2
+Tennessee,Tennessee,2005,Heroin,12,0.2
+Tennessee,Tennessee,2009,Heroin,21,0.3
+Tennessee,Tennessee,2010,Heroin,17,0.3
+Tennessee,Tennessee,2011,Heroin,19,0.3
+Tennessee,Tennessee,2012,Heroin,50,0.8
+Tennessee,Tennessee,2013,Heroin,68,1.0
+Tennessee,Tennessee,2014,Heroin,148,2.3
+Tennessee,Tennessee,2015,Heroin,205,3.1
+Tennessee,Tennessee,2016,Heroin,260,3.9
+Tennessee,Tennessee,2017,Heroin,311,4.6
+Tennessee,Tennessee,2018,Heroin,369,5.5
+Tennessee,Tennessee,2019,Heroin,380,5.6
+Tennessee,Tennessee,2020,Heroin,332,4.8
+Tennessee,Tennessee,2021,Heroin,168,2.4
+Tennessee,Tennessee,2002,Meth,12,0.2
+Tennessee,Tennessee,2003,Meth,15,0.3
+Tennessee,Tennessee,2004,Meth,15,0.3
+Tennessee,Tennessee,2005,Meth,23,0.4
+Tennessee,Tennessee,2006,Meth,17,0.3
+Tennessee,Tennessee,2007,Meth,22,0.4
+Tennessee,Tennessee,2008,Meth,19,0.3
+Tennessee,Tennessee,2009,Meth,21,0.3
+Tennessee,Tennessee,2010,Meth,39,0.6
+Tennessee,Tennessee,2011,Meth,47,0.7
+Tennessee,Tennessee,2012,Meth,50,0.8
+Tennessee,Tennessee,2013,Meth,80,1.2
+Tennessee,Tennessee,2014,Meth,74,1.1
+Tennessee,Tennessee,2015,Meth,113,1.7
+Tennessee,Tennessee,2016,Meth,186,2.8
+Tennessee,Tennessee,2017,Meth,320,4.8
+Tennessee,Tennessee,2018,Meth,463,6.8
+Tennessee,Tennessee,2019,Meth,651,9.5
+Tennessee,Tennessee,2020,Meth,998,14.5
+Tennessee,Tennessee,2021,Meth,1528,21.9
+Tennessee,Tennessee,1999,Otheropioids,53,0.9
+Tennessee,Tennessee,2000,Otheropioids,70,1.2
+Tennessee,Tennessee,2001,Otheropioids,104,1.8
+Tennessee,Tennessee,2002,Otheropioids,120,2.1
+Tennessee,Tennessee,2003,Otheropioids,215,3.7
+Tennessee,Tennessee,2004,Otheropioids,282,4.8
+Tennessee,Tennessee,2005,Otheropioids,339,5.7
+Tennessee,Tennessee,2006,Otheropioids,390,6.4
+Tennessee,Tennessee,2007,Otheropioids,377,6.1
+Tennessee,Tennessee,2008,Otheropioids,367,5.9
+Tennessee,Tennessee,2009,Otheropioids,415,6.6
+Tennessee,Tennessee,2010,Otheropioids,516,8.1
+Tennessee,Tennessee,2011,Otheropioids,512,8.0
+Tennessee,Tennessee,2012,Otheropioids,563,8.7
+Tennessee,Tennessee,2013,Otheropioids,588,9.1
+Tennessee,Tennessee,2014,Otheropioids,604,9.2
+Tennessee,Tennessee,2015,Otheropioids,693,10.5
+Tennessee,Tennessee,2016,Otheropioids,739,11.1
+Tennessee,Tennessee,2017,Otheropioids,644,9.6
+Tennessee,Tennessee,2018,Otheropioids,550,8.1
+Tennessee,Tennessee,2019,Otheropioids,515,7.5
+Tennessee,Tennessee,2020,Otheropioids,605,8.8
+Tennessee,Tennessee,2021,Otheropioids,646,9.3
+Tennessee,Tennessee,2022,Otheropioids,520,7.5
+Tennessee,Tennessee,2022,Meth,1539,22.1
+Tennessee,Tennessee,2022,Heroin,87,1.2
+Tennessee,Tennessee,2022,Fentanyl,2825,40.5
+Texas,Texas,1999,Fentanyl,49,0.2
+Texas,Texas,2000,Fentanyl,46,0.2
+Texas,Texas,2001,Fentanyl,77,0.4
+Texas,Texas,2002,Fentanyl,117,0.5
+Texas,Texas,2003,Fentanyl,76,0.3
+Texas,Texas,2004,Fentanyl,94,0.4
+Texas,Texas,2005,Fentanyl,86,0.4
+Texas,Texas,2006,Fentanyl,111,0.5
+Texas,Texas,2007,Fentanyl,118,0.5
+Texas,Texas,2008,Fentanyl,86,0.4
+Texas,Texas,2009,Fentanyl,166,0.7
+Texas,Texas,2010,Fentanyl,156,0.6
+Texas,Texas,2011,Fentanyl,114,0.4
+Texas,Texas,2012,Fentanyl,121,0.5
+Texas,Texas,2013,Fentanyl,112,0.4
+Texas,Texas,2014,Fentanyl,157,0.6
+Texas,Texas,2015,Fentanyl,186,0.7
+Texas,Texas,2016,Fentanyl,250,0.9
+Texas,Texas,2017,Fentanyl,348,1.2
+Texas,Texas,2018,Fentanyl,358,1.2
+Texas,Texas,2019,Fentanyl,423,1.5
+Texas,Texas,2020,Fentanyl,1050,3.6
+Texas,Texas,2021,Fentanyl,1858,6.3
+Texas,Texas,1999,Heroin,107,0.5
+Texas,Texas,2000,Heroin,111,0.5
+Texas,Texas,2001,Heroin,179,0.8
+Texas,Texas,2002,Heroin,178,0.8
+Texas,Texas,2003,Heroin,188,0.9
+Texas,Texas,2004,Heroin,201,0.9
+Texas,Texas,2005,Heroin,203,0.9
+Texas,Texas,2006,Heroin,212,0.9
+Texas,Texas,2007,Heroin,214,0.9
+Texas,Texas,2008,Heroin,250,1.0
+Texas,Texas,2009,Heroin,305,1.2
+Texas,Texas,2010,Heroin,260,1.0
+Texas,Texas,2011,Heroin,368,1.4
+Texas,Texas,2012,Heroin,367,1.4
+Texas,Texas,2013,Heroin,369,1.4
+Texas,Texas,2014,Heroin,425,1.6
+Texas,Texas,2015,Heroin,523,1.9
+Texas,Texas,2016,Heroin,530,1.9
+Texas,Texas,2017,Heroin,569,2.0
+Texas,Texas,2018,Heroin,668,2.3
+Texas,Texas,2019,Heroin,730,2.5
+Texas,Texas,2020,Heroin,781,2.7
+Texas,Texas,2021,Heroin,735,2.5
+Texas,Texas,1999,Meth,15,0.1
+Texas,Texas,2000,Meth,31,0.1
+Texas,Texas,2001,Meth,47,0.2
+Texas,Texas,2002,Meth,55,0.3
+Texas,Texas,2003,Meth,88,0.4
+Texas,Texas,2004,Meth,88,0.4
+Texas,Texas,2005,Meth,144,0.6
+Texas,Texas,2006,Meth,108,0.5
+Texas,Texas,2007,Meth,87,0.4
+Texas,Texas,2008,Meth,86,0.4
+Texas,Texas,2009,Meth,113,0.5
+Texas,Texas,2010,Meth,147,0.6
+Texas,Texas,2011,Meth,169,0.7
+Texas,Texas,2012,Meth,207,0.8
+Texas,Texas,2013,Meth,326,1.2
+Texas,Texas,2014,Meth,377,1.4
+Texas,Texas,2015,Meth,454,1.7
+Texas,Texas,2016,Meth,577,2.1
+Texas,Texas,2017,Meth,653,2.3
+Texas,Texas,2018,Meth,802,2.8
+Texas,Texas,2019,Meth,1055,3.6
+Texas,Texas,2020,Meth,1520,5.2
+Texas,Texas,2021,Meth,1937,6.6
+Texas,Texas,1999,Otheropioids,142,0.7
+Texas,Texas,2000,Otheropioids,195,0.9
+Texas,Texas,2001,Otheropioids,292,1.4
+Texas,Texas,2002,Otheropioids,435,2.0
+Texas,Texas,2003,Otheropioids,498,2.3
+Texas,Texas,2004,Otheropioids,501,2.2
+Texas,Texas,2005,Otheropioids,573,2.5
+Texas,Texas,2006,Otheropioids,751,3.2
+Texas,Texas,2007,Otheropioids,673,2.8
+Texas,Texas,2008,Otheropioids,581,2.4
+Texas,Texas,2009,Otheropioids,680,2.7
+Texas,Texas,2010,Otheropioids,700,2.8
+Texas,Texas,2011,Otheropioids,667,2.6
+Texas,Texas,2012,Otheropioids,599,2.3
+Texas,Texas,2013,Otheropioids,555,2.1
+Texas,Texas,2014,Otheropioids,571,2.1
+Texas,Texas,2015,Otheropioids,590,2.1
+Texas,Texas,2016,Otheropioids,617,2.2
+Texas,Texas,2017,Otheropioids,646,2.3
+Texas,Texas,2018,Otheropioids,547,1.9
+Texas,Texas,2019,Otheropioids,535,1.8
+Texas,Texas,2020,Otheropioids,640,2.2
+Texas,Texas,2021,Otheropioids,715,2.4
+Texas,Texas,2022,Otheropioids,771,2.6
+Texas,Texas,2022,Meth,2238,7.6
+Texas,Texas,2022,Heroin,577,2.0
+Texas,Texas,2022,Fentanyl,2441,8.3
+Virginia,Virginia,1999,Fentanyl,21,0.3
+Virginia,Virginia,2000,Fentanyl,26,0.4
+Virginia,Virginia,2001,Fentanyl,31,0.4
+Virginia,Virginia,2002,Fentanyl,49,0.7
+Virginia,Virginia,2003,Fentanyl,44,0.6
+Virginia,Virginia,2004,Fentanyl,62,0.8
+Virginia,Virginia,2005,Fentanyl,42,0.6
+Virginia,Virginia,2006,Fentanyl,63,0.8
+Virginia,Virginia,2007,Fentanyl,68,0.9
+Virginia,Virginia,2008,Fentanyl,89,1.1
+Virginia,Virginia,2009,Fentanyl,80,1.0
+Virginia,Virginia,2010,Fentanyl,87,1.1
+Virginia,Virginia,2011,Fentanyl,77,1.0
+Virginia,Virginia,2012,Fentanyl,89,1.1
+Virginia,Virginia,2013,Fentanyl,125,1.5
+Virginia,Virginia,2014,Fentanyl,176,2.1
+Virginia,Virginia,2015,Fentanyl,270,3.2
+Virginia,Virginia,2016,Fentanyl,648,7.7
+Virginia,Virginia,2017,Fentanyl,829,9.8
+Virginia,Virginia,2018,Fentanyl,852,10.0
+Virginia,Virginia,2019,Fentanyl,993,11.6
+Virginia,Virginia,2020,Fentanyl,1675,19.5
+Virginia,Virginia,2021,Fentanyl,2064,23.9
+Virginia,Virginia,1999,Heroin,65,0.9
+Virginia,Virginia,2000,Heroin,64,0.9
+Virginia,Virginia,2001,Heroin,89,1.2
+Virginia,Virginia,2002,Heroin,89,1.2
+Virginia,Virginia,2003,Heroin,90,1.2
+Virginia,Virginia,2004,Heroin,67,0.9
+Virginia,Virginia,2005,Heroin,61,0.8
+Virginia,Virginia,2006,Heroin,71,0.9
+Virginia,Virginia,2007,Heroin,95,1.2
+Virginia,Virginia,2008,Heroin,87,1.1
+Virginia,Virginia,2009,Heroin,104,1.3
+Virginia,Virginia,2010,Heroin,45,0.6
+Virginia,Virginia,2011,Heroin,103,1.3
+Virginia,Virginia,2012,Heroin,121,1.5
+Virginia,Virginia,2013,Heroin,206,2.5
+Virginia,Virginia,2014,Heroin,253,3.0
+Virginia,Virginia,2015,Heroin,353,4.2
+Virginia,Virginia,2016,Heroin,450,5.3
+Virginia,Virginia,2017,Heroin,556,6.6
+Virginia,Virginia,2018,Heroin,532,6.2
+Virginia,Virginia,2019,Heroin,532,6.2
+Virginia,Virginia,2020,Heroin,502,5.8
+Virginia,Virginia,2021,Heroin,401,4.6
+Virginia,Virginia,2008,Meth,13,0.2
+Virginia,Virginia,2011,Meth,17,0.2
+Virginia,Virginia,2012,Meth,17,0.2
+Virginia,Virginia,2013,Meth,21,0.3
+Virginia,Virginia,2014,Meth,44,0.5
+Virginia,Virginia,2015,Meth,55,0.7
+Virginia,Virginia,2016,Meth,76,0.9
+Virginia,Virginia,2017,Meth,113,1.3
+Virginia,Virginia,2018,Meth,135,1.6
+Virginia,Virginia,2019,Meth,207,2.4
+Virginia,Virginia,2020,Meth,417,4.9
+Virginia,Virginia,2021,Meth,573,6.6
+Virginia,Virginia,1999,Otheropioids,121,1.7
+Virginia,Virginia,2000,Otheropioids,139,2.0
+Virginia,Virginia,2001,Otheropioids,202,2.8
+Virginia,Virginia,2002,Otheropioids,221,3.0
+Virginia,Virginia,2003,Otheropioids,230,3.1
+Virginia,Virginia,2004,Otheropioids,267,3.6
+Virginia,Virginia,2005,Otheropioids,251,3.3
+Virginia,Virginia,2006,Otheropioids,264,3.4
+Virginia,Virginia,2007,Otheropioids,331,4.3
+Virginia,Virginia,2008,Otheropioids,337,4.3
+Virginia,Virginia,2009,Otheropioids,313,3.9
+Virginia,Virginia,2010,Otheropioids,280,3.5
+Virginia,Virginia,2011,Otheropioids,427,5.3
+Virginia,Virginia,2012,Otheropioids,348,4.3
+Virginia,Virginia,2013,Otheropioids,366,4.4
+Virginia,Virginia,2014,Otheropioids,400,4.8
+Virginia,Virginia,2015,Otheropioids,322,3.8
+Virginia,Virginia,2016,Otheropioids,400,4.8
+Virginia,Virginia,2017,Otheropioids,404,4.8
+Virginia,Virginia,2018,Otheropioids,326,3.8
+Virginia,Virginia,2019,Otheropioids,306,3.6
+Virginia,Virginia,2020,Otheropioids,365,4.2
+Virginia,Virginia,2021,Otheropioids,369,4.3
+Virginia,Virginia,2022,Otheropioids,284,3.3
+Virginia,Virginia,2022,Meth,575,6.7
+Virginia,Virginia,2022,Heroin,245,2.8
+Virginia,Virginia,2022,Fentanyl,1971,22.8
+Washington,Washington,1999,Fentanyl,23,0.4
+Washington,Washington,2000,Fentanyl,23,0.4
+Washington,Washington,2001,Fentanyl,27,0.5
+Washington,Washington,2002,Fentanyl,47,0.8
+Washington,Washington,2003,Fentanyl,33,0.5
+Washington,Washington,2004,Fentanyl,42,0.7
+Washington,Washington,2005,Fentanyl,54,0.9
+Washington,Washington,2006,Fentanyl,51,0.8
+Washington,Washington,2007,Fentanyl,37,0.6
+Washington,Washington,2008,Fentanyl,53,0.8
+Washington,Washington,2009,Fentanyl,71,1.1
+Washington,Washington,2010,Fentanyl,65,1.0
+Washington,Washington,2011,Fentanyl,53,0.8
+Washington,Washington,2012,Fentanyl,59,0.9
+Washington,Washington,2013,Fentanyl,59,0.8
+Washington,Washington,2014,Fentanyl,62,0.9
+Washington,Washington,2015,Fentanyl,65,0.9
+Washington,Washington,2016,Fentanyl,93,1.3
+Washington,Washington,2017,Fentanyl,143,1.9
+Washington,Washington,2018,Fentanyl,221,2.9
+Washington,Washington,2019,Fentanyl,337,4.4
+Washington,Washington,2020,Fentanyl,674,8.8
+Washington,Washington,2021,Fentanyl,1218,15.7
+Washington,Washington,1999,Heroin,57,1.0
+Washington,Washington,2000,Heroin,56,1.0
+Washington,Washington,2001,Heroin,46,0.8
+Washington,Washington,2002,Heroin,70,1.2
+Washington,Washington,2003,Heroin,63,1.0
+Washington,Washington,2004,Heroin,57,0.9
+Washington,Washington,2005,Heroin,54,0.9
+Washington,Washington,2006,Heroin,54,0.8
+Washington,Washington,2007,Heroin,75,1.2
+Washington,Washington,2008,Heroin,67,1.0
+Washington,Washington,2009,Heroin,67,1.0
+Washington,Washington,2010,Heroin,60,0.9
+Washington,Washington,2011,Heroin,148,2.2
+Washington,Washington,2012,Heroin,177,2.6
+Washington,Washington,2013,Heroin,205,2.9
+Washington,Washington,2014,Heroin,289,4.1
+Washington,Washington,2015,Heroin,303,4.2
+Washington,Washington,2016,Heroin,283,3.9
+Washington,Washington,2017,Heroin,306,4.1
+Washington,Washington,2018,Heroin,328,4.4
+Washington,Washington,2019,Heroin,346,4.5
+Washington,Washington,2020,Heroin,383,5.0
+Washington,Washington,2021,Heroin,343,4.4
+Washington,Washington,1999,Meth,47,0.8
+Washington,Washington,2000,Meth,54,0.9
+Washington,Washington,2001,Meth,44,0.7
+Washington,Washington,2002,Meth,67,1.1
+Washington,Washington,2003,Meth,93,1.5
+Washington,Washington,2004,Meth,92,1.5
+Washington,Washington,2005,Meth,97,1.6
+Washington,Washington,2006,Meth,85,1.3
+Washington,Washington,2007,Meth,91,1.4
+Washington,Washington,2008,Meth,72,1.1
+Washington,Washington,2009,Meth,112,1.7
+Washington,Washington,2010,Meth,96,1.4
+Washington,Washington,2011,Meth,127,1.9
+Washington,Washington,2012,Meth,143,2.1
+Washington,Washington,2013,Meth,191,2.7
+Washington,Washington,2014,Meth,228,3.2
+Washington,Washington,2015,Meth,304,4.2
+Washington,Washington,2016,Meth,326,4.5
+Washington,Washington,2017,Meth,392,5.3
+Washington,Washington,2018,Meth,466,6.2
+Washington,Washington,2019,Meth,544,7.1
+Washington,Washington,2020,Meth,728,9.5
+Washington,Washington,2021,Meth,1144,14.8
+Washington,Washington,1999,Otheropioids,144,2.5
+Washington,Washington,2000,Otheropioids,153,2.6
+Washington,Washington,2001,Otheropioids,192,3.2
+Washington,Washington,2002,Otheropioids,261,4.3
+Washington,Washington,2003,Otheropioids,297,4.9
+Washington,Washington,2004,Otheropioids,419,6.8
+Washington,Washington,2005,Otheropioids,456,7.3
+Washington,Washington,2006,Otheropioids,528,8.3
+Washington,Washington,2007,Otheropioids,487,7.5
+Washington,Washington,2008,Otheropioids,529,8.1
+Washington,Washington,2009,Otheropioids,532,8.0
+Washington,Washington,2010,Otheropioids,474,7.0
+Washington,Washington,2011,Otheropioids,514,7.5
+Washington,Washington,2012,Otheropioids,469,6.8
+Washington,Washington,2013,Otheropioids,396,5.7
+Washington,Washington,2014,Otheropioids,369,5.2
+Washington,Washington,2015,Otheropioids,355,5.0
+Washington,Washington,2016,Otheropioids,388,5.3
+Washington,Washington,2017,Otheropioids,343,4.6
+Washington,Washington,2018,Otheropioids,301,4.0
+Washington,Washington,2019,Otheropioids,268,3.5
+Washington,Washington,2020,Otheropioids,327,4.3
+Washington,Washington,2021,Otheropioids,402,5.2
+Washington,Washington,2022,Otheropioids,307,4.0
+Washington,Washington,2022,Meth,1373,17.7
+Washington,Washington,2022,Heroin,155,2.0
+Washington,Washington,2022,Fentanyl,1856,24.0
+West Virginia,West Virginia,1999,Fentanyl,12,0.7
+West Virginia,West Virginia,2001,Fentanyl,37,2.1
+West Virginia,West Virginia,2002,Fentanyl,39,2.2
+West Virginia,West Virginia,2003,Fentanyl,43,2.4
+West Virginia,West Virginia,2004,Fentanyl,67,3.7
+West Virginia,West Virginia,2005,Fentanyl,42,2.3
+West Virginia,West Virginia,2006,Fentanyl,50,2.7
+West Virginia,West Virginia,2007,Fentanyl,80,4.4
+West Virginia,West Virginia,2008,Fentanyl,87,4.7
+West Virginia,West Virginia,2009,Fentanyl,42,2.3
+West Virginia,West Virginia,2010,Fentanyl,102,5.5
+West Virginia,West Virginia,2011,Fentanyl,99,5.3
+West Virginia,West Virginia,2012,Fentanyl,89,4.8
+West Virginia,West Virginia,2013,Fentanyl,98,5.3
+West Virginia,West Virginia,2014,Fentanyl,122,6.6
+West Virginia,West Virginia,2015,Fentanyl,217,11.8
+West Virginia,West Virginia,2016,Fentanyl,435,23.8
+West Virginia,West Virginia,2017,Fentanyl,618,34.0
+West Virginia,West Virginia,2018,Fentanyl,551,30.5
+West Virginia,West Virginia,2019,Fentanyl,572,31.9
+West Virginia,West Virginia,2020,Fentanyl,1043,58.4
+West Virginia,West Virginia,2021,Fentanyl,1189,66.7
+West Virginia,West Virginia,2004,Heroin,10,0.6
+West Virginia,West Virginia,2007,Heroin,21,1.1
+West Virginia,West Virginia,2008,Heroin,36,2.0
+West Virginia,West Virginia,2009,Heroin,19,1.0
+West Virginia,West Virginia,2010,Heroin,28,1.5
+West Virginia,West Virginia,2011,Heroin,34,1.8
+West Virginia,West Virginia,2012,Heroin,63,3.4
+West Virginia,West Virginia,2013,Heroin,144,7.8
+West Virginia,West Virginia,2014,Heroin,163,8.8
+West Virginia,West Virginia,2015,Heroin,194,10.5
+West Virginia,West Virginia,2016,Heroin,235,12.8
+West Virginia,West Virginia,2017,Heroin,244,13.4
+West Virginia,West Virginia,2018,Heroin,195,10.8
+West Virginia,West Virginia,2019,Heroin,142,7.9
+West Virginia,West Virginia,2020,Heroin,141,7.9
+West Virginia,West Virginia,2021,Heroin,41,2.3
+West Virginia,West Virginia,2010,Meth,19,1.0
+West Virginia,West Virginia,2011,Meth,19,1.0
+West Virginia,West Virginia,2012,Meth,18,1.0
+West Virginia,West Virginia,2013,Meth,39,2.1
+West Virginia,West Virginia,2014,Meth,37,2.0
+West Virginia,West Virginia,2015,Meth,65,3.5
+West Virginia,West Virginia,2016,Meth,117,6.4
+West Virginia,West Virginia,2017,Meth,221,12.2
+West Virginia,West Virginia,2018,Meth,313,17.3
+West Virginia,West Virginia,2019,Meth,393,21.9
+West Virginia,West Virginia,2020,Meth,613,34.3
+West Virginia,West Virginia,2021,Meth,820,46.0
+West Virginia,West Virginia,1999,Otheropioids,15,0.8
+West Virginia,West Virginia,2000,Otheropioids,30,1.7
+West Virginia,West Virginia,2001,Otheropioids,104,5.8
+West Virginia,West Virginia,2002,Otheropioids,144,8.0
+West Virginia,West Virginia,2003,Otheropioids,165,9.1
+West Virginia,West Virginia,2004,Otheropioids,194,10.7
+West Virginia,West Virginia,2005,Otheropioids,107,5.9
+West Virginia,West Virginia,2006,Otheropioids,242,13.2
+West Virginia,West Virginia,2007,Otheropioids,257,14.0
+West Virginia,West Virginia,2008,Otheropioids,288,15.6
+West Virginia,West Virginia,2009,Otheropioids,133,7.2
+West Virginia,West Virginia,2010,Otheropioids,378,20.4
+West Virginia,West Virginia,2011,Otheropioids,476,25.7
+West Virginia,West Virginia,2012,Otheropioids,390,21.0
+West Virginia,West Virginia,2013,Otheropioids,368,19.8
+West Virginia,West Virginia,2014,Otheropioids,383,20.7
+West Virginia,West Virginia,2015,Otheropioids,380,20.6
+West Virginia,West Virginia,2016,Otheropioids,340,18.6
+West Virginia,West Virginia,2017,Otheropioids,304,16.7
+West Virginia,West Virginia,2018,Otheropioids,234,13.0
+West Virginia,West Virginia,2019,Otheropioids,185,10.3
+West Virginia,West Virginia,2020,Otheropioids,303,17.0
+West Virginia,West Virginia,2021,Otheropioids,231,13.0
+West Virginia,West Virginia,2022,Otheropioids,171,9.6
+West Virginia,West Virginia,2022,Meth,721,40.4
+West Virginia,West Virginia,2022,Heroin,26,1.5
+West Virginia,West Virginia,2022,Fentanyl,1082,60.7
+Wisconsin,Wisconsin,1999,Fentanyl,16,0.3
+Wisconsin,Wisconsin,2000,Fentanyl,23,0.4
+Wisconsin,Wisconsin,2001,Fentanyl,24,0.4
+Wisconsin,Wisconsin,2002,Fentanyl,26,0.5
+Wisconsin,Wisconsin,2003,Fentanyl,42,0.8
+Wisconsin,Wisconsin,2004,Fentanyl,42,0.8
+Wisconsin,Wisconsin,2005,Fentanyl,53,1.0
+Wisconsin,Wisconsin,2006,Fentanyl,56,1.0
+Wisconsin,Wisconsin,2007,Fentanyl,55,1.0
+Wisconsin,Wisconsin,2008,Fentanyl,53,0.9
+Wisconsin,Wisconsin,2009,Fentanyl,76,1.3
+Wisconsin,Wisconsin,2010,Fentanyl,66,1.2
+Wisconsin,Wisconsin,2011,Fentanyl,60,1.1
+Wisconsin,Wisconsin,2012,Fentanyl,56,1.0
+Wisconsin,Wisconsin,2013,Fentanyl,81,1.4
+Wisconsin,Wisconsin,2014,Fentanyl,90,1.6
+Wisconsin,Wisconsin,2015,Fentanyl,112,1.9
+Wisconsin,Wisconsin,2016,Fentanyl,288,5.0
+Wisconsin,Wisconsin,2017,Fentanyl,466,8.0
+Wisconsin,Wisconsin,2018,Fentanyl,506,8.7
+Wisconsin,Wisconsin,2019,Fentanyl,660,11.3
+Wisconsin,Wisconsin,2020,Fentanyl,1076,18.4
+Wisconsin,Wisconsin,2021,Fentanyl,1300,22.0
+Wisconsin,Wisconsin,1999,Heroin,16,0.3
+Wisconsin,Wisconsin,2000,Heroin,29,0.5
+Wisconsin,Wisconsin,2001,Heroin,24,0.4
+Wisconsin,Wisconsin,2002,Heroin,27,0.5
+Wisconsin,Wisconsin,2003,Heroin,26,0.5
+Wisconsin,Wisconsin,2004,Heroin,22,0.4
+Wisconsin,Wisconsin,2005,Heroin,31,0.6
+Wisconsin,Wisconsin,2006,Heroin,28,0.5
+Wisconsin,Wisconsin,2007,Heroin,34,0.6
+Wisconsin,Wisconsin,2008,Heroin,67,1.2
+Wisconsin,Wisconsin,2009,Heroin,75,1.3
+Wisconsin,Wisconsin,2010,Heroin,92,1.6
+Wisconsin,Wisconsin,2011,Heroin,135,2.4
+Wisconsin,Wisconsin,2012,Heroin,185,3.2
+Wisconsin,Wisconsin,2013,Heroin,232,4.0
+Wisconsin,Wisconsin,2014,Heroin,270,4.7
+Wisconsin,Wisconsin,2015,Heroin,287,5.0
+Wisconsin,Wisconsin,2016,Heroin,389,6.7
+Wisconsin,Wisconsin,2017,Heroin,414,7.1
+Wisconsin,Wisconsin,2018,Heroin,327,5.6
+Wisconsin,Wisconsin,2019,Heroin,292,5.0
+Wisconsin,Wisconsin,2020,Heroin,268,4.6
+Wisconsin,Wisconsin,2021,Heroin,166,2.8
+Wisconsin,Wisconsin,2007,Meth,15,0.3
+Wisconsin,Wisconsin,2009,Meth,11,0.2
+Wisconsin,Wisconsin,2011,Meth,22,0.4
+Wisconsin,Wisconsin,2012,Meth,17,0.3
+Wisconsin,Wisconsin,2013,Meth,25,0.4
+Wisconsin,Wisconsin,2014,Meth,46,0.8
+Wisconsin,Wisconsin,2015,Meth,38,0.7
+Wisconsin,Wisconsin,2016,Meth,76,1.3
+Wisconsin,Wisconsin,2017,Meth,128,2.2
+Wisconsin,Wisconsin,2018,Meth,116,2.0
+Wisconsin,Wisconsin,2019,Meth,170,2.9
+Wisconsin,Wisconsin,2020,Meth,281,4.8
+Wisconsin,Wisconsin,2021,Meth,382,6.5
+Wisconsin,Wisconsin,1999,Otheropioids,48,0.9
+Wisconsin,Wisconsin,2000,Otheropioids,65,1.2
+Wisconsin,Wisconsin,2001,Otheropioids,87,1.6
+Wisconsin,Wisconsin,2002,Otheropioids,126,2.3
+Wisconsin,Wisconsin,2003,Otheropioids,138,2.5
+Wisconsin,Wisconsin,2004,Otheropioids,161,2.9
+Wisconsin,Wisconsin,2005,Otheropioids,199,3.6
+Wisconsin,Wisconsin,2006,Otheropioids,253,4.5
+Wisconsin,Wisconsin,2007,Otheropioids,286,5.1
+Wisconsin,Wisconsin,2008,Otheropioids,267,4.7
+Wisconsin,Wisconsin,2009,Otheropioids,261,4.6
+Wisconsin,Wisconsin,2010,Otheropioids,285,5.0
+Wisconsin,Wisconsin,2011,Otheropioids,289,5.1
+Wisconsin,Wisconsin,2012,Otheropioids,273,4.8
+Wisconsin,Wisconsin,2013,Otheropioids,330,5.7
+Wisconsin,Wisconsin,2014,Otheropioids,334,5.8
+Wisconsin,Wisconsin,2015,Otheropioids,300,5.2
+Wisconsin,Wisconsin,2016,Otheropioids,382,6.6
+Wisconsin,Wisconsin,2017,Otheropioids,362,6.2
+Wisconsin,Wisconsin,2018,Otheropioids,301,5.2
+Wisconsin,Wisconsin,2019,Otheropioids,282,4.8
+Wisconsin,Wisconsin,2020,Otheropioids,338,5.8
+Wisconsin,Wisconsin,2021,Otheropioids,356,6.0
+Wisconsin,Wisconsin,2022,Otheropioids,288,4.9
+Wisconsin,Wisconsin,2022,Meth,388,6.6
+Wisconsin,Wisconsin,2022,Heroin,124,2.1
+Wisconsin,Wisconsin,2022,Fentanyl,1285,21.8
+Indiana,Indiana,2000,Fentanyl,12,0.2
+Indiana,Indiana,2001,Fentanyl,12,0.2
+Indiana,Indiana,2003,Fentanyl,26,0.4
+Indiana,Indiana,2004,Fentanyl,25,0.4
+Indiana,Indiana,2005,Fentanyl,26,0.4
+Indiana,Indiana,2006,Fentanyl,48,0.8
+Indiana,Indiana,2007,Fentanyl,51,0.8
+Indiana,Indiana,2008,Fentanyl,54,0.8
+Indiana,Indiana,2009,Fentanyl,64,1.0
+Indiana,Indiana,2010,Fentanyl,49,0.8
+Indiana,Indiana,2011,Fentanyl,40,0.6
+Indiana,Indiana,2012,Fentanyl,43,0.7
+Indiana,Indiana,2013,Fentanyl,34,0.5
+Indiana,Indiana,2014,Fentanyl,83,1.3
+Indiana,Indiana,2015,Fentanyl,120,1.8
+Indiana,Indiana,2016,Fentanyl,304,4.6
+Indiana,Indiana,2017,Fentanyl,649,9.7
+Indiana,Indiana,2018,Fentanyl,713,10.7
+Indiana,Indiana,2019,Fentanyl,899,13.4
+Indiana,Indiana,2020,Fentanyl,1647,24.4
+Indiana,Indiana,2021,Fentanyl,2011,29.5
+Indiana,Indiana,2005,Heroin,15,0.2
+Indiana,Indiana,2007,Heroin,18,0.3
+Indiana,Indiana,2008,Heroin,56,0.9
+Indiana,Indiana,2009,Heroin,63,1.0
+Indiana,Indiana,2010,Heroin,56,0.9
+Indiana,Indiana,2011,Heroin,68,1.0
+Indiana,Indiana,2012,Heroin,114,1.7
+Indiana,Indiana,2013,Heroin,160,2.4
+Indiana,Indiana,2014,Heroin,173,2.6
+Indiana,Indiana,2015,Heroin,240,3.6
+Indiana,Indiana,2016,Heroin,297,4.5
+Indiana,Indiana,2017,Heroin,327,4.9
+Indiana,Indiana,2018,Heroin,311,4.6
+Indiana,Indiana,2019,Heroin,308,4.6
+Indiana,Indiana,2020,Heroin,213,3.2
+Indiana,Indiana,2021,Heroin,91,1.3
+Indiana,Indiana,2006,Meth,13,0.2
+Indiana,Indiana,2009,Meth,13,0.2
+Indiana,Indiana,2010,Meth,19,0.3
+Indiana,Indiana,2011,Meth,13,0.2
+Indiana,Indiana,2012,Meth,15,0.2
+Indiana,Indiana,2013,Meth,20,0.3
+Indiana,Indiana,2014,Meth,38,0.6
+Indiana,Indiana,2015,Meth,55,0.8
+Indiana,Indiana,2016,Meth,122,1.8
+Indiana,Indiana,2017,Meth,289,4.3
+Indiana,Indiana,2018,Meth,381,5.7
+Indiana,Indiana,2019,Meth,512,7.6
+Indiana,Indiana,2020,Meth,719,10.6
+Indiana,Indiana,2021,Meth,1002,14.7
+Indiana,Indiana,1999,Otheropioids,21,0.3
+Indiana,Indiana,2000,Otheropioids,18,0.3
+Indiana,Indiana,2001,Otheropioids,41,0.7
+Indiana,Indiana,2002,Otheropioids,42,0.7
+Indiana,Indiana,2003,Otheropioids,79,1.3
+Indiana,Indiana,2004,Otheropioids,80,1.3
+Indiana,Indiana,2005,Otheropioids,102,1.6
+Indiana,Indiana,2006,Otheropioids,94,1.5
+Indiana,Indiana,2007,Otheropioids,150,2.4
+Indiana,Indiana,2008,Otheropioids,181,2.8
+Indiana,Indiana,2009,Otheropioids,215,3.3
+Indiana,Indiana,2010,Otheropioids,189,2.9
+Indiana,Indiana,2011,Otheropioids,220,3.4
+Indiana,Indiana,2012,Otheropioids,175,2.7
+Indiana,Indiana,2013,Otheropioids,141,2.1
+Indiana,Indiana,2014,Otheropioids,182,2.8
+Indiana,Indiana,2015,Otheropioids,175,2.6
+Indiana,Indiana,2016,Otheropioids,262,3.9
+Indiana,Indiana,2017,Otheropioids,425,6.4
+Indiana,Indiana,2018,Otheropioids,370,5.5
+Indiana,Indiana,2019,Otheropioids,400,5.9
+Indiana,Indiana,2020,Otheropioids,461,6.8
+Indiana,Indiana,2021,Otheropioids,492,7.2
+Indiana,Indiana,2022,Otheropioids,366,5.4
+Indiana,Indiana,2022,Meth,956,14.0
+Indiana,Indiana,2022,Heroin,64,0.9
+Indiana,Indiana,2022,Fentanyl,1920,28.2
+South Carolina,South Carolina,2000,Fentanyl,19,0.5
+South Carolina,South Carolina,2002,Fentanyl,22,0.5
+South Carolina,South Carolina,2003,Fentanyl,19,0.5
+South Carolina,South Carolina,2004,Fentanyl,32,0.8
+South Carolina,South Carolina,2005,Fentanyl,30,0.7
+South Carolina,South Carolina,2006,Fentanyl,41,0.9
+South Carolina,South Carolina,2007,Fentanyl,35,0.8
+South Carolina,South Carolina,2008,Fentanyl,41,0.9
+South Carolina,South Carolina,2009,Fentanyl,56,1.2
+South Carolina,South Carolina,2010,Fentanyl,58,1.3
+South Carolina,South Carolina,2011,Fentanyl,47,1.0
+South Carolina,South Carolina,2012,Fentanyl,46,1.0
+South Carolina,South Carolina,2013,Fentanyl,50,1.0
+South Carolina,South Carolina,2014,Fentanyl,110,2.3
+South Carolina,South Carolina,2015,Fentanyl,161,3.3
+South Carolina,South Carolina,2016,Fentanyl,237,4.8
+South Carolina,South Carolina,2017,Fentanyl,404,8.0
+South Carolina,South Carolina,2018,Fentanyl,510,10.0
+South Carolina,South Carolina,2019,Fentanyl,568,11.0
+South Carolina,South Carolina,2020,Fentanyl,1149,22.0
+South Carolina,South Carolina,2021,Fentanyl,1507,29.0
+South Carolina,South Carolina,2000,Heroin,11,0.3
+South Carolina,South Carolina,2008,Heroin,11,0.2
+South Carolina,South Carolina,2009,Heroin,19,0.4
+South Carolina,South Carolina,2010,Heroin,15,0.3
+South Carolina,South Carolina,2011,Heroin,12,0.3
+South Carolina,South Carolina,2012,Heroin,19,0.4
+South Carolina,South Carolina,2013,Heroin,32,0.7
+South Carolina,South Carolina,2014,Heroin,64,1.3
+South Carolina,South Carolina,2015,Heroin,100,2.0
+South Carolina,South Carolina,2016,Heroin,115,2.3
+South Carolina,South Carolina,2017,Heroin,153,3.0
+South Carolina,South Carolina,2018,Heroin,183,3.6
+South Carolina,South Carolina,2019,Heroin,197,3.8
+South Carolina,South Carolina,2020,Heroin,252,4.8
+South Carolina,South Carolina,2021,Heroin,137,2.6
+South Carolina,South Carolina,2008,Meth,10,0.2
+South Carolina,South Carolina,2009,Meth,16,0.3
+South Carolina,South Carolina,2011,Meth,14,0.3
+South Carolina,South Carolina,2012,Meth,19,0.4
+South Carolina,South Carolina,2013,Meth,27,0.6
+South Carolina,South Carolina,2014,Meth,68,1.4
+South Carolina,South Carolina,2015,Meth,87,1.8
+South Carolina,South Carolina,2016,Meth,125,2.5
+South Carolina,South Carolina,2017,Meth,189,3.8
+South Carolina,South Carolina,2018,Meth,249,4.9
+South Carolina,South Carolina,2019,Meth,332,6.4
+South Carolina,South Carolina,2020,Meth,529,10.1
+South Carolina,South Carolina,2021,Meth,753,14.5
+South Carolina,South Carolina,1999,Otheropioids,35,0.9
+South Carolina,South Carolina,2000,Otheropioids,54,1.3
+South Carolina,South Carolina,2001,Otheropioids,68,1.7
+South Carolina,South Carolina,2002,Otheropioids,48,1.2
+South Carolina,South Carolina,2003,Otheropioids,71,1.7
+South Carolina,South Carolina,2004,Otheropioids,90,2.1
+South Carolina,South Carolina,2005,Otheropioids,118,2.8
+South Carolina,South Carolina,2006,Otheropioids,173,4.0
+South Carolina,South Carolina,2007,Otheropioids,159,3.6
+South Carolina,South Carolina,2008,Otheropioids,170,3.8
+South Carolina,South Carolina,2009,Otheropioids,174,3.8
+South Carolina,South Carolina,2010,Otheropioids,212,4.6
+South Carolina,South Carolina,2011,Otheropioids,194,4.1
+South Carolina,South Carolina,2012,Otheropioids,177,3.7
+South Carolina,South Carolina,2013,Otheropioids,186,3.9
+South Carolina,South Carolina,2014,Otheropioids,378,7.8
+South Carolina,South Carolina,2015,Otheropioids,361,7.4
+South Carolina,South Carolina,2016,Otheropioids,381,7.7
+South Carolina,South Carolina,2017,Otheropioids,345,6.9
+South Carolina,South Carolina,2018,Otheropioids,375,7.4
+South Carolina,South Carolina,2019,Otheropioids,351,6.8
+South Carolina,South Carolina,2020,Otheropioids,435,8.3
+South Carolina,South Carolina,2021,Otheropioids,432,8.3
+South Carolina,South Carolina,2022,Otheropioids,400,7.7
+South Carolina,South Carolina,2022,Meth,797,15.4
+South Carolina,South Carolina,2022,Heroin,55,1.1
+South Carolina,South Carolina,2022,Fentanyl,1642,31.6
+Utah,Utah,2000,Fentanyl,11,0.5
+Utah,Utah,2002,Fentanyl,13,0.6
+Utah,Utah,2003,Fentanyl,23,1.0
+Utah,Utah,2004,Fentanyl,13,0.5
+Utah,Utah,2005,Fentanyl,38,1.5
+Utah,Utah,2006,Fentanyl,38,1.5
+Utah,Utah,2007,Fentanyl,33,1.3
+Utah,Utah,2008,Fentanyl,26,1.0
+Utah,Utah,2009,Fentanyl,59,2.2
+Utah,Utah,2010,Fentanyl,50,1.8
+Utah,Utah,2011,Fentanyl,56,2.0
+Utah,Utah,2012,Fentanyl,59,2.1
+Utah,Utah,2013,Fentanyl,58,2.0
+Utah,Utah,2014,Fentanyl,68,2.3
+Utah,Utah,2015,Fentanyl,62,2.1
+Utah,Utah,2016,Fentanyl,72,2.4
+Utah,Utah,2017,Fentanyl,92,3.0
+Utah,Utah,2018,Fentanyl,83,2.6
+Utah,Utah,2019,Fentanyl,94,2.9
+Utah,Utah,2020,Fentanyl,157,4.8
+Utah,Utah,2021,Fentanyl,202,6.1
+Utah,Utah,1999,Heroin,55,2.5
+Utah,Utah,2000,Heroin,46,2.1
+Utah,Utah,2001,Heroin,39,1.7
+Utah,Utah,2002,Heroin,26,1.1
+Utah,Utah,2003,Heroin,31,1.3
+Utah,Utah,2004,Heroin,22,0.9
+Utah,Utah,2005,Heroin,44,1.8
+Utah,Utah,2006,Heroin,46,1.8
+Utah,Utah,2007,Heroin,51,2.0
+Utah,Utah,2008,Heroin,68,2.6
+Utah,Utah,2009,Heroin,54,2.0
+Utah,Utah,2010,Heroin,55,2.0
+Utah,Utah,2011,Heroin,73,2.6
+Utah,Utah,2012,Heroin,84,2.9
+Utah,Utah,2013,Heroin,122,4.2
+Utah,Utah,2014,Heroin,110,3.7
+Utah,Utah,2015,Heroin,127,4.2
+Utah,Utah,2016,Heroin,166,5.4
+Utah,Utah,2017,Heroin,147,4.7
+Utah,Utah,2018,Heroin,156,4.9
+Utah,Utah,2019,Heroin,139,4.3
+Utah,Utah,2020,Heroin,140,4.3
+Utah,Utah,2021,Heroin,143,4.3
+Utah,Utah,1999,Meth,23,1.0
+Utah,Utah,2000,Meth,13,0.6
+Utah,Utah,2001,Meth,15,0.7
+Utah,Utah,2002,Meth,25,1.1
+Utah,Utah,2003,Meth,43,1.8
+Utah,Utah,2004,Meth,40,1.7
+Utah,Utah,2005,Meth,41,1.7
+Utah,Utah,2006,Meth,51,2.0
+Utah,Utah,2007,Meth,41,1.6
+Utah,Utah,2008,Meth,43,1.6
+Utah,Utah,2009,Meth,44,1.6
+Utah,Utah,2010,Meth,35,1.3
+Utah,Utah,2011,Meth,56,2.0
+Utah,Utah,2012,Meth,80,2.8
+Utah,Utah,2013,Meth,101,3.5
+Utah,Utah,2014,Meth,106,3.6
+Utah,Utah,2015,Meth,147,4.9
+Utah,Utah,2016,Meth,143,4.7
+Utah,Utah,2017,Meth,198,6.4
+Utah,Utah,2018,Meth,228,7.2
+Utah,Utah,2019,Meth,224,7.0
+Utah,Utah,2020,Meth,235,7.2
+Utah,Utah,2021,Meth,312,9.3
+Utah,Utah,1999,Otheropioids,109,4.9
+Utah,Utah,2000,Otheropioids,129,5.8
+Utah,Utah,2001,Otheropioids,131,5.7
+Utah,Utah,2002,Otheropioids,171,7.4
+Utah,Utah,2003,Otheropioids,216,9.2
+Utah,Utah,2004,Otheropioids,233,9.7
+Utah,Utah,2005,Otheropioids,265,10.8
+Utah,Utah,2006,Otheropioids,277,11.0
+Utah,Utah,2007,Otheropioids,305,11.7
+Utah,Utah,2008,Otheropioids,294,11.0
+Utah,Utah,2009,Otheropioids,302,11.1
+Utah,Utah,2010,Otheropioids,270,9.8
+Utah,Utah,2011,Otheropioids,332,11.8
+Utah,Utah,2012,Otheropioids,368,12.9
+Utah,Utah,2013,Otheropioids,389,13.4
+Utah,Utah,2014,Otheropioids,397,13.5
+Utah,Utah,2015,Otheropioids,385,12.9
+Utah,Utah,2016,Otheropioids,349,11.4
+Utah,Utah,2017,Otheropioids,315,10.2
+Utah,Utah,2018,Otheropioids,306,9.7
+Utah,Utah,2019,Otheropioids,277,8.6
+Utah,Utah,2020,Otheropioids,235,7.2
+Utah,Utah,2021,Otheropioids,214,6.4
+Utah,Utah,2022,Otheropioids,191,5.7
+Utah,Utah,2022,Meth,266,8.0
+Utah,Utah,2022,Heroin,116,3.5
+Utah,Utah,2022,Fentanyl,210,6.3
+Kansas,Kansas,2001,Fentanyl,11,0.4
+Kansas,Kansas,2002,Fentanyl,18,0.7
+Kansas,Kansas,2004,Fentanyl,22,0.8
+Kansas,Kansas,2005,Fentanyl,17,0.6
+Kansas,Kansas,2006,Fentanyl,19,0.7
+Kansas,Kansas,2007,Fentanyl,19,0.7
+Kansas,Kansas,2008,Fentanyl,18,0.6
+Kansas,Kansas,2009,Fentanyl,35,1.2
+Kansas,Kansas,2010,Fentanyl,18,0.6
+Kansas,Kansas,2011,Fentanyl,23,0.8
+Kansas,Kansas,2012,Fentanyl,44,1.5
+Kansas,Kansas,2013,Fentanyl,37,1.3
+Kansas,Kansas,2014,Fentanyl,39,1.3
+Kansas,Kansas,2015,Fentanyl,36,1.2
+Kansas,Kansas,2016,Fentanyl,27,0.9
+Kansas,Kansas,2017,Fentanyl,32,1.1
+Kansas,Kansas,2018,Fentanyl,50,1.7
+Kansas,Kansas,2019,Fentanyl,75,2.6
+Kansas,Kansas,2020,Fentanyl,165,5.7
+Kansas,Kansas,2021,Fentanyl,351,12.0
+Kansas,Kansas,2009,Heroin,11,0.4
+Kansas,Kansas,2012,Heroin,16,0.6
+Kansas,Kansas,2013,Heroin,12,0.4
+Kansas,Kansas,2014,Heroin,19,0.7
+Kansas,Kansas,2015,Heroin,21,0.7
+Kansas,Kansas,2016,Heroin,32,1.1
+Kansas,Kansas,2017,Heroin,25,0.9
+Kansas,Kansas,2018,Heroin,33,1.1
+Kansas,Kansas,2019,Heroin,42,1.4
+Kansas,Kansas,2020,Heroin,36,1.2
+Kansas,Kansas,2021,Heroin,37,1.3
+Kansas,Kansas,2002,Meth,11,0.4
+Kansas,Kansas,2004,Meth,13,0.5
+Kansas,Kansas,2005,Meth,18,0.7
+Kansas,Kansas,2006,Meth,15,0.5
+Kansas,Kansas,2007,Meth,10,0.4
+Kansas,Kansas,2009,Meth,17,0.6
+Kansas,Kansas,2010,Meth,18,0.6
+Kansas,Kansas,2011,Meth,22,0.8
+Kansas,Kansas,2012,Meth,29,1.0
+Kansas,Kansas,2013,Meth,34,1.2
+Kansas,Kansas,2014,Meth,35,1.2
+Kansas,Kansas,2015,Meth,64,2.2
+Kansas,Kansas,2016,Meth,81,2.8
+Kansas,Kansas,2017,Meth,81,2.8
+Kansas,Kansas,2018,Meth,77,2.6
+Kansas,Kansas,2019,Meth,162,5.6
+Kansas,Kansas,2020,Meth,194,6.7
+Kansas,Kansas,2021,Meth,284,9.7
+Kansas,Kansas,1999,Otheropioids,14,0.5
+Kansas,Kansas,2000,Otheropioids,13,0.5
+Kansas,Kansas,2001,Otheropioids,31,1.1
+Kansas,Kansas,2002,Otheropioids,60,2.2
+Kansas,Kansas,2003,Otheropioids,59,2.2
+Kansas,Kansas,2004,Otheropioids,87,3.2
+Kansas,Kansas,2005,Otheropioids,91,3.3
+Kansas,Kansas,2006,Otheropioids,98,3.5
+Kansas,Kansas,2007,Otheropioids,101,3.6
+Kansas,Kansas,2008,Otheropioids,69,2.5
+Kansas,Kansas,2009,Otheropioids,102,3.6
+Kansas,Kansas,2010,Otheropioids,76,2.7
+Kansas,Kansas,2011,Otheropioids,92,3.2
+Kansas,Kansas,2012,Otheropioids,118,4.1
+Kansas,Kansas,2013,Otheropioids,115,4.0
+Kansas,Kansas,2014,Otheropioids,122,4.2
+Kansas,Kansas,2015,Otheropioids,97,3.3
+Kansas,Kansas,2016,Otheropioids,90,3.1
+Kansas,Kansas,2017,Otheropioids,89,3.1
+Kansas,Kansas,2018,Otheropioids,87,3.0
+Kansas,Kansas,2019,Otheropioids,85,2.9
+Kansas,Kansas,2020,Otheropioids,82,2.8
+Kansas,Kansas,2021,Otheropioids,115,3.9
+Kansas,Kansas,2022,Otheropioids,137,4.7
+Kansas,Kansas,2022,Meth,333,11.3
+Kansas,Kansas,2022,Heroin,17,0.6
+Kansas,Kansas,2022,Fentanyl,420,14.3
+Minnesota,Minnesota,2001,Fentanyl,12,0.2
+Minnesota,Minnesota,2003,Fentanyl,16,0.3
+Minnesota,Minnesota,2004,Fentanyl,17,0.3
+Minnesota,Minnesota,2005,Fentanyl,19,0.4
+Minnesota,Minnesota,2006,Fentanyl,28,0.5
+Minnesota,Minnesota,2007,Fentanyl,25,0.5
+Minnesota,Minnesota,2008,Fentanyl,32,0.6
+Minnesota,Minnesota,2009,Fentanyl,39,0.7
+Minnesota,Minnesota,2010,Fentanyl,37,0.7
+Minnesota,Minnesota,2011,Fentanyl,31,0.6
+Minnesota,Minnesota,2012,Fentanyl,40,0.7
+Minnesota,Minnesota,2013,Fentanyl,33,0.6
+Minnesota,Minnesota,2014,Fentanyl,44,0.8
+Minnesota,Minnesota,2015,Fentanyl,55,1.0
+Minnesota,Minnesota,2016,Fentanyl,99,1.8
+Minnesota,Minnesota,2017,Fentanyl,184,3.3
+Minnesota,Minnesota,2018,Fentanyl,202,3.6
+Minnesota,Minnesota,2019,Fentanyl,309,5.5
+Minnesota,Minnesota,2020,Fentanyl,560,9.9
+Minnesota,Minnesota,2021,Fentanyl,882,15.5
+Minnesota,Minnesota,2009,Heroin,16,0.3
+Minnesota,Minnesota,2010,Heroin,16,0.3
+Minnesota,Minnesota,2011,Heroin,44,0.8
+Minnesota,Minnesota,2012,Heroin,46,0.9
+Minnesota,Minnesota,2013,Heroin,92,1.7
+Minnesota,Minnesota,2014,Heroin,100,1.8
+Minnesota,Minnesota,2015,Heroin,115,2.1
+Minnesota,Minnesota,2016,Heroin,149,2.7
+Minnesota,Minnesota,2017,Heroin,111,2.0
+Minnesota,Minnesota,2018,Heroin,93,1.7
+Minnesota,Minnesota,2019,Heroin,106,1.9
+Minnesota,Minnesota,2020,Heroin,122,2.2
+Minnesota,Minnesota,2021,Heroin,104,1.8
+Minnesota,Minnesota,2002,Meth,11,0.2
+Minnesota,Minnesota,2003,Meth,12,0.2
+Minnesota,Minnesota,2005,Meth,19,0.4
+Minnesota,Minnesota,2006,Meth,13,0.3
+Minnesota,Minnesota,2008,Meth,14,0.3
+Minnesota,Minnesota,2010,Meth,18,0.3
+Minnesota,Minnesota,2011,Meth,26,0.5
+Minnesota,Minnesota,2012,Meth,48,0.9
+Minnesota,Minnesota,2013,Meth,40,0.7
+Minnesota,Minnesota,2014,Meth,66,1.2
+Minnesota,Minnesota,2015,Meth,82,1.5
+Minnesota,Minnesota,2016,Meth,140,2.5
+Minnesota,Minnesota,2017,Meth,161,2.9
+Minnesota,Minnesota,2018,Meth,167,3.0
+Minnesota,Minnesota,2019,Meth,242,4.3
+Minnesota,Minnesota,2020,Meth,338,6.0
+Minnesota,Minnesota,2021,Meth,474,8.3
+Minnesota,Minnesota,1999,Otheropioids,30,0.6
+Minnesota,Minnesota,2000,Otheropioids,19,0.4
+Minnesota,Minnesota,2001,Otheropioids,53,1.1
+Minnesota,Minnesota,2002,Otheropioids,56,1.1
+Minnesota,Minnesota,2003,Otheropioids,60,1.2
+Minnesota,Minnesota,2004,Otheropioids,90,1.8
+Minnesota,Minnesota,2005,Otheropioids,94,1.8
+Minnesota,Minnesota,2006,Otheropioids,103,2.0
+Minnesota,Minnesota,2007,Otheropioids,131,2.5
+Minnesota,Minnesota,2008,Otheropioids,146,2.8
+Minnesota,Minnesota,2009,Otheropioids,177,3.4
+Minnesota,Minnesota,2010,Otheropioids,155,2.9
+Minnesota,Minnesota,2011,Otheropioids,154,2.9
+Minnesota,Minnesota,2012,Otheropioids,162,3.0
+Minnesota,Minnesota,2013,Otheropioids,177,3.3
+Minnesota,Minnesota,2014,Otheropioids,179,3.3
+Minnesota,Minnesota,2015,Otheropioids,177,3.2
+Minnesota,Minnesota,2016,Otheropioids,195,3.5
+Minnesota,Minnesota,2017,Otheropioids,195,3.5
+Minnesota,Minnesota,2018,Otheropioids,136,2.4
+Minnesota,Minnesota,2019,Otheropioids,143,2.5
+Minnesota,Minnesota,2020,Otheropioids,213,3.8
+Minnesota,Minnesota,2021,Otheropioids,207,3.6
+Minnesota,Minnesota,2022,Otheropioids,180,3.2
+Minnesota,Minnesota,2022,Meth,516,9.0
+Minnesota,Minnesota,2022,Heroin,46,0.8
+Minnesota,Minnesota,2022,Fentanyl,949,16.6
+Nebraska,Nebraska,2001,Fentanyl,10,0.6
+Nebraska,Nebraska,2009,Fentanyl,11,0.6
+Nebraska,Nebraska,2010,Fentanyl,21,1.1
+Nebraska,Nebraska,2012,Fentanyl,10,0.5
+Nebraska,Nebraska,2014,Fentanyl,13,0.7
+Nebraska,Nebraska,2015,Fentanyl,13,0.7
+Nebraska,Nebraska,2016,Fentanyl,13,0.7
+Nebraska,Nebraska,2017,Fentanyl,25,1.3
+Nebraska,Nebraska,2018,Fentanyl,26,1.3
+Nebraska,Nebraska,2019,Fentanyl,27,1.4
+Nebraska,Nebraska,2020,Fentanyl,73,3.8
+Nebraska,Nebraska,2021,Fentanyl,90,4.6
+Nebraska,Nebraska,2019,Heroin,15,0.8
+Nebraska,Nebraska,2020,Heroin,20,1.0
+Nebraska,Nebraska,2011,Meth,15,0.8
+Nebraska,Nebraska,2012,Meth,16,0.9
+Nebraska,Nebraska,2013,Meth,12,0.6
+Nebraska,Nebraska,2014,Meth,16,0.9
+Nebraska,Nebraska,2015,Meth,27,1.4
+Nebraska,Nebraska,2016,Meth,18,0.9
+Nebraska,Nebraska,2017,Meth,38,2.0
+Nebraska,Nebraska,2018,Meth,32,1.7
+Nebraska,Nebraska,2019,Meth,51,2.6
+Nebraska,Nebraska,2020,Meth,68,3.5
+Nebraska,Nebraska,2021,Meth,62,3.2
+Nebraska,Nebraska,2001,Otheropioids,16,0.9
+Nebraska,Nebraska,2002,Otheropioids,15,0.9
+Nebraska,Nebraska,2003,Otheropioids,11,0.6
+Nebraska,Nebraska,2004,Otheropioids,21,1.2
+Nebraska,Nebraska,2005,Otheropioids,32,1.8
+Nebraska,Nebraska,2006,Otheropioids,26,1.5
+Nebraska,Nebraska,2007,Otheropioids,33,1.9
+Nebraska,Nebraska,2008,Otheropioids,23,1.3
+Nebraska,Nebraska,2009,Otheropioids,49,2.7
+Nebraska,Nebraska,2010,Otheropioids,44,2.4
+Nebraska,Nebraska,2011,Otheropioids,46,2.5
+Nebraska,Nebraska,2012,Otheropioids,44,2.4
+Nebraska,Nebraska,2013,Otheropioids,36,1.9
+Nebraska,Nebraska,2014,Otheropioids,37,2.0
+Nebraska,Nebraska,2015,Otheropioids,39,2.1
+Nebraska,Nebraska,2016,Otheropioids,28,1.5
+Nebraska,Nebraska,2017,Otheropioids,37,1.9
+Nebraska,Nebraska,2018,Otheropioids,41,2.1
+Nebraska,Nebraska,2019,Otheropioids,39,2.0
+Nebraska,Nebraska,2020,Otheropioids,35,1.8
+Nebraska,Nebraska,2021,Otheropioids,41,2.1
+Nebraska,Nebraska,2022,Otheropioids,38,1.9
+Nebraska,Nebraska,2022,Meth,75,3.8
+Nebraska,Nebraska,2022,Fentanyl,101,5.1
+Oregon,Oregon,2001,Fentanyl,15,0.4
+Oregon,Oregon,2002,Fentanyl,11,0.3
+Oregon,Oregon,2003,Fentanyl,11,0.3
+Oregon,Oregon,2004,Fentanyl,13,0.4
+Oregon,Oregon,2005,Fentanyl,22,0.6
+Oregon,Oregon,2006,Fentanyl,27,0.7
+Oregon,Oregon,2007,Fentanyl,18,0.5
+Oregon,Oregon,2008,Fentanyl,22,0.6
+Oregon,Oregon,2009,Fentanyl,30,0.8
+Oregon,Oregon,2010,Fentanyl,27,0.7
+Oregon,Oregon,2011,Fentanyl,29,0.7
+Oregon,Oregon,2012,Fentanyl,31,0.8
+Oregon,Oregon,2013,Fentanyl,27,0.7
+Oregon,Oregon,2014,Fentanyl,33,0.8
+Oregon,Oregon,2015,Fentanyl,34,0.8
+Oregon,Oregon,2016,Fentanyl,43,1.1
+Oregon,Oregon,2017,Fentanyl,85,2.1
+Oregon,Oregon,2018,Fentanyl,97,2.3
+Oregon,Oregon,2019,Fentanyl,95,2.3
+Oregon,Oregon,2020,Fentanyl,243,5.7
+Oregon,Oregon,2021,Fentanyl,536,12.6
+Oregon,Oregon,1999,Heroin,65,1.9
+Oregon,Oregon,2000,Heroin,31,0.9
+Oregon,Oregon,2001,Heroin,36,1.0
+Oregon,Oregon,2002,Heroin,42,1.2
+Oregon,Oregon,2003,Heroin,34,1.0
+Oregon,Oregon,2004,Heroin,47,1.3
+Oregon,Oregon,2005,Heroin,39,1.1
+Oregon,Oregon,2006,Heroin,60,1.6
+Oregon,Oregon,2007,Heroin,110,3.0
+Oregon,Oregon,2008,Heroin,93,2.5
+Oregon,Oregon,2009,Heroin,117,3.1
+Oregon,Oregon,2010,Heroin,81,2.1
+Oregon,Oregon,2011,Heroin,133,3.4
+Oregon,Oregon,2012,Heroin,129,3.3
+Oregon,Oregon,2013,Heroin,103,2.6
+Oregon,Oregon,2014,Heroin,124,3.1
+Oregon,Oregon,2015,Heroin,102,2.5
+Oregon,Oregon,2016,Heroin,114,2.8
+Oregon,Oregon,2017,Heroin,124,3.0
+Oregon,Oregon,2018,Heroin,154,3.7
+Oregon,Oregon,2019,Heroin,149,3.5
+Oregon,Oregon,2020,Heroin,196,4.6
+Oregon,Oregon,2021,Heroin,221,5.2
+Oregon,Oregon,1999,Meth,11,0.3
+Oregon,Oregon,2000,Meth,15,0.4
+Oregon,Oregon,2001,Meth,18,0.5
+Oregon,Oregon,2002,Meth,25,0.7
+Oregon,Oregon,2003,Meth,20,0.6
+Oregon,Oregon,2004,Meth,27,0.8
+Oregon,Oregon,2005,Meth,31,0.9
+Oregon,Oregon,2006,Meth,19,0.5
+Oregon,Oregon,2007,Meth,17,0.5
+Oregon,Oregon,2008,Meth,24,0.6
+Oregon,Oregon,2009,Meth,34,0.9
+Oregon,Oregon,2010,Meth,34,0.9
+Oregon,Oregon,2011,Meth,62,1.6
+Oregon,Oregon,2012,Meth,54,1.4
+Oregon,Oregon,2013,Meth,80,2.0
+Oregon,Oregon,2014,Meth,114,2.9
+Oregon,Oregon,2015,Meth,124,3.1
+Oregon,Oregon,2016,Meth,150,3.7
+Oregon,Oregon,2017,Meth,170,4.1
+Oregon,Oregon,2018,Meth,216,5.2
+Oregon,Oregon,2019,Meth,288,6.8
+Oregon,Oregon,2020,Meth,360,8.5
+Oregon,Oregon,2021,Meth,609,14.3
+Oregon,Oregon,1999,Otheropioids,34,1.0
+Oregon,Oregon,2000,Otheropioids,52,1.5
+Oregon,Oregon,2001,Otheropioids,85,2.5
+Oregon,Oregon,2002,Otheropioids,128,3.6
+Oregon,Oregon,2003,Otheropioids,160,4.5
+Oregon,Oregon,2004,Otheropioids,159,4.5
+Oregon,Oregon,2005,Otheropioids,191,5.3
+Oregon,Oregon,2006,Otheropioids,254,6.9
+Oregon,Oregon,2007,Otheropioids,222,6.0
+Oregon,Oregon,2008,Otheropioids,210,5.6
+Oregon,Oregon,2009,Otheropioids,221,5.8
+Oregon,Oregon,2010,Otheropioids,223,5.8
+Oregon,Oregon,2011,Otheropioids,239,6.2
+Oregon,Oregon,2012,Otheropioids,213,5.5
+Oregon,Oregon,2013,Otheropioids,168,4.3
+Oregon,Oregon,2014,Otheropioids,188,4.7
+Oregon,Oregon,2015,Otheropioids,198,4.9
+Oregon,Oregon,2016,Otheropioids,165,4.0
+Oregon,Oregon,2017,Otheropioids,154,3.7
+Oregon,Oregon,2018,Otheropioids,151,3.6
+Oregon,Oregon,2019,Otheropioids,127,3.0
+Oregon,Oregon,2020,Otheropioids,134,3.2
+Oregon,Oregon,2021,Otheropioids,210,4.9
+Oregon,Oregon,2022,Otheropioids,158,3.7
+Oregon,Oregon,2022,Meth,729,17.2
+Oregon,Oregon,2022,Heroin,114,2.7
+Oregon,Oregon,2022,Fentanyl,831,19.6
+Arkansas,Arkansas,2002,Fentanyl,24,0.9
+Arkansas,Arkansas,2003,Fentanyl,26,1.0
+Arkansas,Arkansas,2004,Fentanyl,30,1.1
+Arkansas,Arkansas,2005,Fentanyl,26,0.9
+Arkansas,Arkansas,2006,Fentanyl,31,1.1
+Arkansas,Arkansas,2007,Fentanyl,27,0.9
+Arkansas,Arkansas,2008,Fentanyl,43,1.5
+Arkansas,Arkansas,2009,Fentanyl,59,2.0
+Arkansas,Arkansas,2010,Fentanyl,57,2.0
+Arkansas,Arkansas,2011,Fentanyl,29,1.0
+Arkansas,Arkansas,2012,Fentanyl,20,0.7
+Arkansas,Arkansas,2013,Fentanyl,31,1.0
+Arkansas,Arkansas,2014,Fentanyl,32,1.1
+Arkansas,Arkansas,2015,Fentanyl,44,1.5
+Arkansas,Arkansas,2016,Fentanyl,38,1.3
+Arkansas,Arkansas,2017,Fentanyl,68,2.3
+Arkansas,Arkansas,2018,Fentanyl,92,3.1
+Arkansas,Arkansas,2019,Fentanyl,115,3.8
+Arkansas,Arkansas,2020,Fentanyl,195,6.4
+Arkansas,Arkansas,2021,Fentanyl,313,10.3
+Arkansas,Arkansas,2016,Heroin,13,0.4
+Arkansas,Arkansas,2017,Heroin,15,0.5
+Arkansas,Arkansas,2018,Heroin,19,0.6
+Arkansas,Arkansas,2019,Heroin,33,1.1
+Arkansas,Arkansas,2020,Heroin,21,0.7
+Arkansas,Arkansas,2021,Heroin,12,0.4
+Arkansas,Arkansas,1999,Meth,13,0.5
+Arkansas,Arkansas,2000,Meth,13,0.5
+Arkansas,Arkansas,2002,Meth,13,0.5
+Arkansas,Arkansas,2003,Meth,21,0.8
+Arkansas,Arkansas,2004,Meth,17,0.6
+Arkansas,Arkansas,2005,Meth,25,0.9
+Arkansas,Arkansas,2006,Meth,25,0.9
+Arkansas,Arkansas,2007,Meth,23,0.8
+Arkansas,Arkansas,2008,Meth,26,0.9
+Arkansas,Arkansas,2009,Meth,35,1.2
+Arkansas,Arkansas,2010,Meth,31,1.1
+Arkansas,Arkansas,2011,Meth,38,1.3
+Arkansas,Arkansas,2012,Meth,42,1.4
+Arkansas,Arkansas,2013,Meth,45,1.5
+Arkansas,Arkansas,2014,Meth,59,2.0
+Arkansas,Arkansas,2015,Meth,56,1.9
+Arkansas,Arkansas,2016,Meth,70,2.3
+Arkansas,Arkansas,2017,Meth,87,2.9
+Arkansas,Arkansas,2018,Meth,118,3.9
+Arkansas,Arkansas,2019,Meth,126,4.2
+Arkansas,Arkansas,2020,Meth,232,7.7
+Arkansas,Arkansas,2021,Meth,250,8.3
+Arkansas,Arkansas,1999,Otheropioids,16,0.6
+Arkansas,Arkansas,2000,Otheropioids,10,0.4
+Arkansas,Arkansas,2001,Otheropioids,23,0.9
+Arkansas,Arkansas,2002,Otheropioids,63,2.3
+Arkansas,Arkansas,2003,Otheropioids,74,2.7
+Arkansas,Arkansas,2004,Otheropioids,98,3.6
+Arkansas,Arkansas,2005,Otheropioids,100,3.6
+Arkansas,Arkansas,2006,Otheropioids,120,4.3
+Arkansas,Arkansas,2007,Otheropioids,132,4.6
+Arkansas,Arkansas,2008,Otheropioids,172,6.0
+Arkansas,Arkansas,2009,Otheropioids,168,5.8
+Arkansas,Arkansas,2010,Otheropioids,148,5.1
+Arkansas,Arkansas,2011,Otheropioids,143,4.9
+Arkansas,Arkansas,2012,Otheropioids,151,5.1
+Arkansas,Arkansas,2013,Otheropioids,135,4.6
+Arkansas,Arkansas,2014,Otheropioids,139,4.7
+Arkansas,Arkansas,2015,Otheropioids,160,5.4
+Arkansas,Arkansas,2016,Otheropioids,132,4.4
+Arkansas,Arkansas,2017,Otheropioids,125,4.2
+Arkansas,Arkansas,2018,Otheropioids,119,3.9
+Arkansas,Arkansas,2019,Otheropioids,98,3.2
+Arkansas,Arkansas,2020,Otheropioids,105,3.5
+Arkansas,Arkansas,2021,Otheropioids,111,3.7
+Arkansas,Arkansas,2022,Otheropioids,116,3.8
+Arkansas,Arkansas,2022,Meth,259,8.6
+Arkansas,Arkansas,2022,Fentanyl,315,10.4
+Iowa,Iowa,2002,Fentanyl,10,0.3
+Iowa,Iowa,2003,Fentanyl,12,0.4
+Iowa,Iowa,2004,Fentanyl,13,0.4
+Iowa,Iowa,2006,Fentanyl,16,0.5
+Iowa,Iowa,2007,Fentanyl,18,0.6
+Iowa,Iowa,2008,Fentanyl,25,0.8
+Iowa,Iowa,2009,Fentanyl,35,1.2
+Iowa,Iowa,2010,Fentanyl,43,1.4
+Iowa,Iowa,2011,Fentanyl,29,0.9
+Iowa,Iowa,2012,Fentanyl,36,1.2
+Iowa,Iowa,2013,Fentanyl,32,1.0
+Iowa,Iowa,2014,Fentanyl,29,0.9
+Iowa,Iowa,2015,Fentanyl,44,1.4
+Iowa,Iowa,2016,Fentanyl,58,1.9
+Iowa,Iowa,2017,Fentanyl,92,2.9
+Iowa,Iowa,2018,Fentanyl,80,2.5
+Iowa,Iowa,2019,Fentanyl,102,3.2
+Iowa,Iowa,2020,Fentanyl,172,5.4
+Iowa,Iowa,2021,Fentanyl,211,6.6
+Iowa,Iowa,2008,Heroin,10,0.3
+Iowa,Iowa,2011,Heroin,14,0.5
+Iowa,Iowa,2012,Heroin,14,0.5
+Iowa,Iowa,2013,Heroin,31,1.0
+Iowa,Iowa,2014,Heroin,37,1.2
+Iowa,Iowa,2015,Heroin,45,1.4
+Iowa,Iowa,2016,Heroin,47,1.5
+Iowa,Iowa,2017,Heroin,61,1.9
+Iowa,Iowa,2018,Heroin,37,1.2
+Iowa,Iowa,2019,Heroin,45,1.4
+Iowa,Iowa,2020,Heroin,55,1.7
+Iowa,Iowa,2021,Heroin,39,1.2
+Iowa,Iowa,2001,Meth,10,0.3
+Iowa,Iowa,2003,Meth,13,0.4
+Iowa,Iowa,2005,Meth,15,0.5
+Iowa,Iowa,2006,Meth,19,0.6
+Iowa,Iowa,2007,Meth,12,0.4
+Iowa,Iowa,2009,Meth,15,0.5
+Iowa,Iowa,2010,Meth,25,0.8
+Iowa,Iowa,2011,Meth,12,0.4
+Iowa,Iowa,2012,Meth,29,0.9
+Iowa,Iowa,2013,Meth,47,1.5
+Iowa,Iowa,2014,Meth,38,1.2
+Iowa,Iowa,2015,Meth,63,2.0
+Iowa,Iowa,2016,Meth,80,2.6
+Iowa,Iowa,2017,Meth,93,3.0
+Iowa,Iowa,2018,Meth,97,3.1
+Iowa,Iowa,2019,Meth,159,5.0
+Iowa,Iowa,2020,Meth,166,5.2
+Iowa,Iowa,2021,Meth,201,6.3
+Iowa,Iowa,2001,Otheropioids,17,0.6
+Iowa,Iowa,2002,Otheropioids,23,0.8
+Iowa,Iowa,2003,Otheropioids,21,0.7
+Iowa,Iowa,2004,Otheropioids,45,1.5
+Iowa,Iowa,2005,Otheropioids,53,1.8
+Iowa,Iowa,2006,Otheropioids,69,2.3
+Iowa,Iowa,2007,Otheropioids,85,2.8
+Iowa,Iowa,2008,Otheropioids,98,3.2
+Iowa,Iowa,2009,Otheropioids,104,3.4
+Iowa,Iowa,2010,Otheropioids,105,3.4
+Iowa,Iowa,2011,Otheropioids,118,3.9
+Iowa,Iowa,2012,Otheropioids,132,4.3
+Iowa,Iowa,2013,Otheropioids,125,4.0
+Iowa,Iowa,2014,Otheropioids,93,3.0
+Iowa,Iowa,2015,Otheropioids,92,2.9
+Iowa,Iowa,2016,Otheropioids,92,2.9
+Iowa,Iowa,2017,Otheropioids,104,3.3
+Iowa,Iowa,2018,Otheropioids,64,2.0
+Iowa,Iowa,2019,Otheropioids,60,1.9
+Iowa,Iowa,2020,Otheropioids,64,2.0
+Iowa,Iowa,2021,Otheropioids,80,2.5
+Iowa,Iowa,2022,Otheropioids,57,1.8
+Iowa,Iowa,2022,Meth,208,6.5
+Iowa,Iowa,2022,Heroin,26,0.8
+Iowa,Iowa,2022,Fentanyl,202,6.3
+Maine,Maine,2002,Fentanyl,12,0.9
+Maine,Maine,2003,Fentanyl,11,0.8
+Maine,Maine,2008,Fentanyl,15,1.1
+Maine,Maine,2009,Fentanyl,16,1.2
+Maine,Maine,2010,Fentanyl,21,1.6
+Maine,Maine,2011,Fentanyl,19,1.4
+Maine,Maine,2012,Fentanyl,15,1.1
+Maine,Maine,2013,Fentanyl,23,1.7
+Maine,Maine,2014,Fentanyl,62,4.7
+Maine,Maine,2015,Fentanyl,116,8.7
+Maine,Maine,2016,Fentanyl,199,14.9
+Maine,Maine,2017,Fentanyl,278,20.8
+Maine,Maine,2018,Fentanyl,229,17.1
+Maine,Maine,2019,Fentanyl,283,21.1
+Maine,Maine,2020,Fentanyl,365,27.0
+Maine,Maine,2021,Fentanyl,497,36.2
+Maine,Maine,2012,Heroin,12,0.9
+Maine,Maine,2013,Heroin,16,1.2
+Maine,Maine,2014,Heroin,38,2.9
+Maine,Maine,2015,Heroin,52,3.9
+Maine,Maine,2016,Heroin,55,4.1
+Maine,Maine,2017,Heroin,76,5.7
+Maine,Maine,2018,Heroin,71,5.3
+Maine,Maine,2019,Heroin,58,4.3
+Maine,Maine,2020,Heroin,51,3.8
+Maine,Maine,2021,Heroin,21,1.5
+Maine,Maine,2012,Meth,10,0.8
+Maine,Maine,2013,Meth,12,0.9
+Maine,Maine,2014,Meth,16,1.2
+Maine,Maine,2015,Meth,21,1.6
+Maine,Maine,2016,Meth,28,2.1
+Maine,Maine,2017,Meth,44,3.3
+Maine,Maine,2018,Meth,40,3.0
+Maine,Maine,2019,Meth,65,4.8
+Maine,Maine,2020,Meth,118,8.7
+Maine,Maine,2021,Meth,188,13.7
+Maine,Maine,1999,Otheropioids,11,0.9
+Maine,Maine,2000,Otheropioids,27,2.1
+Maine,Maine,2001,Otheropioids,30,2.3
+Maine,Maine,2002,Otheropioids,62,4.8
+Maine,Maine,2003,Otheropioids,63,4.8
+Maine,Maine,2004,Otheropioids,82,6.2
+Maine,Maine,2005,Otheropioids,96,7.3
+Maine,Maine,2006,Otheropioids,84,6.3
+Maine,Maine,2007,Otheropioids,89,6.7
+Maine,Maine,2008,Otheropioids,87,6.5
+Maine,Maine,2009,Otheropioids,99,7.4
+Maine,Maine,2010,Otheropioids,78,5.9
+Maine,Maine,2011,Otheropioids,67,5.0
+Maine,Maine,2012,Otheropioids,78,5.9
+Maine,Maine,2013,Otheropioids,92,6.9
+Maine,Maine,2014,Otheropioids,101,7.6
+Maine,Maine,2015,Otheropioids,124,9.3
+Maine,Maine,2016,Otheropioids,154,11.6
+Maine,Maine,2017,Otheropioids,100,7.5
+Maine,Maine,2018,Otheropioids,69,5.2
+Maine,Maine,2019,Otheropioids,73,5.4
+Maine,Maine,2020,Otheropioids,92,6.8
+Maine,Maine,2021,Otheropioids,104,7.6
+Maine,Maine,2022,Otheropioids,117,8.5
+Maine,Maine,2022,Meth,228,16.6
+Maine,Maine,2022,Heroin,19,1.4
+Maine,Maine,2022,Fentanyl,568,41.4
+Maryland,Maryland,2003,Fentanyl,11,0.2
+Maryland,Maryland,2004,Fentanyl,16,0.3
+Maryland,Maryland,2005,Fentanyl,21,0.4
+Maryland,Maryland,2006,Fentanyl,53,0.9
+Maryland,Maryland,2007,Fentanyl,35,0.6
+Maryland,Maryland,2008,Fentanyl,35,0.6
+Maryland,Maryland,2009,Fentanyl,52,0.9
+Maryland,Maryland,2010,Fentanyl,51,0.9
+Maryland,Maryland,2011,Fentanyl,56,1.0
+Maryland,Maryland,2012,Fentanyl,52,0.9
+Maryland,Maryland,2013,Fentanyl,93,1.6
+Maryland,Maryland,2014,Fentanyl,230,3.8
+Maryland,Maryland,2015,Fentanyl,357,5.9
+Maryland,Maryland,2016,Fentanyl,1091,18.1
+Maryland,Maryland,2017,Fentanyl,1542,25.5
+Maryland,Maryland,2018,Fentanyl,1825,30.2
+Maryland,Maryland,2019,Fentanyl,1917,31.7
+Maryland,Maryland,2020,Fentanyl,2326,38.4
+Maryland,Maryland,2021,Fentanyl,2301,37.3
+Maryland,Maryland,2002,Heroin,27,0.5
+Maryland,Maryland,2003,Heroin,29,0.5
+Maryland,Maryland,2004,Heroin,75,1.4
+Maryland,Maryland,2005,Heroin,79,1.4
+Maryland,Maryland,2006,Heroin,111,2.0
+Maryland,Maryland,2007,Heroin,129,2.3
+Maryland,Maryland,2008,Heroin,105,1.8
+Maryland,Maryland,2009,Heroin,156,2.7
+Maryland,Maryland,2010,Heroin,94,1.6
+Maryland,Maryland,2011,Heroin,103,1.8
+Maryland,Maryland,2012,Heroin,173,2.9
+Maryland,Maryland,2013,Heroin,217,3.7
+Maryland,Maryland,2014,Heroin,313,5.2
+Maryland,Maryland,2015,Heroin,405,6.7
+Maryland,Maryland,2016,Heroin,650,10.8
+Maryland,Maryland,2017,Heroin,522,8.6
+Maryland,Maryland,2018,Heroin,356,5.9
+Maryland,Maryland,2019,Heroin,209,3.5
+Maryland,Maryland,2020,Heroin,126,2.1
+Maryland,Maryland,2021,Heroin,61,1.0
+Maryland,Maryland,2013,Meth,16,0.3
+Maryland,Maryland,2014,Meth,16,0.3
+Maryland,Maryland,2015,Meth,26,0.4
+Maryland,Maryland,2016,Meth,43,0.7
+Maryland,Maryland,2017,Meth,65,1.1
+Maryland,Maryland,2018,Meth,65,1.1
+Maryland,Maryland,2019,Meth,79,1.3
+Maryland,Maryland,2020,Meth,137,2.3
+Maryland,Maryland,2021,Meth,136,2.2
+Maryland,Maryland,1999,Otheropioids,11,0.2
+Maryland,Maryland,2000,Otheropioids,38,0.7
+Maryland,Maryland,2001,Otheropioids,42,0.8
+Maryland,Maryland,2002,Otheropioids,49,0.9
+Maryland,Maryland,2003,Otheropioids,65,1.2
+Maryland,Maryland,2004,Otheropioids,160,2.9
+Maryland,Maryland,2005,Otheropioids,213,3.8
+Maryland,Maryland,2006,Otheropioids,266,4.7
+Maryland,Maryland,2007,Otheropioids,308,5.4
+Maryland,Maryland,2008,Otheropioids,299,5.3
+Maryland,Maryland,2009,Otheropioids,303,5.3
+Maryland,Maryland,2010,Otheropioids,341,5.9
+Maryland,Maryland,2011,Otheropioids,377,6.5
+Maryland,Maryland,2012,Otheropioids,398,6.8
+Maryland,Maryland,2013,Otheropioids,416,7.0
+Maryland,Maryland,2014,Otheropioids,503,8.4
+Maryland,Maryland,2015,Otheropioids,534,8.9
+Maryland,Maryland,2016,Otheropioids,812,13.5
+Maryland,Maryland,2017,Otheropioids,711,11.7
+Maryland,Maryland,2018,Otheropioids,576,9.5
+Maryland,Maryland,2019,Otheropioids,589,9.7
+Maryland,Maryland,2020,Otheropioids,589,9.7
+Maryland,Maryland,2021,Otheropioids,524,8.5
+Maryland,Maryland,2022,Otheropioids,415,6.7
+Maryland,Maryland,2022,Meth,141,2.3
+Maryland,Maryland,2022,Heroin,25,0.4
+Maryland,Maryland,2022,Fentanyl,2078,33.7
+New Hampshire,New Hampshire,2003,Fentanyl,11,0.9
+New Hampshire,New Hampshire,2005,Fentanyl,11,0.8
+New Hampshire,New Hampshire,2006,Fentanyl,14,1.1
+New Hampshire,New Hampshire,2007,Fentanyl,16,1.2
+New Hampshire,New Hampshire,2008,Fentanyl,14,1.1
+New Hampshire,New Hampshire,2009,Fentanyl,22,1.7
+New Hampshire,New Hampshire,2010,Fentanyl,22,1.7
+New Hampshire,New Hampshire,2011,Fentanyl,27,2.0
+New Hampshire,New Hampshire,2012,Fentanyl,24,1.8
+New Hampshire,New Hampshire,2013,Fentanyl,30,2.3
+New Hampshire,New Hampshire,2014,Fentanyl,151,11.4
+New Hampshire,New Hampshire,2015,Fentanyl,285,21.4
+New Hampshire,New Hampshire,2016,Fentanyl,363,27.2
+New Hampshire,New Hampshire,2017,Fentanyl,374,27.9
+New Hampshire,New Hampshire,2018,Fentanyl,386,28.5
+New Hampshire,New Hampshire,2019,Fentanyl,343,25.2
+New Hampshire,New Hampshire,2020,Fentanyl,318,23.3
+New Hampshire,New Hampshire,2021,Fentanyl,349,25.1
+New Hampshire,New Hampshire,2008,Heroin,11,0.8
+New Hampshire,New Hampshire,2009,Heroin,24,1.8
+New Hampshire,New Hampshire,2010,Heroin,13,1.0
+New Hampshire,New Hampshire,2011,Heroin,42,3.2
+New Hampshire,New Hampshire,2012,Heroin,39,3.0
+New Hampshire,New Hampshire,2013,Heroin,67,5.1
+New Hampshire,New Hampshire,2014,Heroin,98,7.4
+New Hampshire,New Hampshire,2015,Heroin,78,5.9
+New Hampshire,New Hampshire,2016,Heroin,34,2.5
+New Hampshire,New Hampshire,2017,Heroin,28,2.1
+New Hampshire,New Hampshire,2018,Heroin,12,0.9
+New Hampshire,New Hampshire,2016,Meth,13,1.0
+New Hampshire,New Hampshire,2017,Meth,26,1.9
+New Hampshire,New Hampshire,2018,Meth,32,2.4
+New Hampshire,New Hampshire,2019,Meth,59,4.3
+New Hampshire,New Hampshire,2020,Meth,66,4.8
+New Hampshire,New Hampshire,2021,Meth,70,5.0
+New Hampshire,New Hampshire,1999,Otheropioids,18,1.5
+New Hampshire,New Hampshire,2000,Otheropioids,15,1.2
+New Hampshire,New Hampshire,2001,Otheropioids,29,2.3
+New Hampshire,New Hampshire,2002,Otheropioids,45,3.5
+New Hampshire,New Hampshire,2003,Otheropioids,53,4.1
+New Hampshire,New Hampshire,2004,Otheropioids,52,4.0
+New Hampshire,New Hampshire,2005,Otheropioids,66,5.1
+New Hampshire,New Hampshire,2006,Otheropioids,69,5.3
+New Hampshire,New Hampshire,2007,Otheropioids,109,8.3
+New Hampshire,New Hampshire,2008,Otheropioids,66,5.0
+New Hampshire,New Hampshire,2009,Otheropioids,82,6.2
+New Hampshire,New Hampshire,2010,Otheropioids,81,6.2
+New Hampshire,New Hampshire,2011,Otheropioids,91,6.9
+New Hampshire,New Hampshire,2012,Otheropioids,73,5.5
+New Hampshire,New Hampshire,2013,Otheropioids,71,5.4
+New Hampshire,New Hampshire,2014,Otheropioids,103,7.8
+New Hampshire,New Hampshire,2015,Otheropioids,80,6.0
+New Hampshire,New Hampshire,2016,Otheropioids,89,6.7
+New Hampshire,New Hampshire,2017,Otheropioids,62,4.6
+New Hampshire,New Hampshire,2018,Otheropioids,43,3.2
+New Hampshire,New Hampshire,2019,Otheropioids,45,3.3
+New Hampshire,New Hampshire,2020,Otheropioids,44,3.2
+New Hampshire,New Hampshire,2021,Otheropioids,49,3.5
+New Hampshire,New Hampshire,2022,Otheropioids,27,1.9
+New Hampshire,New Hampshire,2022,Meth,106,7.6
+New Hampshire,New Hampshire,2022,Fentanyl,415,29.9
+Vermont,Vermont,2003,Fentanyl,10,1.6
+Vermont,Vermont,2004,Fentanyl,11,1.8
+Vermont,Vermont,2006,Fentanyl,15,2.4
+Vermont,Vermont,2007,Fentanyl,15,2.4
+Vermont,Vermont,2008,Fentanyl,14,2.2
+Vermont,Vermont,2011,Fentanyl,12,1.9
+Vermont,Vermont,2013,Fentanyl,17,2.7
+Vermont,Vermont,2014,Fentanyl,21,3.4
+Vermont,Vermont,2015,Fentanyl,33,5.3
+Vermont,Vermont,2016,Fentanyl,53,8.5
+Vermont,Vermont,2017,Fentanyl,77,12.3
+Vermont,Vermont,2018,Fentanyl,106,16.9
+Vermont,Vermont,2019,Fentanyl,100,16.0
+Vermont,Vermont,2020,Fentanyl,137,22.0
+Vermont,Vermont,2021,Fentanyl,203,31.4
+Vermont,Vermont,2012,Heroin,10,1.6
+Vermont,Vermont,2013,Heroin,20,3.2
+Vermont,Vermont,2014,Heroin,33,5.3
+Vermont,Vermont,2015,Heroin,33,5.3
+Vermont,Vermont,2016,Heroin,45,7.2
+Vermont,Vermont,2017,Heroin,41,6.6
+Vermont,Vermont,2018,Heroin,68,10.9
+Vermont,Vermont,2019,Heroin,40,6.4
+Vermont,Vermont,2020,Heroin,39,6.3
+Vermont,Vermont,2021,Heroin,23,3.6
+Vermont,Vermont,2020,Meth,22,3.5
+Vermont,Vermont,2021,Meth,30,4.6
+Vermont,Vermont,2000,Otheropioids,16,2.6
+Vermont,Vermont,2001,Otheropioids,21,3.4
+Vermont,Vermont,2002,Otheropioids,24,3.9
+Vermont,Vermont,2003,Otheropioids,39,6.3
+Vermont,Vermont,2004,Otheropioids,28,4.5
+Vermont,Vermont,2005,Otheropioids,31,5.0
+Vermont,Vermont,2006,Otheropioids,47,7.5
+Vermont,Vermont,2007,Otheropioids,38,6.1
+Vermont,Vermont,2008,Otheropioids,42,6.7
+Vermont,Vermont,2009,Otheropioids,32,5.1
+Vermont,Vermont,2010,Otheropioids,36,5.8
+Vermont,Vermont,2011,Otheropioids,37,5.9
+Vermont,Vermont,2012,Otheropioids,39,6.2
+Vermont,Vermont,2013,Otheropioids,45,7.2
+Vermont,Vermont,2014,Otheropioids,26,4.1
+Vermont,Vermont,2015,Otheropioids,32,5.1
+Vermont,Vermont,2016,Otheropioids,35,5.6
+Vermont,Vermont,2017,Otheropioids,40,6.4
+Vermont,Vermont,2018,Otheropioids,27,4.3
+Vermont,Vermont,2019,Otheropioids,29,4.6
+Vermont,Vermont,2020,Otheropioids,39,6.3
+Vermont,Vermont,2021,Otheropioids,47,7.3
+Vermont,Vermont,2022,Otheropioids,44,6.8
+Vermont,Vermont,2022,Meth,26,4.0
+Vermont,Vermont,2022,Heroin,23,3.6
+Vermont,Vermont,2022,Fentanyl,226,35.0
+Connecticut,Connecticut,2004,Fentanyl,10,0.3
+Connecticut,Connecticut,2005,Fentanyl,10,0.3
+Connecticut,Connecticut,2006,Fentanyl,11,0.3
+Connecticut,Connecticut,2007,Fentanyl,22,0.6
+Connecticut,Connecticut,2008,Fentanyl,16,0.5
+Connecticut,Connecticut,2009,Fentanyl,20,0.6
+Connecticut,Connecticut,2010,Fentanyl,22,0.6
+Connecticut,Connecticut,2011,Fentanyl,13,0.4
+Connecticut,Connecticut,2012,Fentanyl,15,0.4
+Connecticut,Connecticut,2013,Fentanyl,53,1.5
+Connecticut,Connecticut,2014,Fentanyl,94,2.6
+Connecticut,Connecticut,2015,Fentanyl,211,5.9
+Connecticut,Connecticut,2016,Fentanyl,500,14.0
+Connecticut,Connecticut,2017,Fentanyl,686,19.1
+Connecticut,Connecticut,2018,Fentanyl,767,21.5
+Connecticut,Connecticut,2019,Fentanyl,950,26.6
+Connecticut,Connecticut,2020,Fentanyl,1142,32.1
+Connecticut,Connecticut,2021,Fentanyl,1285,35.6
+Connecticut,Connecticut,1999,Heroin,96,2.8
+Connecticut,Connecticut,2000,Heroin,110,3.2
+Connecticut,Connecticut,2001,Heroin,95,2.8
+Connecticut,Connecticut,2002,Heroin,88,2.5
+Connecticut,Connecticut,2003,Heroin,109,3.1
+Connecticut,Connecticut,2004,Heroin,92,2.6
+Connecticut,Connecticut,2005,Heroin,74,2.1
+Connecticut,Connecticut,2006,Heroin,87,2.5
+Connecticut,Connecticut,2007,Heroin,118,3.3
+Connecticut,Connecticut,2008,Heroin,109,3.1
+Connecticut,Connecticut,2009,Heroin,99,2.8
+Connecticut,Connecticut,2010,Heroin,77,2.2
+Connecticut,Connecticut,2011,Heroin,85,2.4
+Connecticut,Connecticut,2012,Heroin,98,2.7
+Connecticut,Connecticut,2013,Heroin,227,6.3
+Connecticut,Connecticut,2014,Heroin,299,8.3
+Connecticut,Connecticut,2015,Heroin,390,10.9
+Connecticut,Connecticut,2016,Heroin,450,12.6
+Connecticut,Connecticut,2017,Heroin,425,11.8
+Connecticut,Connecticut,2018,Heroin,338,9.5
+Connecticut,Connecticut,2019,Heroin,339,9.5
+Connecticut,Connecticut,2020,Heroin,209,5.9
+Connecticut,Connecticut,2021,Heroin,117,3.2
+Connecticut,Connecticut,2014,Meth,15,0.4
+Connecticut,Connecticut,2015,Meth,22,0.6
+Connecticut,Connecticut,2016,Meth,25,0.7
+Connecticut,Connecticut,2017,Meth,39,1.1
+Connecticut,Connecticut,2018,Meth,70,2.0
+Connecticut,Connecticut,2019,Meth,70,2.0
+Connecticut,Connecticut,2020,Meth,94,2.6
+Connecticut,Connecticut,2021,Meth,90,2.5
+Connecticut,Connecticut,1999,Otheropioids,23,0.7
+Connecticut,Connecticut,2000,Otheropioids,24,0.7
+Connecticut,Connecticut,2001,Otheropioids,30,0.9
+Connecticut,Connecticut,2002,Otheropioids,49,1.4
+Connecticut,Connecticut,2003,Otheropioids,42,1.2
+Connecticut,Connecticut,2004,Otheropioids,71,2.0
+Connecticut,Connecticut,2005,Otheropioids,60,1.7
+Connecticut,Connecticut,2006,Otheropioids,94,2.7
+Connecticut,Connecticut,2007,Otheropioids,87,2.5
+Connecticut,Connecticut,2008,Otheropioids,84,2.4
+Connecticut,Connecticut,2009,Otheropioids,72,2.0
+Connecticut,Connecticut,2010,Otheropioids,82,2.3
+Connecticut,Connecticut,2011,Otheropioids,75,2.1
+Connecticut,Connecticut,2012,Otheropioids,60,1.7
+Connecticut,Connecticut,2013,Otheropioids,182,5.1
+Connecticut,Connecticut,2014,Otheropioids,195,5.4
+Connecticut,Connecticut,2015,Otheropioids,243,6.8
+Connecticut,Connecticut,2016,Otheropioids,264,7.4
+Connecticut,Connecticut,2017,Otheropioids,273,7.6
+Connecticut,Connecticut,2018,Otheropioids,231,6.5
+Connecticut,Connecticut,2019,Otheropioids,283,7.9
+Connecticut,Connecticut,2020,Otheropioids,311,8.7
+Connecticut,Connecticut,2021,Otheropioids,301,8.3
+Connecticut,Connecticut,2022,Otheropioids,304,8.4
+Connecticut,Connecticut,2022,Meth,79,2.2
+Connecticut,Connecticut,2022,Heroin,97,2.7
+Connecticut,Connecticut,2022,Fentanyl,1253,34.8
+Louisiana,Louisiana,2004,Fentanyl,13,0.3
+Louisiana,Louisiana,2006,Fentanyl,14,0.3
+Louisiana,Louisiana,2007,Fentanyl,21,0.5
+Louisiana,Louisiana,2008,Fentanyl,10,0.2
+Louisiana,Louisiana,2009,Fentanyl,16,0.4
+Louisiana,Louisiana,2010,Fentanyl,21,0.5
+Louisiana,Louisiana,2011,Fentanyl,20,0.4
+Louisiana,Louisiana,2012,Fentanyl,19,0.4
+Louisiana,Louisiana,2013,Fentanyl,26,0.6
+Louisiana,Louisiana,2014,Fentanyl,29,0.6
+Louisiana,Louisiana,2015,Fentanyl,38,0.8
+Louisiana,Louisiana,2016,Fentanyl,89,1.9
+Louisiana,Louisiana,2017,Fentanyl,156,3.3
+Louisiana,Louisiana,2018,Fentanyl,216,4.6
+Louisiana,Louisiana,2019,Fentanyl,324,7.0
+Louisiana,Louisiana,2020,Fentanyl,706,15.2
+Louisiana,Louisiana,2021,Fentanyl,1174,25.4
+Louisiana,Louisiana,2006,Heroin,14,0.3
+Louisiana,Louisiana,2008,Heroin,14,0.3
+Louisiana,Louisiana,2009,Heroin,11,0.2
+Louisiana,Louisiana,2010,Heroin,14,0.3
+Louisiana,Louisiana,2011,Heroin,17,0.4
+Louisiana,Louisiana,2012,Heroin,51,1.1
+Louisiana,Louisiana,2013,Heroin,121,2.6
+Louisiana,Louisiana,2014,Heroin,107,2.3
+Louisiana,Louisiana,2015,Heroin,126,2.7
+Louisiana,Louisiana,2016,Heroin,149,3.2
+Louisiana,Louisiana,2017,Heroin,162,3.5
+Louisiana,Louisiana,2018,Heroin,167,3.6
+Louisiana,Louisiana,2019,Heroin,222,4.8
+Louisiana,Louisiana,2020,Heroin,264,5.7
+Louisiana,Louisiana,2021,Heroin,155,3.4
+Louisiana,Louisiana,2007,Meth,12,0.3
+Louisiana,Louisiana,2009,Meth,13,0.3
+Louisiana,Louisiana,2013,Meth,34,0.7
+Louisiana,Louisiana,2014,Meth,38,0.8
+Louisiana,Louisiana,2015,Meth,43,0.9
+Louisiana,Louisiana,2016,Meth,79,1.7
+Louisiana,Louisiana,2017,Meth,100,2.1
+Louisiana,Louisiana,2018,Meth,137,2.9
+Louisiana,Louisiana,2019,Meth,214,4.6
+Louisiana,Louisiana,2020,Meth,382,8.2
+Louisiana,Louisiana,2021,Meth,619,13.4
+Louisiana,Louisiana,1999,Otheropioids,14,0.3
+Louisiana,Louisiana,2000,Otheropioids,28,0.6
+Louisiana,Louisiana,2001,Otheropioids,59,1.3
+Louisiana,Louisiana,2002,Otheropioids,71,1.6
+Louisiana,Louisiana,2003,Otheropioids,98,2.2
+Louisiana,Louisiana,2004,Otheropioids,118,2.6
+Louisiana,Louisiana,2005,Otheropioids,142,3.1
+Louisiana,Louisiana,2006,Otheropioids,158,3.7
+Louisiana,Louisiana,2007,Otheropioids,176,4.0
+Louisiana,Louisiana,2008,Otheropioids,97,2.2
+Louisiana,Louisiana,2009,Otheropioids,74,1.6
+Louisiana,Louisiana,2010,Otheropioids,83,1.8
+Louisiana,Louisiana,2011,Otheropioids,70,1.5
+Louisiana,Louisiana,2012,Otheropioids,97,2.1
+Louisiana,Louisiana,2013,Otheropioids,103,2.2
+Louisiana,Louisiana,2014,Otheropioids,107,2.3
+Louisiana,Louisiana,2015,Otheropioids,120,2.6
+Louisiana,Louisiana,2016,Otheropioids,124,2.6
+Louisiana,Louisiana,2017,Otheropioids,168,3.6
+Louisiana,Louisiana,2018,Otheropioids,144,3.1
+Louisiana,Louisiana,2019,Otheropioids,188,4.0
+Louisiana,Louisiana,2020,Otheropioids,269,5.8
+Louisiana,Louisiana,2021,Otheropioids,316,6.8
+Louisiana,Louisiana,2022,Otheropioids,310,6.7
+Louisiana,Louisiana,2022,Meth,644,13.9
+Louisiana,Louisiana,2022,Heroin,52,1.1
+Louisiana,Louisiana,2022,Fentanyl,1196,25.9
+Rhode Island,Rhode Island,2004,Fentanyl,10,0.9
+Rhode Island,Rhode Island,2005,Fentanyl,10,0.9
+Rhode Island,Rhode Island,2008,Fentanyl,13,1.2
+Rhode Island,Rhode Island,2009,Fentanyl,11,1.0
+Rhode Island,Rhode Island,2010,Fentanyl,12,1.1
+Rhode Island,Rhode Island,2012,Fentanyl,12,1.1
+Rhode Island,Rhode Island,2013,Fentanyl,32,3.0
+Rhode Island,Rhode Island,2014,Fentanyl,82,7.8
+Rhode Island,Rhode Island,2015,Fentanyl,137,13.0
+Rhode Island,Rhode Island,2016,Fentanyl,182,17.2
+Rhode Island,Rhode Island,2017,Fentanyl,201,19.0
+Rhode Island,Rhode Island,2018,Fentanyl,213,20.1
+Rhode Island,Rhode Island,2019,Fentanyl,203,19.2
+Rhode Island,Rhode Island,2020,Fentanyl,292,27.6
+Rhode Island,Rhode Island,2021,Fentanyl,343,31.3
+Rhode Island,Rhode Island,2006,Heroin,10,0.9
+Rhode Island,Rhode Island,2011,Heroin,12,1.1
+Rhode Island,Rhode Island,2012,Heroin,30,2.9
+Rhode Island,Rhode Island,2013,Heroin,65,6.2
+Rhode Island,Rhode Island,2014,Heroin,66,6.3
+Rhode Island,Rhode Island,2015,Heroin,45,4.3
+Rhode Island,Rhode Island,2016,Heroin,25,2.4
+Rhode Island,Rhode Island,2017,Heroin,14,1.3
+Rhode Island,Rhode Island,2018,Heroin,24,2.3
+Rhode Island,Rhode Island,2019,Heroin,18,1.7
+Rhode Island,Rhode Island,2012,Meth,10,1.0
+Rhode Island,Rhode Island,2015,Meth,11,1.0
+Rhode Island,Rhode Island,2016,Meth,10,0.9
+Rhode Island,Rhode Island,2017,Meth,12,1.1
+Rhode Island,Rhode Island,2018,Meth,15,1.4
+Rhode Island,Rhode Island,2019,Meth,22,2.1
+Rhode Island,Rhode Island,2020,Meth,38,3.6
+Rhode Island,Rhode Island,2021,Meth,63,5.8
+Rhode Island,Rhode Island,2000,Otheropioids,14,1.3
+Rhode Island,Rhode Island,2001,Otheropioids,23,2.2
+Rhode Island,Rhode Island,2002,Otheropioids,22,2.1
+Rhode Island,Rhode Island,2003,Otheropioids,34,3.2
+Rhode Island,Rhode Island,2004,Otheropioids,30,2.8
+Rhode Island,Rhode Island,2005,Otheropioids,48,4.5
+Rhode Island,Rhode Island,2006,Otheropioids,71,6.7
+Rhode Island,Rhode Island,2007,Otheropioids,44,4.2
+Rhode Island,Rhode Island,2008,Otheropioids,57,5.4
+Rhode Island,Rhode Island,2009,Otheropioids,62,5.9
+Rhode Island,Rhode Island,2010,Otheropioids,69,6.6
+Rhode Island,Rhode Island,2011,Otheropioids,89,8.5
+Rhode Island,Rhode Island,2012,Otheropioids,94,8.9
+Rhode Island,Rhode Island,2013,Otheropioids,102,9.7
+Rhode Island,Rhode Island,2014,Otheropioids,88,8.3
+Rhode Island,Rhode Island,2015,Otheropioids,122,11.5
+Rhode Island,Rhode Island,2016,Otheropioids,114,10.8
+Rhode Island,Rhode Island,2017,Otheropioids,99,9.3
+Rhode Island,Rhode Island,2018,Otheropioids,85,8.0
+Rhode Island,Rhode Island,2019,Otheropioids,63,5.9
+Rhode Island,Rhode Island,2020,Otheropioids,87,8.2
+Rhode Island,Rhode Island,2021,Otheropioids,85,7.8
+Rhode Island,Rhode Island,2022,Otheropioids,63,5.8
+Rhode Island,Rhode Island,2022,Meth,37,3.4
+Rhode Island,Rhode Island,2022,Fentanyl,298,27.2
+Delaware,Delaware,2006,Fentanyl,12,1.4
+Delaware,Delaware,2009,Fentanyl,19,2.1
+Delaware,Delaware,2010,Fentanyl,14,1.6
+Delaware,Delaware,2011,Fentanyl,13,1.4
+Delaware,Delaware,2012,Fentanyl,17,1.9
+Delaware,Delaware,2013,Fentanyl,22,2.4
+Delaware,Delaware,2014,Fentanyl,29,3.1
+Delaware,Delaware,2015,Fentanyl,38,4.0
+Delaware,Delaware,2016,Fentanyl,79,8.3
+Delaware,Delaware,2017,Fentanyl,178,18.5
+Delaware,Delaware,2018,Fentanyl,296,30.6
+Delaware,Delaware,2019,Fentanyl,343,35.2
+Delaware,Delaware,2020,Fentanyl,361,36.6
+Delaware,Delaware,2021,Fentanyl,411,41.0
+Delaware,Delaware,1999,Heroin,14,1.8
+Delaware,Delaware,2002,Heroin,14,1.7
+Delaware,Delaware,2007,Heroin,10,1.1
+Delaware,Delaware,2010,Heroin,16,1.8
+Delaware,Delaware,2011,Heroin,15,1.7
+Delaware,Delaware,2012,Heroin,20,2.2
+Delaware,Delaware,2013,Heroin,39,4.2
+Delaware,Delaware,2014,Heroin,54,5.8
+Delaware,Delaware,2015,Heroin,64,6.8
+Delaware,Delaware,2016,Heroin,56,5.9
+Delaware,Delaware,2017,Heroin,121,12.6
+Delaware,Delaware,2018,Heroin,143,14.8
+Delaware,Delaware,2019,Heroin,109,11.2
+Delaware,Delaware,2020,Heroin,91,9.2
+Delaware,Delaware,2021,Heroin,67,6.7
+Delaware,Delaware,2018,Meth,14,1.4
+Delaware,Delaware,2019,Meth,28,2.9
+Delaware,Delaware,2020,Meth,52,5.3
+Delaware,Delaware,2021,Meth,56,5.6
+Delaware,Delaware,2001,Otheropioids,14,1.8
+Delaware,Delaware,2002,Otheropioids,25,3.1
+Delaware,Delaware,2003,Otheropioids,24,2.9
+Delaware,Delaware,2004,Otheropioids,20,2.4
+Delaware,Delaware,2005,Otheropioids,18,2.1
+Delaware,Delaware,2006,Otheropioids,21,2.4
+Delaware,Delaware,2007,Otheropioids,30,3.4
+Delaware,Delaware,2008,Otheropioids,45,5.1
+Delaware,Delaware,2009,Otheropioids,58,6.5
+Delaware,Delaware,2010,Otheropioids,64,7.1
+Delaware,Delaware,2011,Otheropioids,79,8.7
+Delaware,Delaware,2012,Otheropioids,45,4.9
+Delaware,Delaware,2013,Otheropioids,52,5.6
+Delaware,Delaware,2014,Otheropioids,59,6.3
+Delaware,Delaware,2015,Otheropioids,48,5.1
+Delaware,Delaware,2016,Otheropioids,41,4.3
+Delaware,Delaware,2017,Otheropioids,78,8.1
+Delaware,Delaware,2018,Otheropioids,82,8.5
+Delaware,Delaware,2019,Otheropioids,75,7.7
+Delaware,Delaware,2020,Otheropioids,82,8.3
+Delaware,Delaware,2021,Otheropioids,83,8.3
+Delaware,Delaware,2022,Otheropioids,66,6.6
+Delaware,Delaware,2022,Meth,71,7.1
+Delaware,Delaware,2022,Heroin,53,5.3
+Delaware,Delaware,2022,Fentanyl,456,45.4
+Mississippi,Mississippi,2006,Fentanyl,11,0.4
+Mississippi,Mississippi,2007,Fentanyl,22,0.8
+Mississippi,Mississippi,2008,Fentanyl,34,1.2
+Mississippi,Mississippi,2009,Fentanyl,31,1.0
+Mississippi,Mississippi,2010,Fentanyl,25,0.8
+Mississippi,Mississippi,2011,Fentanyl,18,0.6
+Mississippi,Mississippi,2012,Fentanyl,20,0.7
+Mississippi,Mississippi,2013,Fentanyl,24,0.8
+Mississippi,Mississippi,2014,Fentanyl,24,0.8
+Mississippi,Mississippi,2015,Fentanyl,35,1.2
+Mississippi,Mississippi,2016,Fentanyl,45,1.5
+Mississippi,Mississippi,2017,Fentanyl,81,2.7
+Mississippi,Mississippi,2018,Fentanyl,72,2.4
+Mississippi,Mississippi,2019,Fentanyl,141,4.7
+Mississippi,Mississippi,2020,Fentanyl,314,10.6
+Mississippi,Mississippi,2021,Fentanyl,475,16.1
+Mississippi,Mississippi,2013,Heroin,10,0.3
+Mississippi,Mississippi,2014,Heroin,23,0.8
+Mississippi,Mississippi,2015,Heroin,38,1.3
+Mississippi,Mississippi,2016,Heroin,33,1.1
+Mississippi,Mississippi,2017,Heroin,34,1.1
+Mississippi,Mississippi,2018,Heroin,39,1.3
+Mississippi,Mississippi,2019,Heroin,78,2.6
+Mississippi,Mississippi,2020,Heroin,71,2.4
+Mississippi,Mississippi,2021,Heroin,41,1.4
+Mississippi,Mississippi,2013,Meth,15,0.5
+Mississippi,Mississippi,2014,Meth,23,0.8
+Mississippi,Mississippi,2015,Meth,52,1.7
+Mississippi,Mississippi,2016,Meth,56,1.9
+Mississippi,Mississippi,2017,Meth,64,2.1
+Mississippi,Mississippi,2018,Meth,95,3.2
+Mississippi,Mississippi,2019,Meth,130,4.4
+Mississippi,Mississippi,2020,Meth,229,7.7
+Mississippi,Mississippi,2021,Meth,327,11.1
+Mississippi,Mississippi,2001,Otheropioids,20,0.7
+Mississippi,Mississippi,2002,Otheropioids,19,0.7
+Mississippi,Mississippi,2003,Otheropioids,22,0.8
+Mississippi,Mississippi,2004,Otheropioids,20,0.7
+Mississippi,Mississippi,2005,Otheropioids,33,1.1
+Mississippi,Mississippi,2006,Otheropioids,49,1.7
+Mississippi,Mississippi,2007,Otheropioids,71,2.4
+Mississippi,Mississippi,2008,Otheropioids,71,2.4
+Mississippi,Mississippi,2009,Otheropioids,60,2.0
+Mississippi,Mississippi,2010,Otheropioids,70,2.4
+Mississippi,Mississippi,2011,Otheropioids,58,1.9
+Mississippi,Mississippi,2012,Otheropioids,79,2.6
+Mississippi,Mississippi,2013,Otheropioids,66,2.2
+Mississippi,Mississippi,2014,Otheropioids,69,2.3
+Mississippi,Mississippi,2015,Otheropioids,80,2.7
+Mississippi,Mississippi,2016,Otheropioids,103,3.4
+Mississippi,Mississippi,2017,Otheropioids,96,3.2
+Mississippi,Mississippi,2018,Otheropioids,92,3.1
+Mississippi,Mississippi,2019,Otheropioids,97,3.3
+Mississippi,Mississippi,2020,Otheropioids,119,4.0
+Mississippi,Mississippi,2021,Otheropioids,146,4.9
+Mississippi,Mississippi,2022,Otheropioids,96,3.3
+Mississippi,Mississippi,2022,Meth,316,10.7
+Mississippi,Mississippi,2022,Heroin,24,0.8
+Mississippi,Mississippi,2022,Fentanyl,482,16.3
+Idaho,Idaho,2007,Fentanyl,10,0.7
+Idaho,Idaho,2009,Fentanyl,11,0.7
+Idaho,Idaho,2010,Fentanyl,14,0.9
+Idaho,Idaho,2012,Fentanyl,11,0.7
+Idaho,Idaho,2013,Fentanyl,14,0.9
+Idaho,Idaho,2014,Fentanyl,13,0.8
+Idaho,Idaho,2015,Fentanyl,16,1.0
+Idaho,Idaho,2016,Fentanyl,20,1.2
+Idaho,Idaho,2017,Fentanyl,22,1.3
+Idaho,Idaho,2018,Fentanyl,28,1.6
+Idaho,Idaho,2019,Fentanyl,32,1.8
+Idaho,Idaho,2020,Fentanyl,59,3.2
+Idaho,Idaho,2021,Fentanyl,160,8.4
+Idaho,Idaho,2014,Heroin,11,0.7
+Idaho,Idaho,2015,Heroin,16,1.0
+Idaho,Idaho,2016,Heroin,25,1.5
+Idaho,Idaho,2017,Heroin,23,1.3
+Idaho,Idaho,2018,Heroin,29,1.7
+Idaho,Idaho,2019,Heroin,38,2.1
+Idaho,Idaho,2020,Heroin,38,2.1
+Idaho,Idaho,2021,Heroin,22,1.2
+Idaho,Idaho,2004,Meth,10,0.7
+Idaho,Idaho,2005,Meth,17,1.2
+Idaho,Idaho,2007,Meth,10,0.7
+Idaho,Idaho,2009,Meth,16,1.0
+Idaho,Idaho,2010,Meth,14,0.9
+Idaho,Idaho,2011,Meth,16,1.0
+Idaho,Idaho,2012,Meth,10,0.6
+Idaho,Idaho,2013,Meth,26,1.6
+Idaho,Idaho,2014,Meth,28,1.7
+Idaho,Idaho,2015,Meth,38,2.3
+Idaho,Idaho,2016,Meth,47,2.8
+Idaho,Idaho,2017,Meth,43,2.5
+Idaho,Idaho,2018,Meth,68,3.9
+Idaho,Idaho,2019,Meth,86,4.8
+Idaho,Idaho,2020,Meth,101,5.5
+Idaho,Idaho,2021,Meth,134,7.0
+Idaho,Idaho,1999,Otheropioids,15,1.2
+Idaho,Idaho,2000,Otheropioids,21,1.6
+Idaho,Idaho,2001,Otheropioids,38,2.9
+Idaho,Idaho,2002,Otheropioids,33,2.5
+Idaho,Idaho,2003,Otheropioids,46,3.4
+Idaho,Idaho,2004,Otheropioids,38,2.7
+Idaho,Idaho,2005,Otheropioids,35,2.5
+Idaho,Idaho,2006,Otheropioids,57,3.9
+Idaho,Idaho,2007,Otheropioids,48,3.2
+Idaho,Idaho,2008,Otheropioids,58,3.8
+Idaho,Idaho,2009,Otheropioids,50,3.2
+Idaho,Idaho,2010,Otheropioids,61,3.9
+Idaho,Idaho,2011,Otheropioids,65,4.1
+Idaho,Idaho,2012,Otheropioids,45,2.8
+Idaho,Idaho,2013,Otheropioids,57,3.5
+Idaho,Idaho,2014,Otheropioids,56,3.4
+Idaho,Idaho,2015,Otheropioids,61,3.7
+Idaho,Idaho,2016,Otheropioids,77,4.6
+Idaho,Idaho,2017,Otheropioids,63,3.7
+Idaho,Idaho,2018,Otheropioids,75,4.3
+Idaho,Idaho,2019,Otheropioids,81,4.5
+Idaho,Idaho,2020,Otheropioids,89,4.9
+Idaho,Idaho,2021,Otheropioids,92,4.8
+Idaho,Idaho,2022,Otheropioids,82,4.3
+Idaho,Idaho,2022,Meth,138,7.3
+Idaho,Idaho,2022,Heroin,11,0.6
+Idaho,Idaho,2022,Fentanyl,199,10.5
+Alaska,Alaska,2008,Fentanyl,13,1.9
+Alaska,Alaska,2009,Fentanyl,22,3.1
+Alaska,Alaska,2010,Fentanyl,10,1.4
+Alaska,Alaska,2013,Fentanyl,12,1.6
+Alaska,Alaska,2014,Fentanyl,14,1.9
+Alaska,Alaska,2015,Fentanyl,14,1.9
+Alaska,Alaska,2017,Fentanyl,37,5.0
+Alaska,Alaska,2018,Fentanyl,18,2.4
+Alaska,Alaska,2019,Fentanyl,24,3.3
+Alaska,Alaska,2020,Fentanyl,69,9.4
+Alaska,Alaska,2021,Fentanyl,153,20.9
+Alaska,Alaska,2011,Heroin,12,1.7
+Alaska,Alaska,2012,Heroin,23,3.1
+Alaska,Alaska,2013,Heroin,24,3.3
+Alaska,Alaska,2014,Heroin,25,3.4
+Alaska,Alaska,2015,Heroin,37,5.0
+Alaska,Alaska,2016,Heroin,49,6.6
+Alaska,Alaska,2017,Heroin,36,4.9
+Alaska,Alaska,2018,Heroin,29,3.9
+Alaska,Alaska,2019,Heroin,44,6.0
+Alaska,Alaska,2020,Heroin,35,4.8
+Alaska,Alaska,2021,Heroin,66,9.0
+Alaska,Alaska,2009,Meth,15,2.1
+Alaska,Alaska,2011,Meth,18,2.5
+Alaska,Alaska,2012,Meth,23,3.1
+Alaska,Alaska,2013,Meth,22,3.0
+Alaska,Alaska,2014,Meth,29,3.9
+Alaska,Alaska,2015,Meth,27,3.7
+Alaska,Alaska,2016,Meth,49,6.6
+Alaska,Alaska,2017,Meth,66,8.9
+Alaska,Alaska,2018,Meth,52,7.1
+Alaska,Alaska,2019,Meth,64,8.7
+Alaska,Alaska,2020,Meth,70,9.6
+Alaska,Alaska,2021,Meth,165,22.5
+Alaska,Alaska,1999,Otheropioids,13,2.1
+Alaska,Alaska,2000,Otheropioids,24,3.8
+Alaska,Alaska,2005,Otheropioids,15,2.2
+Alaska,Alaska,2006,Otheropioids,24,3.6
+Alaska,Alaska,2007,Otheropioids,12,1.8
+Alaska,Alaska,2008,Otheropioids,73,10.6
+Alaska,Alaska,2009,Otheropioids,74,10.6
+Alaska,Alaska,2010,Otheropioids,55,7.7
+Alaska,Alaska,2011,Otheropioids,48,6.6
+Alaska,Alaska,2012,Otheropioids,48,6.6
+Alaska,Alaska,2013,Otheropioids,46,6.3
+Alaska,Alaska,2014,Otheropioids,47,6.4
+Alaska,Alaska,2015,Otheropioids,57,7.7
+Alaska,Alaska,2016,Otheropioids,51,6.9
+Alaska,Alaska,2017,Otheropioids,51,6.9
+Alaska,Alaska,2018,Otheropioids,38,5.2
+Alaska,Alaska,2019,Otheropioids,47,6.4
+Alaska,Alaska,2020,Otheropioids,45,6.2
+Alaska,Alaska,2021,Otheropioids,79,10.8
+Alaska,Alaska,2022,Otheropioids,54,7.4
+Alaska,Alaska,2022,Meth,144,19.7
+Alaska,Alaska,2022,Heroin,39,5.3
+Alaska,Alaska,2022,Fentanyl,161,22.0
+Montana,Montana,2008,Fentanyl,16,1.6
+Montana,Montana,2009,Fentanyl,21,2.1
+Montana,Montana,2010,Fentanyl,10,1.0
+Montana,Montana,2011,Fentanyl,14,1.4
+Montana,Montana,2012,Fentanyl,13,1.3
+Montana,Montana,2014,Fentanyl,14,1.4
+Montana,Montana,2016,Fentanyl,14,1.3
+Montana,Montana,2018,Fentanyl,11,1.0
+Montana,Montana,2019,Fentanyl,16,1.5
+Montana,Montana,2020,Fentanyl,30,2.8
+Montana,Montana,2021,Fentanyl,72,6.5
+Montana,Montana,2018,Heroin,22,2.1
+Montana,Montana,2019,Heroin,27,2.5
+Montana,Montana,2020,Heroin,30,2.8
+Montana,Montana,2021,Heroin,20,1.8
+Montana,Montana,2013,Meth,16,1.6
+Montana,Montana,2015,Meth,34,3.3
+Montana,Montana,2016,Meth,24,2.3
+Montana,Montana,2017,Meth,24,2.3
+Montana,Montana,2018,Meth,32,3.0
+Montana,Montana,2019,Meth,58,5.4
+Montana,Montana,2020,Meth,66,6.1
+Montana,Montana,2021,Meth,87,7.9
+Montana,Montana,1999,Otheropioids,10,1.1
+Montana,Montana,2001,Otheropioids,18,2.0
+Montana,Montana,2002,Otheropioids,19,2.1
+Montana,Montana,2003,Otheropioids,38,4.1
+Montana,Montana,2004,Otheropioids,33,3.5
+Montana,Montana,2005,Otheropioids,33,3.5
+Montana,Montana,2006,Otheropioids,38,4.0
+Montana,Montana,2007,Otheropioids,50,5.2
+Montana,Montana,2008,Otheropioids,52,5.3
+Montana,Montana,2009,Otheropioids,75,7.6
+Montana,Montana,2010,Otheropioids,45,4.5
+Montana,Montana,2011,Otheropioids,50,5.0
+Montana,Montana,2012,Otheropioids,37,3.7
+Montana,Montana,2013,Otheropioids,53,5.2
+Montana,Montana,2014,Otheropioids,37,3.6
+Montana,Montana,2015,Otheropioids,32,3.1
+Montana,Montana,2016,Otheropioids,19,1.8
+Montana,Montana,2017,Otheropioids,24,2.3
+Montana,Montana,2018,Otheropioids,26,2.4
+Montana,Montana,2019,Otheropioids,33,3.1
+Montana,Montana,2020,Otheropioids,39,3.6
+Montana,Montana,2021,Otheropioids,32,2.9
+Montana,Montana,2022,Otheropioids,42,3.8
+Montana,Montana,2022,Meth,91,8.2
+Montana,Montana,2022,Fentanyl,101,9.1
+Wyoming,Wyoming,2008,Fentanyl,11,2.0
+Wyoming,Wyoming,2014,Fentanyl,12,2.1
+Wyoming,Wyoming,2017,Fentanyl,17,2.9
+Wyoming,Wyoming,2018,Fentanyl,10,1.7
+Wyoming,Wyoming,2019,Fentanyl,17,2.9
+Wyoming,Wyoming,2020,Fentanyl,27,4.6
+Wyoming,Wyoming,2021,Fentanyl,44,7.6
+Wyoming,Wyoming,2014,Heroin,10,1.7
+Wyoming,Wyoming,2019,Heroin,12,2.1
+Wyoming,Wyoming,2020,Heroin,12,2.1
+Wyoming,Wyoming,2021,Heroin,12,2.1
+Wyoming,Wyoming,2013,Meth,10,1.7
+Wyoming,Wyoming,2014,Meth,17,2.9
+Wyoming,Wyoming,2015,Meth,17,2.9
+Wyoming,Wyoming,2016,Meth,15,2.6
+Wyoming,Wyoming,2017,Meth,15,2.6
+Wyoming,Wyoming,2018,Meth,22,3.8
+Wyoming,Wyoming,2019,Meth,25,4.3
+Wyoming,Wyoming,2020,Meth,33,5.7
+Wyoming,Wyoming,2021,Meth,42,7.3
+Wyoming,Wyoming,2002,Otheropioids,14,2.8
+Wyoming,Wyoming,2006,Otheropioids,11,2.1
+Wyoming,Wyoming,2007,Otheropioids,16,3.0
+Wyoming,Wyoming,2008,Otheropioids,26,4.8
+Wyoming,Wyoming,2009,Otheropioids,24,4.3
+Wyoming,Wyoming,2010,Otheropioids,36,6.4
+Wyoming,Wyoming,2011,Otheropioids,33,5.8
+Wyoming,Wyoming,2012,Otheropioids,28,4.9
+Wyoming,Wyoming,2013,Otheropioids,34,5.8
+Wyoming,Wyoming,2014,Otheropioids,31,5.3
+Wyoming,Wyoming,2015,Otheropioids,31,5.3
+Wyoming,Wyoming,2016,Otheropioids,26,4.4
+Wyoming,Wyoming,2017,Otheropioids,31,5.4
+Wyoming,Wyoming,2018,Otheropioids,28,4.8
+Wyoming,Wyoming,2019,Otheropioids,28,4.8
+Wyoming,Wyoming,2020,Otheropioids,30,5.2
+Wyoming,Wyoming,2021,Otheropioids,27,4.7
+Wyoming,Wyoming,2022,Otheropioids,29,5.0
+Wyoming,Wyoming,2022,Meth,50,8.6
+Wyoming,Wyoming,2022,Fentanyl,61,10.5
+South Dakota,South Dakota,2009,Fentanyl,12,1.5
+South Dakota,South Dakota,2016,Fentanyl,10,1.2
+South Dakota,South Dakota,2017,Fentanyl,14,1.6
+South Dakota,South Dakota,2018,Fentanyl,13,1.5
+South Dakota,South Dakota,2019,Fentanyl,24,2.7
+South Dakota,South Dakota,2020,Fentanyl,34,3.8
+South Dakota,South Dakota,2021,Fentanyl,33,3.7
+South Dakota,South Dakota,2014,Meth,14,1.6
+South Dakota,South Dakota,2015,Meth,12,1.4
+South Dakota,South Dakota,2016,Meth,19,2.2
+South Dakota,South Dakota,2017,Meth,27,3.1
+South Dakota,South Dakota,2018,Meth,12,1.4
+South Dakota,South Dakota,2019,Meth,31,3.5
+South Dakota,South Dakota,2020,Meth,31,3.5
+South Dakota,South Dakota,2021,Meth,53,5.9
+South Dakota,South Dakota,2004,Otheropioids,13,1.7
+South Dakota,South Dakota,2005,Otheropioids,15,1.9
+South Dakota,South Dakota,2006,Otheropioids,22,2.8
+South Dakota,South Dakota,2007,Otheropioids,12,1.5
+South Dakota,South Dakota,2008,Otheropioids,23,2.9
+South Dakota,South Dakota,2009,Otheropioids,23,2.8
+South Dakota,South Dakota,2010,Otheropioids,26,3.2
+South Dakota,South Dakota,2011,Otheropioids,26,3.2
+South Dakota,South Dakota,2012,Otheropioids,18,2.2
+South Dakota,South Dakota,2013,Otheropioids,29,3.4
+South Dakota,South Dakota,2014,Otheropioids,26,3.0
+South Dakota,South Dakota,2015,Otheropioids,14,1.6
+South Dakota,South Dakota,2016,Otheropioids,28,3.2
+South Dakota,South Dakota,2017,Otheropioids,16,1.8
+South Dakota,South Dakota,2018,Otheropioids,11,1.2
+South Dakota,South Dakota,2019,Otheropioids,16,1.8
+South Dakota,South Dakota,2020,Otheropioids,15,1.7
+South Dakota,South Dakota,2021,Otheropioids,13,1.5
+South Dakota,South Dakota,2022,Meth,43,4.8
+South Dakota,South Dakota,2022,Fentanyl,38,4.2
+"Washington, D.C.","Washington, D.C.",2014,Fentanyl,13,2.0
+"Washington, D.C.","Washington, D.C.",2015,Fentanyl,26,3.9
+"Washington, D.C.","Washington, D.C.",2016,Fentanyl,129,18.9
+"Washington, D.C.","Washington, D.C.",2017,Fentanyl,182,26.2
+"Washington, D.C.","Washington, D.C.",2018,Fentanyl,162,23.1
+"Washington, D.C.","Washington, D.C.",2019,Fentanyl,216,30.6
+"Washington, D.C.","Washington, D.C.",2020,Fentanyl,315,44.2
+"Washington, D.C.","Washington, D.C.",2021,Fentanyl,330,49.3
+"Washington, D.C.","Washington, D.C.",1999,Heroin,19,3.3
+"Washington, D.C.","Washington, D.C.",2010,Heroin,16,2.7
+"Washington, D.C.","Washington, D.C.",2011,Heroin,23,3.7
+"Washington, D.C.","Washington, D.C.",2012,Heroin,25,4.0
+"Washington, D.C.","Washington, D.C.",2013,Heroin,35,5.4
+"Washington, D.C.","Washington, D.C.",2014,Heroin,37,5.6
+"Washington, D.C.","Washington, D.C.",2015,Heroin,67,10.0
+"Washington, D.C.","Washington, D.C.",2016,Heroin,122,17.9
+"Washington, D.C.","Washington, D.C.",2017,Heroin,127,18.3
+"Washington, D.C.","Washington, D.C.",2018,Heroin,79,11.2
+"Washington, D.C.","Washington, D.C.",2019,Heroin,85,12.0
+"Washington, D.C.","Washington, D.C.",2020,Heroin,86,12.1
+"Washington, D.C.","Washington, D.C.",2021,Heroin,50,7.5
+"Washington, D.C.","Washington, D.C.",2018,Meth,11,1.6
+"Washington, D.C.","Washington, D.C.",2019,Meth,12,1.7
+"Washington, D.C.","Washington, D.C.",2020,Meth,10,1.4
+"Washington, D.C.","Washington, D.C.",2021,Meth,10,1.5
+"Washington, D.C.","Washington, D.C.",2003,Otheropioids,14,2.5
+"Washington, D.C.","Washington, D.C.",2004,Otheropioids,24,4.2
+"Washington, D.C.","Washington, D.C.",2005,Otheropioids,16,2.8
+"Washington, D.C.","Washington, D.C.",2006,Otheropioids,24,4.2
+"Washington, D.C.","Washington, D.C.",2007,Otheropioids,10,1.7
+"Washington, D.C.","Washington, D.C.",2008,Otheropioids,17,2.9
+"Washington, D.C.","Washington, D.C.",2010,Otheropioids,13,2.2
+"Washington, D.C.","Washington, D.C.",2011,Otheropioids,22,3.6
+"Washington, D.C.","Washington, D.C.",2012,Otheropioids,18,2.8
+"Washington, D.C.","Washington, D.C.",2013,Otheropioids,17,2.6
+"Washington, D.C.","Washington, D.C.",2014,Otheropioids,23,3.5
+"Washington, D.C.","Washington, D.C.",2015,Otheropioids,26,3.9
+"Washington, D.C.","Washington, D.C.",2016,Otheropioids,66,9.7
+"Washington, D.C.","Washington, D.C.",2017,Otheropioids,58,8.4
+"Washington, D.C.","Washington, D.C.",2018,Otheropioids,41,5.8
+"Washington, D.C.","Washington, D.C.",2019,Otheropioids,36,5.1
+"Washington, D.C.","Washington, D.C.",2020,Otheropioids,65,9.1
+"Washington, D.C.","Washington, D.C.",2021,Otheropioids,44,6.6
+"Washington, D.C.","Washington, D.C.",2022,Otheropioids,49,7.3
+"Washington, D.C.","Washington, D.C.",2022,Meth,14,2.1
+"Washington, D.C.","Washington, D.C.",2022,Heroin,39,5.8
+"Washington, D.C.","Washington, D.C.",2022,Fentanyl,326,48.7
+North Dakota,North Dakota,2014,Fentanyl,10,1.4
+North Dakota,North Dakota,2016,Fentanyl,15,2.0
+North Dakota,North Dakota,2017,Fentanyl,12,1.6
+North Dakota,North Dakota,2019,Fentanyl,10,1.3
+North Dakota,North Dakota,2020,Fentanyl,32,4.2
+North Dakota,North Dakota,2021,Fentanyl,57,7.4
+North Dakota,North Dakota,2016,Heroin,12,1.6
+North Dakota,North Dakota,2020,Heroin,11,1.4
+North Dakota,North Dakota,2015,Meth,10,1.3
+North Dakota,North Dakota,2016,Meth,12,1.6
+North Dakota,North Dakota,2017,Meth,22,2.9
+North Dakota,North Dakota,2018,Meth,15,2.0
+North Dakota,North Dakota,2019,Meth,20,2.6
+North Dakota,North Dakota,2020,Meth,32,4.2
+North Dakota,North Dakota,2021,Meth,49,6.3
+North Dakota,North Dakota,2007,Otheropioids,12,1.8
+North Dakota,North Dakota,2008,Otheropioids,16,2.4
+North Dakota,North Dakota,2010,Otheropioids,12,1.8
+North Dakota,North Dakota,2014,Otheropioids,20,2.7
+North Dakota,North Dakota,2015,Otheropioids,16,2.1
+North Dakota,North Dakota,2016,Otheropioids,21,2.8
+North Dakota,North Dakota,2017,Otheropioids,18,2.4
+North Dakota,North Dakota,2018,Otheropioids,24,3.2
+North Dakota,North Dakota,2019,Otheropioids,27,3.5
+North Dakota,North Dakota,2020,Otheropioids,19,2.5
+North Dakota,North Dakota,2021,Otheropioids,20,2.6
+North Dakota,North Dakota,2022,Otheropioids,14,1.8
+North Dakota,North Dakota,2022,Meth,44,5.7
+North Dakota,North Dakota,2022,Fentanyl,85,11.0
+Hawaii,Hawaii,2015,Fentanyl,13,0.9
+Hawaii,Hawaii,2018,Fentanyl,14,1.0
+Hawaii,Hawaii,2019,Fentanyl,20,1.4
+Hawaii,Hawaii,2020,Fentanyl,37,2.6
+Hawaii,Hawaii,2021,Fentanyl,53,3.7
+Hawaii,Hawaii,2013,Heroin,10,0.7
+Hawaii,Hawaii,2014,Heroin,12,0.8
+Hawaii,Hawaii,2015,Heroin,15,1.0
+Hawaii,Hawaii,2016,Heroin,20,1.4
+Hawaii,Hawaii,2017,Heroin,10,0.7
+Hawaii,Hawaii,2018,Heroin,16,1.1
+Hawaii,Hawaii,2019,Heroin,18,1.3
+Hawaii,Hawaii,2020,Heroin,22,1.6
+Hawaii,Hawaii,2021,Heroin,18,1.2
+Hawaii,Hawaii,2001,Meth,17,1.4
+Hawaii,Hawaii,2002,Meth,15,1.2
+Hawaii,Hawaii,2003,Meth,23,1.8
+Hawaii,Hawaii,2004,Meth,28,2.2
+Hawaii,Hawaii,2005,Meth,36,2.8
+Hawaii,Hawaii,2006,Meth,21,1.6
+Hawaii,Hawaii,2007,Meth,30,2.3
+Hawaii,Hawaii,2008,Meth,30,2.3
+Hawaii,Hawaii,2009,Meth,37,2.7
+Hawaii,Hawaii,2010,Meth,45,3.3
+Hawaii,Hawaii,2011,Meth,49,3.6
+Hawaii,Hawaii,2012,Meth,43,3.1
+Hawaii,Hawaii,2013,Meth,55,3.9
+Hawaii,Hawaii,2014,Meth,56,3.9
+Hawaii,Hawaii,2015,Meth,87,6.1
+Hawaii,Hawaii,2016,Meth,102,7.1
+Hawaii,Hawaii,2017,Meth,106,7.4
+Hawaii,Hawaii,2018,Meth,148,10.4
+Hawaii,Hawaii,2019,Meth,170,12.0
+Hawaii,Hawaii,2020,Meth,198,14.1
+Hawaii,Hawaii,2021,Meth,180,12.5
+Hawaii,Hawaii,1999,Otheropioids,24,2.0
+Hawaii,Hawaii,2000,Otheropioids,24,2.0
+Hawaii,Hawaii,2001,Otheropioids,31,2.5
+Hawaii,Hawaii,2002,Otheropioids,38,3.1
+Hawaii,Hawaii,2003,Otheropioids,31,2.5
+Hawaii,Hawaii,2004,Otheropioids,45,3.5
+Hawaii,Hawaii,2005,Otheropioids,53,4.1
+Hawaii,Hawaii,2006,Otheropioids,42,3.2
+Hawaii,Hawaii,2007,Otheropioids,65,4.9
+Hawaii,Hawaii,2008,Otheropioids,42,3.2
+Hawaii,Hawaii,2009,Otheropioids,50,3.7
+Hawaii,Hawaii,2010,Otheropioids,53,3.9
+Hawaii,Hawaii,2011,Otheropioids,61,4.4
+Hawaii,Hawaii,2012,Otheropioids,46,3.3
+Hawaii,Hawaii,2013,Otheropioids,51,3.6
+Hawaii,Hawaii,2014,Otheropioids,43,3.0
+Hawaii,Hawaii,2015,Otheropioids,42,2.9
+Hawaii,Hawaii,2016,Otheropioids,55,3.9
+Hawaii,Hawaii,2017,Otheropioids,40,2.8
+Hawaii,Hawaii,2018,Otheropioids,33,2.3
+Hawaii,Hawaii,2019,Otheropioids,26,1.8
+Hawaii,Hawaii,2020,Otheropioids,31,2.2
+Hawaii,Hawaii,2021,Otheropioids,34,2.4
+Hawaii,Hawaii,2022,Otheropioids,30,2.1
+Hawaii,Hawaii,2022,Meth,177,12.3
+Hawaii,Hawaii,2022,Heroin,11,0.8
+Hawaii,Hawaii,2022,Fentanyl,73,5.1
