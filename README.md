@@ -1,6 +1,6 @@
 # San Francisco Chronicle / HNP National Overdose Tracker
 
-View the tracker here.
+View the tracker [here]([url](https://www.sfchronicle.com/projects/us-drug-overdose-deaths/)).
 
 This repository contains versions of the files that power the overdose tracker.
 
