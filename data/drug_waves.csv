@@ -257,8 +257,8 @@ New York,New York,2021,Fentanyl,4527,22.8
 New York,New York,2021,Heroin,1045,5.3
 New York,New York,2021,Otheropioids,1322,6.7
 New York,New York,2021,Meth,589,3
-New York,New York,2022,Fentanyl,4971,25.1
-New York,New York,2022,Meth,663,3.3
+New York,New York,2022,Fentanyl,4973,25.1
+New York,New York,2022,Meth,664,3.3
 New York,New York,2022,Otheropioids,1260,6.4
 New York,New York,2022,Heroin,920,4.6
 Nevada,Nevada,1999,Heroin,43,2.2
@@ -533,7 +533,7 @@ Michigan,Michigan,2021,Otheropioids,512,5.1
 Michigan,Michigan,2021,Heroin,204,2
 Michigan,Michigan,2021,Meth,536,5.3
 Michigan,Michigan,2021,Fentanyl,2285,22.7
-Michigan,Michigan,2022,Fentanyl,2237,22.3
+Michigan,Michigan,2022,Fentanyl,2238,22.3
 Michigan,Michigan,2022,Otheropioids,356,3.5
 Michigan,Michigan,2022,Meth,498,5
 Michigan,Michigan,2022,Heroin,160,1.6
@@ -620,9 +620,9 @@ Massachusetts,Massachusetts,2021,Otheropioids,301,4.3
 Massachusetts,Massachusetts,2021,Heroin,152,2.2
 Massachusetts,Massachusetts,2021,Meth,227,3.2
 Massachusetts,Massachusetts,2021,Fentanyl,2178,31.2
-Massachusetts,Massachusetts,2022,Fentanyl,2226,31.9
+Massachusetts,Massachusetts,2022,Fentanyl,2227,31.9
 Massachusetts,Massachusetts,2022,Meth,222,3.2
-Massachusetts,Massachusetts,2022,Otheropioids,355,5.1
+Massachusetts,Massachusetts,2022,Otheropioids,356,5.1
 Massachusetts,Massachusetts,2022,Heroin,112,1.6
 Illinois,Illinois,1999,Heroin,30,0.2
 Illinois,Illinois,1999,Fentanyl,25,0.2
@@ -1008,10 +1008,10 @@ California,California,2021,Heroin,779,2
 California,California,2021,Otheropioids,1240,3.2
 California,California,2021,Meth,5742,14.6
 California,California,2021,Fentanyl,6060,15.4
-California,California,2022,Fentanyl,6579,16.8
-California,California,2022,Heroin,508,1.3
-California,California,2022,Meth,5895,15
-California,California,2022,Otheropioids,1126,2.9
+California,California,2022,Fentanyl,6608,16.8
+California,California,2022,Heroin,510,1.3
+California,California,2022,Meth,5914,15.1
+California,California,2022,Otheropioids,1131,2.9
 Arizona,Arizona,1999,Heroin,23,0.5
 Arizona,Arizona,1999,Fentanyl,22,0.4
 Arizona,Arizona,1999,Meth,27,0.5
@@ -1200,10 +1200,10 @@ Florida,Florida,2021,Heroin,359,1.6
 Florida,Florida,2021,Otheropioids,1153,5.3
 Florida,Florida,2021,Meth,1908,8.8
 Florida,Florida,2021,Fentanyl,5358,24.6
-Florida,Florida,2022,Fentanyl,5122,23.5
+Florida,Florida,2022,Fentanyl,5129,23.5
 Florida,Florida,2022,Heroin,169,0.8
-Florida,Florida,2022,Meth,1923,8.8
-Florida,Florida,2022,Otheropioids,1034,4.7
+Florida,Florida,2022,Meth,1924,8.8
+Florida,Florida,2022,Otheropioids,1035,4.8
 North Carolina,North Carolina,1999,Heroin,43,0.5
 North Carolina,North Carolina,1999,Fentanyl,27,0.3
 North Carolina,North Carolina,1999,Otheropioids,96,1.2
@@ -1292,10 +1292,10 @@ North Carolina,North Carolina,2021,Fentanyl,3065,29
 North Carolina,North Carolina,2021,Heroin,257,2.4
 North Carolina,North Carolina,2021,Otheropioids,557,5.3
 North Carolina,North Carolina,2021,Meth,966,9.2
-North Carolina,North Carolina,2022,Fentanyl,3332,31.6
-North Carolina,North Carolina,2022,Meth,1281,12.1
-North Carolina,North Carolina,2022,Otheropioids,550,5.2
-North Carolina,North Carolina,2022,Heroin,127,1.2
+North Carolina,North Carolina,2022,Fentanyl,3356,31.8
+North Carolina,North Carolina,2022,Meth,1291,12.2
+North Carolina,North Carolina,2022,Otheropioids,556,5.3
+North Carolina,North Carolina,2022,Heroin,130,1.2
 Ohio,Ohio,1999,Heroin,53,0.5
 Ohio,Ohio,1999,Fentanyl,24,0.2
 Ohio,Ohio,1999,Otheropioids,81,0.7
@@ -1380,7 +1380,7 @@ Ohio,Ohio,2021,Fentanyl,4183,35.5
 Ohio,Ohio,2021,Heroin,162,1.4
 Ohio,Ohio,2021,Otheropioids,506,4.3
 Ohio,Ohio,2021,Meth,1371,11.6
-Ohio,Ohio,2022,Fentanyl,3991,33.9
+Ohio,Ohio,2022,Fentanyl,3992,33.9
 Ohio,Ohio,2022,Meth,1388,11.8
 Ohio,Ohio,2022,Heroin,91,0.8
 Ohio,Ohio,2022,Otheropioids,480,4.1
@@ -2007,10 +2007,10 @@ West Virginia,West Virginia,2021,Otheropioids,231,13
 West Virginia,West Virginia,2021,Heroin,41,2.3
 West Virginia,West Virginia,2021,Fentanyl,1189,66.7
 West Virginia,West Virginia,2021,Meth,820,46
-West Virginia,West Virginia,2022,Fentanyl,1097,61.5
+West Virginia,West Virginia,2022,Fentanyl,1127,63.2
 West Virginia,West Virginia,2022,Heroin,26,1.5
-West Virginia,West Virginia,2022,Meth,731,41
-West Virginia,West Virginia,2022,Otheropioids,175,9.8
+West Virginia,West Virginia,2022,Meth,758,42.5
+West Virginia,West Virginia,2022,Otheropioids,178,10
 Wisconsin,Wisconsin,1999,Otheropioids,48,0.9
 Wisconsin,Wisconsin,1999,Heroin,16,0.3
 Wisconsin,Wisconsin,1999,Fentanyl,16,0.3
@@ -2276,10 +2276,10 @@ United States,United States,2021,Fentanyl,70601,21.3
 United States,United States,2021,Heroin,9173,2.8
 United States,United States,2021,Meth,32537,9.8
 United States,United States,2021,Otheropioids,16706,5
-United States,United States,2022,Heroin,5879,1.8
-United States,United States,2022,Meth,34152,10.3
-United States,United States,2022,Otheropioids,14751,4.4
-United States,United States,2022,Fentanyl,74028,22.3
+United States,United States,2022,Heroin,5884,1.8
+United States,United States,2022,Meth,34215,10.3
+United States,United States,2022,Otheropioids,14767,4.4
+United States,United States,2022,Fentanyl,74126,22.3
 Oklahoma,Oklahoma,1999,Fentanyl,24,0.7
 Oklahoma,Oklahoma,1999,Meth,14,0.4
 Oklahoma,Oklahoma,1999,Otheropioids,66,1.9
@@ -2438,7 +2438,7 @@ South Carolina,South Carolina,2021,Fentanyl,1507,29
 South Carolina,South Carolina,2021,Otheropioids,432,8.3
 South Carolina,South Carolina,2021,Heroin,137,2.6
 South Carolina,South Carolina,2021,Meth,753,14.5
-South Carolina,South Carolina,2022,Fentanyl,1644,31.7
+South Carolina,South Carolina,2022,Fentanyl,1645,31.7
 South Carolina,South Carolina,2022,Meth,797,15.4
 South Carolina,South Carolina,2022,Heroin,53,1
 South Carolina,South Carolina,2022,Otheropioids,400,7.7
@@ -3330,7 +3330,7 @@ Hawaii,Hawaii,2021,Meth,180,12.5
 Hawaii,Hawaii,2021,Fentanyl,53,3.7
 Hawaii,Hawaii,2022,Fentanyl,79,5.5
 Hawaii,Hawaii,2022,Heroin,11,0.8
-Hawaii,Hawaii,2022,Meth,190,13.2
+Hawaii,Hawaii,2022,Meth,194,13.5
 Hawaii,Hawaii,2022,Otheropioids,30,2.1
 Arkansas,Arkansas,1999,Meth,13,0.5
 Arkansas,Arkansas,1999,Otheropioids,16,0.6
@@ -3861,8 +3861,8 @@ Mississippi,Mississippi,2021,Otheropioids,146,4.9
 Mississippi,Mississippi,2021,Heroin,41,1.4
 Mississippi,Mississippi,2021,Meth,327,11.1
 Mississippi,Mississippi,2021,Fentanyl,475,16.1
-Mississippi,Mississippi,2022,Fentanyl,486,16.5
-Mississippi,Mississippi,2022,Meth,323,10.9
+Mississippi,Mississippi,2022,Fentanyl,488,16.5
+Mississippi,Mississippi,2022,Meth,324,11
 Mississippi,Mississippi,2022,Otheropioids,98,3.3
 Mississippi,Mississippi,2022,Heroin,24,0.8
 Wyoming,Wyoming,2002,Otheropioids,14,2.8
