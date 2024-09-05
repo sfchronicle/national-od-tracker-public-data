@@ -64,13 +64,14 @@ United States,United States,2023-02-01,8433,2.5
 United States,United States,2023-03-01,9509,2.8
 United States,United States,2023-04-01,9222,2.8
 United States,United States,2023-05-01,9492,2.8
-United States,United States,2023-06-01,8910,2.7
+United States,United States,2023-06-01,8911,2.7
 United States,United States,2023-07-01,9389,2.8
 United States,United States,2023-08-01,9190,2.7
 United States,United States,2023-09-01,8087,2.4
 United States,United States,2023-10-01,8047,2.4
 United States,United States,2023-11-01,7635,2.3
 United States,United States,2023-12-01,7830,2.3
+United States,United States,2024-01-01,7495,2.2
 Alabama,Alabama,2018-01-01,56,1.1
 Alabama,Alabama,2018-02-01,73,1.5
 Alabama,Alabama,2018-03-01,72,1.5
@@ -143,6 +144,7 @@ Alabama,Alabama,2023-09-01,112,2.2
 Alabama,Alabama,2023-10-01,125,2.4
 Alabama,Alabama,2023-11-01,120,2.3
 Alabama,Alabama,2023-12-01,129,2.5
+Alabama,Alabama,2024-01-01,110,2.2
 Alaska,Alaska,2018-01-01,11,1.5
 Alaska,Alaska,2018-04-01,11,1.5
 Alaska,Alaska,2018-08-01,11,1.5
@@ -200,6 +202,7 @@ Alaska,Alaska,2023-09-01,35,4.8
 Alaska,Alaska,2023-10-01,26,3.5
 Alaska,Alaska,2023-11-01,32,4.4
 Alaska,Alaska,2023-12-01,52,7.1
+Alaska,Alaska,2024-01-01,40,5.5
 Arizona,Arizona,2018-01-01,146,2
 Arizona,Arizona,2018-02-01,99,1.4
 Arizona,Arizona,2018-03-01,148,2.1
@@ -265,13 +268,14 @@ Arizona,Arizona,2023-02-01,189,2.5
 Arizona,Arizona,2023-03-01,230,3.1
 Arizona,Arizona,2023-04-01,214,2.9
 Arizona,Arizona,2023-05-01,227,3.1
-Arizona,Arizona,2023-06-01,189,2.5
+Arizona,Arizona,2023-06-01,190,2.6
 Arizona,Arizona,2023-07-01,386,5.2
 Arizona,Arizona,2023-08-01,266,3.6
 Arizona,Arizona,2023-09-01,192,2.6
 Arizona,Arizona,2023-10-01,189,2.5
 Arizona,Arizona,2023-11-01,192,2.6
 Arizona,Arizona,2023-12-01,161,2.2
+Arizona,Arizona,2024-01-01,178,2.4
 Arkansas,Arkansas,2018-01-01,37,1.2
 Arkansas,Arkansas,2018-02-01,22,0.7
 Arkansas,Arkansas,2018-03-01,43,1.4
@@ -344,6 +348,7 @@ Arkansas,Arkansas,2023-09-01,39,1.3
 Arkansas,Arkansas,2023-10-01,37,1.2
 Arkansas,Arkansas,2023-11-01,36,1.2
 Arkansas,Arkansas,2023-12-01,32,1
+Arkansas,Arkansas,2024-01-01,34,1.1
 California,California,2018-01-01,475,1.2
 California,California,2018-02-01,419,1.1
 California,California,2018-03-01,442,1.1
@@ -416,6 +421,7 @@ California,California,2023-09-01,875,2.2
 California,California,2023-10-01,873,2.2
 California,California,2023-11-01,798,2
 California,California,2023-12-01,865,2.2
+California,California,2024-01-01,830,2.1
 Colorado,Colorado,2018-01-01,100,1.8
 Colorado,Colorado,2018-02-01,80,1.4
 Colorado,Colorado,2018-03-01,89,1.6
@@ -488,6 +494,7 @@ Colorado,Colorado,2023-09-01,149,2.5
 Colorado,Colorado,2023-10-01,160,2.7
 Colorado,Colorado,2023-11-01,180,3.1
 Colorado,Colorado,2023-12-01,147,2.5
+Colorado,Colorado,2024-01-01,156,2.7
 Connecticut,Connecticut,2018-01-01,66,1.8
 Connecticut,Connecticut,2018-02-01,86,2.4
 Connecticut,Connecticut,2018-03-01,104,2.9
@@ -560,6 +567,7 @@ Connecticut,Connecticut,2023-09-01,111,3.1
 Connecticut,Connecticut,2023-10-01,89,2.5
 Connecticut,Connecticut,2023-11-01,106,2.9
 Connecticut,Connecticut,2023-12-01,98,2.7
+Connecticut,Connecticut,2024-01-01,103,2.8
 Delaware,Delaware,2018-01-01,27,2.8
 Delaware,Delaware,2018-02-01,27,2.8
 Delaware,Delaware,2018-03-01,36,3.7
@@ -632,6 +640,7 @@ Delaware,Delaware,2023-09-01,39,3.8
 Delaware,Delaware,2023-10-01,39,3.8
 Delaware,Delaware,2023-11-01,38,3.7
 Delaware,Delaware,2023-12-01,33,3.2
+Delaware,Delaware,2024-01-01,37,3.6
 Florida,Florida,2018-01-01,438,2.1
 Florida,Florida,2018-02-01,373,1.8
 Florida,Florida,2018-03-01,370,1.7
@@ -704,6 +713,7 @@ Florida,Florida,2023-09-01,551,2.4
 Florida,Florida,2023-10-01,556,2.5
 Florida,Florida,2023-11-01,499,2.2
 Florida,Florida,2023-12-01,537,2.4
+Florida,Florida,2024-01-01,533,2.4
 Georgia,Georgia,2018-01-01,100,1
 Georgia,Georgia,2018-02-01,98,0.9
 Georgia,Georgia,2018-03-01,147,1.4
@@ -776,6 +786,7 @@ Georgia,Georgia,2023-09-01,193,1.7
 Georgia,Georgia,2023-10-01,178,1.6
 Georgia,Georgia,2023-11-01,211,1.9
 Georgia,Georgia,2023-12-01,173,1.6
+Georgia,Georgia,2024-01-01,189,1.7
 Hawaii,Hawaii,2018-01-01,17,1.2
 Hawaii,Hawaii,2018-02-01,20,1.4
 Hawaii,Hawaii,2018-03-01,18,1.3
@@ -847,6 +858,7 @@ Hawaii,Hawaii,2023-09-01,24,1.7
 Hawaii,Hawaii,2023-10-01,13,0.9
 Hawaii,Hawaii,2023-11-01,22,1.5
 Hawaii,Hawaii,2023-12-01,20,1.4
+Hawaii,Hawaii,2024-01-01,32,2.2
 Idaho,Idaho,2018-01-01,14,0.8
 Idaho,Idaho,2018-02-01,18,1
 Idaho,Idaho,2018-03-01,25,1.4
@@ -919,6 +931,7 @@ Idaho,Idaho,2023-09-01,32,1.6
 Idaho,Idaho,2023-10-01,31,1.6
 Idaho,Idaho,2023-11-01,38,1.9
 Idaho,Idaho,2023-12-01,18,0.9
+Idaho,Idaho,2024-01-01,27,1.4
 Illinois,Illinois,2018-01-01,242,1.9
 Illinois,Illinois,2018-02-01,207,1.6
 Illinois,Illinois,2018-03-01,237,1.9
@@ -991,6 +1004,7 @@ Illinois,Illinois,2023-09-01,274,2.2
 Illinois,Illinois,2023-10-01,289,2.3
 Illinois,Illinois,2023-11-01,269,2.1
 Illinois,Illinois,2023-12-01,261,2.1
+Illinois,Illinois,2024-01-01,223,1.8
 Indiana,Indiana,2018-01-01,138,2.1
 Indiana,Indiana,2018-02-01,120,1.8
 Indiana,Indiana,2018-03-01,141,2.1
@@ -1063,6 +1077,7 @@ Indiana,Indiana,2023-09-01,172,2.5
 Indiana,Indiana,2023-10-01,171,2.5
 Indiana,Indiana,2023-11-01,166,2.4
 Indiana,Indiana,2023-12-01,159,2.3
+Indiana,Indiana,2024-01-01,169,2.5
 Iowa,Iowa,2018-01-01,27,0.9
 Iowa,Iowa,2018-02-01,25,0.8
 Iowa,Iowa,2018-03-01,23,0.7
@@ -1135,6 +1150,7 @@ Iowa,Iowa,2023-09-01,43,1.3
 Iowa,Iowa,2023-10-01,18,0.6
 Iowa,Iowa,2023-11-01,37,1.2
 Iowa,Iowa,2023-12-01,36,1.1
+Iowa,Iowa,2024-01-01,38,1.2
 Kansas,Kansas,2018-01-01,30,1
 Kansas,Kansas,2018-02-01,22,0.8
 Kansas,Kansas,2018-03-01,29,1
@@ -1207,6 +1223,7 @@ Kansas,Kansas,2023-09-01,50,1.7
 Kansas,Kansas,2023-10-01,46,1.6
 Kansas,Kansas,2023-11-01,44,1.5
 Kansas,Kansas,2023-12-01,48,1.6
+Kansas,Kansas,2024-01-01,49,1.7
 Kentucky,Kentucky,2018-01-01,109,2.4
 Kentucky,Kentucky,2018-02-01,122,2.7
 Kentucky,Kentucky,2018-03-01,109,2.4
@@ -1279,6 +1296,7 @@ Kentucky,Kentucky,2023-09-01,163,3.6
 Kentucky,Kentucky,2023-10-01,150,3.3
 Kentucky,Kentucky,2023-11-01,154,3.4
 Kentucky,Kentucky,2023-12-01,165,3.6
+Kentucky,Kentucky,2024-01-01,148,3.3
 Louisiana,Louisiana,2018-01-01,102,2.2
 Louisiana,Louisiana,2018-02-01,101,2.2
 Louisiana,Louisiana,2018-03-01,120,2.6
@@ -1351,6 +1369,7 @@ Louisiana,Louisiana,2023-09-01,187,4.1
 Louisiana,Louisiana,2023-10-01,151,3.3
 Louisiana,Louisiana,2023-11-01,155,3.4
 Louisiana,Louisiana,2023-12-01,177,3.9
+Louisiana,Louisiana,2024-01-01,136,3
 Maine,Maine,2018-01-01,28,2.1
 Maine,Maine,2018-02-01,23,1.7
 Maine,Maine,2018-03-01,36,2.7
@@ -1423,6 +1442,7 @@ Maine,Maine,2023-09-01,53,3.8
 Maine,Maine,2023-10-01,53,3.8
 Maine,Maine,2023-11-01,47,3.4
 Maine,Maine,2023-12-01,46,3.3
+Maine,Maine,2024-01-01,42,3
 Maryland,Maryland,2018-01-01,212,3.5
 Maryland,Maryland,2018-02-01,224,3.7
 Maryland,Maryland,2018-03-01,226,3.7
@@ -1495,6 +1515,7 @@ Maryland,Maryland,2023-09-01,177,2.9
 Maryland,Maryland,2023-10-01,230,3.7
 Maryland,Maryland,2023-11-01,204,3.3
 Maryland,Maryland,2023-12-01,215,3.5
+Maryland,Maryland,2024-01-01,184,3
 Massachusetts,Massachusetts,2018-01-01,208,3
 Massachusetts,Massachusetts,2018-02-01,175,2.5
 Massachusetts,Massachusetts,2018-03-01,179,2.6
@@ -1567,6 +1588,7 @@ Massachusetts,Massachusetts,2023-09-01,192,2.7
 Massachusetts,Massachusetts,2023-10-01,170,2.4
 Massachusetts,Massachusetts,2023-11-01,176,2.5
 Massachusetts,Massachusetts,2023-12-01,190,2.7
+Massachusetts,Massachusetts,2024-01-01,161,2.3
 Michigan,Michigan,2018-01-01,243,2.4
 Michigan,Michigan,2018-02-01,230,2.3
 Michigan,Michigan,2018-03-01,244,2.4
@@ -1639,6 +1661,7 @@ Michigan,Michigan,2023-09-01,226,2.3
 Michigan,Michigan,2023-10-01,223,2.2
 Michigan,Michigan,2023-11-01,186,1.9
 Michigan,Michigan,2023-12-01,207,2.1
+Michigan,Michigan,2024-01-01,190,1.9
 Minnesota,Minnesota,2018-01-01,47,0.8
 Minnesota,Minnesota,2018-02-01,61,1.1
 Minnesota,Minnesota,2018-03-01,61,1.1
@@ -1711,6 +1734,7 @@ Minnesota,Minnesota,2023-09-01,110,1.9
 Minnesota,Minnesota,2023-10-01,103,1.8
 Minnesota,Minnesota,2023-11-01,103,1.8
 Minnesota,Minnesota,2023-12-01,107,1.9
+Minnesota,Minnesota,2024-01-01,102,1.8
 Mississippi,Mississippi,2018-01-01,23,0.8
 Mississippi,Mississippi,2018-02-01,32,1.1
 Mississippi,Mississippi,2018-03-01,24,0.8
@@ -1783,6 +1807,7 @@ Mississippi,Mississippi,2023-09-01,51,1.7
 Mississippi,Mississippi,2023-10-01,46,1.6
 Mississippi,Mississippi,2023-11-01,66,2.2
 Mississippi,Mississippi,2023-12-01,55,1.9
+Mississippi,Mississippi,2024-01-01,47,1.6
 Missouri,Missouri,2018-01-01,124,2
 Missouri,Missouri,2018-02-01,122,2
 Missouri,Missouri,2018-03-01,128,2.1
@@ -1855,6 +1880,7 @@ Missouri,Missouri,2023-09-01,155,2.5
 Missouri,Missouri,2023-10-01,175,2.8
 Missouri,Missouri,2023-11-01,144,2.3
 Missouri,Missouri,2023-12-01,134,2.2
+Missouri,Missouri,2024-01-01,149,2.4
 Montana,Montana,2018-01-01,11,1
 Montana,Montana,2018-05-01,13,1.2
 Montana,Montana,2018-06-01,14,1.3
@@ -1915,6 +1941,7 @@ Montana,Montana,2023-09-01,10,0.9
 Montana,Montana,2023-10-01,21,1.9
 Montana,Montana,2023-11-01,15,1.3
 Montana,Montana,2023-12-01,16,1.4
+Montana,Montana,2024-01-01,12,1.1
 Nevada,Nevada,2018-01-01,57,1.9
 Nevada,Nevada,2018-02-01,55,1.8
 Nevada,Nevada,2018-03-01,53,1.8
@@ -1987,6 +2014,7 @@ Nevada,Nevada,2023-09-01,116,3.6
 Nevada,Nevada,2023-10-01,111,3.5
 Nevada,Nevada,2023-11-01,103,3.2
 Nevada,Nevada,2023-12-01,109,3.4
+Nevada,Nevada,2024-01-01,123,3.9
 New Hampshire,New Hampshire,2018-01-01,29,2.1
 New Hampshire,New Hampshire,2018-02-01,37,2.7
 New Hampshire,New Hampshire,2018-03-01,45,3.3
@@ -2059,6 +2087,7 @@ New Hampshire,New Hampshire,2023-09-01,47,3.4
 New Hampshire,New Hampshire,2023-10-01,26,1.9
 New Hampshire,New Hampshire,2023-11-01,25,1.8
 New Hampshire,New Hampshire,2023-12-01,26,1.9
+New Hampshire,New Hampshire,2024-01-01,40,2.9
 New Jersey,New Jersey,2018-01-01,218,2.5
 New Jersey,New Jersey,2018-02-01,194,2.2
 New Jersey,New Jersey,2018-03-01,250,2.8
@@ -2131,6 +2160,7 @@ New Jersey,New Jersey,2023-09-01,186,2
 New Jersey,New Jersey,2023-10-01,209,2.2
 New Jersey,New Jersey,2023-11-01,187,2
 New Jersey,New Jersey,2023-12-01,175,1.9
+New Jersey,New Jersey,2024-01-01,194,2.1
 New Mexico,New Mexico,2018-01-01,41,2
 New Mexico,New Mexico,2018-02-01,33,1.6
 New Mexico,New Mexico,2018-03-01,49,2.3
@@ -2203,6 +2233,7 @@ New Mexico,New Mexico,2023-09-01,67,3.2
 New Mexico,New Mexico,2023-10-01,80,3.8
 New Mexico,New Mexico,2023-11-01,75,3.5
 New Mexico,New Mexico,2023-12-01,81,3.8
+New Mexico,New Mexico,2024-01-01,60,2.8
 New York,New York,2018-01-01,374,1.9
 New York,New York,2018-02-01,270,1.4
 New York,New York,2018-03-01,296,1.5
@@ -2275,6 +2306,7 @@ New York,New York,2023-09-01,471,2.4
 New York,New York,2023-10-01,518,2.6
 New York,New York,2023-11-01,463,2.4
 New York,New York,2023-12-01,521,2.7
+New York,New York,2024-01-01,451,2.3
 North Carolina,North Carolina,2018-01-01,199,1.9
 North Carolina,North Carolina,2018-02-01,162,1.6
 North Carolina,North Carolina,2018-03-01,169,1.6
@@ -2347,6 +2379,7 @@ North Carolina,North Carolina,2023-09-01,228,2.1
 North Carolina,North Carolina,2023-10-01,165,1.5
 North Carolina,North Carolina,2023-11-01,173,1.6
 North Carolina,North Carolina,2023-12-01,166,1.5
+North Carolina,North Carolina,2024-01-01,148,1.4
 North Dakota,North Dakota,2018-01-01,10,1.3
 North Dakota,North Dakota,2019-02-01,10,1.3
 North Dakota,North Dakota,2019-07-01,14,1.8
@@ -2384,6 +2417,7 @@ North Dakota,North Dakota,2023-05-01,12,1.5
 North Dakota,North Dakota,2023-06-01,16,2
 North Dakota,North Dakota,2023-07-01,11,1.4
 North Dakota,North Dakota,2023-08-01,11,1.4
+North Dakota,North Dakota,2024-01-01,11,1.4
 Ohio,Ohio,2018-01-01,298,2.6
 Ohio,Ohio,2018-02-01,315,2.7
 Ohio,Ohio,2018-03-01,340,2.9
@@ -2456,6 +2490,7 @@ Ohio,Ohio,2023-09-01,343,2.9
 Ohio,Ohio,2023-10-01,357,3
 Ohio,Ohio,2023-11-01,318,2.7
 Ohio,Ohio,2023-12-01,323,2.7
+Ohio,Ohio,2024-01-01,296,2.5
 Oklahoma,Oklahoma,2018-01-01,69,1.8
 Oklahoma,Oklahoma,2018-02-01,52,1.3
 Oklahoma,Oklahoma,2018-03-01,66,1.7
@@ -2528,6 +2563,7 @@ Oklahoma,Oklahoma,2023-09-01,99,2.4
 Oklahoma,Oklahoma,2023-10-01,100,2.5
 Oklahoma,Oklahoma,2023-11-01,102,2.5
 Oklahoma,Oklahoma,2023-12-01,87,2.1
+Oklahoma,Oklahoma,2024-01-01,98,2.4
 Oregon,Oregon,2018-01-01,58,1.4
 Oregon,Oregon,2018-02-01,36,0.9
 Oregon,Oregon,2018-03-01,44,1.1
@@ -2600,6 +2636,7 @@ Oregon,Oregon,2023-09-01,154,3.6
 Oregon,Oregon,2023-10-01,175,4.1
 Oregon,Oregon,2023-11-01,131,3.1
 Oregon,Oregon,2023-12-01,151,3.6
+Oregon,Oregon,2024-01-01,152,3.6
 Pennsylvania,Pennsylvania,2018-01-01,361,2.8
 Pennsylvania,Pennsylvania,2018-02-01,292,2.3
 Pennsylvania,Pennsylvania,2018-03-01,369,2.9
@@ -2672,6 +2709,7 @@ Pennsylvania,Pennsylvania,2023-09-01,341,2.6
 Pennsylvania,Pennsylvania,2023-10-01,393,3
 Pennsylvania,Pennsylvania,2023-11-01,327,2.5
 Pennsylvania,Pennsylvania,2023-12-01,337,2.6
+Pennsylvania,Pennsylvania,2024-01-01,329,2.5
 Rhode Island,Rhode Island,2018-01-01,20,1.9
 Rhode Island,Rhode Island,2018-02-01,21,2
 Rhode Island,Rhode Island,2018-03-01,28,2.6
@@ -2744,6 +2782,7 @@ Rhode Island,Rhode Island,2023-09-01,34,3.1
 Rhode Island,Rhode Island,2023-10-01,27,2.5
 Rhode Island,Rhode Island,2023-11-01,38,3.5
 Rhode Island,Rhode Island,2023-12-01,34,3.1
+Rhode Island,Rhode Island,2024-01-01,36,3.3
 South Carolina,South Carolina,2018-01-01,86,1.7
 South Carolina,South Carolina,2018-02-01,81,1.6
 South Carolina,South Carolina,2018-03-01,101,2
@@ -2816,6 +2855,7 @@ South Carolina,South Carolina,2023-09-01,156,2.9
 South Carolina,South Carolina,2023-10-01,180,3.3
 South Carolina,South Carolina,2023-11-01,127,2.4
 South Carolina,South Carolina,2023-12-01,165,3.1
+South Carolina,South Carolina,2024-01-01,158,2.9
 Tennessee,Tennessee,2018-01-01,136,2
 Tennessee,Tennessee,2018-02-01,159,2.3
 Tennessee,Tennessee,2018-03-01,160,2.4
@@ -2888,6 +2928,7 @@ Tennessee,Tennessee,2023-09-01,322,4.5
 Tennessee,Tennessee,2023-10-01,285,4
 Tennessee,Tennessee,2023-11-01,281,3.9
 Tennessee,Tennessee,2023-12-01,275,3.9
+Tennessee,Tennessee,2024-01-01,286,4
 Texas,Texas,2018-01-01,237,0.8
 Texas,Texas,2018-02-01,254,0.9
 Texas,Texas,2018-03-01,227,0.8
@@ -2960,6 +3001,7 @@ Texas,Texas,2023-09-01,440,1.4
 Texas,Texas,2023-10-01,418,1.4
 Texas,Texas,2023-11-01,414,1.4
 Texas,Texas,2023-12-01,410,1.3
+Texas,Texas,2024-01-01,443,1.5
 Utah,Utah,2018-01-01,51,1.6
 Utah,Utah,2018-02-01,58,1.8
 Utah,Utah,2018-03-01,55,1.7
@@ -3032,6 +3074,7 @@ Utah,Utah,2023-09-01,59,1.7
 Utah,Utah,2023-10-01,46,1.3
 Utah,Utah,2023-11-01,64,1.9
 Utah,Utah,2023-12-01,68,2
+Utah,Utah,2024-01-01,57,1.7
 Vermont,Vermont,2018-01-01,10,1.6
 Vermont,Vermont,2018-02-01,12,1.9
 Vermont,Vermont,2018-03-01,12,1.9
@@ -3093,6 +3136,7 @@ Vermont,Vermont,2023-09-01,18,2.8
 Vermont,Vermont,2023-10-01,24,3.7
 Vermont,Vermont,2023-11-01,11,1.7
 Vermont,Vermont,2023-12-01,23,3.6
+Vermont,Vermont,2024-01-01,13,2
 Virginia,Virginia,2018-01-01,98,1.2
 Virginia,Virginia,2018-02-01,113,1.3
 Virginia,Virginia,2018-03-01,127,1.5
@@ -3165,6 +3209,7 @@ Virginia,Virginia,2023-09-01,172,2
 Virginia,Virginia,2023-10-01,183,2.1
 Virginia,Virginia,2023-11-01,171,2
 Virginia,Virginia,2023-12-01,163,1.9
+Virginia,Virginia,2024-01-01,147,1.7
 Washington,Washington,2018-01-01,94,1.2
 Washington,Washington,2018-02-01,97,1.3
 Washington,Washington,2018-03-01,100,1.3
@@ -3237,6 +3282,7 @@ Washington,Washington,2023-09-01,288,3.7
 Washington,Washington,2023-10-01,277,3.5
 Washington,Washington,2023-11-01,281,3.6
 Washington,Washington,2023-12-01,300,3.8
+Washington,Washington,2024-01-01,286,3.7
 West Virginia,West Virginia,2018-01-01,61,3.4
 West Virginia,West Virginia,2018-02-01,75,4.2
 West Virginia,West Virginia,2018-03-01,82,4.5
@@ -3309,6 +3355,7 @@ West Virginia,West Virginia,2023-09-01,110,6.2
 West Virginia,West Virginia,2023-10-01,102,5.8
 West Virginia,West Virginia,2023-11-01,101,5.7
 West Virginia,West Virginia,2023-12-01,124,7
+West Virginia,West Virginia,2024-01-01,77,4.4
 Wisconsin,Wisconsin,2018-01-01,86,1.5
 Wisconsin,Wisconsin,2018-02-01,91,1.6
 Wisconsin,Wisconsin,2018-03-01,103,1.8
@@ -3381,6 +3428,7 @@ Wisconsin,Wisconsin,2023-09-01,132,2.2
 Wisconsin,Wisconsin,2023-10-01,130,2.2
 Wisconsin,Wisconsin,2023-11-01,131,2.2
 Wisconsin,Wisconsin,2023-12-01,121,2
+Wisconsin,Wisconsin,2024-01-01,112,1.9
 Nebraska,Nebraska,2018-02-01,13,0.7
 Nebraska,Nebraska,2018-03-01,17,0.9
 Nebraska,Nebraska,2018-04-01,12,0.6
@@ -3443,6 +3491,7 @@ Nebraska,Nebraska,2023-08-01,16,0.8
 Nebraska,Nebraska,2023-09-01,11,0.6
 Nebraska,Nebraska,2023-10-01,11,0.6
 Nebraska,Nebraska,2023-12-01,18,0.9
+Nebraska,Nebraska,2024-01-01,10,0.5
 Wyoming,Wyoming,2019-03-01,10,1.7
 Wyoming,Wyoming,2019-12-01,12,2.1
 Wyoming,Wyoming,2020-01-01,10,1.7
@@ -3472,6 +3521,7 @@ Wyoming,Wyoming,2023-06-01,11,1.9
 Wyoming,Wyoming,2023-09-01,13,2.2
 Wyoming,Wyoming,2023-10-01,11,1.9
 Wyoming,Wyoming,2023-11-01,13,2.2
+Wyoming,Wyoming,2024-01-01,10,1.7
 South Dakota,South Dakota,2019-05-01,10,1.1
 South Dakota,South Dakota,2019-06-01,10,1.1
 South Dakota,South Dakota,2019-08-01,11,1.2
@@ -3558,6 +3608,7 @@ Jefferson County,Alabama,2023-09-01,39,5.9
 Jefferson County,Alabama,2023-10-01,40,6
 Jefferson County,Alabama,2023-11-01,34,5.1
 Jefferson County,Alabama,2023-12-01,38,5.7
+Jefferson County,Alabama,2024-01-01,38,5.7
 Maricopa County,Arizona,2018-01-01,107,2.4
 Maricopa County,Arizona,2018-02-01,61,1.4
 Maricopa County,Arizona,2018-03-01,106,2.4
@@ -3623,13 +3674,14 @@ Maricopa County,Arizona,2023-02-01,133,2.9
 Maricopa County,Arizona,2023-03-01,149,3.2
 Maricopa County,Arizona,2023-04-01,134,2.9
 Maricopa County,Arizona,2023-05-01,154,3.4
-Maricopa County,Arizona,2023-06-01,123,2.7
+Maricopa County,Arizona,2023-06-01,124,2.7
 Maricopa County,Arizona,2023-07-01,289,6.3
 Maricopa County,Arizona,2023-08-01,190,4.1
 Maricopa County,Arizona,2023-09-01,127,2.8
 Maricopa County,Arizona,2023-10-01,121,2.6
 Maricopa County,Arizona,2023-11-01,128,2.8
 Maricopa County,Arizona,2023-12-01,100,2.2
+Maricopa County,Arizona,2024-01-01,101,2.2
 Pima County,Arizona,2018-01-01,24,2.3
 Pima County,Arizona,2018-02-01,18,1.7
 Pima County,Arizona,2018-03-01,24,2.3
@@ -3702,6 +3754,7 @@ Pima County,Arizona,2023-09-01,31,2.9
 Pima County,Arizona,2023-10-01,37,3.5
 Pima County,Arizona,2023-11-01,38,3.6
 Pima County,Arizona,2023-12-01,33,3.1
+Pima County,Arizona,2024-01-01,42,4
 Alameda County,California,2018-01-01,21,1.3
 Alameda County,California,2018-02-01,14,0.8
 Alameda County,California,2018-03-01,17,1
@@ -3774,6 +3827,7 @@ Alameda County,California,2023-09-01,38,2.3
 Alameda County,California,2023-10-01,40,2.5
 Alameda County,California,2023-11-01,23,1.4
 Alameda County,California,2023-12-01,25,1.5
+Alameda County,California,2024-01-01,39,2.4
 Fresno County,California,2018-01-01,13,1.3
 Fresno County,California,2018-02-01,12,1.2
 Fresno County,California,2018-03-01,10,1
@@ -3829,6 +3883,7 @@ Fresno County,California,2023-09-01,15,1.5
 Fresno County,California,2023-10-01,17,1.7
 Fresno County,California,2023-11-01,19,1.9
 Fresno County,California,2023-12-01,23,2.3
+Fresno County,California,2024-01-01,21,2.1
 Kern County,California,2018-01-01,14,1.6
 Kern County,California,2018-02-01,20,2.2
 Kern County,California,2018-03-01,21,2.3
@@ -3901,6 +3956,7 @@ Kern County,California,2023-09-01,33,3.6
 Kern County,California,2023-10-01,39,4.3
 Kern County,California,2023-11-01,42,4.6
 Kern County,California,2023-12-01,44,4.8
+Kern County,California,2024-01-01,31,3.4
 Los Angeles County,California,2018-01-01,83,0.8
 Los Angeles County,California,2018-02-01,76,0.8
 Los Angeles County,California,2018-03-01,62,0.6
@@ -3973,6 +4029,7 @@ Los Angeles County,California,2023-09-01,189,2
 Los Angeles County,California,2023-10-01,167,1.7
 Los Angeles County,California,2023-11-01,157,1.6
 Los Angeles County,California,2023-12-01,214,2.2
+Los Angeles County,California,2024-01-01,192,2
 Orange County,California,2018-01-01,33,1
 Orange County,California,2018-02-01,28,0.9
 Orange County,California,2018-03-01,32,1
@@ -4045,6 +4102,7 @@ Orange County,California,2023-09-01,72,2.3
 Orange County,California,2023-10-01,58,1.8
 Orange County,California,2023-11-01,62,2
 Orange County,California,2023-12-01,55,1.8
+Orange County,California,2024-01-01,57,1.8
 Riverside County,California,2018-01-01,49,2
 Riverside County,California,2018-02-01,34,1.4
 Riverside County,California,2018-03-01,31,1.3
@@ -4117,6 +4175,7 @@ Riverside County,California,2023-09-01,66,2.6
 Riverside County,California,2023-10-01,67,2.7
 Riverside County,California,2023-11-01,52,2.1
 Riverside County,California,2023-12-01,58,2.3
+Riverside County,California,2024-01-01,54,2.2
 Sacramento County,California,2018-01-01,24,1.6
 Sacramento County,California,2018-02-01,18,1.2
 Sacramento County,California,2018-03-01,25,1.6
@@ -4188,6 +4247,7 @@ Sacramento County,California,2023-09-01,56,3.5
 Sacramento County,California,2023-10-01,58,3.7
 Sacramento County,California,2023-11-01,42,2.7
 Sacramento County,California,2023-12-01,45,2.8
+Sacramento County,California,2024-01-01,42,2.7
 San Bernardino County,California,2018-01-01,29,1.3
 San Bernardino County,California,2018-02-01,26,1.2
 San Bernardino County,California,2018-03-01,22,1
@@ -4259,6 +4319,7 @@ San Bernardino County,California,2023-09-01,48,2.2
 San Bernardino County,California,2023-10-01,36,1.6
 San Bernardino County,California,2023-11-01,53,2.4
 San Bernardino County,California,2023-12-01,29,1.3
+San Bernardino County,California,2024-01-01,34,1.5
 San Diego County,California,2018-01-01,49,1.5
 San Diego County,California,2018-02-01,35,1
 San Diego County,California,2018-03-01,45,1.3
@@ -4331,6 +4392,7 @@ San Diego County,California,2023-09-01,63,1.9
 San Diego County,California,2023-10-01,64,2
 San Diego County,California,2023-11-01,56,1.7
 San Diego County,California,2023-12-01,84,2.6
+San Diego County,California,2024-01-01,58,1.8
 San Francisco County,California,2018-01-01,22,2.5
 San Francisco County,California,2018-02-01,26,3
 San Francisco County,California,2018-03-01,19,2.2
@@ -4403,6 +4465,7 @@ San Francisco County,California,2023-09-01,49,6.1
 San Francisco County,California,2023-10-01,61,7.5
 San Francisco County,California,2023-11-01,49,6.1
 San Francisco County,California,2023-12-01,42,5.2
+San Francisco County,California,2024-01-01,63,7.8
 San Joaquin County,California,2018-01-01,10,1.3
 San Joaquin County,California,2018-03-01,13,1.7
 San Joaquin County,California,2018-04-01,13,1.7
@@ -4460,6 +4523,7 @@ San Joaquin County,California,2023-09-01,21,2.6
 San Joaquin County,California,2023-10-01,22,2.7
 San Joaquin County,California,2023-11-01,17,2.1
 San Joaquin County,California,2023-12-01,25,3.1
+San Joaquin County,California,2024-01-01,21,2.6
 Santa Clara County,California,2018-01-01,12,0.6
 Santa Clara County,California,2018-02-01,14,0.7
 Santa Clara County,California,2018-03-01,17,0.9
@@ -4532,6 +4596,7 @@ Santa Clara County,California,2023-09-01,29,1.5
 Santa Clara County,California,2023-10-01,23,1.2
 Santa Clara County,California,2023-11-01,33,1.8
 Santa Clara County,California,2023-12-01,25,1.3
+Santa Clara County,California,2024-01-01,26,1.4
 Stanislaus County,California,2018-01-01,10,1.8
 Stanislaus County,California,2018-07-01,14,2.6
 Stanislaus County,California,2019-08-01,11,2
@@ -4573,6 +4638,7 @@ Stanislaus County,California,2023-09-01,16,2.9
 Stanislaus County,California,2023-10-01,16,2.9
 Stanislaus County,California,2023-11-01,12,2.2
 Stanislaus County,California,2023-12-01,20,3.6
+Stanislaus County,California,2024-01-01,22,4
 Ventura County,California,2018-01-01,17,2
 Ventura County,California,2018-02-01,10,1.2
 Ventura County,California,2018-03-01,12,1.4
@@ -4633,6 +4699,7 @@ Ventura County,California,2023-09-01,14,1.7
 Ventura County,California,2023-10-01,16,1.9
 Ventura County,California,2023-11-01,16,1.9
 Ventura County,California,2023-12-01,20,2.4
+Ventura County,California,2024-01-01,18,2.2
 Adams County,Colorado,2018-01-01,13,2.5
 Adams County,Colorado,2018-03-01,11,2.2
 Adams County,Colorado,2018-04-01,13,2.5
@@ -4688,6 +4755,7 @@ Adams County,Colorado,2023-09-01,18,3.4
 Adams County,Colorado,2023-10-01,14,2.6
 Adams County,Colorado,2023-11-01,16,3
 Adams County,Colorado,2023-12-01,13,2.4
+Adams County,Colorado,2024-01-01,21,3.9
 Arapahoe County,Colorado,2018-01-01,10,1.5
 Arapahoe County,Colorado,2018-05-01,10,1.5
 Arapahoe County,Colorado,2018-07-01,17,2.6
@@ -4746,6 +4814,7 @@ Arapahoe County,Colorado,2023-09-01,15,2.3
 Arapahoe County,Colorado,2023-10-01,14,2.1
 Arapahoe County,Colorado,2023-11-01,21,3.2
 Arapahoe County,Colorado,2023-12-01,22,3.4
+Arapahoe County,Colorado,2024-01-01,17,2.6
 Denver County,Colorado,2018-01-01,16,2.2
 Denver County,Colorado,2018-02-01,13,1.8
 Denver County,Colorado,2018-03-01,21,2.9
@@ -4817,6 +4886,7 @@ Denver County,Colorado,2023-09-01,41,5.7
 Denver County,Colorado,2023-10-01,49,6.8
 Denver County,Colorado,2023-11-01,56,7.8
 Denver County,Colorado,2023-12-01,36,5
+Denver County,Colorado,2024-01-01,29,4
 El Paso County,Colorado,2018-01-01,12,1.7
 El Paso County,Colorado,2018-02-01,13,1.8
 El Paso County,Colorado,2018-03-01,10,1.4
@@ -4882,6 +4952,7 @@ El Paso County,Colorado,2023-09-01,13,1.7
 El Paso County,Colorado,2023-10-01,19,2.6
 El Paso County,Colorado,2023-11-01,25,3.4
 El Paso County,Colorado,2023-12-01,17,2.3
+El Paso County,Colorado,2024-01-01,20,2.7
 Fairfield County,Connecticut,2018-01-01,11,1.1
 Fairfield County,Connecticut,2018-02-01,11,1.1
 Fairfield County,Connecticut,2018-03-01,13,1.4
@@ -4950,6 +5021,7 @@ Fairfield County,Connecticut,2023-09-01,15,1.6
 Fairfield County,Connecticut,2023-10-01,18,1.9
 Fairfield County,Connecticut,2023-11-01,22,2.3
 Fairfield County,Connecticut,2023-12-01,18,1.9
+Fairfield County,Connecticut,2024-01-01,17,1.8
 Hartford County,Connecticut,2018-01-01,22,2.4
 Hartford County,Connecticut,2018-02-01,30,3.3
 Hartford County,Connecticut,2018-03-01,30,3.3
@@ -5022,6 +5094,7 @@ Hartford County,Connecticut,2023-09-01,35,3.9
 Hartford County,Connecticut,2023-10-01,32,3.6
 Hartford County,Connecticut,2023-11-01,29,3.2
 Hartford County,Connecticut,2023-12-01,20,2.2
+Hartford County,Connecticut,2024-01-01,28,3.1
 New Haven County,Connecticut,2018-01-01,21,2.4
 New Haven County,Connecticut,2018-02-01,24,2.8
 New Haven County,Connecticut,2018-03-01,36,4.2
@@ -5094,6 +5167,7 @@ New Haven County,Connecticut,2023-09-01,36,4.2
 New Haven County,Connecticut,2023-10-01,23,2.7
 New Haven County,Connecticut,2023-11-01,32,3.7
 New Haven County,Connecticut,2023-12-01,41,4.7
+New Haven County,Connecticut,2024-01-01,28,3.2
 New Castle County,Delaware,2018-01-01,16,2.9
 New Castle County,Delaware,2018-02-01,19,3.4
 New Castle County,Delaware,2018-03-01,24,4.3
@@ -5166,6 +5240,7 @@ New Castle County,Delaware,2023-09-01,17,2.9
 New Castle County,Delaware,2023-10-01,26,4.5
 New Castle County,Delaware,2023-11-01,26,4.5
 New Castle County,Delaware,2023-12-01,14,2.4
+New Castle County,Delaware,2024-01-01,23,4
 "Washington, D.C.","Washington, D.C.",2018-01-01,18,2.6
 "Washington, D.C.","Washington, D.C.",2018-02-01,21,3
 "Washington, D.C.","Washington, D.C.",2018-03-01,22,3.1
@@ -5238,6 +5313,7 @@ New Castle County,Delaware,2023-12-01,14,2.4
 "Washington, D.C.","Washington, D.C.",2023-10-01,40,5.9
 "Washington, D.C.","Washington, D.C.",2023-11-01,41,6
 "Washington, D.C.","Washington, D.C.",2023-12-01,49,7.2
+"Washington, D.C.","Washington, D.C.",2024-01-01,32,4.7
 Brevard County,Florida,2018-01-01,20,3.4
 Brevard County,Florida,2018-02-01,19,3.2
 Brevard County,Florida,2018-03-01,15,2.5
@@ -5307,6 +5383,7 @@ Brevard County,Florida,2023-09-01,22,3.4
 Brevard County,Florida,2023-10-01,19,3
 Brevard County,Florida,2023-11-01,25,3.9
 Brevard County,Florida,2023-12-01,14,2.2
+Brevard County,Florida,2024-01-01,15,2.3
 Broward County,Florida,2018-01-01,47,2.4
 Broward County,Florida,2018-02-01,30,1.5
 Broward County,Florida,2018-03-01,45,2.3
@@ -5379,6 +5456,7 @@ Broward County,Florida,2023-09-01,55,2.8
 Broward County,Florida,2023-10-01,54,2.8
 Broward County,Florida,2023-11-01,49,2.5
 Broward County,Florida,2023-12-01,45,2.3
+Broward County,Florida,2024-01-01,48,2.4
 Duval County,Florida,2018-01-01,39,4.1
 Duval County,Florida,2018-02-01,18,1.9
 Duval County,Florida,2018-03-01,22,2.3
@@ -5451,6 +5529,7 @@ Duval County,Florida,2023-09-01,37,3.6
 Duval County,Florida,2023-10-01,37,3.6
 Duval County,Florida,2023-11-01,33,3.2
 Duval County,Florida,2023-12-01,35,3.4
+Duval County,Florida,2024-01-01,46,4.5
 Hillsborough County,Florida,2018-01-01,21,1.4
 Hillsborough County,Florida,2018-02-01,25,1.7
 Hillsborough County,Florida,2018-03-01,22,1.5
@@ -5523,6 +5602,7 @@ Hillsborough County,Florida,2023-09-01,45,2.9
 Hillsborough County,Florida,2023-10-01,42,2.7
 Hillsborough County,Florida,2023-11-01,38,2.5
 Hillsborough County,Florida,2023-12-01,43,2.8
+Hillsborough County,Florida,2024-01-01,43,2.8
 Lee County,Florida,2018-01-01,22,2.9
 Lee County,Florida,2018-02-01,14,1.9
 Lee County,Florida,2018-03-01,13,1.7
@@ -5595,6 +5675,7 @@ Lee County,Florida,2023-09-01,24,2.9
 Lee County,Florida,2023-10-01,20,2.4
 Lee County,Florida,2023-11-01,10,1.2
 Lee County,Florida,2023-12-01,24,2.9
+Lee County,Florida,2024-01-01,17,2
 Manatee County,Florida,2018-01-01,10,2.5
 Manatee County,Florida,2018-04-01,16,4.1
 Manatee County,Florida,2019-01-01,19,4.7
@@ -5645,6 +5726,7 @@ Manatee County,Florida,2023-09-01,14,3.2
 Manatee County,Florida,2023-10-01,19,4.3
 Manatee County,Florida,2023-11-01,14,3.2
 Manatee County,Florida,2023-12-01,13,2.9
+Manatee County,Florida,2024-01-01,14,3.2
 Marion County,Florida,2018-01-01,21,5.8
 Marion County,Florida,2018-02-01,10,2.8
 Marion County,Florida,2018-07-01,12,3.3
@@ -5702,6 +5784,7 @@ Marion County,Florida,2023-09-01,11,2.7
 Marion County,Florida,2023-10-01,17,4.1
 Marion County,Florida,2023-11-01,12,2.9
 Marion County,Florida,2023-12-01,22,5.4
+Marion County,Florida,2024-01-01,19,4.6
 Miami-Dade County,Florida,2018-01-01,37,1.4
 Miami-Dade County,Florida,2018-02-01,27,1
 Miami-Dade County,Florida,2018-03-01,20,0.7
@@ -5774,6 +5857,7 @@ Miami-Dade County,Florida,2023-09-01,26,1
 Miami-Dade County,Florida,2023-10-01,29,1.1
 Miami-Dade County,Florida,2023-11-01,23,0.9
 Miami-Dade County,Florida,2023-12-01,22,0.8
+Miami-Dade County,Florida,2024-01-01,22,0.8
 Orange County,Florida,2018-01-01,31,2.2
 Orange County,Florida,2018-02-01,31,2.2
 Orange County,Florida,2018-03-01,20,1.4
@@ -5846,6 +5930,7 @@ Orange County,Florida,2023-09-01,31,2.1
 Orange County,Florida,2023-10-01,34,2.3
 Orange County,Florida,2023-11-01,32,2.2
 Orange County,Florida,2023-12-01,35,2.4
+Orange County,Florida,2024-01-01,26,1.8
 Palm Beach County,Florida,2018-01-01,46,3.1
 Palm Beach County,Florida,2018-02-01,41,2.8
 Palm Beach County,Florida,2018-03-01,25,1.7
@@ -5918,6 +6003,7 @@ Palm Beach County,Florida,2023-09-01,37,2.4
 Palm Beach County,Florida,2023-10-01,49,3.2
 Palm Beach County,Florida,2023-11-01,33,2.2
 Palm Beach County,Florida,2023-12-01,41,2.7
+Palm Beach County,Florida,2024-01-01,19,1.2
 Pasco County,Florida,2018-01-01,13,2.4
 Pasco County,Florida,2018-03-01,16,3
 Pasco County,Florida,2018-04-01,17,3.2
@@ -5985,6 +6071,7 @@ Pasco County,Florida,2023-09-01,18,2.8
 Pasco County,Florida,2023-10-01,24,3.8
 Pasco County,Florida,2023-11-01,29,4.6
 Pasco County,Florida,2023-12-01,19,3
+Pasco County,Florida,2024-01-01,22,3.5
 Pinellas County,Florida,2018-01-01,28,2.9
 Pinellas County,Florida,2018-02-01,18,1.8
 Pinellas County,Florida,2018-03-01,26,2.7
@@ -6057,6 +6144,7 @@ Pinellas County,Florida,2023-09-01,37,3.8
 Pinellas County,Florida,2023-10-01,26,2.7
 Pinellas County,Florida,2023-11-01,28,2.9
 Pinellas County,Florida,2023-12-01,32,3.3
+Pinellas County,Florida,2024-01-01,42,4.4
 Polk County,Florida,2018-01-01,13,1.8
 Polk County,Florida,2018-02-01,14,2
 Polk County,Florida,2018-03-01,13,1.8
@@ -6122,6 +6210,7 @@ Polk County,Florida,2023-09-01,19,2.3
 Polk County,Florida,2023-10-01,15,1.8
 Polk County,Florida,2023-11-01,21,2.6
 Polk County,Florida,2023-12-01,16,2
+Polk County,Florida,2024-01-01,22,2.7
 Volusia County,Florida,2018-01-01,14,2.6
 Volusia County,Florida,2018-02-01,12,2.2
 Volusia County,Florida,2018-04-01,17,3.1
@@ -6191,6 +6280,7 @@ Volusia County,Florida,2023-09-01,15,2.5
 Volusia County,Florida,2023-10-01,16,2.7
 Volusia County,Florida,2023-11-01,20,3.4
 Volusia County,Florida,2023-12-01,28,4.7
+Volusia County,Florida,2024-01-01,22,3.7
 Fulton County,Georgia,2018-01-01,16,1.5
 Fulton County,Georgia,2018-02-01,20,1.9
 Fulton County,Georgia,2018-03-01,23,2.2
@@ -6263,6 +6353,74 @@ Fulton County,Georgia,2023-09-01,37,3.4
 Fulton County,Georgia,2023-10-01,39,3.6
 Fulton County,Georgia,2023-11-01,36,3.3
 Fulton County,Georgia,2023-12-01,34,3.2
+Fulton County,Georgia,2024-01-01,30,2.8
+Honolulu County,Hawaii,2018-01-01,13,1.3
+Honolulu County,Hawaii,2018-02-01,14,1.4
+Honolulu County,Hawaii,2018-03-01,12,1.2
+Honolulu County,Hawaii,2018-04-01,20,2
+Honolulu County,Hawaii,2018-06-01,11,1.1
+Honolulu County,Hawaii,2018-07-01,13,1.3
+Honolulu County,Hawaii,2018-08-01,15,1.5
+Honolulu County,Hawaii,2018-09-01,14,1.4
+Honolulu County,Hawaii,2018-11-01,12,1.2
+Honolulu County,Hawaii,2018-12-01,13,1.3
+Honolulu County,Hawaii,2019-01-01,19,1.9
+Honolulu County,Hawaii,2019-02-01,19,1.9
+Honolulu County,Hawaii,2019-03-01,14,1.4
+Honolulu County,Hawaii,2019-04-01,16,1.6
+Honolulu County,Hawaii,2019-06-01,17,1.7
+Honolulu County,Hawaii,2019-07-01,11,1.1
+Honolulu County,Hawaii,2019-08-01,18,1.8
+Honolulu County,Hawaii,2019-09-01,13,1.3
+Honolulu County,Hawaii,2019-10-01,18,1.8
+Honolulu County,Hawaii,2019-11-01,15,1.5
+Honolulu County,Hawaii,2019-12-01,19,1.9
+Honolulu County,Hawaii,2020-01-01,11,1.1
+Honolulu County,Hawaii,2020-02-01,13,1.3
+Honolulu County,Hawaii,2020-03-01,26,2.6
+Honolulu County,Hawaii,2020-04-01,15,1.5
+Honolulu County,Hawaii,2020-05-01,20,2
+Honolulu County,Hawaii,2020-06-01,18,1.8
+Honolulu County,Hawaii,2020-07-01,19,1.9
+Honolulu County,Hawaii,2020-08-01,16,1.6
+Honolulu County,Hawaii,2020-09-01,20,2
+Honolulu County,Hawaii,2020-10-01,21,2.1
+Honolulu County,Hawaii,2020-11-01,14,1.4
+Honolulu County,Hawaii,2020-12-01,17,1.7
+Honolulu County,Hawaii,2021-01-01,12,1.2
+Honolulu County,Hawaii,2021-02-01,19,1.9
+Honolulu County,Hawaii,2021-03-01,12,1.2
+Honolulu County,Hawaii,2021-05-01,17,1.7
+Honolulu County,Hawaii,2021-06-01,14,1.4
+Honolulu County,Hawaii,2021-07-01,31,3.1
+Honolulu County,Hawaii,2021-08-01,16,1.6
+Honolulu County,Hawaii,2021-09-01,12,1.2
+Honolulu County,Hawaii,2021-10-01,24,2.4
+Honolulu County,Hawaii,2021-11-01,13,1.3
+Honolulu County,Hawaii,2021-12-01,13,1.3
+Honolulu County,Hawaii,2022-01-01,17,1.7
+Honolulu County,Hawaii,2022-02-01,21,2.1
+Honolulu County,Hawaii,2022-03-01,15,1.5
+Honolulu County,Hawaii,2022-04-01,17,1.7
+Honolulu County,Hawaii,2022-05-01,14,1.4
+Honolulu County,Hawaii,2022-06-01,15,1.5
+Honolulu County,Hawaii,2022-07-01,22,2.2
+Honolulu County,Hawaii,2022-08-01,13,1.3
+Honolulu County,Hawaii,2022-09-01,19,1.9
+Honolulu County,Hawaii,2022-10-01,14,1.4
+Honolulu County,Hawaii,2022-11-01,12,1.2
+Honolulu County,Hawaii,2022-12-01,13,1.3
+Honolulu County,Hawaii,2023-02-01,11,1.1
+Honolulu County,Hawaii,2023-03-01,13,1.3
+Honolulu County,Hawaii,2023-04-01,21,2.1
+Honolulu County,Hawaii,2023-05-01,23,2.3
+Honolulu County,Hawaii,2023-06-01,29,2.9
+Honolulu County,Hawaii,2023-07-01,21,2.1
+Honolulu County,Hawaii,2023-08-01,28,2.8
+Honolulu County,Hawaii,2023-09-01,14,1.4
+Honolulu County,Hawaii,2023-11-01,14,1.4
+Honolulu County,Hawaii,2023-12-01,14,1.4
+Honolulu County,Hawaii,2024-01-01,18,1.8
 Cook County,Illinois,2018-01-01,122,2.4
 Cook County,Illinois,2018-02-01,102,2
 Cook County,Illinois,2018-03-01,115,2.2
@@ -6335,6 +6493,7 @@ Cook County,Illinois,2023-09-01,150,2.9
 Cook County,Illinois,2023-10-01,164,3.2
 Cook County,Illinois,2023-11-01,144,2.8
 Cook County,Illinois,2023-12-01,150,2.9
+Cook County,Illinois,2024-01-01,128,2.5
 Lake County,Indiana,2018-01-01,18,3.7
 Lake County,Indiana,2018-02-01,11,2.3
 Lake County,Indiana,2018-03-01,20,4.1
@@ -6402,6 +6561,7 @@ Lake County,Indiana,2023-09-01,18,3.6
 Lake County,Indiana,2023-10-01,15,3
 Lake County,Indiana,2023-11-01,13,2.6
 Lake County,Indiana,2023-12-01,13,2.6
+Lake County,Indiana,2024-01-01,18,3.6
 Marion County,Indiana,2018-01-01,34,3.5
 Marion County,Indiana,2018-02-01,28,2.9
 Marion County,Indiana,2018-03-01,33,3.4
@@ -6474,6 +6634,7 @@ Marion County,Indiana,2023-09-01,40,4.1
 Marion County,Indiana,2023-10-01,52,5.4
 Marion County,Indiana,2023-11-01,48,5
 Marion County,Indiana,2023-12-01,52,5.4
+Marion County,Indiana,2024-01-01,43,4.4
 Sedgwick County,Kansas,2018-01-01,11,2.1
 Sedgwick County,Kansas,2018-04-01,10,1.9
 Sedgwick County,Kansas,2018-06-01,15,2.9
@@ -6531,6 +6692,7 @@ Sedgwick County,Kansas,2023-09-01,16,3
 Sedgwick County,Kansas,2023-10-01,15,2.8
 Sedgwick County,Kansas,2023-11-01,10,1.9
 Sedgwick County,Kansas,2023-12-01,12,2.3
+Sedgwick County,Kansas,2024-01-01,23,4.4
 Fayette County,Kentucky,2018-01-01,10,3.1
 Fayette County,Kentucky,2018-02-01,20,6.2
 Fayette County,Kentucky,2018-03-01,17,5.3
@@ -6594,6 +6756,7 @@ Fayette County,Kentucky,2023-09-01,14,4.4
 Fayette County,Kentucky,2023-10-01,16,5
 Fayette County,Kentucky,2023-11-01,13,4.1
 Fayette County,Kentucky,2023-12-01,10,3.1
+Fayette County,Kentucky,2024-01-01,14,4.4
 Jefferson County,Kentucky,2018-01-01,27,3.5
 Jefferson County,Kentucky,2018-02-01,35,4.6
 Jefferson County,Kentucky,2018-03-01,34,4.4
@@ -6666,6 +6829,7 @@ Jefferson County,Kentucky,2023-09-01,43,5.6
 Jefferson County,Kentucky,2023-10-01,44,5.7
 Jefferson County,Kentucky,2023-11-01,44,5.7
 Jefferson County,Kentucky,2023-12-01,52,6.7
+Jefferson County,Kentucky,2024-01-01,42,5.4
 Jefferson Parish,Louisiana,2018-01-01,17,3.9
 Jefferson Parish,Louisiana,2018-02-01,13,3
 Jefferson Parish,Louisiana,2018-03-01,18,4.1
@@ -6734,6 +6898,7 @@ Jefferson Parish,Louisiana,2023-09-01,19,4.5
 Jefferson Parish,Louisiana,2023-10-01,13,3.1
 Jefferson Parish,Louisiana,2023-11-01,20,4.7
 Jefferson Parish,Louisiana,2023-12-01,14,3.3
+Jefferson Parish,Louisiana,2024-01-01,21,5
 Orleans Parish,Louisiana,2018-01-01,19,4.9
 Orleans Parish,Louisiana,2018-02-01,24,6.1
 Orleans Parish,Louisiana,2018-03-01,27,6.9
@@ -6805,6 +6970,7 @@ Orleans Parish,Louisiana,2023-09-01,40,11
 Orleans Parish,Louisiana,2023-10-01,31,8.5
 Orleans Parish,Louisiana,2023-11-01,26,7.1
 Orleans Parish,Louisiana,2023-12-01,41,11.3
+Orleans Parish,Louisiana,2024-01-01,20,5.5
 Anne Arundel County,Maryland,2018-01-01,25,4.3
 Anne Arundel County,Maryland,2018-02-01,21,3.6
 Anne Arundel County,Maryland,2018-03-01,26,4.5
@@ -6874,6 +7040,7 @@ Anne Arundel County,Maryland,2023-08-01,19,3.2
 Anne Arundel County,Maryland,2023-10-01,17,2.9
 Anne Arundel County,Maryland,2023-11-01,20,3.4
 Anne Arundel County,Maryland,2023-12-01,20,3.4
+Anne Arundel County,Maryland,2024-01-01,13,2.2
 Baltimore County,Maryland,2018-01-01,32,3.9
 Baltimore County,Maryland,2018-02-01,25,3
 Baltimore County,Maryland,2018-03-01,42,5.1
@@ -6946,6 +7113,7 @@ Baltimore County,Maryland,2023-09-01,30,3.6
 Baltimore County,Maryland,2023-10-01,24,2.8
 Baltimore County,Maryland,2023-11-01,19,2.2
 Baltimore County,Maryland,2023-12-01,22,2.6
+Baltimore County,Maryland,2024-01-01,25,3
 Prince George's County,Maryland,2018-01-01,12,1.3
 Prince George's County,Maryland,2018-04-01,18,2
 Prince George's County,Maryland,2018-05-01,15,1.6
@@ -7005,6 +7173,7 @@ Prince George's County,Maryland,2023-09-01,18,1.9
 Prince George's County,Maryland,2023-10-01,10,1.1
 Prince George's County,Maryland,2023-11-01,15,1.6
 Prince George's County,Maryland,2023-12-01,13,1.4
+Prince George's County,Maryland,2024-01-01,10,1.1
 Baltimore city,Maryland,2018-01-01,81,13.4
 Baltimore city,Maryland,2018-02-01,95,15.8
 Baltimore city,Maryland,2018-03-01,78,12.9
@@ -7077,6 +7246,7 @@ Baltimore city,Maryland,2023-09-01,74,13.1
 Baltimore city,Maryland,2023-10-01,106,18.8
 Baltimore city,Maryland,2023-11-01,91,16.1
 Baltimore city,Maryland,2023-12-01,91,16.1
+Baltimore city,Maryland,2024-01-01,87,15.4
 Bristol County,Massachusetts,2018-01-01,17,3
 Bristol County,Massachusetts,2018-02-01,23,4.1
 Bristol County,Massachusetts,2018-03-01,15,2.7
@@ -7149,6 +7319,7 @@ Bristol County,Massachusetts,2023-09-01,20,3.4
 Bristol County,Massachusetts,2023-10-01,19,3.3
 Bristol County,Massachusetts,2023-11-01,15,2.6
 Bristol County,Massachusetts,2023-12-01,18,3.1
+Bristol County,Massachusetts,2024-01-01,13,2.2
 Essex County,Massachusetts,2018-01-01,42,5.3
 Essex County,Massachusetts,2018-02-01,19,2.4
 Essex County,Massachusetts,2018-03-01,24,3
@@ -7221,6 +7392,7 @@ Essex County,Massachusetts,2023-09-01,18,2.2
 Essex County,Massachusetts,2023-10-01,22,2.7
 Essex County,Massachusetts,2023-11-01,17,2.1
 Essex County,Massachusetts,2023-12-01,18,2.2
+Essex County,Massachusetts,2024-01-01,20,2.5
 Hampden County,Massachusetts,2018-01-01,16,3.4
 Hampden County,Massachusetts,2018-02-01,11,2.3
 Hampden County,Massachusetts,2018-03-01,20,4.3
@@ -7293,6 +7465,7 @@ Hampden County,Massachusetts,2023-09-01,23,5
 Hampden County,Massachusetts,2023-10-01,10,2.2
 Hampden County,Massachusetts,2023-11-01,20,4.3
 Hampden County,Massachusetts,2023-12-01,20,4.3
+Hampden County,Massachusetts,2024-01-01,17,3.7
 Middlesex County,Massachusetts,2018-01-01,30,1.9
 Middlesex County,Massachusetts,2018-02-01,37,2.3
 Middlesex County,Massachusetts,2018-03-01,26,1.6
@@ -7365,6 +7538,7 @@ Middlesex County,Massachusetts,2023-09-01,32,2
 Middlesex County,Massachusetts,2023-10-01,24,1.5
 Middlesex County,Massachusetts,2023-11-01,21,1.3
 Middlesex County,Massachusetts,2023-12-01,30,1.8
+Middlesex County,Massachusetts,2024-01-01,25,1.5
 Suffolk County,Massachusetts,2018-01-01,23,2.9
 Suffolk County,Massachusetts,2018-02-01,24,3
 Suffolk County,Massachusetts,2018-03-01,34,4.2
@@ -7437,6 +7611,7 @@ Suffolk County,Massachusetts,2023-09-01,38,4.9
 Suffolk County,Massachusetts,2023-10-01,36,4.7
 Suffolk County,Massachusetts,2023-11-01,36,4.7
 Suffolk County,Massachusetts,2023-12-01,40,5.2
+Suffolk County,Massachusetts,2024-01-01,41,5.3
 Worcester County,Massachusetts,2018-01-01,33,4
 Worcester County,Massachusetts,2018-02-01,19,2.3
 Worcester County,Massachusetts,2018-03-01,18,2.2
@@ -7509,6 +7684,7 @@ Worcester County,Massachusetts,2023-09-01,29,3.3
 Worcester County,Massachusetts,2023-10-01,26,3
 Worcester County,Massachusetts,2023-11-01,24,2.8
 Worcester County,Massachusetts,2023-12-01,21,2.4
+Worcester County,Massachusetts,2024-01-01,18,2.1
 Genesee County,Michigan,2018-01-01,16,3.9
 Genesee County,Michigan,2018-02-01,14,3.4
 Genesee County,Michigan,2018-03-01,22,5.4
@@ -7579,6 +7755,7 @@ Genesee County,Michigan,2023-09-01,16,4
 Genesee County,Michigan,2023-10-01,13,3.2
 Genesee County,Michigan,2023-11-01,20,5
 Genesee County,Michigan,2023-12-01,18,4.5
+Genesee County,Michigan,2024-01-01,12,3
 Macomb County,Michigan,2018-01-01,17,1.9
 Macomb County,Michigan,2018-02-01,19,2.2
 Macomb County,Michigan,2018-03-01,23,2.6
@@ -7651,6 +7828,7 @@ Macomb County,Michigan,2023-09-01,10,1.1
 Macomb County,Michigan,2023-10-01,16,1.8
 Macomb County,Michigan,2023-11-01,19,2.2
 Macomb County,Michigan,2023-12-01,20,2.3
+Macomb County,Michigan,2024-01-01,14,1.6
 Oakland County,Michigan,2018-01-01,11,0.9
 Oakland County,Michigan,2018-02-01,14,1.1
 Oakland County,Michigan,2018-03-01,14,1.1
@@ -7711,6 +7889,7 @@ Oakland County,Michigan,2023-08-01,21,1.7
 Oakland County,Michigan,2023-09-01,16,1.3
 Oakland County,Michigan,2023-11-01,11,0.9
 Oakland County,Michigan,2023-12-01,20,1.6
+Oakland County,Michigan,2024-01-01,22,1.7
 Wayne County,Michigan,2018-01-01,106,6
 Wayne County,Michigan,2018-02-01,79,4.5
 Wayne County,Michigan,2018-03-01,82,4.7
@@ -7783,6 +7962,7 @@ Wayne County,Michigan,2023-09-01,94,5.4
 Wayne County,Michigan,2023-10-01,89,5.1
 Wayne County,Michigan,2023-11-01,58,3.3
 Wayne County,Michigan,2023-12-01,77,4.4
+Wayne County,Michigan,2024-01-01,61,3.5
 Hennepin County,Minnesota,2018-01-01,18,1.4
 Hennepin County,Minnesota,2018-03-01,18,1.4
 Hennepin County,Minnesota,2018-04-01,17,1.4
@@ -7854,6 +8034,7 @@ Hennepin County,Minnesota,2023-09-01,47,3.7
 Hennepin County,Minnesota,2023-10-01,49,3.9
 Hennepin County,Minnesota,2023-11-01,35,2.8
 Hennepin County,Minnesota,2023-12-01,42,3.3
+Hennepin County,Minnesota,2024-01-01,40,3.2
 St. Louis County,Missouri,2018-01-01,21,2.1
 St. Louis County,Missouri,2018-02-01,18,1.8
 St. Louis County,Missouri,2018-03-01,33,3.3
@@ -7926,6 +8107,7 @@ St. Louis County,Missouri,2023-09-01,27,2.7
 St. Louis County,Missouri,2023-10-01,21,2.1
 St. Louis County,Missouri,2023-11-01,16,1.6
 St. Louis County,Missouri,2023-12-01,26,2.6
+St. Louis County,Missouri,2024-01-01,23,2.3
 St. Louis city,Missouri,2018-01-01,19,6.3
 St. Louis city,Missouri,2018-02-01,35,11.5
 St. Louis city,Missouri,2018-03-01,23,7.6
@@ -7998,6 +8180,7 @@ St. Louis city,Missouri,2023-09-01,34,12.1
 St. Louis city,Missouri,2023-10-01,23,8.2
 St. Louis city,Missouri,2023-11-01,29,10.3
 St. Louis city,Missouri,2023-12-01,22,7.8
+St. Louis city,Missouri,2024-01-01,35,12.4
 Clark County,Nevada,2018-01-01,40,1.8
 Clark County,Nevada,2018-02-01,31,1.4
 Clark County,Nevada,2018-03-01,41,1.8
@@ -8070,6 +8253,7 @@ Clark County,Nevada,2023-09-01,80,3.4
 Clark County,Nevada,2023-10-01,69,3
 Clark County,Nevada,2023-11-01,83,3.6
 Clark County,Nevada,2023-12-01,75,3.2
+Clark County,Nevada,2024-01-01,91,3.9
 Washoe County,Nevada,2018-01-01,10,2.2
 Washoe County,Nevada,2018-02-01,12,2.6
 Washoe County,Nevada,2018-04-01,10,2.2
@@ -8134,6 +8318,7 @@ Washoe County,Nevada,2023-09-01,20,4
 Washoe County,Nevada,2023-10-01,31,6.2
 Washoe County,Nevada,2023-11-01,12,2.4
 Washoe County,Nevada,2023-12-01,24,4.8
+Washoe County,Nevada,2024-01-01,18,3.6
 Atlantic County,New Jersey,2018-01-01,15,5.7
 Atlantic County,New Jersey,2018-02-01,14,5.3
 Atlantic County,New Jersey,2018-03-01,14,5.3
@@ -8201,6 +8386,7 @@ Atlantic County,New Jersey,2023-09-01,11,4
 Atlantic County,New Jersey,2023-10-01,10,3.6
 Atlantic County,New Jersey,2023-11-01,14,5.1
 Atlantic County,New Jersey,2023-12-01,10,3.6
+Atlantic County,New Jersey,2024-01-01,18,6.5
 Camden County,New Jersey,2018-01-01,19,3.8
 Camden County,New Jersey,2018-02-01,21,4.1
 Camden County,New Jersey,2018-03-01,23,4.5
@@ -8273,6 +8459,7 @@ Camden County,New Jersey,2023-09-01,28,5.3
 Camden County,New Jersey,2023-10-01,29,5.5
 Camden County,New Jersey,2023-11-01,26,4.9
 Camden County,New Jersey,2023-12-01,22,4.2
+Camden County,New Jersey,2024-01-01,19,3.6
 Essex County,New Jersey,2018-01-01,29,3.6
 Essex County,New Jersey,2018-02-01,27,3.4
 Essex County,New Jersey,2018-03-01,24,3
@@ -8345,6 +8532,7 @@ Essex County,New Jersey,2023-09-01,31,3.6
 Essex County,New Jersey,2023-10-01,45,5.3
 Essex County,New Jersey,2023-11-01,21,2.5
 Essex County,New Jersey,2023-12-01,27,3.2
+Essex County,New Jersey,2024-01-01,34,4
 Hudson County,New Jersey,2018-01-01,11,1.6
 Hudson County,New Jersey,2018-03-01,15,2.2
 Hudson County,New Jersey,2018-04-01,20,3
@@ -8477,6 +8665,7 @@ Middlesex County,New Jersey,2023-09-01,16,1.9
 Middlesex County,New Jersey,2023-10-01,21,2.4
 Middlesex County,New Jersey,2023-11-01,14,1.6
 Middlesex County,New Jersey,2023-12-01,12,1.4
+Middlesex County,New Jersey,2024-01-01,13,1.5
 Monmouth County,New Jersey,2018-01-01,14,2.3
 Monmouth County,New Jersey,2018-02-01,13,2.1
 Monmouth County,New Jersey,2018-03-01,17,2.7
@@ -8543,6 +8732,7 @@ Monmouth County,New Jersey,2023-09-01,14,2.2
 Monmouth County,New Jersey,2023-10-01,12,1.9
 Monmouth County,New Jersey,2023-11-01,12,1.9
 Monmouth County,New Jersey,2023-12-01,11,1.7
+Monmouth County,New Jersey,2024-01-01,11,1.7
 Union County,New Jersey,2018-01-01,10,1.8
 Union County,New Jersey,2018-03-01,12,2.2
 Union County,New Jersey,2018-05-01,13,2.3
@@ -8596,6 +8786,7 @@ Union County,New Jersey,2023-08-01,10,1.7
 Union County,New Jersey,2023-09-01,11,1.9
 Union County,New Jersey,2023-11-01,11,1.9
 Union County,New Jersey,2023-12-01,11,1.9
+Union County,New Jersey,2024-01-01,13,2.3
 Bernalillo County,New Mexico,2018-01-01,15,2.2
 Bernalillo County,New Mexico,2018-02-01,15,2.2
 Bernalillo County,New Mexico,2018-03-01,24,3.5
@@ -8668,6 +8859,7 @@ Bernalillo County,New Mexico,2023-09-01,31,4.6
 Bernalillo County,New Mexico,2023-10-01,42,6.3
 Bernalillo County,New Mexico,2023-11-01,38,5.7
 Bernalillo County,New Mexico,2023-12-01,36,5.4
+Bernalillo County,New Mexico,2024-01-01,31,4.6
 Bronx County,New York,2018-01-01,47,3.3
 Bronx County,New York,2018-02-01,34,2.4
 Bronx County,New York,2018-03-01,26,1.8
@@ -8740,6 +8932,7 @@ Bronx County,New York,2023-09-01,57,4.2
 Bronx County,New York,2023-10-01,89,6.6
 Bronx County,New York,2023-11-01,61,4.5
 Bronx County,New York,2023-12-01,68,5
+Bronx County,New York,2024-01-01,68,5
 Erie County,New York,2018-01-01,18,2
 Erie County,New York,2018-02-01,22,2.4
 Erie County,New York,2018-03-01,13,1.4
@@ -8812,6 +9005,7 @@ Erie County,New York,2023-09-01,38,4
 Erie County,New York,2023-10-01,35,3.7
 Erie County,New York,2023-11-01,35,3.7
 Erie County,New York,2023-12-01,26,2.7
+Erie County,New York,2024-01-01,39,4.1
 Kings County,New York,2018-01-01,26,1
 Kings County,New York,2018-02-01,21,0.8
 Kings County,New York,2018-03-01,32,1.2
@@ -8884,6 +9078,7 @@ Kings County,New York,2023-09-01,58,2.3
 Kings County,New York,2023-10-01,64,2.5
 Kings County,New York,2023-11-01,49,1.9
 Kings County,New York,2023-12-01,72,2.8
+Kings County,New York,2024-01-01,54,2.1
 Monroe County,New York,2018-01-01,18,2.4
 Monroe County,New York,2018-02-01,21,2.8
 Monroe County,New York,2018-03-01,19,2.6
@@ -8953,6 +9148,7 @@ Monroe County,New York,2023-09-01,29,3.9
 Monroe County,New York,2023-10-01,41,5.5
 Monroe County,New York,2023-11-01,33,4.4
 Monroe County,New York,2023-12-01,49,6.5
+Monroe County,New York,2024-01-01,23,3.1
 Nassau County,New York,2018-01-01,14,1
 Nassau County,New York,2018-02-01,13,1
 Nassau County,New York,2018-04-01,22,1.6
@@ -9022,6 +9218,7 @@ Nassau County,New York,2023-09-01,13,0.9
 Nassau County,New York,2023-10-01,11,0.8
 Nassau County,New York,2023-11-01,11,0.8
 Nassau County,New York,2023-12-01,13,0.9
+Nassau County,New York,2024-01-01,12,0.9
 New York County,New York,2018-01-01,28,1.7
 New York County,New York,2018-02-01,27,1.7
 New York County,New York,2018-03-01,31,1.9
@@ -9094,6 +9291,7 @@ New York County,New York,2023-09-01,59,3.7
 New York County,New York,2023-10-01,53,3.3
 New York County,New York,2023-11-01,52,3.3
 New York County,New York,2023-12-01,52,3.3
+New York County,New York,2024-01-01,46,2.9
 Onondaga County,New York,2018-01-01,16,3.5
 Onondaga County,New York,2018-06-01,12,2.6
 Onondaga County,New York,2018-07-01,10,2.2
@@ -9154,6 +9352,7 @@ Onondaga County,New York,2023-09-01,27,5.8
 Onondaga County,New York,2023-10-01,11,2.4
 Onondaga County,New York,2023-11-01,20,4.3
 Onondaga County,New York,2023-12-01,19,4.1
+Onondaga County,New York,2024-01-01,12,2.6
 Queens County,New York,2018-01-01,28,1.2
 Queens County,New York,2018-02-01,16,0.7
 Queens County,New York,2018-03-01,27,1.2
@@ -9226,6 +9425,7 @@ Queens County,New York,2023-09-01,39,1.7
 Queens County,New York,2023-10-01,33,1.5
 Queens County,New York,2023-11-01,29,1.3
 Queens County,New York,2023-12-01,40,1.8
+Queens County,New York,2024-01-01,32,1.4
 Suffolk County,New York,2018-01-01,34,2.3
 Suffolk County,New York,2018-02-01,29,2
 Suffolk County,New York,2018-03-01,40,2.7
@@ -9298,6 +9498,7 @@ Suffolk County,New York,2023-09-01,27,1.8
 Suffolk County,New York,2023-10-01,42,2.8
 Suffolk County,New York,2023-11-01,35,2.3
 Suffolk County,New York,2023-12-01,36,2.4
+Suffolk County,New York,2024-01-01,37,2.4
 Westchester County,New York,2018-01-01,22,2.3
 Westchester County,New York,2018-02-01,11,1.1
 Westchester County,New York,2018-03-01,18,1.9
@@ -9351,6 +9552,7 @@ Westchester County,New York,2023-09-01,10,1
 Westchester County,New York,2023-10-01,10,1
 Westchester County,New York,2023-11-01,11,1.1
 Westchester County,New York,2023-12-01,16,1.6
+Westchester County,New York,2024-01-01,12,1.2
 Buncombe County,North Carolina,2018-01-01,11,4.2
 Buncombe County,North Carolina,2018-02-01,10,3.9
 Buncombe County,North Carolina,2018-03-01,11,4.2
@@ -9406,6 +9608,7 @@ Buncombe County,North Carolina,2023-09-01,12,4.3
 Buncombe County,North Carolina,2023-10-01,12,4.3
 Buncombe County,North Carolina,2023-11-01,17,6.2
 Buncombe County,North Carolina,2023-12-01,11,4
+Buncombe County,North Carolina,2024-01-01,11,4
 Mecklenburg County,North Carolina,2018-01-01,28,2.6
 Mecklenburg County,North Carolina,2018-02-01,18,1.6
 Mecklenburg County,North Carolina,2018-03-01,15,1.4
@@ -9478,6 +9681,7 @@ Mecklenburg County,North Carolina,2023-09-01,36,3.1
 Mecklenburg County,North Carolina,2023-10-01,28,2.4
 Mecklenburg County,North Carolina,2023-11-01,27,2.3
 Mecklenburg County,North Carolina,2023-12-01,25,2.1
+Mecklenburg County,North Carolina,2024-01-01,35,3
 Cuyahoga County,Ohio,2018-01-01,38,3.1
 Cuyahoga County,Ohio,2018-02-01,39,3.1
 Cuyahoga County,Ohio,2018-03-01,47,3.8
@@ -9550,6 +9754,7 @@ Cuyahoga County,Ohio,2023-09-01,55,4.5
 Cuyahoga County,Ohio,2023-10-01,48,3.9
 Cuyahoga County,Ohio,2023-11-01,40,3.2
 Cuyahoga County,Ohio,2023-12-01,36,2.9
+Cuyahoga County,Ohio,2024-01-01,33,2.7
 Franklin County,Ohio,2018-01-01,30,2.3
 Franklin County,Ohio,2018-02-01,41,3.1
 Franklin County,Ohio,2018-03-01,49,3.7
@@ -9622,6 +9827,7 @@ Franklin County,Ohio,2023-09-01,46,3.5
 Franklin County,Ohio,2023-10-01,55,4.1
 Franklin County,Ohio,2023-11-01,60,4.5
 Franklin County,Ohio,2023-12-01,69,5.2
+Franklin County,Ohio,2024-01-01,55,4.1
 Hamilton County,Ohio,2018-01-01,37,4.5
 Hamilton County,Ohio,2018-02-01,38,4.7
 Hamilton County,Ohio,2018-03-01,36,4.4
@@ -9694,6 +9900,7 @@ Hamilton County,Ohio,2023-09-01,39,4.7
 Hamilton County,Ohio,2023-10-01,22,2.7
 Hamilton County,Ohio,2023-11-01,26,3.1
 Hamilton County,Ohio,2023-12-01,33,4
+Hamilton County,Ohio,2024-01-01,20,2.4
 Lucas County,Ohio,2018-01-01,19,4.4
 Lucas County,Ohio,2018-02-01,18,4.2
 Lucas County,Ohio,2018-03-01,10,2.3
@@ -9765,6 +9972,7 @@ Lucas County,Ohio,2023-09-01,20,4.7
 Lucas County,Ohio,2023-10-01,20,4.7
 Lucas County,Ohio,2023-11-01,13,3.1
 Lucas County,Ohio,2023-12-01,17,4
+Lucas County,Ohio,2024-01-01,17,4
 Montgomery County,Ohio,2018-01-01,28,5.3
 Montgomery County,Ohio,2018-02-01,23,4.3
 Montgomery County,Ohio,2018-03-01,13,2.4
@@ -9837,6 +10045,7 @@ Montgomery County,Ohio,2023-09-01,24,4.5
 Montgomery County,Ohio,2023-10-01,21,3.9
 Montgomery County,Ohio,2023-11-01,23,4.3
 Montgomery County,Ohio,2023-12-01,17,3.2
+Montgomery County,Ohio,2024-01-01,16,3
 Oklahoma County,Oklahoma,2018-01-01,18,2.3
 Oklahoma County,Oklahoma,2018-02-01,11,1.4
 Oklahoma County,Oklahoma,2018-03-01,11,1.4
@@ -9904,6 +10113,7 @@ Oklahoma County,Oklahoma,2023-09-01,31,3.8
 Oklahoma County,Oklahoma,2023-10-01,32,4
 Oklahoma County,Oklahoma,2023-11-01,31,3.8
 Oklahoma County,Oklahoma,2023-12-01,30,3.7
+Oklahoma County,Oklahoma,2024-01-01,29,3.6
 Tulsa County,Oklahoma,2018-01-01,14,2.2
 Tulsa County,Oklahoma,2018-02-01,16,2.5
 Tulsa County,Oklahoma,2018-04-01,14,2.2
@@ -9965,6 +10175,7 @@ Tulsa County,Oklahoma,2023-09-01,23,3.4
 Tulsa County,Oklahoma,2023-10-01,25,3.7
 Tulsa County,Oklahoma,2023-11-01,25,3.7
 Tulsa County,Oklahoma,2023-12-01,32,4.7
+Tulsa County,Oklahoma,2024-01-01,23,3.4
 Multnomah County,Oregon,2018-01-01,21,2.6
 Multnomah County,Oregon,2018-03-01,17,2.1
 Multnomah County,Oregon,2018-04-01,23,2.8
@@ -10035,6 +10246,7 @@ Multnomah County,Oregon,2023-09-01,69,8.7
 Multnomah County,Oregon,2023-10-01,74,9.4
 Multnomah County,Oregon,2023-11-01,32,4.1
 Multnomah County,Oregon,2023-12-01,61,7.7
+Multnomah County,Oregon,2024-01-01,65,8.2
 Allegheny County,Pennsylvania,2018-01-01,33,2.7
 Allegheny County,Pennsylvania,2018-02-01,32,2.6
 Allegheny County,Pennsylvania,2018-03-01,45,3.7
@@ -10107,6 +10319,7 @@ Allegheny County,Pennsylvania,2023-09-01,51,4.2
 Allegheny County,Pennsylvania,2023-10-01,72,5.9
 Allegheny County,Pennsylvania,2023-11-01,36,2.9
 Allegheny County,Pennsylvania,2023-12-01,53,4.3
+Allegheny County,Pennsylvania,2024-01-01,41,3.3
 Philadelphia County,Pennsylvania,2018-01-01,103,6.5
 Philadelphia County,Pennsylvania,2018-02-01,59,3.7
 Philadelphia County,Pennsylvania,2018-03-01,93,5.9
@@ -10179,6 +10392,7 @@ Philadelphia County,Pennsylvania,2023-09-01,81,5.2
 Philadelphia County,Pennsylvania,2023-10-01,100,6.4
 Philadelphia County,Pennsylvania,2023-11-01,100,6.4
 Philadelphia County,Pennsylvania,2023-12-01,105,6.8
+Philadelphia County,Pennsylvania,2024-01-01,100,6.4
 Providence County,Rhode Island,2018-01-01,15,2.4
 Providence County,Rhode Island,2018-02-01,12,1.9
 Providence County,Rhode Island,2018-03-01,18,2.8
@@ -10251,6 +10465,7 @@ Providence County,Rhode Island,2023-09-01,23,3.5
 Providence County,Rhode Island,2023-10-01,20,3
 Providence County,Rhode Island,2023-11-01,26,3.9
 Providence County,Rhode Island,2023-12-01,25,3.8
+Providence County,Rhode Island,2024-01-01,25,3.8
 Charleston County,South Carolina,2018-01-01,13,3.2
 Charleston County,South Carolina,2018-03-01,15,3.7
 Charleston County,South Carolina,2018-04-01,12,3
@@ -10314,6 +10529,7 @@ Charleston County,South Carolina,2023-09-01,23,5.4
 Charleston County,South Carolina,2023-10-01,28,6.6
 Charleston County,South Carolina,2023-11-01,11,2.6
 Charleston County,South Carolina,2023-12-01,16,3.8
+Charleston County,South Carolina,2024-01-01,18,4.2
 Greenville County,South Carolina,2018-01-01,12,2.3
 Greenville County,South Carolina,2018-02-01,14,2.7
 Greenville County,South Carolina,2018-03-01,18,3.5
@@ -10381,6 +10597,7 @@ Greenville County,South Carolina,2023-08-01,18,3.2
 Greenville County,South Carolina,2023-09-01,11,2
 Greenville County,South Carolina,2023-10-01,19,3.4
 Greenville County,South Carolina,2023-12-01,14,2.5
+Greenville County,South Carolina,2024-01-01,14,2.5
 Horry County,South Carolina,2018-01-01,10,2.9
 Horry County,South Carolina,2018-03-01,13,3.8
 Horry County,South Carolina,2018-04-01,11,3.2
@@ -10443,6 +10660,7 @@ Horry County,South Carolina,2023-09-01,18,4.5
 Horry County,South Carolina,2023-10-01,22,5.5
 Horry County,South Carolina,2023-11-01,22,5.5
 Horry County,South Carolina,2023-12-01,21,5.3
+Horry County,South Carolina,2024-01-01,17,4.3
 Davidson County,Tennessee,2018-01-01,21,3
 Davidson County,Tennessee,2018-02-01,25,3.6
 Davidson County,Tennessee,2018-03-01,33,4.8
@@ -10515,6 +10733,7 @@ Davidson County,Tennessee,2023-09-01,63,8.8
 Davidson County,Tennessee,2023-10-01,63,8.8
 Davidson County,Tennessee,2023-11-01,54,7.6
 Davidson County,Tennessee,2023-12-01,55,7.7
+Davidson County,Tennessee,2024-01-01,23,3.2
 Knox County,Tennessee,2018-01-01,30,6.4
 Knox County,Tennessee,2018-02-01,28,6
 Knox County,Tennessee,2018-03-01,19,4.1
@@ -10587,6 +10806,7 @@ Knox County,Tennessee,2023-09-01,38,7.6
 Knox County,Tennessee,2023-10-01,33,6.6
 Knox County,Tennessee,2023-11-01,41,8.2
 Knox County,Tennessee,2023-12-01,44,8.8
+Knox County,Tennessee,2024-01-01,40,8
 Shelby County,Tennessee,2018-01-01,11,1.2
 Shelby County,Tennessee,2018-02-01,22,2.3
 Shelby County,Tennessee,2018-03-01,14,1.5
@@ -10659,6 +10879,7 @@ Shelby County,Tennessee,2023-09-01,51,5.6
 Shelby County,Tennessee,2023-10-01,40,4.4
 Shelby County,Tennessee,2023-11-01,34,3.7
 Shelby County,Tennessee,2023-12-01,29,3.2
+Shelby County,Tennessee,2024-01-01,64,7
 Bexar County,Texas,2018-01-01,16,0.8
 Bexar County,Texas,2018-02-01,20,1
 Bexar County,Texas,2018-03-01,15,0.8
@@ -10731,6 +10952,7 @@ Bexar County,Texas,2023-09-01,40,1.9
 Bexar County,Texas,2023-10-01,42,2
 Bexar County,Texas,2023-11-01,34,1.6
 Bexar County,Texas,2023-12-01,34,1.6
+Bexar County,Texas,2024-01-01,27,1.3
 Dallas County,Texas,2018-01-01,36,1.4
 Dallas County,Texas,2018-02-01,28,1.1
 Dallas County,Texas,2018-03-01,27,1
@@ -10803,6 +11025,7 @@ Dallas County,Texas,2023-09-01,45,1.7
 Dallas County,Texas,2023-10-01,46,1.8
 Dallas County,Texas,2023-11-01,59,2.3
 Dallas County,Texas,2023-12-01,51,2
+Dallas County,Texas,2024-01-01,66,2.5
 Harris County,Texas,2018-01-01,47,1
 Harris County,Texas,2018-02-01,49,1
 Harris County,Texas,2018-03-01,52,1.1
@@ -10875,6 +11098,7 @@ Harris County,Texas,2023-09-01,78,1.6
 Harris County,Texas,2023-10-01,79,1.6
 Harris County,Texas,2023-11-01,84,1.7
 Harris County,Texas,2023-12-01,85,1.8
+Harris County,Texas,2024-01-01,82,1.7
 Tarrant County,Texas,2018-01-01,16,0.8
 Tarrant County,Texas,2018-02-01,24,1.2
 Tarrant County,Texas,2018-03-01,16,0.8
@@ -10947,6 +11171,7 @@ Tarrant County,Texas,2023-09-01,41,1.9
 Tarrant County,Texas,2023-10-01,48,2.2
 Tarrant County,Texas,2023-11-01,35,1.6
 Tarrant County,Texas,2023-12-01,35,1.6
+Tarrant County,Texas,2024-01-01,40,1.8
 Travis County,Texas,2018-01-01,12,1
 Travis County,Texas,2018-02-01,20,1.6
 Travis County,Texas,2018-03-01,16,1.3
@@ -11017,6 +11242,7 @@ Travis County,Texas,2023-09-01,33,2.5
 Travis County,Texas,2023-10-01,26,1.9
 Travis County,Texas,2023-11-01,24,1.8
 Travis County,Texas,2023-12-01,32,2.4
+Travis County,Texas,2024-01-01,28,2.1
 Salt Lake County,Utah,2018-01-01,23,2
 Salt Lake County,Utah,2018-02-01,26,2.3
 Salt Lake County,Utah,2018-03-01,18,1.6
@@ -11089,6 +11315,7 @@ Salt Lake County,Utah,2023-09-01,27,2.3
 Salt Lake County,Utah,2023-10-01,21,1.8
 Salt Lake County,Utah,2023-11-01,31,2.6
 Salt Lake County,Utah,2023-12-01,31,2.6
+Salt Lake County,Utah,2024-01-01,21,1.8
 King County,Washington,2018-01-01,36,1.6
 King County,Washington,2018-02-01,39,1.8
 King County,Washington,2018-03-01,30,1.3
@@ -11161,6 +11388,7 @@ King County,Washington,2023-09-01,116,5.1
 King County,Washington,2023-10-01,113,5
 King County,Washington,2023-11-01,103,4.5
 King County,Washington,2023-12-01,85,3.7
+King County,Washington,2024-01-01,94,4.1
 Pierce County,Washington,2018-01-01,14,1.6
 Pierce County,Washington,2018-02-01,14,1.6
 Pierce County,Washington,2018-03-01,13,1.5
@@ -11230,6 +11458,7 @@ Pierce County,Washington,2023-09-01,40,4.3
 Pierce County,Washington,2023-10-01,37,4
 Pierce County,Washington,2023-11-01,37,4
 Pierce County,Washington,2023-12-01,41,4.4
+Pierce County,Washington,2024-01-01,41,4.4
 Snohomish County,Washington,2018-01-01,15,1.8
 Snohomish County,Washington,2018-02-01,10,1.2
 Snohomish County,Washington,2018-03-01,12,1.5
@@ -11298,6 +11527,7 @@ Snohomish County,Washington,2023-09-01,21,2.5
 Snohomish County,Washington,2023-10-01,20,2.4
 Snohomish County,Washington,2023-11-01,18,2.1
 Snohomish County,Washington,2023-12-01,27,3.2
+Snohomish County,Washington,2024-01-01,22,2.6
 Kanawha County,West Virginia,2018-01-01,11,6.1
 Kanawha County,West Virginia,2018-02-01,10,5.5
 Kanawha County,West Virginia,2018-03-01,13,7.2
@@ -11362,6 +11592,7 @@ Kanawha County,West Virginia,2023-09-01,20,11.4
 Kanawha County,West Virginia,2023-10-01,20,11.4
 Kanawha County,West Virginia,2023-11-01,16,9.2
 Kanawha County,West Virginia,2023-12-01,17,9.7
+Kanawha County,West Virginia,2024-01-01,10,5.7
 Milwaukee County,Wisconsin,2018-01-01,30,3.2
 Milwaukee County,Wisconsin,2018-02-01,28,3
 Milwaukee County,Wisconsin,2018-03-01,31,3.3
@@ -11434,6 +11665,7 @@ Milwaukee County,Wisconsin,2023-09-01,53,5.8
 Milwaukee County,Wisconsin,2023-10-01,47,5.1
 Milwaukee County,Wisconsin,2023-11-01,68,7.4
 Milwaukee County,Wisconsin,2023-12-01,41,4.5
+Milwaukee County,Wisconsin,2024-01-01,42,4.6
 Contra Costa County,California,2018-02-01,13,1.1
 Contra Costa County,California,2018-03-01,11,1
 Contra Costa County,California,2018-04-01,13,1.1
@@ -11501,6 +11733,7 @@ Contra Costa County,California,2023-09-01,16,1.4
 Contra Costa County,California,2023-10-01,23,2
 Contra Costa County,California,2023-11-01,20,1.7
 Contra Costa County,California,2023-12-01,17,1.5
+Contra Costa County,California,2024-01-01,12,1
 Ramsey County,Minnesota,2018-02-01,11,2
 Ramsey County,Minnesota,2018-05-01,11,2
 Ramsey County,Minnesota,2018-07-01,12,2.2
@@ -11558,6 +11791,7 @@ Ramsey County,Minnesota,2023-09-01,21,3.9
 Ramsey County,Minnesota,2023-10-01,17,3.2
 Ramsey County,Minnesota,2023-11-01,25,4.7
 Ramsey County,Minnesota,2023-12-01,18,3.4
+Ramsey County,Minnesota,2024-01-01,20,3.7
 Jackson County,Missouri,2018-02-01,13,1.9
 Jackson County,Missouri,2018-03-01,10,1.4
 Jackson County,Missouri,2018-04-01,13,1.9
@@ -11624,6 +11858,7 @@ Jackson County,Missouri,2023-09-01,21,2.9
 Jackson County,Missouri,2023-10-01,25,3.5
 Jackson County,Missouri,2023-11-01,25,3.5
 Jackson County,Missouri,2023-12-01,27,3.8
+Jackson County,Missouri,2024-01-01,16,2.2
 Summit County,Ohio,2018-02-01,11,2
 Summit County,Ohio,2018-03-01,11,2
 Summit County,Ohio,2018-04-01,10,1.8
@@ -11695,6 +11930,7 @@ Summit County,Ohio,2023-09-01,17,3.2
 Summit County,Ohio,2023-10-01,17,3.2
 Summit County,Ohio,2023-11-01,14,2.6
 Summit County,Ohio,2023-12-01,19,3.5
+Summit County,Ohio,2024-01-01,12,2.2
 DeKalb County,Georgia,2018-03-01,12,1.6
 DeKalb County,Georgia,2018-04-01,11,1.5
 DeKalb County,Georgia,2018-08-01,12,1.6
@@ -11736,6 +11972,7 @@ DeKalb County,Georgia,2023-09-01,13,1.7
 DeKalb County,Georgia,2023-10-01,15,2
 DeKalb County,Georgia,2023-11-01,20,2.6
 DeKalb County,Georgia,2023-12-01,19,2.5
+DeKalb County,Georgia,2024-01-01,18,2.4
 Hamilton County,Tennessee,2018-03-01,10,2.7
 Hamilton County,Tennessee,2018-05-01,10,2.7
 Hamilton County,Tennessee,2018-08-01,11,3
@@ -11792,6 +12029,7 @@ Hamilton County,Tennessee,2023-08-01,25,6.6
 Hamilton County,Tennessee,2023-09-01,18,4.7
 Hamilton County,Tennessee,2023-11-01,13,3.4
 Hamilton County,Tennessee,2023-12-01,17,4.5
+Hamilton County,Tennessee,2024-01-01,20,5.3
 Richmond city,Virginia,2018-03-01,13,5.7
 Richmond city,Virginia,2018-04-01,10,4.4
 Richmond city,Virginia,2018-05-01,10,4.4
@@ -11857,6 +12095,7 @@ Richmond city,Virginia,2023-09-01,26,11.3
 Richmond city,Virginia,2023-10-01,20,8.7
 Richmond city,Virginia,2023-11-01,20,8.7
 Richmond city,Virginia,2023-12-01,13,5.7
+Richmond city,Virginia,2024-01-01,15,6.5
 Escambia County,Florida,2018-04-01,12,3.8
 Escambia County,Florida,2018-05-01,12,3.8
 Escambia County,Florida,2018-09-01,11,3.5
@@ -11909,6 +12148,7 @@ Escambia County,Florida,2023-09-01,18,5.5
 Escambia County,Florida,2023-10-01,20,6.1
 Escambia County,Florida,2023-11-01,16,4.9
 Escambia County,Florida,2023-12-01,12,3.7
+Escambia County,Florida,2024-01-01,10,3.1
 East Baton Rouge Parish,Louisiana,2018-04-01,10,2.3
 East Baton Rouge Parish,Louisiana,2018-05-01,15,3.4
 East Baton Rouge Parish,Louisiana,2018-06-01,13,2.9
@@ -11973,6 +12213,7 @@ East Baton Rouge Parish,Louisiana,2023-09-01,26,5.8
 East Baton Rouge Parish,Louisiana,2023-10-01,20,4.5
 East Baton Rouge Parish,Louisiana,2023-11-01,27,6
 East Baton Rouge Parish,Louisiana,2023-12-01,23,5.1
+East Baton Rouge Parish,Louisiana,2024-01-01,21,4.7
 Spokane County,Washington,2018-05-01,10,1.9
 Spokane County,Washington,2019-05-01,13,2.5
 Spokane County,Washington,2020-01-01,12,2.2
@@ -12015,6 +12256,7 @@ Spokane County,Washington,2023-09-01,17,3.1
 Spokane County,Washington,2023-10-01,19,3.4
 Spokane County,Washington,2023-11-01,25,4.5
 Spokane County,Washington,2023-12-01,29,5.3
+Spokane County,Washington,2024-01-01,26,4.7
 Jefferson County,Colorado,2018-06-01,11,1.9
 Jefferson County,Colorado,2018-07-01,14,2.4
 Jefferson County,Colorado,2018-10-01,11,1.9
@@ -12067,6 +12309,7 @@ Jefferson County,Colorado,2023-09-01,16,2.8
 Jefferson County,Colorado,2023-10-01,16,2.8
 Jefferson County,Colorado,2023-11-01,14,2.4
 Jefferson County,Colorado,2023-12-01,15,2.6
+Jefferson County,Colorado,2024-01-01,16,2.8
 Lane County,Oregon,2018-12-01,10,2.6
 Lane County,Oregon,2019-08-01,12,3.1
 Lane County,Oregon,2020-03-01,10,2.6
@@ -12104,6 +12347,7 @@ Lane County,Oregon,2023-09-01,13,3.4
 Lane County,Oregon,2023-10-01,23,6
 Lane County,Oregon,2023-11-01,22,5.8
 Lane County,Oregon,2023-12-01,17,4.5
+Lane County,Oregon,2024-01-01,25,6.6
 El Paso County,Texas,2019-07-01,11,1.3
 El Paso County,Texas,2019-08-01,12,1.4
 El Paso County,Texas,2020-01-01,11,1.3
@@ -12147,6 +12391,7 @@ El Paso County,Texas,2023-09-01,18,2.1
 El Paso County,Texas,2023-10-01,11,1.3
 El Paso County,Texas,2023-11-01,20,2.3
 El Paso County,Texas,2023-12-01,14,1.6
+El Paso County,Texas,2024-01-01,13,1.5
 Anchorage Borough,Alaska,2020-05-01,13,4.5
 Anchorage Borough,Alaska,2020-12-01,10,3.4
 Anchorage Borough,Alaska,2021-03-01,19,6.6
@@ -12179,6 +12424,7 @@ Anchorage Borough,Alaska,2023-09-01,25,8.7
 Anchorage Borough,Alaska,2023-10-01,16,5.6
 Anchorage Borough,Alaska,2023-11-01,24,8.4
 Anchorage Borough,Alaska,2023-12-01,36,12.6
+Anchorage Borough,Alaska,2024-01-01,29,10.1
 Clark County,Washington,2020-06-01,10,2
 Clark County,Washington,2020-10-01,11,2.2
 Clark County,Washington,2020-11-01,13,2.6
@@ -12205,3 +12451,4 @@ Clark County,Washington,2023-09-01,15,2.9
 Clark County,Washington,2023-10-01,13,2.5
 Clark County,Washington,2023-11-01,16,3.1
 Clark County,Washington,2023-12-01,11,2.1
+Clark County,Washington,2024-01-01,20,3.8

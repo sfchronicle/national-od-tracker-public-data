@@ -1,1169 +1,1145 @@
 jurisdiction,state,deaths_past_year,crude_rate_past_year,crude_rate_four_years_ago,synthetics_pct_past_year,synthetics_pct_four_years_ago,population
-Baldwin County,Alabama,65,25.6,10.3,0.646,,253507
-Barbour County,Alabama,18,73.2,,0.722,,24585
-Bibb County,Alabama,17,77.7,,0.765,,21868
-Blount County,Alabama,12,20.1,,0.917,,59816
-Bullock County,Alabama,18,181.9,,0.944,,9897
-Calhoun County,Alabama,58,49.8,13.2,0.707,,116429
-Chilton County,Alabama,14,30.2,,,,46431
-Colbert County,Alabama,21,36,18.1,0.571,,58361
-Cullman County,Alabama,23,25,16.7,0.652,,92016
-Dallas County,Alabama,12,33.2,,,,36165
-DeKalb County,Alabama,16,22,30.8,,,72569
-Elmore County,Alabama,33,36.5,,0.576,,90441
-Escambia County,Alabama,23,62.9,40.9,,,36558
-Etowah County,Alabama,36,34.9,15.6,0.778,,103241
-Houston County,Alabama,16,14.8,13.2,,,108462
-Jefferson County,Alabama,490,73.9,34.8,0.808,0.432,662895
-Lauderdale County,Alabama,30,31,11.9,0.5,,96814
-Lee County,Alabama,29,15.8,,0.517,,183215
-Limestone County,Alabama,15,13.1,,,,114654
-Madison County,Alabama,108,26.2,22.3,0.759,0.193,412600
-Marshall County,Alabama,25,24.8,20.7,0.56,,100756
-Mobile County,Alabama,132,32.1,11.9,0.598,0.204,411640
-Montgomery County,Alabama,40,17.8,6.2,0.625,,224980
-Morgan County,Alabama,30,24,13.4,0.8,,125133
-Russell County,Alabama,17,28.9,29.3,0.824,,58744
-St. Clair County,Alabama,33,34.5,17.9,0.788,,95552
-Shelby County,Alabama,44,18.9,13.3,0.705,0.379,233000
+Baldwin County,Alabama,66,26,10.3,0.636,,253507
+Barbour County,Alabama,17,69.1,,0.765,,24585
+Bibb County,Alabama,15,68.6,,0.867,,21868
+Blount County,Alabama,13,21.7,,1,,59816
+Bullock County,Alabama,22,222.3,,0.955,,9897
+Calhoun County,Alabama,53,45.5,15,0.717,,116429
+Chilton County,Alabama,17,36.6,,,,46431
+Colbert County,Alabama,19,32.6,18.1,0.526,,58361
+Cullman County,Alabama,23,25,17.9,0.609,,92016
+DeKalb County,Alabama,16,22,29.4,,,72569
+Elmore County,Alabama,31,34.3,,0.581,,90441
+Escambia County,Alabama,20,54.7,43.7,,,36558
+Etowah County,Alabama,35,33.9,16.6,0.8,,103241
+Houston County,Alabama,14,12.9,13.2,,,108462
+Jefferson County,Alabama,483,72.9,35.7,0.816,0.447,662895
+Lauderdale County,Alabama,29,30,12.9,0.483,,96814
+Lee County,Alabama,27,14.7,,0.481,,183215
+Limestone County,Alabama,19,16.6,,0.632,,114654
+Madison County,Alabama,106,25.7,22.8,0.717,0.176,412600
+Marshall County,Alabama,22,21.8,18.6,0.545,,100756
+Mobile County,Alabama,135,32.8,12.3,0.578,,411640
+Montgomery County,Alabama,35,15.6,6.2,0.571,,224980
+Morgan County,Alabama,31,24.8,13.4,0.774,,125133
+Russell County,Alabama,17,28.9,31.1,0.824,,58744
+St. Clair County,Alabama,36,37.7,17.9,0.75,,95552
+Shelby County,Alabama,43,18.5,13.8,0.674,0.333,233000
 Talladega County,Alabama,13,16,,,,81132
-Tuscaloosa County,Alabama,42,17.7,11.9,0.524,,237373
-Walker County,Alabama,52,80.3,,0.692,,64728
-Winston County,Alabama,15,63.5,,0.733,,23611
-Anchorage Borough,Alaska,229,80,19.8,0.812,,286075
-Fairbanks North Star Borough,Alaska,26,27.4,20.7,0.423,,94840
-Juneau City and Borough,Alaska,13,41.2,,,,31555
-Kenai Peninsula Borough,Alaska,16,26.1,20.4,,,61223
-Matanuska-Susitna Borough,Alaska,37,32.1,13.8,0.811,,115239
-Apache County,Arizona,14,21.5,,,,65036
-Cochise County,Arizona,40,32.1,18.3,0.525,,124640
-Coconino County,Arizona,28,19.4,17.4,,,144472
-Gila County,Arizona,13,24.1,29.6,0.769,,54003
-La Paz County,Arizona,11,65.8,,,,16710
-Maricopa County,Arizona,1781,38.8,28.6,0.731,0.503,4585870
-Mohave County,Arizona,69,30.8,20.3,0.464,0.233,223682
-Navajo County,Arizona,25,22.9,17.1,0.48,,109175
-Pima County,Arizona,487,45.8,30.3,0.618,0.303,1063160
-Pinal County,Arizona,68,14,14.3,0.676,0.364,484239
-Yavapai County,Arizona,65,26.1,33.2,0.585,0.192,249081
-Yuma County,Arizona,38,17.8,21.5,0.263,,213221
-Benton County,Arkansas,43,13.8,9,0.395,,311013
-Craighead County,Arkansas,23,20.2,,0.609,,113993
-Crittenden County,Arkansas,13,27.6,,,,47139
+Tuscaloosa County,Alabama,41,17.3,11.5,0.561,,237373
+Walker County,Alabama,51,78.8,,0.706,,64728
+Winston County,Alabama,14,59.3,,0.786,,23611
+Anchorage Borough,Alaska,244,85.3,20.1,0.811,,286075
+Fairbanks North Star Borough,Alaska,20,21.1,19.6,0.5,,94840
+Juneau City and Borough,Alaska,11,34.9,,,,31555
+Kenai Peninsula Borough,Alaska,16,26.1,18.7,0.625,,61223
+Matanuska-Susitna Borough,Alaska,40,34.7,15.7,0.825,,115239
+Apache County,Arizona,12,18.5,,,,65036
+Cochise County,Arizona,36,28.9,16.7,0.528,,124640
+Coconino County,Arizona,28,19.4,20.2,,0.379,144472
+Gila County,Arizona,14,25.9,29.6,0.786,,54003
+La Paz County,Arizona,12,71.8,,,,16710
+Maricopa County,Arizona,1750,38.2,29.1,0.721,0.516,4585870
+Mohave County,Arizona,68,30.4,20.3,0.441,0.233,223682
+Navajo County,Arizona,26,23.8,18,0.423,,109175
+Pima County,Arizona,479,45.1,30.7,0.62,0.307,1063160
+Pinal County,Arizona,68,14,16.4,0.676,0.408,484239
+Yavapai County,Arizona,71,28.5,33.6,0.62,0.215,249081
+Yuma County,Arizona,38,17.8,20.1,,,213221
+Benton County,Arkansas,41,13.2,8.6,0.366,,311013
+Craighead County,Arkansas,22,19.3,,0.591,,113993
+Crittenden County,Arkansas,14,29.7,,0.714,,47139
 Faulkner County,Arkansas,12,9.2,16.7,,,129951
-Garland County,Arkansas,24,24.1,23.1,,,99784
-Jefferson County,Arkansas,10,15.7,15,,,63661
-Pulaski County,Arkansas,116,29,26.5,0.672,0.413,400009
-Saline County,Arkansas,27,20.8,19.6,0.667,,129574
-Sebastian County,Arkansas,33,25.6,7.8,0.576,,129098
-Washington County,Arkansas,31,11.9,5.4,0.613,,261549
-White County,Arkansas,12,15.3,12.7,,,78452
-Alameda County,California,416,25.6,14.9,0.704,0.213,1622190
-Amador County,California,10,23.9,35.2,,,41811
-Butte County,California,136,65.6,25.5,0.529,,207172
+Garland County,Arkansas,26,26.1,22.1,,,99784
+Jefferson County,Arkansas,11,17.3,19.5,,,63661
+Pulaski County,Arkansas,116,29,26,0.69,0.422,400009
+Saline County,Arkansas,27,20.8,18.8,0.667,,129574
+Sebastian County,Arkansas,35,27.1,8.6,0.6,,129098
+Washington County,Arkansas,33,12.6,5,0.606,,261549
+White County,Arkansas,12,15.3,14,,,78452
+Alameda County,California,423,26.1,15.7,0.7,0.229,1622190
+Amador County,California,10,23.9,30.2,,,41811
+Butte County,California,137,66.1,25.1,0.504,,207172
 Calaveras County,California,14,30.1,24,,,46565
-Contra Costa County,California,241,20.9,12.6,0.568,0.317,1155020
+Contra Costa County,California,238,20.6,12.7,0.55,0.333,1155020
 Del Norte County,California,23,86.5,,0.522,,26589
-El Dorado County,California,33,17.2,15,0.667,,192215
-Fresno County,California,236,23.2,12.2,0.415,0.123,1017160
-Glenn County,California,14,49.8,,,,28129
-Humboldt County,California,75,56,27.3,0.813,,133985
-Imperial County,California,16,8.9,11,0.812,,179057
-Kern County,California,508,55.6,29.7,0.593,0.217,913820
-Kings County,California,41,26.9,15,0.537,,152682
-Lake County,California,48,70.7,74.6,0.542,,67878
-Lassen County,California,21,72.8,42.5,0.619,,28861
-Los Angeles County,California,2475,25.6,13,0.671,0.336,9663340
-Madera County,California,25,15.4,19.7,,,162858
-Marin County,California,61,24,17,0.508,0.25,254407
-Mendocino County,California,53,59.5,42.7,0.547,,89108
-Merced County,California,59,20.2,14.8,0.593,,291920
-Monterey County,California,134,31.1,15,0.306,,430723
-Napa County,California,25,18.8,13.8,0.52,,133216
-Nevada County,California,46,45.1,12,0.652,,102037
-Orange County,California,781,24.9,13.9,0.732,0.357,3135760
-Placer County,California,70,16.5,15.6,0.657,,423561
-Riverside County,California,854,34.3,18.5,0.626,0.275,2492440
-Sacramento County,California,647,40.8,21.1,0.465,0.11,1584290
-San Bernardino County,California,542,24.7,11,0.688,0.3,2195610
-San Diego County,California,966,29.5,14.9,0.663,0.304,3269970
-San Francisco County,California,713,88.1,52.5,0.785,0.516,808988
-San Joaquin County,California,242,30.2,15.6,0.698,0.101,800965
-San Luis Obispo County,California,107,38,19.4,0.692,,281639
-San Mateo County,California,110,15.1,13.2,0.627,0.366,726353
-Santa Barbara County,California,150,34,18.1,0.367,0.173,441257
-Santa Clara County,California,383,20.4,11.9,0.52,0.14,1877590
-Santa Cruz County,California,137,52.4,20.1,0.788,,261547
-Shasta County,California,87,48.2,19.4,0.759,,180366
+El Dorado County,California,30,15.6,13.5,0.667,,192215
+Fresno County,California,237,23.3,12.6,0.426,0.135,1017160
+Glenn County,California,11,39.1,,,,28129
+Humboldt County,California,74,55.2,29.5,0.797,,133985
+Imperial County,California,15,8.4,12.7,0.867,,179057
+Kern County,California,486,53.2,29.1,0.595,0.221,913820
+Kings County,California,38,24.9,12.4,0.526,,152682
+Lake County,California,51,75.1,74.6,0.569,,67878
+Lassen County,California,19,65.8,42.5,0.632,,28861
+Los Angeles County,California,2427,25.1,13.4,0.67,0.348,9663340
+Madera County,California,22,13.5,20.3,,,162858
+Marin County,California,57,22.4,16.6,0.526,0.256,254407
+Mendocino County,California,50,56.1,42.7,0.6,,89108
+Merced County,California,54,18.5,15.1,0.611,,291920
+Monterey County,California,134,31.1,15.4,0.306,,430723
+Napa County,California,25,18.8,12.3,0.52,,133216
+Nevada County,California,42,41.2,13,0.619,,102037
+Orange County,California,769,24.5,14.1,0.727,0.378,3135760
+Placer County,California,70,16.5,14.3,0.686,,423561
+Riverside County,California,828,33.2,19.4,0.633,0.296,2492440
+Sacramento County,California,633,40,21.3,0.477,0.1,1584290
+San Bernardino County,California,540,24.6,11.5,0.687,0.308,2195610
+San Diego County,California,932,28.5,15,0.659,0.315,3269970
+San Francisco County,California,706,87.3,53.7,0.796,0.545,808988
+San Joaquin County,California,244,30.5,15.6,0.701,0.143,800965
+San Luis Obispo County,California,94,33.4,19.8,0.638,0.179,281639
+San Mateo County,California,103,14.2,13,0.631,0.38,726353
+Santa Barbara County,California,143,32.4,18.1,0.364,0.173,441257
+Santa Clara County,California,380,20.2,11.1,0.516,0.168,1877590
+Santa Cruz County,California,131,50.1,19,0.794,,261547
+Shasta County,California,88,48.8,18.9,0.773,,180366
 Siskiyou County,California,15,35,,0.8,,42905
-Solano County,California,134,29.8,15.9,0.425,0.197,449218
-Sonoma County,California,125,25.9,19.4,0.712,0.469,481812
-Stanislaus County,California,189,34.3,14.5,0.72,0.15,551430
-Sutter County,California,20,20.4,,0.75,,97948
-Tehama County,California,40,61.6,,0.5,,64896
-Tulare County,California,88,18.4,7.9,0.523,,479468
-Tuolumne County,California,23,42.4,22,0.522,,54204
-Ventura County,California,239,28.8,14.4,0.724,0.287,829590
-Yolo County,California,45,20.4,11.3,0.533,,220544
-Yuba County,California,38,44.3,17.8,0.605,,85722
-Adams County,Colorado,198,37.1,19.7,0.702,0.284,533365
+Solano County,California,147,32.7,16.3,0.435,0.164,449218
+Sonoma County,California,125,25.9,20,0.704,0.475,481812
+Stanislaus County,California,203,36.8,15.6,0.714,0.151,551430
+Sutter County,California,19,19.4,,0.737,,97948
+Tehama County,California,40,61.6,,0.475,,64896
+Tulare County,California,84,17.5,7.5,0.476,,479468
+Tuolumne County,California,24,44.3,22,0.542,,54204
+Ventura County,California,232,28,13.8,0.728,0.265,829590
+Yolo County,California,44,20,11.3,0.523,,220544
+Yuba County,California,35,40.8,19.1,0.629,,85722
+Adams County,Colorado,205,38.4,19.9,0.673,0.32,533365
 Alamosa County,Colorado,13,78.1,,0.769,,16655
-Arapahoe County,Colorado,220,33.5,17.7,0.677,0.293,656061
-Boulder County,Colorado,71,21.7,14.4,0.606,,326831
-Denver County,Colorado,525,73.3,27,0.724,0.311,716577
-Douglas County,Colorado,43,11.2,9.4,0.535,,383906
-El Paso County,Colorado,222,29.8,20,0.55,0.167,744215
-Fremont County,Colorado,17,33.8,,,,50318
-Garfield County,Colorado,10,15.9,18.3,,,62707
-Jefferson County,Colorado,186,32.3,17.3,0.71,0.257,576366
-La Plata County,Colorado,13,23,,0.769,,56407
-Larimer County,Colorado,70,18.9,15.1,0.386,0.259,370771
-Mesa County,Colorado,36,22.5,21.4,0.306,,159681
-Montrose County,Colorado,10,22.6,,,,44156
-Pueblo County,Colorado,73,43.1,36.2,0.205,,169422
-Weld County,Colorado,64,17.8,16.3,0.531,0.283,359442
-Fairfield County,Connecticut,238,24.9,18.7,0.807,0.665,957419
-Hartford County,Connecticut,386,42.9,42,0.855,0.857,899498
-Litchfield County,Connecticut,47,25.4,33.5,0.787,0.871,185186
-Middlesex County,Connecticut,44,26.8,24.4,0.682,0.7,164245
-New Haven County,Connecticut,467,54,43.1,0.874,0.767,864835
-New London County,Connecticut,90,33.5,43.2,0.856,0.802,268555
-Tolland County,Connecticut,18,12,24,0.778,0.778,149788
-Windham County,Connecticut,37,31.8,39.5,0.811,0.891,116418
-Kent County,Delaware,94,49.5,33.2,0.83,0.867,189789
-New Castle County,Delaware,310,53.6,47.1,0.845,0.776,578592
-Sussex County,Delaware,123,46.7,41.4,0.829,0.794,263509
-"Washington, D.C.","Washington, D.C.",541,79.7,50.9,0.776,0.694,678972
-Alachua County,Florida,68,23.8,15.2,0.441,0.268,285994
-Bay County,Florida,61,32,34.9,0.656,0.328,190769
-Brevard County,Florida,288,44.7,52.8,0.74,0.679,643979
-Broward County,Florida,590,30.1,28,0.764,0.408,1962530
-Charlotte County,Florida,49,23.8,13.2,0.592,0.48,206134
-Citrus County,Florida,80,48,22.7,0.638,0.471,166696
-Clay County,Florida,54,23.2,31.5,0.667,0.739,232439
-Collier County,Florida,101,25,23.1,0.723,0.708,404310
-Columbia County,Florida,25,34.2,16.7,0.56,,73063
-Duval County,Florida,507,49.2,43.1,0.765,0.772,1030820
-Escambia County,Florida,222,67.9,31.1,0.667,0.505,326928
-Flagler County,Florida,35,26.6,24.3,0.771,0.536,131439
-Hendry County,Florida,11,25.4,,,,43333
-Hernando County,Florida,69,32.4,22.7,0.623,0.409,212807
-Highlands County,Florida,22,20.4,23.5,0.591,,107614
-Hillsborough County,Florida,519,33.8,19.8,0.742,0.522,1535560
-Indian River County,Florida,47,27.7,17.5,0.723,,169795
-Lake County,Florida,108,25.4,25.1,0.694,0.435,424462
-Lee County,Florida,256,30.7,29.3,0.766,0.761,834573
-Leon County,Florida,49,16.5,10.9,0.551,,296913
-Levy County,Florida,14,30.1,,0.714,,46545
-Manatee County,Florida,166,37.6,32.7,0.771,0.621,441095
-Marion County,Florida,214,52.2,26.8,0.71,0.418,409959
-Martin County,Florida,33,20.2,22.4,0.667,0.278,163315
-Miami-Dade County,Florida,329,12.2,11,0.754,0.65,2686870
-Monroe County,Florida,17,21.1,31,0.588,,80614
-Nassau County,Florida,19,18.7,13.5,0.632,0.833,101501
-Okaloosa County,Florida,94,43,26.1,0.734,0.618,218464
-Okeechobee County,Florida,12,29,23.7,,,41427
-Orange County,Florida,456,31,22.9,0.728,0.696,1471420
-Osceola County,Florida,158,36.1,18.4,0.797,0.667,437784
-Palm Beach County,Florida,530,34.6,35.3,0.745,0.769,1533800
-Pasco County,Florida,309,48.8,34.8,0.129,0.342,632996
-Pinellas County,Florida,476,49.5,42.2,0.162,0.319,961596
-Polk County,Florida,195,23.8,19.2,0.477,0.237,818330
-Putnam County,Florida,26,34.2,,0.654,,75955
-St. Johns County,Florida,40,12.5,9.8,0.7,0.538,320110
-St. Lucie County,Florida,88,23.6,18.6,0.727,0.262,373586
-Santa Rosa County,Florida,37,18.2,11.9,0.649,,203162
-Sarasota County,Florida,145,30.9,21.9,0.69,0.432,469013
-Seminole County,Florida,118,24.4,17.4,0.771,0.561,484271
-Sumter County,Florida,34,22.4,16.6,0.676,,151565
+Arapahoe County,Colorado,222,33.8,18,0.649,0.305,656061
+Boulder County,Colorado,74,22.6,14.1,0.581,0.217,326831
+Denver County,Colorado,511,71.3,28.6,0.716,0.322,716577
+Douglas County,Colorado,40,10.4,8.8,0.5,,383906
+El Paso County,Colorado,227,30.5,20.4,0.551,0.156,744215
+Fremont County,Colorado,17,33.8,20.9,,,50318
+Garfield County,Colorado,11,17.5,18.3,,,62707
+Jefferson County,Colorado,184,31.9,19.4,0.707,0.283,576366
+La Plata County,Colorado,12,21.3,,,,56407
+Larimer County,Colorado,71,19.1,15.7,0.394,0.268,370771
+Mesa County,Colorado,40,25,20.1,0.325,,159681
+Montezuma County,Colorado,10,37.7,,,,26531
+Pueblo County,Colorado,75,44.3,35.6,0.173,,169422
+Weld County,Colorado,68,18.9,14.5,0.515,0.319,359442
+Fairfield County,Connecticut,235,24.5,19.3,0.813,0.67,957419
+Hartford County,Connecticut,381,42.4,43.2,0.858,0.869,899498
+Litchfield County,Connecticut,48,25.9,33.5,0.75,0.839,185186
+Middlesex County,Connecticut,46,28,24.4,0.696,0.725,164245
+New Haven County,Connecticut,459,53.1,45.1,0.861,0.785,864835
+New London County,Connecticut,95,35.4,41.7,0.895,0.795,268555
+Tolland County,Connecticut,18,12,22.7,0.778,0.765,149788
+Windham County,Connecticut,40,34.4,42.9,0.8,0.88,116418
+Kent County,Delaware,92,48.5,32.1,0.804,0.862,189789
+New Castle County,Delaware,304,52.5,47.2,0.842,0.788,578592
+Sussex County,Delaware,115,43.6,44,0.826,0.796,263509
+"Washington, D.C.","Washington, D.C.",532,78.4,53.8,0.767,0.708,678972
+Alachua County,Florida,70,24.5,16,0.457,0.256,285994
+Bay County,Florida,60,31.5,33.8,0.683,0.373,190769
+Brevard County,Florida,279,43.3,52.5,0.738,0.665,643979
+Broward County,Florida,587,29.9,29,0.761,0.429,1962530
+Charlotte County,Florida,49,23.8,13.8,0.592,0.423,206134
+Citrus County,Florida,83,49.8,21.4,0.639,0.406,166696
+Clay County,Florida,57,24.5,29.2,0.702,0.734,232439
+Collier County,Florida,98,24.2,23.4,0.724,0.756,404310
+Columbia County,Florida,23,31.5,16.7,0.522,,73063
+Duval County,Florida,517,50.2,44.1,0.758,0.775,1030820
+Escambia County,Florida,214,65.5,32.7,0.678,0.49,326928
+Flagler County,Florida,34,25.9,24.3,0.765,0.536,131439
+Hernando County,Florida,64,30.1,23.2,0.609,0.4,212807
+Highlands County,Florida,25,23.2,26.4,0.56,,107614
+Hillsborough County,Florida,528,34.4,20.8,0.742,0.52,1535560
+Indian River County,Florida,47,27.7,16.9,0.702,,169795
+Lake County,Florida,110,25.9,25.3,0.673,0.419,424462
+Lee County,Florida,247,29.6,27.4,0.769,0.749,834573
+Leon County,Florida,47,15.8,11.6,0.447,,296913
+Levy County,Florida,13,27.9,,,,46545
+Manatee County,Florida,169,38.3,31.7,0.781,0.625,441095
+Marion County,Florida,213,52,30.4,0.709,0.459,409959
+Martin County,Florida,31,19,24.2,0.613,0.256,163315
+Miami-Dade County,Florida,315,11.7,11.3,0.752,0.662,2686870
+Monroe County,Florida,21,26.1,26.9,0.476,,80614
+Nassau County,Florida,23,22.7,21.4,0.652,0.737,101501
+Okaloosa County,Florida,93,42.6,28.5,0.71,0.583,218464
+Okeechobee County,Florida,13,31.4,26.1,,,41427
+Orange County,Florida,441,30,23.2,0.717,0.709,1471420
+Osceola County,Florida,157,35.9,21,0.809,0.633,437784
+Palm Beach County,Florida,490,31.9,36.3,0.733,0.776,1533800
+Pasco County,Florida,307,48.5,37.4,0.117,0.3,632996
+Pinellas County,Florida,465,48.4,41.2,0.155,0.321,961596
+Polk County,Florida,204,24.9,19.7,0.485,0.28,818330
+Putnam County,Florida,27,35.5,,0.704,,75955
+St. Johns County,Florida,43,13.4,10.6,0.744,0.464,320110
+St. Lucie County,Florida,89,23.8,18.3,0.719,0.3,373586
+Santa Rosa County,Florida,35,17.2,12.5,0.657,,203162
+Sarasota County,Florida,140,29.8,22.8,0.7,0.414,469013
+Seminole County,Florida,124,25.6,17.4,0.75,0.524,484271
+Sumter County,Florida,37,24.4,14.3,0.622,,151565
 Suwannee County,Florida,10,21.7,,,,46130
-Volusia County,Florida,283,47.9,32.5,0.763,0.5,590357
-Walton County,Florida,32,37.1,14.9,0.562,,86354
-Barrow County,Georgia,19,20.5,13.2,0.737,,92792
-Bartow County,Georgia,42,36.5,18.6,0.643,0.6,115041
-Bibb County,Georgia,49,31.3,13.1,0.633,,156512
+Volusia County,Florida,269,45.6,32.4,0.762,0.525,590357
+Walton County,Florida,27,31.3,13.5,0.63,,86354
+Barrow County,Georgia,20,21.6,12,0.75,,92792
+Bartow County,Georgia,39,33.9,15.8,0.641,,115041
+Bibb County,Georgia,49,31.3,13.7,0.653,,156512
 Bulloch County,Georgia,10,11.9,,,,84327
-Camden County,Georgia,12,20.6,,,,58118
-Carroll County,Georgia,43,33.8,29.2,0.628,,127098
-Catoosa County,Georgia,17,24.7,16.3,0.706,,68910
-Chatham County,Georgia,123,40.5,14.9,0.724,0.279,303655
-Cherokee County,Georgia,37,12.9,8.5,0.622,,286602
-Clarke County,Georgia,52,40,25.7,0.808,,129933
-Clayton County,Georgia,55,18.4,6.8,0.709,,298300
-Cobb County,Georgia,170,21.9,14.6,0.718,0.297,776743
-Columbia County,Georgia,25,15.1,8.3,0.64,,165162
-Coweta County,Georgia,20,12.8,8.1,0.7,,155892
-Crisp County,Georgia,17,86.6,,0.765,,19631
-DeKalb County,Georgia,187,24.5,14.1,0.674,0.355,762992
-Dougherty County,Georgia,38,46,22.7,0.579,,82645
-Douglas County,Georgia,30,20.1,14.3,0.767,,149160
-Fayette County,Georgia,14,11.3,16.6,,,123351
+Camden County,Georgia,10,17.2,,,,58118
+Carroll County,Georgia,44,34.6,26.7,0.636,,127098
+Catoosa County,Georgia,19,27.6,16.3,0.737,,68910
+Chatham County,Georgia,115,37.9,14.5,0.722,0.262,303655
+Cherokee County,Georgia,40,14,8.1,0.625,,286602
+Clarke County,Georgia,51,39.3,24.2,0.824,,129933
+Clayton County,Georgia,53,17.8,6.8,0.679,,298300
+Cobb County,Georgia,171,22,16.2,0.702,0.293,776743
+Columbia County,Georgia,25,15.1,8.3,0.56,,165162
+Coweta County,Georgia,17,10.9,9.4,0.647,,155892
+Crisp County,Georgia,14,71.3,,0.786,,19631
+DeKalb County,Georgia,198,26,13.6,0.657,0.33,762992
+Dougherty County,Georgia,34,41.1,21.6,0.559,,82645
+Douglas County,Georgia,29,19.4,13.7,0.759,,149160
+Effingham County,Georgia,10,14,,,,71541
+Fayette County,Georgia,14,11.3,15.7,,,123351
 Floyd County,Georgia,26,26,24.4,0.5,,100113
-Forsyth County,Georgia,22,8.1,10.6,,,272887
-Fulton County,Georgia,390,36.1,19.2,0.692,0.333,1079100
-Glynn County,Georgia,34,39.5,11.7,0.647,,86172
+Forsyth County,Georgia,21,7.7,11.9,,,272887
+Fulton County,Georgia,390,36.1,19.6,0.685,0.332,1079100
+Glynn County,Georgia,35,40.6,16.4,0.629,,86172
 Gordon County,Georgia,11,18.4,,,,59757
-Gwinnett County,Georgia,163,16.6,7.3,0.779,0.382,983526
+Gwinnett County,Georgia,165,16.8,6.8,0.776,0.391,983526
 Habersham County,Georgia,10,20.5,,,,48757
-Hall County,Georgia,83,38.2,22,0.651,0.333,217267
-Henry County,Georgia,42,16.5,9.8,0.595,,254613
-Houston County,Georgia,48,27.9,10.8,0.542,,171974
-Jackson County,Georgia,13,14.7,,,,88615
-Laurens County,Georgia,10,20,,,,49941
-Liberty County,Georgia,18,26,,0.611,,69210
-Lowndes County,Georgia,19,15.7,8.5,,,120712
-Muscogee County,Georgia,38,18.8,15.8,0.263,,201877
-Newton County,Georgia,19,15.8,8.9,,,120135
-Paulding County,Georgia,40,21.8,10.1,0.775,,183164
-Richmond County,Georgia,130,63.3,27.2,0.662,0.327,205414
-Rockdale County,Georgia,20,20.8,,0.75,,95987
-Spalding County,Georgia,12,17.2,,,,69946
-Tift County,Georgia,14,33.7,,0.714,,41554
-Troup County,Georgia,13,18.4,,,,70742
-Walker County,Georgia,16,23,,0.75,,69489
-Walton County,Georgia,21,19.7,14.8,0.571,,106702
-Ware County,Georgia,16,44.1,,,,36243
-Wayne County,Georgia,10,31.9,,,,31373
-White County,Georgia,11,37.9,,,,29026
+Hall County,Georgia,76,35,21,0.671,0.349,217267
+Henry County,Georgia,36,14.1,10.7,0.611,,254613
+Houston County,Georgia,45,26.2,10.8,0.556,,171974
+Jackson County,Georgia,15,16.9,,0.667,,88615
+Liberty County,Georgia,18,26,,0.667,,69210
+Lowndes County,Georgia,18,14.9,9.4,,,120712
+Muscogee County,Georgia,42,20.8,15.3,0.238,,201877
+Newton County,Georgia,20,16.6,10.7,,,120135
+Paulding County,Georgia,42,22.9,13.6,0.714,0.478,183164
+Richmond County,Georgia,124,60.4,29.6,0.661,0.367,205414
+Rockdale County,Georgia,21,21.9,11,0.714,,95987
+Spalding County,Georgia,11,15.7,,,,69946
+Tift County,Georgia,15,36.1,,0.667,,41554
+Troup County,Georgia,12,17,14.3,,,70742
+Walker County,Georgia,14,20.1,,,,69489
+Walton County,Georgia,16,15,13.7,,,106702
+Ware County,Georgia,13,35.9,,,,36243
+Wayne County,Georgia,10,31.9,,1,,31373
+White County,Georgia,12,41.3,,,,29026
 Whitfield County,Georgia,11,10.6,18.2,,,103687
-Hawaii County,Hawaii,40,19.3,7.4,,,207615
-Honolulu County,Hawaii,202,20.4,19.2,0.287,0.059,989408
-Kauai County,Hawaii,25,33.9,22.1,,,73851
-Maui County,Hawaii,52,31.7,16.1,0.673,,164183
-Ada County,Idaho,114,21.7,17.4,0.658,,524673
-Bannock County,Idaho,21,23.2,30.7,0.571,,90400
-Bingham County,Idaho,14,27.8,,,,50395
-Bonneville County,Idaho,28,21.3,27.7,0.357,,131366
-Canyon County,Idaho,47,18.2,7.4,0.681,,257674
-Kootenai County,Idaho,30,16.2,15.7,0.5,,185010
-Nez Perce County,Idaho,11,25.6,,,,42987
-Payette County,Idaho,10,36.7,,,,27279
-Twin Falls County,Idaho,19,20,26.5,,,95156
-Adams County,Illinois,14,21.7,,,,64441
-Champaign County,Illinois,59,28.7,26.2,0.712,0.582,205644
-Cook County,Illinois,2016,39.6,27.7,0.802,0.655,5087070
-DeKalb County,Illinois,15,15,15.3,0.667,0.625,100288
-DuPage County,Illinois,115,12.5,12.5,0.696,0.635,921213
-Grundy County,Illinois,12,22.4,23.5,0.917,,53578
-Jackson County,Illinois,15,28.8,,,,52141
-Kane County,Illinois,84,16.3,14.8,0.726,0.633,514982
-Kankakee County,Illinois,30,28.3,22.8,0.733,0.68,105940
-Lake County,Illinois,136,19.2,11.6,0.743,0.432,708760
-LaSalle County,Illinois,17,15.7,22.1,,0.667,108309
-McHenry County,Illinois,46,14.7,11.4,0.587,0.714,312800
-McLean County,Illinois,28,16.4,16.3,0.536,0.607,170441
-Macon County,Illinois,24,23.9,25,0.667,0.538,100591
-Madison County,Illinois,85,32.3,33.5,0.765,0.67,262752
-Montgomery County,Illinois,11,39.8,,,,27663
-Peoria County,Illinois,72,40.6,34.6,0.694,0.468,177513
-Rock Island County,Illinois,26,18.4,19.7,0.577,0.357,141236
-St. Clair County,Illinois,71,28.3,30,0.746,0.679,251018
-Sangamon County,Illinois,81,41.9,21.6,0.642,0.381,193491
+Hawaii County,Hawaii,44,21.2,7.4,,,207615
+Honolulu County,Hawaii,213,21.5,18.4,0.286,0.056,989408
+Kauai County,Hawaii,25,33.9,20.7,,,73851
+Maui County,Hawaii,54,32.9,14.9,0.667,,164183
+Ada County,Idaho,113,21.5,17.9,0.655,,524673
+Bannock County,Idaho,23,25.4,31.9,0.478,,90400
+Bingham County,Idaho,13,25.8,,,,50395
+Bonneville County,Idaho,30,22.8,28.6,0.333,,131366
+Canyon County,Idaho,47,18.2,7.8,0.638,,257674
+Kootenai County,Idaho,28,15.1,15.7,0.429,,185010
+Nez Perce County,Idaho,12,27.9,,,,42987
+Payette County,Idaho,11,40.3,,,,27279
+Twin Falls County,Idaho,18,18.9,24.2,,,95156
+Adams County,Illinois,11,17.1,,,,64441
+Champaign County,Illinois,56,27.2,26.7,0.714,0.554,205644
+Cook County,Illinois,1967,38.7,28.8,0.8,0.666,5087070
+DeKalb County,Illinois,14,14,12.4,,,100288
+DuPage County,Illinois,116,12.6,11.6,0.707,0.645,921213
+Grundy County,Illinois,14,26.1,19.6,0.786,,53578
+Jackson County,Illinois,16,30.7,,,,52141
+Kane County,Illinois,85,16.5,15,0.718,0.625,514982
+Kankakee County,Illinois,22,20.8,24.6,0.727,0.667,105940
+Lake County,Illinois,137,19.3,12.3,0.723,0.419,708760
+LaSalle County,Illinois,18,16.6,23.9,0.556,0.654,108309
+McHenry County,Illinois,47,15,12.7,0.574,0.692,312800
+McLean County,Illinois,29,17,16.9,0.586,0.655,170441
+Macon County,Illinois,22,21.9,23.1,0.727,0.417,100591
+Madison County,Illinois,83,31.6,35,0.759,0.652,262752
+Peoria County,Illinois,69,38.9,35.7,0.696,0.453,177513
+Rock Island County,Illinois,24,17,21.1,0.583,0.333,141236
+St. Clair County,Illinois,71,28.3,31.2,0.732,0.704,251018
+Sangamon County,Illinois,76,39.3,21.1,0.645,0.341,193491
 Stephenson County,Illinois,17,39.4,,0.588,,43105
-Tazewell County,Illinois,24,18.5,12.9,0.708,,129541
-Vermilion County,Illinois,31,43.3,33,0.774,0.44,71652
-Whiteside County,Illinois,10,18.3,,,,54498
-Will County,Illinois,130,18.6,18,0.715,0.718,700728
-Winnebago County,Illinois,149,53,46,0.866,0.662,280922
-Allen County,Indiana,109,27.6,36.1,0.734,0.693,394545
-Bartholomew County,Indiana,25,29.8,26.3,0.68,,84003
-Boone County,Indiana,16,21,20.6,0.75,,76120
-Clark County,Indiana,52,41.4,35.5,0.788,0.69,125467
-Delaware County,Indiana,76,67.7,42.1,0.632,0.667,112321
-Elkhart County,Indiana,26,12.6,12.1,0.5,,206409
-Fayette County,Indiana,10,42.8,73.6,,0.765,23362
-Floyd County,Indiana,40,49.5,44.6,0.75,0.657,80809
-Grant County,Indiana,40,60.4,19.8,0.9,,66200
-Hamilton County,Indiana,44,11.8,8.3,0.591,0.536,371645
-Hancock County,Indiana,11,12.8,,,,86166
-Harrison County,Indiana,18,45,32.1,0.667,,40006
-Hendricks County,Indiana,28,15,13.5,0.714,,186387
-Henry County,Indiana,11,22.5,,,,48929
-Howard County,Indiana,36,42.9,40,0.722,0.394,83831
-Jackson County,Indiana,10,21.5,,,,46460
-Jennings County,Indiana,16,57.9,50.5,0.812,,27622
-Johnson County,Indiana,31,18.5,13.9,0.581,0.5,167819
-Kosciusko County,Indiana,22,27.4,,,,80364
-Lake County,Indiana,170,34,34.2,0.771,0.578,500598
-LaPorte County,Indiana,35,31.3,26.4,0.657,0.483,111706
-Lawrence County,Indiana,13,28.8,,0.846,,45084
-Madison County,Indiana,55,41.5,36.3,0.727,0.362,132504
-Marion County,Indiana,665,68.7,45.2,0.786,0.578,968460
-Marshall County,Indiana,10,21.6,,,,46352
-Monroe County,Indiana,66,47.4,19.5,0.773,0.345,139342
-Morgan County,Indiana,14,19.1,22.7,,,73227
-Noble County,Indiana,10,21.1,,,,47430
-Porter County,Indiana,34,19.4,21.7,0.794,0.541,175335
-St. Joseph County,Indiana,100,36.7,13.6,0.72,0.649,272848
-Scott County,Indiana,13,52.7,,,,24657
-Shelby County,Indiana,12,26.5,22.4,,,45231
-Starke County,Indiana,11,47.4,,,,23206
-Tippecanoe County,Indiana,47,24.9,22,0.617,0.372,188792
-Vanderburgh County,Indiana,52,28.9,24.8,0.712,0.333,179810
-Vigo County,Indiana,30,28.3,19.6,,,106153
-Wayne County,Indiana,45,68.1,80.4,0.689,0.604,66127
-Black Hawk County,Iowa,21,16.1,,0.619,,130471
-Clinton County,Iowa,12,26,,,,46158
-Dubuque County,Iowa,16,16.2,,,,98887
-Johnson County,Iowa,25,15.9,7.3,,,157528
-Linn County,Iowa,36,15.7,14.1,0.5,0.375,228972
-Polk County,Iowa,135,26.7,24.7,0.519,0.355,505255
-Pottawattamie County,Iowa,15,16.1,13.9,,,93179
-Scott County,Iowa,32,18.4,15,0.562,,174270
-Story County,Iowa,11,11.2,,,,98566
-Woodbury County,Iowa,15,14.2,,,,105951
-Butler County,Kansas,12,17.5,,,,68632
-Douglas County,Kansas,20,16.6,12.3,,,120553
-Johnson County,Kansas,89,14.3,9.6,0.528,0.207,622237
-Leavenworth County,Kansas,18,21.6,18.3,0.722,,83518
-Reno County,Kansas,15,24.4,21,,,61497
+Tazewell County,Illinois,23,17.8,12.1,0.696,,129541
+Vermilion County,Illinois,34,47.5,30.4,0.735,0.565,71652
+Will County,Illinois,133,19,18.1,0.707,0.72,700728
+Winnebago County,Illinois,145,51.6,47.1,0.855,0.677,280922
+Allen County,Indiana,106,26.9,36.9,0.745,0.693,394545
+Bartholomew County,Indiana,27,32.1,33.4,0.741,0.393,84003
+Boone County,Indiana,15,19.7,25.1,0.733,,76120
+Clark County,Indiana,54,43,33.8,0.759,0.725,125467
+Delaware County,Indiana,79,70.3,46.4,0.57,0.623,112321
+Elkhart County,Indiana,23,11.1,10.2,0.565,,206409
+Floyd County,Indiana,40,49.5,45.8,0.75,0.667,80809
+Grant County,Indiana,38,57.4,21.3,0.895,,66200
+Hamilton County,Indiana,42,11.3,7.7,0.595,0.538,371645
+Hancock County,Indiana,10,11.6,,,,86166
+Harrison County,Indiana,17,42.5,32.1,0.588,,40006
+Hendricks County,Indiana,26,13.9,15.9,0.654,,186387
+Henry County,Indiana,12,24.5,,,,48929
+Howard County,Indiana,35,41.8,36.3,0.686,0.433,83831
+Jackson County,Indiana,11,23.7,,,,46460
+Jennings County,Indiana,15,54.3,46.9,0.733,,27622
+Johnson County,Indiana,28,16.7,13.3,0.607,0.571,167819
+Kosciusko County,Indiana,23,28.6,,,,80364
+Lake County,Indiana,170,34,33.4,0.753,0.605,500598
+LaPorte County,Indiana,33,29.5,27.3,0.667,0.467,111706
+Lawrence County,Indiana,12,26.6,,0.833,,45084
+Madison County,Indiana,57,43,37.8,0.702,0.429,132504
+Marion County,Indiana,646,66.7,47.4,0.772,0.591,968460
+Marshall County,Indiana,12,25.9,,,,46352
+Monroe County,Indiana,66,47.4,20.2,0.742,0.433,139342
+Morgan County,Indiana,15,20.5,27,,0.632,73227
+Porter County,Indiana,36,20.5,23.5,0.778,0.55,175335
+St. Joseph County,Indiana,99,36.3,14,0.727,0.632,272848
+Scott County,Indiana,12,48.7,,,,24657
+Shelby County,Indiana,11,24.3,22.4,,,45231
+Starke County,Indiana,10,43.1,,,,23206
+Tippecanoe County,Indiana,52,27.5,21.5,0.558,0.381,188792
+Vanderburgh County,Indiana,51,28.4,24.2,0.686,0.318,179810
+Vigo County,Indiana,31,29.2,19.6,,,106153
+Wayne County,Indiana,46,69.6,80.4,0.696,0.66,66127
+Black Hawk County,Iowa,19,14.6,,0.579,,130471
+Clinton County,Iowa,11,23.8,,,,46158
+Dubuque County,Iowa,16,16.2,10.3,,,98887
+Johnson County,Iowa,29,18.4,7.3,0.379,,157528
+Linn County,Iowa,34,14.8,11.9,0.471,,228972
+Polk County,Iowa,140,27.7,25.1,0.486,0.374,505255
+Pottawattamie County,Iowa,16,17.2,15,,,93179
+Scott County,Iowa,31,17.8,16.2,0.581,0.357,174270
+Wapello County,Iowa,10,28.4,,,,35166
+Woodbury County,Iowa,16,15.1,,,,105951
+Butler County,Kansas,11,16,,,,68632
+Douglas County,Kansas,19,15.8,11.5,,,120553
+Johnson County,Kansas,92,14.8,10,0.5,0.2,622237
+Leavenworth County,Kansas,17,20.4,19.6,0.765,,83518
+Reno County,Kansas,15,24.4,19.4,,,61497
 Riley County,Kansas,10,14,,,,71402
-Sedgwick County,Kansas,212,40.1,22.1,0.632,0.246,528469
-Shawnee County,Kansas,51,28.7,20.4,0.392,,177746
-Wyandotte County,Kansas,75,45.4,14.5,0.547,,165281
-Bell County,Kentucky,14,60,,0.714,,23317
-Boone County,Kentucky,36,25.6,24,0.694,0.719,140496
-Bourbon County,Kentucky,12,59.6,,0.917,,20134
-Boyd County,Kentucky,51,106.6,85.6,0.725,0.65,47826
-Boyle County,Kentucky,20,64.5,33.3,0.6,,30988
-Breathitt County,Kentucky,18,139,,0.889,,12953
-Bullitt County,Kentucky,28,33,31.8,0.893,0.885,84863
-Campbell County,Kentucky,34,36.3,42.7,0.794,0.725,93702
-Carter County,Kentucky,19,72.1,,0.737,,26366
-Christian County,Kentucky,18,25,,0.778,,72032
-Clark County,Kentucky,30,80.4,33.1,0.8,,37304
-Clay County,Kentucky,13,66.2,55.3,,,19648
-Daviess County,Kentucky,22,21.3,11.8,,,103458
-Estill County,Kentucky,25,179.4,85.1,,,13936
-Fayette County,Kentucky,181,56.5,42.7,0.812,0.717,320154
-Floyd County,Kentucky,32,93,36.5,0.531,,34423
-Franklin County,Kentucky,34,65.8,37.3,0.588,0.526,51644
-Garrard County,Kentucky,10,56.1,,,,17829
-Greenup County,Kentucky,13,36.9,45.6,,0.688,35221
-Hardin County,Kentucky,35,31.2,19.8,0.6,,112273
-Harlan County,Kentucky,11,43.4,,,,25324
-Henderson County,Kentucky,17,38.5,,0.706,,44119
-Jefferson County,Kentucky,588,76.2,50.5,0.808,0.695,772144
-Jessamine County,Kentucky,23,41.8,29.6,0.957,0.75,55017
-Johnson County,Kentucky,11,49.7,,,,22116
-Kenton County,Kentucky,79,46.1,47.9,0.709,0.762,171321
-Knott County,Kentucky,10,73.2,,,,13659
-Laurel County,Kentucky,32,50.6,,0.438,,63296
-Lee County,Kentucky,10,137.1,,,,7293
-Lincoln County,Kentucky,15,60.5,,0.867,,24776
-McCracken County,Kentucky,16,23.7,22.9,,,67428
-Madison County,Kentucky,67,69.3,59.1,0.776,0.673,96735
-Montgomery County,Kentucky,16,56.1,,0.875,,28527
-Nelson County,Kentucky,19,39.8,,0.684,,47730
-Oldham County,Kentucky,16,22.8,,0.875,,70183
-Perry County,Kentucky,28,103.2,,0.607,,27133
-Pike County,Kentucky,53,94.7,38,0.604,,55973
-Powell County,Kentucky,13,100.2,,0.769,,12972
-Pulaski County,Kentucky,24,36.3,24.6,0.583,,66191
+Sedgwick County,Kansas,212,40.1,22.3,0.651,0.287,528469
+Shawnee County,Kansas,51,28.7,22.6,0.392,,177746
+Wyandotte County,Kansas,70,42.4,15.1,0.514,,165281
+Bell County,Kentucky,11,47.2,42.3,,,23317
+Boone County,Kentucky,35,24.9,24.7,0.686,0.727,140496
+Bourbon County,Kentucky,11,54.6,,0.909,,20134
+Boyd County,Kentucky,47,98.3,77.1,0.745,0.694,47826
+Boyle County,Kentucky,16,51.6,36.6,0.625,,30988
+Breathitt County,Kentucky,16,123.5,,0.875,,12953
+Bullitt County,Kentucky,28,33,33.1,0.857,0.852,84863
+Campbell County,Kentucky,32,34.2,45.9,0.75,0.721,93702
+Carter County,Kentucky,19,72.1,,0.684,,26366
+Christian County,Kentucky,16,22.2,,0.75,,72032
+Clark County,Kentucky,28,75.1,38.6,0.821,,37304
+Clay County,Kentucky,15,76.3,55.3,,,19648
+Daviess County,Kentucky,21,20.3,12.8,,,103458
+Estill County,Kentucky,26,186.6,78,,,13936
+Fayette County,Kentucky,177,55.3,42.4,0.797,0.759,320154
+Floyd County,Kentucky,30,87.2,33.7,0.5,,34423
+Franklin County,Kentucky,32,62,37.3,0.625,0.526,51644
+Greenup County,Kentucky,14,39.7,45.6,,0.688,35221
+Hardin County,Kentucky,33,29.4,21.6,0.576,,112273
+Harlan County,Kentucky,12,47.4,42.3,,,25324
+Henderson County,Kentucky,14,31.7,,,,44119
+Jefferson County,Kentucky,580,75.1,50.1,0.802,0.703,772144
+Jessamine County,Kentucky,24,43.6,33.3,0.958,0.722,55017
+Johnson County,Kentucky,12,54.3,,,,22116
+Kenton County,Kentucky,79,46.1,45.5,0.709,0.724,171321
+Knott County,Kentucky,12,87.9,,,,13659
+Laurel County,Kentucky,36,56.9,,0.472,,63296
+Lee County,Kentucky,11,150.8,,,,7293
+Lincoln County,Kentucky,13,52.5,,0.846,,24776
+McCracken County,Kentucky,20,29.7,21.4,,,67428
+Madison County,Kentucky,60,62,54.8,0.75,0.686,96735
+Montgomery County,Kentucky,17,59.6,42.6,0.882,,28527
+Nelson County,Kentucky,18,37.7,,0.722,,47730
+Oldham County,Kentucky,17,24.2,,0.882,,70183
+Perry County,Kentucky,27,99.5,,0.519,,27133
+Pike County,Kentucky,51,91.1,39.7,0.608,,55973
+Powell County,Kentucky,12,92.5,,0.833,,12972
+Pulaski County,Kentucky,22,33.2,23.1,0.545,,66191
 Rockcastle County,Kentucky,13,80.3,,0.846,,16190
-Rowan County,Kentucky,22,90.1,,0.727,,24409
-Scott County,Kentucky,15,24.9,17.5,0.867,,60168
-Shelby County,Kentucky,10,20.2,34.7,,0.647,49515
-Warren County,Kentucky,33,23.2,17.3,0.667,0.478,142229
-Whitley County,Kentucky,19,51.6,,0.684,,36825
-Woodford County,Kentucky,11,40.3,,0.909,,27268
-Acadia Parish,Louisiana,31,54.9,,0.387,,56489
-Ascension Parish,Louisiana,52,39.5,19.7,0.788,,131632
-Avoyelles Parish,Louisiana,15,39.1,27.4,,,38408
-Bossier Parish,Louisiana,29,22.3,8.7,0.345,,129795
-Caddo Parish,Louisiana,57,25.2,13.7,0.281,,226386
-Calcasieu Parish,Louisiana,66,32.4,17.2,0.621,,203761
-East Baton Rouge Parish,Louisiana,304,67.8,32.7,0.155,0.146,448467
+Rowan County,Kentucky,21,86,,0.714,,24409
+Scott County,Kentucky,16,26.6,17.5,0.812,,60168
+Shelby County,Kentucky,10,20.2,36.7,,0.667,49515
+Warren County,Kentucky,29,20.4,16.6,0.69,0.5,142229
+Whitley County,Kentucky,19,51.6,,0.632,,36825
+Acadia Parish,Louisiana,29,51.3,,0.345,,56489
+Ascension Parish,Louisiana,53,40.3,22.9,0.792,0.414,131632
+Avoyelles Parish,Louisiana,15,39.1,24.9,,,38408
+Bossier Parish,Louisiana,27,20.8,7.9,0.37,,129795
+Caddo Parish,Louisiana,51,22.5,13.7,0.275,,226386
+Calcasieu Parish,Louisiana,64,31.4,18.2,0.609,,203761
+East Baton Rouge Parish,Louisiana,302,67.3,33.2,0.156,0.151,448467
 Evangeline Parish,Louisiana,11,34.6,,,,31754
-Iberia Parish,Louisiana,18,26.6,15.8,0.611,,67659
-Iberville Parish,Louisiana,12,40.5,,0.833,,29617
-Jefferson Parish,Louisiana,236,56,36.8,0.78,0.491,421777
-Lafayette Parish,Louisiana,88,35.2,28.6,0.705,0.271,249750
-Lafourche Parish,Louisiana,27,28.4,20.5,0.778,,95056
-Livingston Parish,Louisiana,72,48,38.4,0.75,0.315,150145
-Natchitoches Parish,Louisiana,10,27.6,,,,36291
-Orleans Parish,Louisiana,496,136.2,58.2,0.077,0.088,364136
-Ouachita Parish,Louisiana,87,55.2,19.6,0.517,,157568
-Rapides Parish,Louisiana,71,56.2,40.9,0.718,0.302,126260
-St. Bernard Parish,Louisiana,35,78.7,40.2,0.686,,44463
-St. Charles Parish,Louisiana,18,35.6,,0.833,,50620
-St. John the Baptist Parish,Louisiana,10,25.3,,,,39592
-St. Landry Parish,Louisiana,34,41.7,18.3,0.647,,81464
+Iberia Parish,Louisiana,16,23.6,21.5,,,67659
+Iberville Parish,Louisiana,10,33.8,,,,29617
+Jefferson Parish,Louisiana,237,56.2,38.2,0.789,0.503,421777
+Jefferson Davis Parish,Louisiana,10,31.7,44.6,,,31553
+Lafayette Parish,Louisiana,88,35.2,29.9,0.693,0.301,249750
+Lafourche Parish,Louisiana,26,27.4,20.5,0.769,,95056
+Livingston Parish,Louisiana,67,44.6,36.9,0.761,0.308,150145
+Orleans Parish,Louisiana,467,128.2,60.7,0.086,0.089,364136
+Ouachita Parish,Louisiana,87,55.2,18.9,0.54,,157568
+Plaquemines Parish,Louisiana,10,44.7,,,,22386
+Rapides Parish,Louisiana,70,55.4,43.2,0.7,0.304,126260
+St. Bernard Parish,Louisiana,34,76.5,40.2,0.735,,44463
+St. Charles Parish,Louisiana,18,35.6,,0.778,,50620
+St. John the Baptist Parish,Louisiana,12,30.3,,,,39592
+St. Landry Parish,Louisiana,35,43,17,0.629,,81464
 St. Martin Parish,Louisiana,12,23.5,,,,51057
-St. Mary Parish,Louisiana,19,40.4,20.3,,,47055
-St. Tammany Parish,Louisiana,94,34.1,37.2,0.745,0.546,275583
-Tangipahoa Parish,Louisiana,69,50,34.1,0.783,,138064
-Terrebonne Parish,Louisiana,53,51.2,34.4,,,103616
+St. Mary Parish,Louisiana,17,36.1,,,,47055
+St. Tammany Parish,Louisiana,97,35.2,38,0.763,0.576,275583
+Tangipahoa Parish,Louisiana,66,47.8,31.2,0.788,,138064
+Terrebonne Parish,Louisiana,55,53.1,35.3,,,103616
 Vermilion Parish,Louisiana,15,26.3,,0.733,,56992
-Washington Parish,Louisiana,41,91.4,106.1,0.829,0.592,44865
-West Baton Rouge Parish,Louisiana,15,53.1,,0.8,,28266
-West Feliciana Parish,Louisiana,16,104.1,,0.75,,15371
-Androscoggin County,Maine,72,63.3,30.5,0.778,0.788,113765
-Aroostook County,Maine,37,54.9,17.9,0.757,,67351
-Cumberland County,Maine,128,41.3,31.2,0.859,0.793,310230
-Hancock County,Maine,20,35.4,,0.65,,56526
-Kennebec County,Maine,53,41.6,32.7,0.811,0.75,127259
-Knox County,Maine,14,34.2,,0.857,,40977
-Oxford County,Maine,21,35.1,,0.857,,59905
-Penobscot County,Maine,90,57.9,35.5,0.811,0.815,155312
-Piscataquis County,Maine,17,97.2,,0.882,,17486
+Washington Parish,Louisiana,42,93.6,103.9,0.833,0.604,44865
+West Baton Rouge Parish,Louisiana,14,49.5,,0.714,,28266
+West Feliciana Parish,Louisiana,14,91.1,,0.786,,15371
+Androscoggin County,Maine,70,61.5,32.3,0.743,0.743,113765
+Aroostook County,Maine,39,57.9,17.9,0.795,,67351
+Cumberland County,Maine,117,37.7,33.2,0.829,0.776,310230
+Hancock County,Maine,19,33.6,18.2,0.684,,56526
+Kennebec County,Maine,54,42.4,32.7,0.778,0.75,127259
+Knox County,Maine,16,39,,0.875,,40977
+Oxford County,Maine,23,38.4,,0.913,,59905
+Penobscot County,Maine,87,56,37.5,0.793,0.754,155312
+Piscataquis County,Maine,16,91.5,,0.875,,17486
 Somerset County,Maine,27,52.6,31.7,0.889,,51302
-Waldo County,Maine,10,24.6,,,,40620
-Washington County,Maine,25,79.2,31.9,0.84,,31555
-York County,Maine,61,27.9,25.5,0.852,0.83,218586
-Allegany County,Maryland,50,74.3,41.2,0.88,0.69,67273
-Anne Arundel County,Maryland,169,28.4,35.2,0.799,0.809,594582
-Baltimore County,Maryland,260,30.8,40,0.781,0.789,844703
-Calvert County,Maryland,21,22.2,29.2,0.619,0.778,94728
-Caroline County,Maryland,12,35.7,38.9,0.833,,33593
-Carroll County,Maryland,40,22.6,35.6,0.675,0.8,176639
-Cecil County,Maryland,55,52,61.3,0.764,0.762,105672
-Charles County,Maryland,35,20.4,18.4,0.829,0.8,171973
-Dorchester County,Maryland,18,54.7,40.7,0.667,0.769,32879
-Frederick County,Maryland,53,18.1,25.8,0.755,0.761,293391
-Harford County,Maryland,75,28.3,32.5,0.84,0.747,264644
-Howard County,Maryland,39,11.6,10.1,0.744,0.727,336001
-Montgomery County,Maryland,139,13.1,10.9,0.755,0.678,1058470
-Prince George's County,Maryland,210,22.2,15.6,0.8,0.669,947430
-Queen Anne's County,Maryland,11,20.9,21.8,,,52508
-St. Mary's County,Maryland,29,25.2,30,0.69,0.765,115281
-Somerset County,Maryland,19,76.3,,0.789,,24910
-Talbot County,Maryland,13,34.4,35,,0.923,37823
-Washington County,Maryland,90,57.8,59.6,0.856,0.767,155813
-Wicomico County,Maryland,49,46.8,37.6,0.735,0.692,104800
-Worcester County,Maryland,27,49.8,28.7,0.667,0.867,54171
-Baltimore city,Maryland,1066,188.6,154.8,0.867,0.902,565239
-Barnstable County,Massachusetts,63,27.2,38.5,0.905,0.829,231735
-Berkshire County,Massachusetts,51,40.2,45.6,0.765,0.719,126818
-Bristol County,Massachusetts,278,47.8,46.9,0.906,0.909,581841
-Essex County,Massachusetts,233,28.8,35.4,0.841,0.889,810089
-Franklin County,Massachusetts,30,42.4,28.5,0.833,0.8,70836
-Hampden County,Massachusetts,258,56.1,47.2,0.86,0.809,460291
-Hampshire County,Massachusetts,25,15.4,24.2,0.72,0.897,162502
-Middlesex County,Massachusetts,346,21.3,21.1,0.824,0.791,1623950
-Norfolk County,Massachusetts,161,22.1,19,0.82,0.836,727473
-Plymouth County,Massachusetts,142,26.5,28.2,0.831,0.871,535308
-Suffolk County,Massachusetts,480,62.5,39.4,0.829,0.842,768425
-Worcester County,Massachusetts,297,34.3,37.4,0.852,0.865,866866
-Allegan County,Michigan,11,9,14.4,,,121939
-Bay County,Michigan,39,38,24.2,0.769,0.48,102500
-Berrien County,Michigan,52,34.2,15.6,0.673,0.5,152261
-Branch County,Michigan,10,22.1,,,,45215
-Calhoun County,Michigan,33,24.7,29.8,0.758,0.8,133366
-Cass County,Michigan,10,19.4,,,,51642
-Eaton County,Michigan,18,16.5,,0.611,,108820
-Genesee County,Michigan,216,53.8,44.4,0.699,0.706,401522
-Grand Traverse County,Michigan,29,30.1,11.8,0.586,,96421
-Ingham County,Michigan,118,41.5,34.9,0.797,0.676,284637
-Isabella County,Michigan,18,28.1,,0.778,,64118
-Jackson County,Michigan,42,26.3,9.5,0.714,,159424
-Kalamazoo County,Michigan,83,31.7,19.6,0.723,0.442,262215
-Kent County,Michigan,119,18,16,0.546,0.638,661354
-Lapeer County,Michigan,15,16.9,16,0.8,,88977
-Livingston County,Michigan,17,8.6,12.5,,0.625,196757
-Macomb County,Michigan,200,22.9,26,0.805,0.678,875101
-Monroe County,Michigan,23,14.8,22.6,0.739,0.794,155045
-Montcalm County,Michigan,14,20.5,,0.786,,68154
-Muskegon County,Michigan,82,46.4,31.7,0.78,0.618,176564
-Oakland County,Michigan,257,20.2,11.5,0.712,,1270430
-Ottawa County,Michigan,32,10.5,11.7,0.656,0.412,303372
-Saginaw County,Michigan,65,34.6,23.6,0.785,0.511,187782
-St. Clair County,Michigan,46,28.8,27.7,0.696,0.523,159874
-Van Buren County,Michigan,12,15.8,17.2,,,75798
-Washtenaw County,Michigan,82,22.4,23.9,0.707,0.625,365536
-Wayne County,Michigan,1010,57.7,47.9,0.835,0.759,1751170
-Anoka County,Minnesota,49,13.2,12.9,0.714,0.565,372441
-Beltrami County,Minnesota,12,25.7,21.2,,,46718
-Blue Earth County,Minnesota,15,21.4,,,,70006
-Cass County,Minnesota,17,54.1,,,,31446
+Washington County,Maine,24,76.1,38.2,0.833,,31555
+York County,Maine,62,28.4,29.4,0.855,0.836,218586
+Allegany County,Maryland,46,68.4,44,0.87,0.742,67273
+Anne Arundel County,Maryland,168,28.3,35.4,0.786,0.815,594582
+Baltimore County,Maryland,261,30.9,40.2,0.766,0.79,844703
+Calvert County,Maryland,20,21.1,29.2,0.65,0.741,94728
+Caroline County,Maryland,12,35.7,41.9,0.833,0.714,33593
+Carroll County,Maryland,37,20.9,33.8,0.649,0.789,176639
+Cecil County,Maryland,55,52,62.2,0.782,0.766,105672
+Charles County,Maryland,33,19.2,19.6,0.818,0.781,171973
+Dorchester County,Maryland,18,54.7,43.8,0.667,0.786,32879
+Frederick County,Maryland,53,18.1,23.1,0.755,0.767,293391
+Harford County,Maryland,71,26.8,32.5,0.817,0.747,264644
+Howard County,Maryland,39,11.6,10.1,0.718,0.697,336001
+Montgomery County,Maryland,128,12.1,10.9,0.75,0.693,1058470
+Prince George's County,Maryland,198,20.9,16.6,0.783,0.682,947430
+Queen Anne's County,Maryland,11,20.9,19.8,,,52508
+St. Mary's County,Maryland,30,26,29.1,0.7,0.788,115281
+Somerset County,Maryland,20,80.3,,0.75,,24910
+Washington County,Maryland,84,53.9,61.6,0.857,0.774,155813
+Wicomico County,Maryland,52,49.6,34.7,0.731,0.667,104800
+Worcester County,Maryland,30,55.4,23,0.667,0.917,54171
+Baltimore city,Maryland,1075,190.2,150.1,0.865,0.905,565239
+Barnstable County,Massachusetts,62,26.8,37.1,0.887,0.861,231735
+Berkshire County,Massachusetts,51,40.2,44.8,0.765,0.75,126818
+Bristol County,Massachusetts,269,46.2,44.1,0.911,0.9,581841
+Essex County,Massachusetts,231,28.5,35.2,0.844,0.881,810089
+Franklin County,Massachusetts,33,46.6,29.9,0.758,0.762,70836
+Hampden County,Massachusetts,255,55.4,48.9,0.855,0.811,460291
+Hampshire County,Massachusetts,24,14.8,23,0.792,0.892,162502
+Middlesex County,Massachusetts,333,20.5,21,0.817,0.808,1623950
+Norfolk County,Massachusetts,147,20.2,18.7,0.85,0.856,727473
+Plymouth County,Massachusetts,136,25.4,28,0.838,0.87,535308
+Suffolk County,Massachusetts,471,61.3,39.3,0.817,0.851,768425
+Worcester County,Massachusetts,285,32.9,37.7,0.856,0.863,866866
+Bay County,Michigan,34,33.2,27.2,0.794,0.464,102500
+Berrien County,Michigan,51,33.5,14.3,0.667,0.545,152261
+Calhoun County,Michigan,33,24.7,31.3,0.727,0.738,133366
+Eaton County,Michigan,20,18.4,,0.65,,108820
+Genesee County,Michigan,206,51.3,42.4,0.709,0.698,401522
+Grand Traverse County,Michigan,27,28,10.7,0.63,,96421
+Ingham County,Michigan,117,41.1,34.9,0.778,0.647,284637
+Isabella County,Michigan,19,29.6,,0.737,,64118
+Jackson County,Michigan,35,22,10.1,0.657,,159424
+Kalamazoo County,Michigan,82,31.3,19.6,0.695,0.481,262215
+Kent County,Michigan,111,16.8,16.4,0.541,0.667,661354
+Lapeer County,Michigan,15,16.9,16,0.733,,88977
+Livingston County,Michigan,15,7.6,12,,0.652,196757
+Macomb County,Michigan,200,22.9,26.7,0.815,0.674,875101
+Marquette County,Michigan,10,14.9,,,,66999
+Monroe County,Michigan,23,14.8,24.6,0.739,0.757,155045
+Montcalm County,Michigan,12,17.6,,,,68154
+Muskegon County,Michigan,79,44.7,31.7,0.81,0.636,176564
+Oakland County,Michigan,246,19.4,12.2,0.707,,1270430
+Ottawa County,Michigan,27,8.9,11.3,0.63,0.424,303372
+Saginaw County,Michigan,66,35.1,25.2,0.803,0.521,187782
+St. Clair County,Michigan,45,28.1,27,0.711,0.535,159874
+Van Buren County,Michigan,10,13.2,18.5,,0.714,75798
+Washtenaw County,Michigan,85,23.3,23.4,0.718,0.674,365536
+Wayne County,Michigan,977,55.8,47.4,0.832,0.756,1751170
+Anoka County,Minnesota,48,12.9,12.6,0.688,0.6,372441
+Beltrami County,Minnesota,13,27.8,21.2,,,46718
+Blue Earth County,Minnesota,13,18.6,,,,70006
+Cass County,Minnesota,18,57.2,,,,31446
 Clay County,Minnesota,13,19.6,,,,66258
-Dakota County,Minnesota,59,13.2,7.2,0.746,0.355,447440
-Hennepin County,Minnesota,531,42.2,20.9,0.793,0.523,1258710
-Mille Lacs County,Minnesota,12,43.8,41.9,0.917,,27427
-Olmsted County,Minnesota,43,26.1,17.7,0.581,0.429,164784
-Pine County,Minnesota,13,43.1,,,,30197
-Ramsey County,Minnesota,235,43.8,22,0.74,0.174,536075
-St. Louis County,Minnesota,87,43.4,23.1,0.713,0.478,200514
-Scott County,Minnesota,19,12.2,10.1,0.684,,155814
-Stearns County,Minnesota,25,15.5,9.3,0.52,,160977
-Washington County,Minnesota,26,9.3,10.7,0.5,,278936
-DeSoto County,Mississippi,30,15.5,17.8,0.867,0.545,193247
-Forrest County,Mississippi,21,26.9,26.7,0.619,,78208
-Hancock County,Mississippi,20,43.3,37.8,0.5,,46159
-Harrison County,Mississippi,76,36.1,19.2,0.737,0.35,210612
-Hinds County,Mississippi,59,27.5,17.3,0.61,0.475,214870
-Jackson County,Mississippi,83,56.7,21.6,0.711,0.452,146389
-Jefferson Davis County,Mississippi,10,91.2,,,,10969
-Jones County,Mississippi,11,16.6,,,,66250
-Lee County,Mississippi,18,21.7,16.4,0.611,,82799
-Lowndes County,Mississippi,15,26.2,,,,57283
-Madison County,Mississippi,13,11.6,,,,112511
-Panola County,Mississippi,10,30.6,,,,32669
-Pearl River County,Mississippi,38,65.5,25.2,0.895,,57978
-Rankin County,Mississippi,22,13.7,12.9,0.682,,160417
+Dakota County,Minnesota,59,13.2,7.5,0.746,0.375,447440
+Hennepin County,Minnesota,518,41.2,20.7,0.797,0.508,1258710
+Mille Lacs County,Minnesota,11,40.1,,,,27427
+Olmsted County,Minnesota,44,26.7,16.4,0.523,0.423,164784
+Pine County,Minnesota,11,36.4,,,,30197
+Ramsey County,Minnesota,234,43.7,21.8,0.739,0.15,536075
+St. Louis County,Minnesota,81,40.4,22.6,0.728,0.467,200514
+Scott County,Minnesota,16,10.3,10.1,0.625,,155814
+Stearns County,Minnesota,23,14.3,9.9,0.522,,160977
+Washington County,Minnesota,24,8.6,10.3,0.5,,278936
+Winona County,Minnesota,10,20.1,,,,49721
+DeSoto County,Mississippi,32,16.6,18.9,0.844,0.543,193247
+Forrest County,Mississippi,22,28.1,25.4,0.591,,78208
+Hancock County,Mississippi,20,43.3,37.8,,,46159
+Harrison County,Mississippi,72,34.2,19.7,0.681,0.341,210612
+Hinds County,Mississippi,56,26.1,17.3,0.589,0.55,214870
+Jackson County,Mississippi,79,54,21.6,0.696,0.452,146389
+Jones County,Mississippi,10,15.1,,,,66250
+Lee County,Mississippi,17,20.5,17.6,0.706,,82799
+Lowndes County,Mississippi,14,24.4,,,,57283
+Madison County,Mississippi,12,10.7,,,,112511
+Pearl River County,Mississippi,37,63.8,23.4,0.865,,57978
+Rankin County,Mississippi,21,13.1,16.1,0.714,,160417
 Warren County,Mississippi,10,23.6,,,,42298
-Boone County,Missouri,52,27.4,20.5,0.75,0.432,189463
-Buchanan County,Missouri,35,42.2,17.2,0.571,,82956
-Butler County,Missouri,11,26.2,,,,41948
-Camden County,Missouri,13,29.5,,,,44044
+Yazoo County,Mississippi,10,38.8,,,,25796
+Boone County,Missouri,52,27.4,19.9,0.692,0.472,189463
+Buchanan County,Missouri,31,37.4,17.2,0.645,,82956
+Butler County,Missouri,14,33.4,,,,41948
+Camden County,Missouri,12,27.2,,,,44044
 Cass County,Missouri,17,15.2,,,,111732
-Christian County,Missouri,13,13.8,,,,94422
-Clay County,Missouri,64,24.6,17.6,0.531,,259772
-Cole County,Missouri,13,16.8,,0.923,,77278
-Crawford County,Missouri,13,57.2,41.8,,,22719
-Franklin County,Missouri,36,33.8,42.3,0.75,0.568,106404
-Greene County,Missouri,119,39.1,36.2,0.689,0.425,304611
-Howell County,Missouri,13,31.9,,,,40735
-Jackson County,Missouri,315,43.8,22,0.584,0.161,718560
-Jasper County,Missouri,10,8,,,,125056
-Jefferson County,Missouri,57,24.7,34.7,0.737,0.744,231230
-Laclede County,Missouri,17,46.3,28,0.588,,36680
-Lincoln County,Missouri,22,34,35.6,0.591,0.476,64699
-Newton County,Missouri,22,36.3,18.9,,,60677
-Phelps County,Missouri,26,57.4,49.4,0.846,0.545,45284
-Platte County,Missouri,22,19.7,10.5,0.591,,111940
-Pulaski County,Missouri,18,33.4,43.7,0.556,0.652,53812
+Christian County,Missouri,11,11.6,,,,94422
+Clay County,Missouri,63,24.3,18.8,0.556,,259772
+Cole County,Missouri,14,18.1,,0.929,,77278
+Crawford County,Missouri,14,61.6,,,,22719
+Franklin County,Missouri,34,32,43.3,0.735,0.6,106404
+Greene County,Missouri,119,39.1,35.8,0.672,0.438,304611
+Howell County,Missouri,12,29.5,,,,40735
+Jackson County,Missouri,302,42,21.5,0.589,0.172,718560
+Jasper County,Missouri,11,8.8,,,,125056
+Jefferson County,Missouri,59,25.5,36.9,0.729,0.759,231230
+Laclede County,Missouri,18,49.1,30.8,0.556,,36680
+Lawrence County,Missouri,10,25.7,,,,38872
+Lincoln County,Missouri,21,32.5,35.6,0.619,0.476,64699
+Newton County,Missouri,19,31.3,18.9,,,60677
+Phelps County,Missouri,26,57.4,47.1,0.846,0.476,45284
+Platte County,Missouri,22,19.7,9.6,0.591,,111940
+Pulaski County,Missouri,19,35.3,45.6,0.526,0.625,53812
 Randolph County,Missouri,10,41.5,,,,24109
-St. Charles County,Missouri,96,23,25.6,0.771,0.738,416659
-St. Francois County,Missouri,32,47.7,29.8,0.5,,67058
-St. Louis County,Missouri,293,29.7,32.9,0.792,0.755,987059
-Taney County,Missouri,28,49.3,19.7,,,56775
-Texas County,Missouri,18,70.3,,0.556,,25619
+St. Charles County,Missouri,90,21.6,26.6,0.767,0.71,416659
+St. Francois County,Missouri,32,47.7,31.2,0.531,,67058
+St. Louis County,Missouri,297,30.1,31.8,0.785,0.763,987059
+Taney County,Missouri,29,51.1,,0.345,,56775
+Texas County,Missouri,19,74.2,,0.526,,25619
 Warren County,Missouri,10,26.5,,,,37806
-Washington County,Missouri,11,46.7,,,,23534
-St. Louis city,Missouri,419,148.7,109.8,0.924,0.858,281754
-Flathead County,Montana,18,15.8,9.6,0.667,,113679
-Gallatin County,Montana,15,11.9,9.6,,,126409
-Lewis and Clark County,Montana,11,14.7,,,,75011
-Missoula County,Montana,25,20.5,14.2,0.56,,121849
-Silver Bow County,Montana,11,30.3,,,,36360
-Yellowstone County,Montana,38,22.2,21.1,0.474,,170843
-Douglas County,Nebraska,72,12.2,10.9,0.389,0.226,589540
-Lancaster County,Nebraska,28,8.6,9.4,0.5,,326716
-Sarpy County,Nebraska,12,6,7.5,,,199886
-Clark County,Nevada,948,40.6,21.4,0.541,0.167,2336570
-Douglas County,Nevada,10,20.2,,,,49545
-Lyon County,Nevada,14,22.4,27.8,,,62583
-Nye County,Nevada,24,43.1,21.5,,,55720
-Washoe County,Nevada,302,60.6,31.4,0.596,0.189,498022
-Carson City,Nevada,31,53.4,25,0.452,,58036
-Belknap County,New Hampshire,25,38.4,26.1,0.96,1,65027
-Carroll County,New Hampshire,10,19.1,22.5,,,52448
-Cheshire County,New Hampshire,29,37.3,22.3,0.793,0.765,77703
-Coos County,New Hampshire,10,31.9,,,,31372
-Grafton County,New Hampshire,26,27.9,28.9,0.846,0.769,93146
-Hillsborough County,New Hampshire,162,37.9,34.8,0.926,0.862,427354
-Merrimack County,New Hampshire,42,26.7,27.7,0.81,0.881,157103
-Rockingham County,New Hampshire,75,23.4,22.6,0.787,0.843,320689
-Strafford County,New Hampshire,36,27,42.1,0.833,0.855,133243
-Sullivan County,New Hampshire,13,29.6,,0.923,,43969
-Atlantic County,New Jersey,186,67.6,61.1,0.86,0.752,275213
-Bergen County,New Jersey,104,10.9,14.1,0.76,0.817,957736
-Burlington County,New Jersey,104,22.2,33.7,0.817,0.847,469167
-Camden County,New Jersey,346,65.6,68.3,0.789,0.821,527196
-Cape May County,New Jersey,26,27.5,52.2,0.808,0.75,94610
-Cumberland County,New Jersey,75,49.2,54.8,0.813,0.756,152326
-Essex County,New Jersey,442,51.9,48.3,0.871,0.79,851117
-Gloucester County,New Jersey,81,26.3,47.7,0.815,0.813,308423
-Hudson County,New Jersey,183,25.9,23.2,0.809,0.705,705472
-Hunterdon County,New Jersey,11,8.4,9.6,,,130183
-Mercer County,New Jersey,127,33.3,30.5,0.85,0.821,381671
-Middlesex County,New Jersey,191,22.1,24,0.78,0.828,863623
-Monmouth County,New Jersey,154,24,27,0.727,0.772,642799
-Morris County,New Jersey,73,14.2,17.9,0.671,0.852,514423
-Ocean County,New Jersey,166,25.2,30.8,0.753,0.775,659197
-Passaic County,New Jersey,144,28,28.3,0.847,0.796,513395
-Salem County,New Jersey,26,39.8,59.3,0.885,0.892,65338
-Somerset County,New Jersey,23,6.6,12.8,0.783,0.81,348842
-Sussex County,New Jersey,24,16.4,27,0.833,0.816,146132
-Union County,New Jersey,138,24.1,23.2,0.913,0.814,572726
-Warren County,New Jersey,30,27,16.1,0.767,0.882,111252
-Bernalillo County,New Mexico,451,67.2,39.8,0.663,0.293,671586
+St. Louis city,Missouri,409,145.2,110.1,0.917,0.873,281754
+Cascade County,Montana,10,11.8,19.7,,,84900
+Flathead County,Montana,20,17.6,12.5,0.7,,113679
+Gallatin County,Montana,16,12.7,10.5,,,126409
+Lewis and Clark County,Montana,10,13.3,,,,75011
+Missoula County,Montana,22,18.1,12.5,0.545,,121849
+Silver Bow County,Montana,10,27.5,,,,36360
+Yellowstone County,Montana,37,21.7,19.8,0.432,,170843
+Douglas County,Nebraska,67,11.4,10.3,0.373,0.254,589540
+Lancaster County,Nebraska,28,8.6,9.1,0.5,,326716
+Sarpy County,Nebraska,13,6.5,7.5,,,199886
+Clark County,Nevada,984,42.1,21.1,0.549,0.18,2336570
+Elko County,Nevada,10,18.4,,,,54293
+Lyon County,Nevada,16,25.6,22.6,0.625,,62583
+Nye County,Nevada,27,48.5,21.5,,,55720
+Washoe County,Nevada,299,60,32,0.609,0.192,498022
+Carson City,Nevada,29,50,21.5,0.483,,58036
+Belknap County,New Hampshire,24,36.9,27.7,0.917,1,65027
+Cheshire County,New Hampshire,28,36,19.7,0.786,0.733,77703
+Grafton County,New Hampshire,26,27.9,30,0.846,0.778,93146
+Hillsborough County,New Hampshire,160,37.4,36,0.912,0.853,427354
+Merrimack County,New Hampshire,43,27.4,28.4,0.791,0.884,157103
+Rockingham County,New Hampshire,73,22.8,21.6,0.767,0.851,320689
+Strafford County,New Hampshire,42,31.5,39.8,0.833,0.865,133243
+Sullivan County,New Hampshire,15,34.1,,0.867,,43969
+Atlantic County,New Jersey,187,67.9,60.3,0.84,0.742,275213
+Bergen County,New Jersey,101,10.5,14.6,0.752,0.824,957736
+Burlington County,New Jersey,104,22.2,33.9,0.788,0.841,469167
+Camden County,New Jersey,340,64.5,70.5,0.797,0.815,527196
+Cape May County,New Jersey,25,26.4,53.2,0.76,0.735,94610
+Cumberland County,New Jersey,73,47.9,56.2,0.822,0.738,152326
+Essex County,New Jersey,442,51.9,48.4,0.873,0.806,851117
+Gloucester County,New Jersey,85,27.6,49,0.812,0.811,308423
+Hudson County,New Jersey,171,24.2,23.5,0.813,0.722,705472
+Hunterdon County,New Jersey,10,7.7,9.6,,,130183
+Mercer County,New Jersey,121,31.7,29.9,0.86,0.827,381671
+Middlesex County,New Jersey,185,21.4,24.7,0.773,0.833,863623
+Monmouth County,New Jersey,155,24.1,26.5,0.729,0.799,642799
+Morris County,New Jersey,78,15.2,18.7,0.692,0.837,514423
+Ocean County,New Jersey,172,26.1,32.4,0.762,0.761,659197
+Passaic County,New Jersey,134,26.1,30.9,0.851,0.8,513395
+Salem County,New Jersey,29,44.4,60.9,0.897,0.868,65338
+Somerset County,New Jersey,23,6.6,13.1,0.696,0.814,348842
+Sussex County,New Jersey,25,17.1,31.3,0.84,0.841,146132
+Union County,New Jersey,139,24.3,24.1,0.906,0.806,572726
+Warren County,New Jersey,31,27.9,17.1,0.742,0.889,111252
+Bernalillo County,New Mexico,454,67.6,42.8,0.663,0.282,671586
 Chaves County,New Mexico,17,26.7,24.8,,,63561
-Curry County,New Mexico,15,31.8,,0.733,,47222
-Dona Ana County,New Mexico,73,32.4,17.9,0.767,,225210
-Eddy County,New Mexico,20,33.2,30.8,0.7,,60275
-Lea County,New Mexico,17,23.6,28.1,0.588,,72101
-McKinley County,New Mexico,24,34.9,,0.75,,68797
-Otero County,New Mexico,29,42.1,19.3,0.586,,68835
-Rio Arriba County,New Mexico,56,140.4,74.5,0.786,,39876
-Sandoval County,New Mexico,30,19.2,11.6,0.7,,155936
-San Juan County,New Mexico,42,34.8,25,0.452,,120675
-San Miguel County,New Mexico,22,82.5,,0.727,,26668
-Santa Fe County,New Mexico,84,53.9,35.9,0.702,0.37,155956
-Taos County,New Mexico,19,55.2,,0.789,,34405
-Valencia County,New Mexico,20,25.3,27.4,0.65,,79141
-Albany County,New York,114,36,25.2,0.781,0.636,316659
-Allegany County,New York,11,23.6,,1,,46651
-Bronx County,New York,892,65.8,29.7,0.84,0.672,1356480
-Broome County,New York,96,49,26.2,0.688,0.54,196077
-Cattaraugus County,New York,33,43.7,17.1,0.848,,75600
+Curry County,New Mexico,15,31.8,20.4,0.667,,47222
+Dona Ana County,New Mexico,68,30.2,17.9,0.75,,225210
+Eddy County,New Mexico,18,29.9,27.4,0.722,,60275
+Lea County,New Mexico,19,26.4,28.1,0.526,,72101
+McKinley County,New Mexico,24,34.9,,0.792,,68797
+Otero County,New Mexico,26,37.8,17.8,0.538,,68835
+Rio Arriba County,New Mexico,57,142.9,79.6,0.772,,39876
+Sandoval County,New Mexico,28,18,10.9,0.714,,155936
+San Juan County,New Mexico,39,32.3,23.4,0.41,,120675
+San Miguel County,New Mexico,22,82.5,36.7,0.818,,26668
+Santa Fe County,New Mexico,74,47.4,34.6,0.73,0.346,155956
+Socorro County,New Mexico,10,62.6,,1,,15963
+Taos County,New Mexico,18,52.3,,0.778,,34405
+Valencia County,New Mexico,18,22.7,27.4,0.611,,79141
+Albany County,New York,115,36.3,25.5,0.783,0.615,316659
+Bronx County,New York,879,64.8,29.9,0.835,0.689,1356480
+Broome County,New York,97,49.5,26.2,0.711,0.54,196077
+Cattaraugus County,New York,31,41,18.4,0.871,,75600
 Cayuga County,New York,13,17.5,,,,74485
-Chautauqua County,New York,62,49.6,22.9,0.935,0.655,124891
-Chemung County,New York,37,45.5,40.7,0.757,0.324,81325
-Chenango County,New York,14,30.5,,,,45920
-Clinton County,New York,16,20.5,,,,78115
-Columbia County,New York,18,29.8,,0.667,,60470
-Cortland County,New York,10,21.9,,,,45752
+Chautauqua County,New York,59,47.2,20.5,0.932,0.615,124891
+Chemung County,New York,35,43,41.9,0.771,0.343,81325
+Chenango County,New York,10,21.8,,,,45920
+Clinton County,New York,17,21.8,,,,78115
+Columbia County,New York,17,28.1,,0.588,,60470
 Delaware County,New York,14,31.5,,,,44410
-Dutchess County,New York,115,38.7,23.5,0.757,0.681,297150
-Erie County,New York,419,44.3,21.3,0.809,0.602,946147
-Fulton County,New York,15,28.7,,0.8,,52234
-Genesee County,New York,18,31.3,19.2,0.611,,57529
-Greene County,New York,15,31.9,,,,47062
-Herkimer County,New York,11,18.5,,,,59484
-Jefferson County,New York,28,24.4,13.7,0.786,0.8,114787
-Kings County,New York,781,30.5,13.8,0.804,0.656,2561220
+Dutchess County,New York,112,37.7,25.2,0.741,0.703,297150
+Erie County,New York,418,44.2,22.3,0.794,0.605,946147
+Fulton County,New York,13,24.9,,,,52234
+Genesee County,New York,16,27.8,24.4,,,57529
+Greene County,New York,12,25.5,,,,47062
+Jefferson County,New York,30,26.1,15.5,0.767,0.824,114787
+Kings County,New York,787,30.7,14.3,0.804,0.658,2561220
 Madison County,New York,16,23.9,,0.688,,66921
-Monroe County,New York,491,65.6,33,0.833,0.714,748482
+Monroe County,New York,470,62.8,33.8,0.834,0.717,748482
 Montgomery County,New York,13,26.3,,0.846,,49368
-Nassau County,New York,199,14.4,13.9,0.759,0.596,1381720
-New York County,New York,679,42.5,23.3,0.764,0.666,1597450
-Niagara County,New York,83,39.6,19.1,0.831,0.725,209457
-Oneida County,New York,73,32.1,24.5,0.726,0.714,227555
-Onondaga County,New York,204,43.6,31.7,0.716,0.685,467873
-Ontario County,New York,26,23.1,12.8,0.731,,112494
-Orange County,New York,114,28,24.7,0.798,0.737,407470
-Oswego County,New York,18,15.2,20.5,0.944,0.792,118162
-Otsego County,New York,23,38.3,,0.913,,60126
+Nassau County,New York,185,13.4,14.4,0.741,0.585,1381720
+New York County,New York,668,41.8,23.6,0.754,0.667,1597450
+Niagara County,New York,87,41.5,19.1,0.828,0.7,209457
+Oneida County,New York,76,33.4,25.4,0.724,0.707,227555
+Onondaga County,New York,197,42.1,33,0.711,0.717,467873
+Ontario County,New York,24,21.3,14.6,0.792,,112494
+Orange County,New York,109,26.8,25.2,0.78,0.753,407470
+Oswego County,New York,20,16.9,22.2,0.95,0.769,118162
+Otsego County,New York,22,36.6,,0.909,,60126
 Putnam County,New York,12,12.2,14.2,,0.786,98060
-Queens County,New York,489,21.7,11.4,0.712,0.568,2252200
-Rensselaer County,New York,76,47.7,11.3,0.829,0.556,159305
-Richmond County,New York,152,31,21.2,0.763,0.644,490687
-Rockland County,New York,40,11.7,16,0.65,0.596,340807
-St. Lawrence County,New York,17,15.9,,0.824,,106940
-Saratoga County,New York,30,12.6,,0.633,,238711
-Schenectady County,New York,52,32.5,21.2,0.865,0.758,159902
-Steuben County,New York,22,23.9,11.5,0.818,,92162
-Suffolk County,New York,464,30.5,20.6,0.746,0.658,1523170
-Sullivan County,New York,35,43.8,41.1,0.914,0.742,79920
-Tompkins County,New York,28,27,17.6,0.893,,103558
-Ulster County,New York,57,31.3,20.8,0.807,0.757,182333
-Warren County,New York,14,21.4,,0.714,,65380
-Wayne County,New York,16,17.6,,0.688,,90829
-Westchester County,New York,155,15.6,11.3,0.781,0.633,990817
-Alamance County,North Carolina,37,20.7,18.3,0.757,0.548,179165
-Alexander County,North Carolina,11,30.2,,,,36473
-Beaufort County,North Carolina,20,45,,0.9,,44481
-Bladen County,North Carolina,10,33.9,,,,29484
-Brunswick County,North Carolina,40,25,16.8,0.875,0.583,159964
-Buncombe County,North Carolina,163,59.1,45.2,0.804,0.771,275901
-Burke County,North Carolina,45,50.9,29.8,0.778,0.444,88338
-Cabarrus County,North Carolina,39,16.2,20.3,0.718,0.636,240016
-Caldwell County,North Carolina,37,45.9,17,0.703,,80574
-Carteret County,North Carolina,21,30.2,23,0.667,0.688,69615
-Catawba County,North Carolina,70,42.5,20.1,0.771,0.406,164645
-Chatham County,North Carolina,15,18.4,,0.8,,81624
-Cherokee County,North Carolina,21,70.1,35,0.619,,29959
-Cleveland County,North Carolina,34,33.5,15.3,0.824,,101378
-Columbus County,North Carolina,18,35.9,18,0.667,,50121
-Craven County,North Carolina,55,53.7,49,0.855,0.56,102391
-Cumberland County,North Carolina,127,37.6,28.3,0.74,0.663,337890
-Davidson County,North Carolina,80,45.8,28,0.812,0.723,174804
-Davie County,North Carolina,13,29.1,,0.923,,44599
+Queens County,New York,475,21.1,11.7,0.72,0.574,2252200
+Rensselaer County,New York,72,45.2,10.1,0.833,0.625,159305
+Richmond County,New York,148,30.2,22.1,0.757,0.638,490687
+Rockland County,New York,40,11.7,15.7,0.6,0.588,340807
+St. Lawrence County,New York,20,18.7,,0.85,,106940
+Saratoga County,New York,26,10.9,5.2,0.654,,238711
+Schenectady County,New York,52,32.5,22.5,0.846,0.771,159902
+Steuben County,New York,21,22.8,11.5,0.857,,92162
+Suffolk County,New York,453,29.7,20.8,0.737,0.664,1523170
+Sullivan County,New York,34,42.5,45.1,0.941,0.765,79920
+Tompkins County,New York,27,26.1,16.6,0.889,,103558
+Ulster County,New York,53,29.1,23.7,0.811,0.69,182333
+Warren County,New York,16,24.5,,0.688,,65380
+Wayne County,New York,17,18.7,11.1,0.647,,90829
+Westchester County,New York,151,15.2,11.2,0.788,0.639,990817
+Alamance County,North Carolina,36,20.1,20.6,0.75,0.543,179165
+Alexander County,North Carolina,10,27.4,,,,36473
+Beaufort County,North Carolina,18,40.5,,0.889,,44481
+Brunswick County,North Carolina,41,25.6,15.4,0.878,0.636,159964
+Buncombe County,North Carolina,159,57.6,45.9,0.805,0.775,275901
+Burke County,North Carolina,40,45.3,28.7,0.75,0.462,88338
+Cabarrus County,North Carolina,37,15.4,20.3,0.703,0.591,240016
+Caldwell County,North Carolina,36,44.7,18.3,0.75,,80574
+Carteret County,North Carolina,16,23,30.2,0.625,0.762,69615
+Catawba County,North Carolina,73,44.3,21.3,0.781,0.471,164645
+Chatham County,North Carolina,15,18.4,,0.733,,81624
+Cherokee County,North Carolina,18,60.1,38.4,0.667,,29959
+Cleveland County,North Carolina,30,29.6,15.3,0.8,,101378
+Columbus County,North Carolina,18,35.9,21.6,0.667,,50121
+Craven County,North Carolina,51,49.8,50.9,0.863,0.615,102391
+Cumberland County,North Carolina,111,32.9,29.5,0.748,0.677,337890
+Davidson County,North Carolina,77,44,26.8,0.831,0.733,174804
+Davie County,North Carolina,10,22.4,,,,44599
 Duplin County,North Carolina,10,20.2,,,,49520
-Durham County,North Carolina,124,36.8,16.2,0.718,0.577,336892
-Edgecombe County,North Carolina,23,47.1,33,0.957,0.647,48832
-Forsyth County,North Carolina,183,46.6,33.5,0.803,0.539,392921
-Franklin County,North Carolina,16,20.8,20.1,0.688,0.786,77001
-Gaston County,North Carolina,97,40.9,13.4,0.856,0.5,237242
-Granville County,North Carolina,11,17.7,,,,62192
-Guilford County,North Carolina,192,34.9,26.6,0.755,0.685,549866
-Halifax County,North Carolina,15,31.7,36,0.8,0.833,47298
-Harnett County,North Carolina,49,34.6,30.9,0.796,0.667,141477
-Haywood County,North Carolina,15,23.8,32.1,,,62969
-Henderson County,North Carolina,30,25.2,14.5,0.733,0.588,119230
-Iredell County,North Carolina,44,22,13.2,0.727,0.458,199710
-Johnston County,North Carolina,38,15.7,15.3,0.684,0.469,241955
-Lee County,North Carolina,19,28.3,34,0.947,0.714,67059
-Lenoir County,North Carolina,17,31,21.4,0.882,,54895
-Lincoln County,North Carolina,24,25.1,11.6,0.875,,95675
-McDowell County,North Carolina,18,40.1,21.9,0.889,,44893
-Macon County,North Carolina,11,28.6,,,,38412
-Mecklenburg County,North Carolina,403,34.6,19.2,0.782,0.596,1163700
-Montgomery County,North Carolina,11,42.2,,0.909,,26085
-Moore County,North Carolina,34,31.8,18.8,0.647,0.842,106898
-Nash County,North Carolina,32,33.1,17,0.844,0.625,96551
-New Hanover County,North Carolina,88,36.8,32.8,0.727,0.714,238852
-Onslow County,North Carolina,41,19.2,15.7,0.829,0.613,213676
-Orange County,North Carolina,29,19.3,14.8,0.621,,150626
-Pasquotank County,North Carolina,17,41,32.6,0.941,,41444
+Durham County,North Carolina,116,34.4,15.9,0.681,0.569,336892
+Edgecombe County,North Carolina,25,51.2,33,0.96,0.647,48832
+Forsyth County,North Carolina,167,42.5,35.3,0.79,0.563,392921
+Franklin County,North Carolina,14,18.2,21.5,0.714,0.8,77001
+Gaston County,North Carolina,92,38.8,13.4,0.848,0.533,237242
+Guilford County,North Carolina,170,30.9,27.2,0.771,0.692,549866
+Halifax County,North Carolina,19,40.2,40,0.789,0.85,47298
+Harnett County,North Carolina,45,31.8,26.5,0.778,0.694,141477
+Haywood County,North Carolina,12,19.1,24.1,,,62969
+Henderson County,North Carolina,28,23.5,15.3,0.75,0.667,119230
+Iredell County,North Carolina,43,21.5,13.8,0.721,0.44,199710
+Johnston County,North Carolina,34,14.1,14.8,0.706,0.516,241955
+Lee County,North Carolina,19,28.3,35.6,1,0.682,67059
+Lenoir County,North Carolina,18,32.8,19.7,0.833,,54895
+Lincoln County,North Carolina,25,26.1,11.6,0.8,,95675
+McDowell County,North Carolina,16,35.6,,0.875,,44893
+Mecklenburg County,North Carolina,413,35.5,19.5,0.775,0.588,1163700
+Moore County,North Carolina,31,29,19.8,0.677,0.8,106898
+Nash County,North Carolina,31,32.1,15.9,0.871,0.667,96551
+New Hanover County,North Carolina,82,34.3,30.7,0.707,0.681,238852
+Onslow County,North Carolina,37,17.3,14.7,0.811,0.586,213676
+Orange County,North Carolina,27,17.9,14.8,0.593,,150626
+Pasquotank County,North Carolina,16,38.6,35.2,0.938,0.786,41444
 Person County,North Carolina,13,32.7,,,,39737
-Pitt County,North Carolina,96,54.8,37.1,0.781,0.522,175119
-Randolph County,North Carolina,60,40.7,24.4,0.867,0.743,147458
-Richmond County,North Carolina,25,59.1,,0.8,,42324
-Robeson County,North Carolina,64,54.5,37.5,0.812,0.612,117365
-Rockingham County,North Carolina,41,44.3,26.4,0.732,0.5,92518
-Rowan County,North Carolina,72,47.5,27.4,0.917,0.59,151661
-Rutherford County,North Carolina,37,56.5,,0.838,,65507
-Sampson County,North Carolina,18,30.2,,,,59601
-Scotland County,North Carolina,16,46.5,,0.75,,34376
-Stanly County,North Carolina,15,22.8,27.1,0.733,0.765,65699
-Stokes County,North Carolina,13,28.6,,0.769,,45532
-Surry County,North Carolina,31,43.4,22.3,0.774,,71462
-Union County,North Carolina,47,18.3,8.3,0.872,0.65,256452
-Vance County,North Carolina,23,54.4,29.2,0.826,0.923,42301
-Wake County,North Carolina,209,17.6,12.3,0.722,0.591,1190280
-Watauga County,North Carolina,10,18.3,,,,54748
-Wayne County,North Carolina,28,23.6,30,0.893,0.757,118686
-Wilkes County,North Carolina,21,31.8,21.9,0.762,,66013
-Wilson County,North Carolina,48,60.8,22,0.792,0.778,78970
-Yadkin County,North Carolina,15,39.7,,0.867,,37774
-Burleigh County,North Dakota,20,20,,0.75,,100012
-Cass County,North Dakota,41,20.9,14.8,0.805,,196362
-Ward County,North Dakota,15,22,26.6,,,68332
-Williams County,North Dakota,10,25.6,,,,39113
-Adams County,Ohio,13,47.2,36.1,,,27521
-Allen County,Ohio,31,30.7,18.6,0.71,0.579,100838
-Ashtabula County,Ohio,41,42.3,30.9,0.61,0.733,96845
-Athens County,Ohio,19,30.3,,0.842,,62706
-Belmont County,Ohio,31,47.8,25.4,0.613,0.588,64918
-Brown County,Ohio,20,45.7,,0.7,,43777
-Butler County,Ohio,137,34.9,43.6,0.788,0.719,393043
+Pitt County,North Carolina,89,50.8,41.5,0.764,0.573,175119
+Randolph County,North Carolina,50,33.9,28.5,0.88,0.854,147458
+Richmond County,North Carolina,17,40.2,,0.824,,42324
+Robeson County,North Carolina,58,49.4,36.7,0.793,0.583,117365
+Rockingham County,North Carolina,37,40,29.7,0.73,0.519,92518
+Rowan County,North Carolina,64,42.2,25.3,0.906,0.611,151661
+Rutherford County,North Carolina,35,53.4,,0.857,,65507
+Sampson County,North Carolina,17,28.5,,,,59601
+Scotland County,North Carolina,18,52.4,,0.722,,34376
+Stanly County,North Carolina,13,19.8,30.3,,0.789,65699
+Stokes County,North Carolina,11,24.2,,,,45532
+Surry County,North Carolina,26,36.4,25.1,0.731,0.667,71462
+Union County,North Carolina,44,17.2,7.9,0.886,0.632,256452
+Vance County,North Carolina,21,49.6,26.9,0.857,0.833,42301
+Wake County,North Carolina,191,16,12.1,0.712,0.575,1190280
+Wayne County,North Carolina,27,22.7,30,0.889,0.757,118686
+Wilkes County,North Carolina,21,31.8,20.5,0.81,,66013
+Wilson County,North Carolina,44,55.7,23.2,0.818,0.789,78970
+Yadkin County,North Carolina,13,34.4,,0.846,,37774
+Burleigh County,North Dakota,19,19,10.5,0.789,,100012
+Cass County,North Dakota,37,18.8,17,0.811,,196362
+Grand Forks County,North Dakota,10,13.8,,,,72708
+Ward County,North Dakota,17,24.9,26.6,,,68332
+Adams County,Ohio,11,40,,,,27521
+Allen County,Ohio,34,33.7,20.5,0.735,0.619,100838
+Ashtabula County,Ohio,39,40.3,33.9,0.564,0.758,96845
+Athens County,Ohio,20,31.9,,0.75,,62706
+Belmont County,Ohio,30,46.2,23.9,0.667,0.625,64918
+Brown County,Ohio,19,43.4,27.6,0.737,0.917,43777
+Butler County,Ohio,138,35.1,44.6,0.775,0.737,393043
 Champaign County,Ohio,11,28.3,,,,38845
-Clark County,Ohio,54,40.1,39.5,0.852,0.792,134610
-Clermont County,Ohio,47,22.2,27.6,0.787,0.614,211972
-Clinton County,Ohio,18,42.9,40.5,0.778,0.588,41938
-Columbiana County,Ohio,39,38.9,36.3,,,100182
-Crawford County,Ohio,12,28.9,,0.833,,41529
-Cuyahoga County,Ohio,609,49.4,44.5,0.767,0.789,1233090
-Delaware County,Ohio,15,6.5,10,0.667,0.714,231636
-Erie County,Ohio,16,21.6,17.5,0.75,,74035
-Fairfield County,Ohio,34,20.6,15.2,0.441,0.5,165360
-Franklin County,Ohio,834,62.9,49,0.784,0.792,1326060
-Geauga County,Ohio,11,11.5,18.2,0.909,0.647,95407
-Greene County,Ohio,36,21.2,23.7,0.694,0.75,169691
+Clark County,Ohio,48,35.7,37.3,0.854,0.76,134610
+Clermont County,Ohio,42,19.8,24.2,0.786,0.6,211972
+Clinton County,Ohio,20,47.7,38.1,0.7,,41938
+Columbiana County,Ohio,43,42.9,32.4,,,100182
+Coshocton County,Ohio,10,27.1,,,,36869
+Crawford County,Ohio,11,26.5,,,,41529
+Cuyahoga County,Ohio,601,48.7,42.6,0.757,0.776,1233090
+Delaware County,Ohio,18,7.8,9.6,0.722,0.7,231636
+Erie County,Ohio,18,24.3,17.5,0.722,,74035
+Fairfield County,Ohio,33,20,17.1,0.424,0.556,165360
+Franklin County,Ohio,800,60.3,51.2,0.782,0.782,1326060
+Gallia County,Ohio,10,34.5,76.9,1,0.826,28986
+Geauga County,Ohio,11,11.5,16,0.909,,95407
+Greene County,Ohio,37,21.8,22.5,0.676,0.763,169691
 Guernsey County,Ohio,13,34.1,25.7,,,38089
-Hamilton County,Ohio,391,47.3,56,0.785,0.799,827058
-Hancock County,Ohio,14,18.7,26.4,0.857,0.5,74704
-Highland County,Ohio,10,22.9,39.4,,0.765,43614
-Hocking County,Ohio,15,54.5,,0.933,,27540
-Huron County,Ohio,10,17.2,36,,0.905,58199
-Jackson County,Ohio,17,52.1,,,,32606
+Hamilton County,Ohio,376,45.5,54.9,0.782,0.797,827058
+Hancock County,Ohio,13,17.4,30.3,0.846,0.565,74704
+Highland County,Ohio,10,22.9,37.1,,0.812,43614
+Hocking County,Ohio,12,43.6,,0.917,,27540
+Jackson County,Ohio,17,52.1,40.1,,,32606
 Jefferson County,Ohio,21,32.8,35.2,,0.522,64026
-Knox County,Ohio,15,23.7,,,,63320
-Lake County,Ohio,53,22.9,29.1,0.736,0.806,231640
-Lawrence County,Ohio,29,51.7,32,0.793,0.895,56118
-Licking County,Ohio,35,19.1,19.2,0.286,,183201
-Lorain County,Ohio,127,39.9,32,0.803,0.657,317910
-Lucas County,Ohio,282,66.3,60,0.84,0.739,425484
-Mahoning County,Ohio,159,70.5,49,0.805,0.768,225596
-Marion County,Ohio,50,77.1,44.6,0.82,0.655,64851
-Medina County,Ohio,19,10.3,9.5,0.684,0.588,184042
+Knox County,Ohio,14,22.1,,,,63320
+Lake County,Ohio,47,20.3,29.1,0.787,0.821,231640
+Lawrence County,Ohio,27,48.1,32,0.778,0.895,56118
+Licking County,Ohio,37,20.2,19.8,,,183201
+Lorain County,Ohio,128,40.3,31,0.781,0.646,317910
+Lucas County,Ohio,266,62.5,61.4,0.823,0.764,425484
+Mahoning County,Ohio,163,72.3,45.9,0.81,0.762,225596
+Marion County,Ohio,45,69.4,46.1,0.822,0.667,64851
+Medina County,Ohio,15,8.2,11.1,,0.65,184042
 Meigs County,Ohio,14,64.3,,0.786,,21767
-Miami County,Ohio,15,13.5,13.1,0.733,0.857,110876
-Montgomery County,Ohio,316,59.2,59.8,0.766,0.774,533796
-Muskingum County,Ohio,27,31.3,42.9,0.63,0.432,86305
-Perry County,Ohio,16,45,,0.812,,35551
-Pickaway County,Ohio,17,27.8,18.8,0.765,,61086
-Pike County,Ohio,16,59.3,36,,,27001
-Portage County,Ohio,31,19.1,19.1,0.645,0.71,162665
-Preble County,Ohio,13,32.1,,0.769,,40556
-Richland County,Ohio,39,31.2,46.2,0.897,0.804,125064
-Ross County,Ohio,51,66.7,48.3,0.843,0.784,76501
-Sandusky County,Ohio,16,27.3,23.9,0.75,0.714,58709
-Scioto County,Ohio,83,115.3,110.2,0.892,0.892,71969
-Seneca County,Ohio,11,20.2,,,,54527
-Shelby County,Ohio,16,33.5,22.6,0.875,,47765
-Stark County,Ohio,172,46.1,28.6,0.587,0.604,372716
-Summit County,Ohio,233,43.5,39.9,0.833,0.718,535733
-Trumbull County,Ohio,118,58.9,47.5,0.847,0.851,200373
-Tuscarawas County,Ohio,20,21.8,16.3,0.7,0.667,91874
-Warren County,Ohio,36,14.3,20.9,0.722,0.816,252148
-Washington County,Ohio,16,27.3,18.4,0.938,,58577
-Wayne County,Ohio,20,17.2,15.6,0.75,0.667,116510
-Wood County,Ohio,14,10.6,18.3,0.714,0.708,132650
-Canadian County,Oklahoma,22,12.5,6.7,0.773,,175829
-Carter County,Oklahoma,16,32.9,20.8,,,48596
-Cherokee County,Oklahoma,11,22.8,,,,48185
-Cleveland County,Oklahoma,58,19.3,12.7,0.586,0.278,301193
-Comanche County,Oklahoma,34,28,11.6,0.412,,121574
-Creek County,Oklahoma,19,25.9,22.4,,,73332
-Grady County,Oklahoma,10,17.4,,,,57375
-Muskogee County,Oklahoma,26,39,,0.615,,66677
-Oklahoma County,Oklahoma,377,46.6,20.8,0.703,0.108,808866
-Okmulgee County,Oklahoma,14,37.8,,,,37035
+Miami County,Ohio,15,13.5,15.9,0.667,0.824,110876
+Montgomery County,Ohio,296,55.5,60.8,0.77,0.771,533796
+Muskingum County,Ohio,30,34.8,40.6,0.667,0.457,86305
+Perry County,Ohio,18,50.6,,0.778,,35551
+Pickaway County,Ohio,17,27.8,17.1,0.765,,61086
+Pike County,Ohio,17,63,36,,,27001
+Portage County,Ohio,34,20.9,21.5,0.559,0.629,162665
+Preble County,Ohio,14,34.5,,0.786,,40556
+Richland County,Ohio,42,33.6,45.4,0.905,0.855,125064
+Ross County,Ohio,50,65.4,48.3,0.86,0.757,76501
+Sandusky County,Ohio,17,29,23.9,0.765,0.714,58709
+Scioto County,Ohio,82,113.9,114.2,0.89,0.907,71969
+Seneca County,Ohio,10,18.3,,,,54527
+Shelby County,Ohio,17,35.6,28.8,0.824,0.857,47765
+Stark County,Ohio,167,44.8,27.5,0.569,0.569,372716
+Summit County,Ohio,220,41.1,40.7,0.827,0.732,535733
+Trumbull County,Ohio,110,54.9,42.9,0.836,0.871,200373
+Tuscarawas County,Ohio,22,23.9,16.3,0.636,0.667,91874
+Warren County,Ohio,34,13.5,22.2,0.647,0.827,252148
+Washington County,Ohio,13,22.2,18.4,0.846,,58577
+Wayne County,Ohio,20,17.2,16.4,0.8,0.684,116510
+Wood County,Ohio,15,11.3,19.9,0.733,0.731,132650
+Canadian County,Oklahoma,25,14.2,,0.76,,175829
+Carter County,Oklahoma,15,30.9,20.8,,,48596
+Cleveland County,Oklahoma,55,18.3,12.7,0.618,0.278,301193
+Comanche County,Oklahoma,32,26.3,14.9,0.5,,121574
+Creek County,Oklahoma,17,23.2,18.2,,,73332
+Grady County,Oklahoma,12,20.9,,,,57375
+Kay County,Oklahoma,10,22.9,,,,43641
+Muskogee County,Oklahoma,27,40.5,,0.593,,66677
+Oklahoma County,Oklahoma,370,45.7,21.4,0.695,0.099,808866
+Okmulgee County,Oklahoma,13,35.1,,,,37035
 Payne County,Oklahoma,13,15.6,,,,83352
-Pittsburg County,Oklahoma,26,59.8,,0.731,,43479
-Pontotoc County,Oklahoma,11,28.6,26.1,,,38396
-Pottawatomie County,Oklahoma,19,25.7,15.2,0.526,,73791
-Rogers County,Oklahoma,13,13,,,,100248
-Stephens County,Oklahoma,18,40.9,,,,44014
-Tulsa County,Oklahoma,344,50.4,20.1,0.625,0.107,682868
-Wagoner County,Oklahoma,14,15.7,,,,89280
-Washington County,Oklahoma,14,26.1,,,,53706
-Benton County,Oregon,11,11.3,,,,97713
-Clackamas County,Oregon,100,23.6,7.4,0.64,,423173
-Clatsop County,Oregon,17,41.4,,0.588,,41102
+Pittsburg County,Oklahoma,24,55.2,22.9,0.75,,43479
+Pontotoc County,Oklahoma,10,26,26.1,,,38396
+Pottawatomie County,Oklahoma,17,23,15.2,,,73791
+Rogers County,Oklahoma,15,15,,,,100248
+Stephens County,Oklahoma,16,36.4,,,,44014
+Tulsa County,Oklahoma,341,49.9,19.3,0.625,0.095,682868
+Wagoner County,Oklahoma,13,14.6,,,,89280
+Washington County,Oklahoma,13,24.2,,,,53706
+Clackamas County,Oregon,99,23.4,7.2,0.657,,423173
+Clatsop County,Oregon,19,46.2,,0.632,,41102
 Coos County,Oregon,27,42,21.7,0.63,,64212
-Curry County,Oregon,13,55.8,,0.923,,23296
-Deschutes County,Oregon,32,15.3,7.6,0.531,,208513
-Douglas County,Oregon,44,39.1,17.1,0.682,,112435
-Jackson County,Oregon,118,53.4,13.1,0.788,,220768
-Josephine County,Oregon,49,55.8,26.3,0.837,,87821
-Klamath County,Oregon,18,25.7,19.1,,,70003
-Lane County,Oregon,223,58.5,19.6,0.668,,381181
-Lincoln County,Oregon,20,39.4,24,0.75,,50821
-Linn County,Oregon,41,31.2,12.3,0.634,,131496
-Marion County,Oregon,136,39.2,10.4,0.691,,346741
-Multnomah County,Oregon,741,93.8,27.2,0.791,0.118,789698
-Polk County,Oregon,18,20,,0.556,,89805
-Umatilla County,Oregon,15,18.7,,,,80053
-Wasco County,Oregon,10,38,,,,26333
-Washington County,Oregon,104,17.4,7.8,0.663,,598865
-Yamhill County,Oregon,21,19.3,,0.667,,108644
-Allegheny County,Pennsylvania,691,56.4,47.9,0.806,0.763,1224820
+Curry County,Oregon,10,42.9,,,,23296
+Deschutes County,Oregon,33,15.8,7.6,0.545,,208513
+Douglas County,Oregon,43,38.2,18,0.698,,112435
+Jackson County,Oregon,118,53.4,14,0.78,,220768
+Josephine County,Oregon,44,50.1,24,0.795,,87821
+Klamath County,Oregon,19,27.1,17.6,0.526,,70003
+Lane County,Oregon,224,58.8,20.4,0.652,0.128,381181
+Lincoln County,Oregon,19,37.4,20,0.789,,50821
+Linn County,Oregon,43,32.7,14.6,0.674,,131496
+Malheur County,Oregon,10,31.2,,1,,32044
+Marion County,Oregon,138,39.8,11.5,0.703,,346741
+Multnomah County,Oregon,753,95.4,27.3,0.786,0.126,789698
+Polk County,Oregon,19,21.2,,0.579,,89805
+Umatilla County,Oregon,16,20,,,,80053
+Washington County,Oregon,103,17.2,8.3,0.641,0.2,598865
+Yamhill County,Oregon,21,19.3,,0.619,,108644
+Allegheny County,Pennsylvania,680,55.5,48.7,0.803,0.777,1224820
 Armstrong County,Pennsylvania,18,28.1,30.9,,,64074
-Beaver County,Pennsylvania,63,38,36.6,0.714,0.533,165631
-Bedford County,Pennsylvania,11,23.2,,,,47350
-Berks County,Pennsylvania,113,26.1,28.3,0.717,0.723,432821
-Blair County,Pennsylvania,48,39.9,25.4,0.812,0.323,120273
-Bradford County,Pennsylvania,20,33.5,28.2,0.55,,59695
-Bucks County,Pennsylvania,131,20.3,30.6,0.718,0.339,645984
-Butler County,Pennsylvania,43,21.7,34.6,0.791,0.754,198413
-Cambria County,Pennsylvania,67,51.3,43,0.627,0.821,130668
-Carbon County,Pennsylvania,27,41.2,34.3,0.444,,65458
-Centre County,Pennsylvania,11,7,,,,157795
-Chester County,Pennsylvania,83,15.1,21.1,0.675,0.757,549784
-Clarion County,Pennsylvania,11,29.8,,,,36970
-Clearfield County,Pennsylvania,27,35,15.1,0.778,,77090
-Columbia County,Pennsylvania,18,27.5,21.6,0.778,,65439
-Crawford County,Pennsylvania,23,28,23.6,0.652,0.65,82001
-Cumberland County,Pennsylvania,40,14.8,18.2,0.7,0.696,270738
-Dauphin County,Pennsylvania,117,40.5,37.7,0.248,0.495,289234
-Delaware County,Pennsylvania,172,29.8,33.7,0.698,0.644,576720
-Elk County,Pennsylvania,14,46.4,,,,30198
-Erie County,Pennsylvania,116,43.4,28.9,0.819,0.628,267571
-Fayette County,Pennsylvania,78,62.9,28.6,0.769,,123915
-Franklin County,Pennsylvania,28,17.7,12.9,0.679,0.6,157854
-Greene County,Pennsylvania,10,29.1,35.9,,0.846,34357
-Indiana County,Pennsylvania,24,28.9,39.3,0.833,0.667,83094
-Jefferson County,Pennsylvania,10,22.9,23,,,43612
-Lackawanna County,Pennsylvania,72,33.3,31,0.806,0.692,216123
-Lancaster County,Pennsylvania,91,16.3,20,0.67,0.55,558589
-Lawrence County,Pennsylvania,61,72.2,35.1,0.803,0.867,84472
-Lebanon County,Pennsylvania,33,22.9,14.1,0.697,,144252
-Lehigh County,Pennsylvania,150,39.7,32,0.753,0.271,377754
-Luzerne County,Pennsylvania,140,42.8,44.1,0.236,0.329,327388
-Lycoming County,Pennsylvania,25,22.2,32.7,,0.27,112724
-Mercer County,Pennsylvania,40,36.9,36.6,0.775,0.675,108503
-Monroe County,Pennsylvania,55,33.1,18.8,0.364,0.406,166053
-Montgomery County,Pennsylvania,172,19.8,25.4,0.686,0.735,868742
-Montour County,Pennsylvania,19,106.4,120.7,,,17860
-Northampton County,Pennsylvania,66,20.7,21,0.652,0.703,319091
-Northumberland County,Pennsylvania,27,30,39.6,0.889,0.278,90120
-Philadelphia County,Pennsylvania,1276,82.3,72.3,0.785,0.737,1550540
-Pike County,Pennsylvania,16,26.1,21.5,0.75,,61247
-Schuylkill County,Pennsylvania,58,40.3,34.7,0.69,0.735,143786
-Somerset County,Pennsylvania,20,27.7,17.7,0.75,,72197
-Susquehanna County,Pennsylvania,14,36.7,,0.929,,38109
-Venango County,Pennsylvania,20,40.5,,0.7,,49431
-Warren County,Pennsylvania,10,26.6,,,,37572
-Washington County,Pennsylvania,52,24.7,37.2,0.865,0.857,210232
-Wayne County,Pennsylvania,16,31.2,38.9,,0.8,51262
-Westmoreland County,Pennsylvania,93,26.5,34.4,,,351163
-York County,Pennsylvania,136,29.3,23.8,0.794,0.243,464640
-Kent County,Rhode Island,58,33.9,27.4,0.741,0.6,171278
-Newport County,Rhode Island,17,20.3,13.4,0.765,,83832
-Providence County,Rhode Island,308,46.6,36.8,0.76,0.672,660615
-Washington County,Rhode Island,25,19.2,18.3,0.76,0.826,129982
-Aiken County,South Carolina,100,56.5,17,0.79,0.552,177130
-Anderson County,South Carolina,64,30,17.8,0.578,0.333,213076
-Beaufort County,South Carolina,33,16.6,13.5,0.818,0.385,198979
-Berkeley County,South Carolina,63,24.7,15.8,0.698,0.556,255217
-Charleston County,South Carolina,254,59.9,29.4,0.748,0.603,424367
-Cherokee County,South Carolina,19,33.5,,0.842,,56714
-Chester County,South Carolina,16,49.6,,0.875,,32226
-Chesterfield County,South Carolina,22,50,,0.727,,44031
-Colleton County,South Carolina,24,61.7,,0.583,,38874
-Darlington County,South Carolina,20,32,,0.85,,62416
-Dillon County,South Carolina,19,68.6,,0.895,,27698
-Dorchester County,South Carolina,45,26.5,12.3,0.778,,169833
+Beaver County,Pennsylvania,64,38.6,36.6,0.734,0.517,165631
+Berks County,Pennsylvania,112,25.9,29,0.714,0.721,432821
+Blair County,Pennsylvania,46,38.2,27.9,0.761,0.324,120273
+Bradford County,Pennsylvania,19,31.8,34.8,0.526,,59695
+Bucks County,Pennsylvania,127,19.7,30.1,0.724,0.344,645984
+Butler County,Pennsylvania,38,19.2,36.2,0.789,0.765,198413
+Cambria County,Pennsylvania,62,47.4,45.3,0.613,0.831,130668
+Carbon County,Pennsylvania,27,41.2,37.4,0.444,,65458
+Centre County,Pennsylvania,13,8.2,,,,157795
+Chester County,Pennsylvania,82,14.9,21.9,0.659,0.765,549784
+Clarion County,Pennsylvania,10,27,,,,36970
+Clearfield County,Pennsylvania,22,28.5,16.4,0.727,,77090
+Columbia County,Pennsylvania,17,26,20,0.765,,65439
+Crawford County,Pennsylvania,25,30.5,24.8,0.56,0.667,82001
+Cumberland County,Pennsylvania,42,15.5,16.6,0.69,0.69,270738
+Dauphin County,Pennsylvania,117,40.5,39.2,0.248,0.477,289234
+Delaware County,Pennsylvania,165,28.6,34.1,0.715,0.674,576720
+Elk County,Pennsylvania,10,33.1,,,,30198
+Erie County,Pennsylvania,112,41.9,28.5,0.83,0.649,267571
+Fayette County,Pennsylvania,72,58.1,29.4,0.764,,123915
+Franklin County,Pennsylvania,25,15.8,12.9,0.64,0.6,157854
+Indiana County,Pennsylvania,24,28.9,39.3,0.833,0.697,83094
+Jefferson County,Pennsylvania,12,27.5,27.6,,,43612
+Lackawanna County,Pennsylvania,72,33.3,31,0.75,0.662,216123
+Lancaster County,Pennsylvania,89,15.9,21.3,0.618,0.621,558589
+Lawrence County,Pennsylvania,60,71,35.1,0.783,0.9,84472
+Lebanon County,Pennsylvania,32,22.2,15.5,0.656,,144252
+Lehigh County,Pennsylvania,152,40.2,32.2,0.737,0.345,377754
+Luzerne County,Pennsylvania,134,40.9,42.5,0.254,0.311,327388
+Lycoming County,Pennsylvania,21,18.6,34.4,,0.282,112724
+Mercer County,Pennsylvania,43,39.6,35.6,0.721,0.641,108503
+Mifflin County,Pennsylvania,10,21.8,,,,45922
+Monroe County,Pennsylvania,52,31.3,20,0.327,0.412,166053
+Montgomery County,Pennsylvania,172,19.8,25.2,0.686,0.746,868742
+Montour County,Pennsylvania,17,95.2,98.7,,,17860
+Northampton County,Pennsylvania,60,18.8,22.3,0.6,0.691,319091
+Northumberland County,Pennsylvania,25,27.7,36.3,0.92,,90120
+Philadelphia County,Pennsylvania,1251,80.7,71.6,0.771,0.746,1550540
+Pike County,Pennsylvania,12,19.6,19.7,,,61247
+Schuylkill County,Pennsylvania,53,36.9,36.1,0.66,0.745,143786
+Somerset County,Pennsylvania,20,27.7,16.3,0.65,,72197
+Susquehanna County,Pennsylvania,13,34.1,,0.923,,38109
+Venango County,Pennsylvania,21,42.5,,0.667,,49431
+Washington County,Pennsylvania,51,24.3,41.1,0.843,0.859,210232
+Wayne County,Pennsylvania,16,31.2,42.8,,0.773,51262
+Westmoreland County,Pennsylvania,90,25.6,33.2,,,351163
+York County,Pennsylvania,132,28.4,23.8,0.773,0.29,464640
+Kent County,Rhode Island,60,35,29.8,0.717,0.592,171278
+Newport County,Rhode Island,17,20.3,12.2,0.706,,83832
+Providence County,Rhode Island,298,45.1,36.2,0.758,0.693,660615
+Washington County,Rhode Island,25,19.2,20.7,0.68,0.808,129982
+Aiken County,South Carolina,98,55.3,21.7,0.806,0.514,177130
+Anderson County,South Carolina,63,29.6,16.3,0.571,0.303,213076
+Beaufort County,South Carolina,29,14.6,13,0.828,,198979
+Berkeley County,South Carolina,66,25.9,13.2,0.682,0.5,255217
+Charleston County,South Carolina,251,59.1,31.6,0.745,0.608,424367
+Cherokee County,South Carolina,18,31.7,,0.833,,56714
+Chester County,South Carolina,17,52.8,,0.882,,32226
+Chesterfield County,South Carolina,23,52.2,,0.696,,44031
+Colleton County,South Carolina,22,56.6,,0.636,,38874
+Darlington County,South Carolina,20,32,,0.8,,62416
+Dillon County,South Carolina,22,79.4,,0.909,,27698
+Dorchester County,South Carolina,44,25.9,12.3,0.795,,169833
 Edgefield County,South Carolina,10,36.2,,,,27607
-Florence County,South Carolina,71,51.7,20.2,0.704,0.607,137214
-Georgetown County,South Carolina,38,57.8,23.9,0.816,,65731
-Greenville County,South Carolina,214,38.3,26.7,0.692,0.521,558036
-Greenwood County,South Carolina,22,31.7,16.9,0.909,,69460
-Horry County,South Carolina,234,58.9,43.2,0.726,0.588,397478
-Jasper County,South Carolina,34,101.4,,0.824,,33544
-Kershaw County,South Carolina,20,28.6,16.5,0.75,,69905
-Lancaster County,South Carolina,55,50.8,35.7,0.745,0.743,108215
-Laurens County,South Carolina,27,39.2,16.3,0.593,,68873
-Lexington County,South Carolina,107,34.6,21.8,0.673,0.477,309528
-Marlboro County,South Carolina,11,42.8,,,,25704
-Newberry County,South Carolina,14,36.1,,,,38825
-Oconee County,South Carolina,26,32,32.7,0.538,,81221
-Orangeburg County,South Carolina,35,42.3,24.4,0.429,,82820
-Pickens County,South Carolina,40,29.5,28.4,0.5,,135495
-Richland County,South Carolina,109,25.6,16.6,0.661,0.449,425138
-Spartanburg County,South Carolina,171,47.9,23.5,0.749,0.413,356698
-Sumter County,South Carolina,38,36.5,25.3,0.763,0.37,104165
-Union County,South Carolina,11,41.3,,,,26629
-Williamsburg County,South Carolina,19,63.6,,0.579,,29891
-York County,South Carolina,110,36.9,20.3,0.855,0.579,298320
-Minnehaha County,South Dakota,26,12.6,20.2,0.423,0.385,206930
-Pennington County,South Dakota,20,17.3,12.3,,,115903
-Anderson County,Tennessee,62,77.3,42.9,0.79,0.455,80234
-Bedford County,Tennessee,19,35.8,26.2,0.737,,53055
-Blount County,Tennessee,63,44.5,32.3,0.81,0.372,141456
-Bradley County,Tennessee,41,36.7,13.9,0.683,,111579
-Campbell County,Tennessee,22,54.7,,0.545,,40223
-Carter County,Tennessee,28,49.1,24.8,0.5,,57022
-Cheatham County,Tennessee,15,35.5,41.8,0.933,0.765,42254
-Claiborne County,Tennessee,21,64.3,,,,32654
-Cocke County,Tennessee,36,96.2,,0.778,,37404
-Coffee County,Tennessee,23,37.9,23,0.609,,60633
-Cumberland County,Tennessee,44,67.9,,0.75,,64760
-Davidson County,Tennessee,697,97.8,64.8,0.815,0.651,712334
-DeKalb County,Tennessee,12,56.5,,1,,21225
-Dickson County,Tennessee,26,45.8,50,0.808,0.852,56729
-Franklin County,Tennessee,10,22.4,,,,44654
-Giles County,Tennessee,11,35.8,,,,30721
-Greene County,Tennessee,39,53.7,23.2,0.718,,72577
-Hamblen County,Tennessee,42,63.4,26.2,0.738,,66216
-Hamilton County,Tennessee,193,50.8,32.6,0.762,0.45,379864
-Hardeman County,Tennessee,30,117.3,,1,,25567
+Fairfield County,South Carolina,10,49,,,,20422
+Florence County,South Carolina,71,51.7,20.2,0.732,0.607,137214
+Georgetown County,South Carolina,33,50.2,25.5,0.818,,65731
+Greenville County,South Carolina,210,37.6,27.7,0.686,0.545,558036
+Greenwood County,South Carolina,24,34.6,21.2,0.917,,69460
+Horry County,South Carolina,237,59.6,42.1,0.726,0.611,397478
+Jasper County,South Carolina,32,95.4,,0.812,,33544
+Kershaw County,South Carolina,19,27.2,19.5,0.737,,69905
+Lancaster County,South Carolina,55,50.8,35.7,0.782,0.714,108215
+Laurens County,South Carolina,26,37.8,20.7,0.615,0.714,68873
+Lexington County,South Carolina,103,33.3,21.1,0.67,0.476,309528
+Marlboro County,South Carolina,10,38.9,,,,25704
+Newberry County,South Carolina,15,38.6,,0.667,,38825
+Oconee County,South Carolina,25,30.8,28.9,0.44,,81221
+Orangeburg County,South Carolina,33,39.8,24.4,0.485,,82820
+Pickens County,South Carolina,38,28,26.8,0.474,0.353,135495
+Richland County,South Carolina,110,25.9,16.8,0.673,0.471,425138
+Spartanburg County,South Carolina,157,44,23.5,0.739,0.44,356698
+Sumter County,South Carolina,37,35.5,26.2,0.757,0.357,104165
+Union County,South Carolina,14,52.6,,0.786,,26629
+Williamsburg County,South Carolina,20,66.9,,0.55,,29891
+York County,South Carolina,107,35.9,21.7,0.86,0.508,298320
+Minnehaha County,South Dakota,28,13.5,20.7,0.357,0.4,206930
+Pennington County,South Dakota,18,15.5,11.4,,,115903
+Anderson County,Tennessee,57,71,49.4,0.772,0.474,80234
+Bedford County,Tennessee,19,35.8,24.1,0.737,,53055
+Blount County,Tennessee,58,41,30.8,0.776,0.366,141456
+Bradley County,Tennessee,41,36.7,14.8,0.732,,111579
+Campbell County,Tennessee,24,59.7,,0.542,,40223
+Carter County,Tennessee,30,52.6,26.6,0.533,,57022
+Cheatham County,Tennessee,15,35.5,41.8,0.867,0.824,42254
+Claiborne County,Tennessee,19,58.2,,,,32654
+Cocke County,Tennessee,32,85.6,,0.75,,37404
+Coffee County,Tennessee,24,39.6,24.8,0.583,,60633
+Cumberland County,Tennessee,41,63.3,,0.756,,64760
+Davidson County,Tennessee,663,93.1,66,0.808,0.672,712334
+DeKalb County,Tennessee,14,66,,0.929,,21225
+Dickson County,Tennessee,26,45.8,50,0.769,0.815,56729
+Franklin County,Tennessee,11,24.6,23.7,,,44654
+Giles County,Tennessee,10,32.6,,,,30721
+Greene County,Tennessee,40,55.1,20.3,0.75,,72577
+Hamblen County,Tennessee,47,71,27.7,0.745,,66216
+Hamilton County,Tennessee,195,51.3,32.6,0.738,0.475,379864
+Hardeman County,Tennessee,32,125.2,,0.969,,25567
 Hawkins County,Tennessee,10,17.1,,,,58600
-Henry County,Tennessee,10,30.7,37.1,,,32554
-Hickman County,Tennessee,13,50.3,,0.769,,25826
-Jefferson County,Tennessee,27,46.7,18.4,0.63,,57838
-Knox County,Tennessee,504,100.7,60.4,0.778,0.623,500669
-Lake County,Tennessee,12,189.1,,,,6347
-Lawrence County,Tennessee,13,28.2,27.2,0.769,,46114
-Loudon County,Tennessee,32,52.8,18.5,0.812,,60591
+Henry County,Tennessee,10,30.7,43.3,,,32554
+Hickman County,Tennessee,10,38.7,,,,25826
+Jefferson County,Tennessee,27,46.7,20.2,0.593,,57838
+Knox County,Tennessee,502,100.3,59.5,0.765,0.625,500669
+Lake County,Tennessee,11,173.3,,,,6347
+Lauderdale County,Tennessee,10,40.6,,,,24610
+Loudon County,Tennessee,28,46.2,,0.821,,60591
 McMinn County,Tennessee,17,30.5,,,,55678
-Madison County,Tennessee,49,49.4,18.4,0.653,,99193
-Marion County,Tennessee,10,34,,,,29382
-Marshall County,Tennessee,10,27.1,,,,36961
-Maury County,Tennessee,38,34.3,33.2,0.684,0.688,110760
-Monroe County,Tennessee,24,49.4,34.4,0.875,,48594
-Montgomery County,Tennessee,70,29.2,33,0.843,0.681,239872
-Morgan County,Tennessee,17,78.8,,0.882,,21573
-Putnam County,Tennessee,25,29.8,21.2,0.88,,83844
-Roane County,Tennessee,67,119.4,28.1,0.866,,56096
-Robertson County,Tennessee,32,41.7,29.2,0.844,0.81,76776
-Rutherford County,Tennessee,109,29.7,26.2,0.807,0.747,367101
-Sevier County,Tennessee,54,54.3,30.5,0.778,0.6,99415
-Shelby County,Tennessee,532,58.5,31.2,0.848,0.613,910042
-Sullivan County,Tennessee,110,67.8,16.4,0.664,0.423,162135
-Sumner County,Tennessee,50,24,16.7,0.72,0.688,207994
-Tipton County,Tennessee,12,19.4,29.2,0.833,,62015
-Trousdale County,Tennessee,12,97.8,,0.917,,12271
-Union County,Tennessee,10,48.2,,,,20741
-Washington County,Tennessee,74,53.5,24.7,0.622,,138420
+Madison County,Tennessee,43,43.3,18.4,0.605,,99193
+Marion County,Tennessee,11,37.4,,,,29382
+Maury County,Tennessee,37,33.4,32.2,0.676,0.677,110760
+Monroe County,Tennessee,24,49.4,36.5,0.917,,48594
+Montgomery County,Tennessee,69,28.8,34,0.87,0.676,239872
+Morgan County,Tennessee,19,88.1,,0.895,,21573
+Putnam County,Tennessee,25,29.8,22.4,0.84,,83844
+Rhea County,Tennessee,11,32.4,,,,33924
+Roane County,Tennessee,65,115.9,31.8,0.877,,56096
+Robertson County,Tennessee,33,43,33.4,0.848,0.833,76776
+Rutherford County,Tennessee,122,33.2,24.4,0.795,0.765,367101
+Sevier County,Tennessee,50,50.3,30.5,0.8,0.567,99415
+Shelby County,Tennessee,553,60.8,31.4,0.837,0.636,910042
+Sullivan County,Tennessee,107,66,16.4,0.636,0.385,162135
+Sumner County,Tennessee,52,25,19.3,0.731,0.73,207994
+Tipton County,Tennessee,11,17.7,29.2,0.909,,62015
+Trousdale County,Tennessee,14,114.1,,0.857,,12271
+Union County,Tennessee,11,53,,,,20741
+Warren County,Tennessee,10,23.5,,,,42638
+Washington County,Tennessee,72,52,23.2,0.611,,138420
 Wayne County,Tennessee,10,62.2,,,,16066
-White County,Tennessee,13,45.3,40.2,,,28692
-Williamson County,Tennessee,28,10.6,9.6,0.643,0.565,264460
-Wilson County,Tennessee,54,33,32.5,0.796,0.638,163674
-Angelina County,Texas,16,18.3,,,,87319
+White County,Tennessee,15,52.3,36.6,,,28692
+Williamson County,Tennessee,28,10.6,9.2,0.714,0.591,264460
+Wilson County,Tennessee,53,32.4,35.9,0.792,0.615,163674
+Angelina County,Texas,17,19.5,,,,87319
 Bastrop County,Texas,19,17.2,,,,110778
-Bell County,Texas,66,16.8,7.7,0.485,,393193
-Bexar County,Texas,492,23.6,13.7,0.36,0.051,2087680
-Bowie County,Texas,21,22.9,,,,91687
-Brazoria County,Texas,81,20.3,10.2,0.432,,398938
-Brazos County,Texas,20,8.2,8.7,,,244703
-Burnet County,Texas,11,20.4,,,,53991
-Cameron County,Texas,35,8.2,5.4,0.6,,426710
-Collin County,Texas,116,9.7,7.7,0.509,0.138,1195360
+Bell County,Texas,64,16.3,8.8,0.484,,393193
+Bexar County,Texas,475,22.8,14,0.373,0.054,2087680
+Bowie County,Texas,23,25.1,,,,91687
+Brazoria County,Texas,85,21.3,11,0.424,,398938
+Brazos County,Texas,19,7.8,8.3,,,244703
+Cameron County,Texas,32,7.5,5.7,0.625,,426710
+Collin County,Texas,117,9.8,7.6,0.47,0.127,1195360
 Comal County,Texas,14,7.2,,,,193928
-Dallas County,Texas,715,27.4,14.2,0.462,0.101,2606360
-Denton County,Texas,93,9.2,6.1,0.527,,1007700
-Ector County,Texas,34,20.7,17.4,0.559,,164494
-Ellis County,Texas,23,10.3,6,,,222829
-El Paso County,Texas,188,21.6,11.7,0.58,0.214,869880
-Fort Bend County,Texas,78,8.5,5.4,0.603,0.25,916778
-Galveston County,Texas,75,20.7,16.7,0.467,,361744
-Grayson County,Texas,20,13.6,8.8,,,146907
-Gregg County,Texas,17,13.5,12.1,,,126243
-Guadalupe County,Texas,10,5.3,,,,188454
-Harris County,Texas,1100,22.8,14.3,0.52,0.168,4835120
-Hays County,Texas,36,12.8,5.6,0.611,,280486
-Henderson County,Texas,12,13.9,14.5,,,86158
-Hidalgo County,Texas,51,5.7,4.3,0.412,,898471
+Dallas County,Texas,730,28,14.2,0.463,0.104,2606360
+Denton County,Texas,94,9.3,6.5,0.532,,1007700
+Ector County,Texas,38,23.1,18,0.632,,164494
+Ellis County,Texas,21,9.4,7,,,222829
+El Paso County,Texas,184,21.2,12.5,0.576,0.238,869880
+Fort Bend County,Texas,75,8.2,5.8,0.6,0.319,916778
+Galveston County,Texas,80,22.1,17.2,0.475,,361744
+Grayson County,Texas,21,14.3,8.8,,,146907
+Gregg County,Texas,15,11.9,11.3,,,126243
+Guadalupe County,Texas,13,6.9,,,,188454
+Harris County,Texas,1092,22.6,14.2,0.518,0.184,4835120
+Hays County,Texas,38,13.5,5.2,0.605,,280486
+Henderson County,Texas,14,16.2,12.1,,,86158
+Hidalgo County,Texas,51,5.7,4,0.373,,898471
 Hood County,Texas,12,17.7,,,,67774
 Hunt County,Texas,21,18.5,,,,113347
-Jefferson County,Texas,70,27.8,11.1,0.486,,251496
-Johnson County,Texas,30,14.8,6.8,0.433,,202906
-Kaufman County,Texas,10,5.4,11,,,185690
-Liberty County,Texas,21,19.4,12.5,,,108272
-Lubbock County,Texas,51,15.9,15.5,0.333,,320940
-McLennan County,Texas,36,13.4,13.2,,,268583
-Midland County,Texas,25,14.1,,0.4,,177108
-Montgomery County,Texas,123,17.3,13.5,0.528,0.232,711354
-Nacogdoches County,Texas,10,15.3,,,,65375
-Nueces County,Texas,66,18.7,13,0.152,,352289
-Orange County,Texas,21,24.5,13.2,0.476,,85722
-Parker County,Texas,26,15,7,0.385,,173494
-Potter County,Texas,30,26.2,23.8,0.433,,114647
-Randall County,Texas,14,9.4,10.2,0.714,,148255
-Rockwall County,Texas,11,8.4,,,,131307
-Rusk County,Texas,12,22.6,,,,53079
-San Jacinto County,Texas,12,41.5,,,,28936
-Smith County,Texas,27,11,9.9,,,245209
-Tarrant County,Texas,519,23.8,8.7,0.385,0.087,2182950
+Jefferson County,Texas,68,27,11.5,0.485,,251496
+Johnson County,Texas,30,14.8,7.4,0.433,,202906
+Kaufman County,Texas,11,5.9,10.3,,,185690
+Liberty County,Texas,20,18.5,,,,108272
+Lubbock County,Texas,46,14.3,14.8,0.348,,320940
+McLennan County,Texas,40,14.9,14,,,268583
+Midland County,Texas,25,14.1,7.4,,,177108
+Montgomery County,Texas,120,16.9,14,0.55,0.235,711354
+Nueces County,Texas,67,19,13.5,0.164,,352289
+Orange County,Texas,20,23.3,16.8,0.5,,85722
+Parker County,Texas,28,16.1,,0.393,,173494
+Potter County,Texas,31,27,25.6,0.419,,114647
+Randall County,Texas,12,8.1,8,,,148255
+Rockwall County,Texas,10,7.6,,,,131307
+Rusk County,Texas,10,18.8,,,,53079
+San Jacinto County,Texas,11,38,,,,28936
+Smith County,Texas,28,11.4,11.6,,,245209
+Tarrant County,Texas,536,24.6,9.2,0.384,0.093,2182950
 Taylor County,Texas,34,23.2,9.4,0.294,,146836
-Tom Green County,Texas,18,15.1,8.4,,,119057
-Travis County,Texas,422,31.6,13.4,0.609,0.164,1334960
+Tom Green County,Texas,20,16.8,10.1,,,119057
+Travis County,Texas,412,30.9,14.1,0.587,0.15,1334960
 Victoria County,Texas,12,13.1,,,,91664
-Walker County,Texas,14,17.2,,,,81268
-Webb County,Texas,79,29.4,9.8,0.658,,269148
-Wichita County,Texas,26,20,11.3,0.385,,130180
-Williamson County,Texas,81,11.6,5.9,0.42,,697191
-Wise County,Texas,14,17.9,,,,78097
-Box Elder County,Utah,16,25.5,,,,62684
-Davis County,Utah,46,12.3,11.5,0.457,,373207
-Iron County,Utah,12,18.7,,,,64211
-Salt Lake County,Utah,321,27.1,22.8,0.502,0.162,1185810
-Tooele County,Utah,15,18.3,19.4,,,82051
-Utah County,Utah,86,12,13.2,0.477,0.19,719174
-Washington County,Utah,37,18.3,15.2,0.486,,202452
-Weber County,Utah,82,30.2,25.7,0.427,0.164,271926
-Bennington County,Vermont,18,48.4,33.8,0.889,1,37183
-Caledonia County,Vermont,12,39.2,,,,30610
-Chittenden County,Vermont,61,36,14.7,0.836,0.708,169481
-Franklin County,Vermont,11,21.6,,,,50994
-Orange County,Vermont,13,43.4,,0.923,,29943
-Rutland County,Vermont,38,63,27.5,0.842,0.625,60271
+Walker County,Texas,18,22.1,,,,81268
+Webb County,Texas,79,29.4,10.5,0.696,,269148
+Wichita County,Texas,24,18.4,11.3,,,130180
+Williamson County,Texas,80,11.5,6.1,0.388,,697191
+Wise County,Texas,11,14.1,,,,78097
+Box Elder County,Utah,19,30.3,,0.526,,62684
+Davis County,Utah,46,12.3,11.8,0.5,,373207
+Iron County,Utah,10,15.6,,,,64211
+Salt Lake County,Utah,311,26.2,22.8,0.502,0.167,1185810
+Tooele County,Utah,14,17.1,22.1,,,82051
+Utah County,Utah,86,12,13,0.453,0.217,719174
+Washington County,Utah,42,20.7,13,0.5,,202452
+Weber County,Utah,73,26.8,25.4,0.411,,271926
+Bennington County,Vermont,17,45.7,33.8,0.882,1,37183
+Caledonia County,Vermont,12,39.2,,0.833,,30610
+Chittenden County,Vermont,60,35.4,14,0.85,0.696,169481
+Franklin County,Vermont,12,23.5,,,,50994
+Orange County,Vermont,14,46.8,,0.929,,29943
+Rutland County,Vermont,35,58.1,25.8,0.829,0.667,60271
 Washington County,Vermont,15,24.9,,0.933,,60142
-Windham County,Vermont,31,67.4,45,0.968,0.737,45966
-Windsor County,Vermont,23,39.6,,0.87,,58101
-Accomack County,Virginia,14,42.1,,0.857,,33239
-Albemarle County,Virginia,21,18.2,,0.667,,115676
-Arlington County,Virginia,39,16.7,8.9,0.846,0.524,234162
-Bedford County,Virginia,18,22.1,,0.778,,81525
-Caroline County,Virginia,10,30.6,,1,,32640
-Chesterfield County,Virginia,77,20.1,17,0.844,0.783,383876
-Culpeper County,Virginia,11,20,,,,54973
-Fairfax County,Virginia,136,11.9,8.9,0.772,0.676,1141880
-Fauquier County,Virginia,10,13.3,19.7,1,,75165
-Franklin County,Virginia,14,25.2,,,,55549
-Gloucester County,Virginia,15,37.4,,0.733,,40057
-Halifax County,Virginia,15,44.9,,,,33432
-Hanover County,Virginia,33,28.9,21.3,0.758,0.739,114148
-Henrico County,Virginia,119,35.5,21.2,0.824,0.586,334760
-Henry County,Virginia,29,58.3,25.7,0.724,0.769,49702
-Lee County,Virginia,11,50.6,,,,21745
-Loudoun County,Virginia,31,7.1,6,0.645,0.6,436347
-Louisa County,Virginia,12,29.2,,,,41037
-Mecklenburg County,Virginia,13,42.4,,0.769,,30648
-Montgomery County,Virginia,14,14.2,10.1,,,98666
+Windham County,Vermont,28,60.9,45,0.964,0.737,45966
+Windsor County,Vermont,22,37.9,20,0.864,,58101
+Accomack County,Virginia,13,39.1,,0.846,,33239
+Albemarle County,Virginia,20,17.3,,0.65,,115676
+Arlington County,Virginia,34,14.5,8.9,0.882,0.571,234162
+Augusta County,Virginia,10,12.8,15.9,,,78247
+Bedford County,Virginia,14,17.2,,0.714,,81525
+Chesterfield County,Virginia,72,18.8,17.9,0.806,0.81,383876
+Culpeper County,Virginia,12,21.8,19,0.833,,54973
+Fairfax County,Virginia,127,11.1,9.2,0.756,0.695,1141880
+Fauquier County,Virginia,10,13.3,21.1,1,,75165
+Franklin County,Virginia,12,21.6,,,,55549
+Gloucester County,Virginia,16,39.9,,0.75,,40057
+Halifax County,Virginia,14,41.9,,,,33432
+Hanover County,Virginia,34,29.8,26.9,0.735,0.759,114148
+Henrico County,Virginia,116,34.7,21.8,0.836,0.583,334760
+Henry County,Virginia,28,56.3,21.8,0.714,,49702
+Lee County,Virginia,10,46,,,,21745
+Loudoun County,Virginia,28,6.4,6.3,0.643,0.615,436347
+Louisa County,Virginia,10,24.4,,,,41037
+Mecklenburg County,Virginia,12,39.2,,,,30648
+Montgomery County,Virginia,15,15.2,10.1,,,98666
 Orange County,Virginia,11,28.5,,,,38574
-Pittsylvania County,Virginia,15,25.2,,0.667,,59571
-Prince George County,Virginia,11,25.7,,,,42871
-Prince William County,Virginia,64,13.1,12.8,0.812,0.683,489640
-Pulaski County,Virginia,15,44.6,38.2,0.733,,33655
-Roanoke County,Virginia,23,23.7,,0.739,,97026
-Spotsylvania County,Virginia,33,22.1,27.9,0.727,0.789,149588
-Stafford County,Virginia,27,16.3,17,0.704,0.808,165428
-Tazewell County,Virginia,28,71.6,34.5,0.857,,39120
-Washington County,Virginia,10,18.5,,,,54050
-Wise County,Virginia,16,45.5,,0.812,,35174
-Alexandria city,Virginia,25,16.1,15.1,0.84,0.583,155230
-Charlottesville city,Virginia,18,40,36,0.611,,44983
-Chesapeake city,Virginia,66,26,13.9,0.848,0.676,253886
-Danville city,Virginia,29,69.3,45,0.759,,41837
-Fredericksburg city,Virginia,18,62.2,58.5,0.611,0.706,28928
-Hampton city,Virginia,53,38.7,37.9,0.925,0.784,137098
-Harrisonburg city,Virginia,10,19.6,,,,51082
-Hopewell city,Virginia,29,127.5,57.7,0.862,,22752
-Lynchburg city,Virginia,28,35.2,25.6,0.821,0.524,79535
-Manassas city,Virginia,21,49.2,41.4,0.905,0.882,42696
+Pittsylvania County,Virginia,14,23.5,,,,59571
+Prince William County,Virginia,63,12.9,12.8,0.873,0.683,489640
+Pulaski County,Virginia,15,44.6,32.3,0.733,,33655
+Roanoke County,Virginia,21,21.6,,0.762,,97026
+Spotsylvania County,Virginia,32,21.4,28.6,0.719,0.846,149588
+Stafford County,Virginia,30,18.1,16.4,0.733,0.76,165428
+Tazewell County,Virginia,26,66.5,41.9,0.846,,39120
+Wise County,Virginia,15,42.6,,0.867,,35174
+Wythe County,Virginia,12,42.7,,,,28104
+Alexandria city,Virginia,22,14.2,15.1,0.818,0.625,155230
+Charlottesville city,Virginia,18,40,36,0.556,,44983
+Chesapeake city,Virginia,60,23.6,13.5,0.85,0.697,253886
+Danville city,Virginia,25,59.8,42.5,0.76,,41837
+Fredericksburg city,Virginia,17,58.8,48.2,0.706,0.714,28928
+Hampton city,Virginia,56,40.8,35.7,0.929,0.792,137098
+Harrisonburg city,Virginia,11,21.5,,,,51082
+Hopewell city,Virginia,24,105.5,57.7,0.875,0.769,22752
+Lynchburg city,Virginia,30,37.7,28,0.733,0.478,79535
+Manassas city,Virginia,19,44.5,38.9,0.895,0.875,42696
 Martinsville city,Virginia,13,94.5,,,,13763
-Newport News city,Virginia,64,35,21.2,0.844,0.737,183118
-Norfolk city,Virginia,139,60.2,24.7,0.791,0.7,230930
-Petersburg city,Virginia,48,144.1,73.4,0.917,0.739,33309
-Portsmouth city,Virginia,88,90.9,40.3,0.864,0.789,96793
-Richmond city,Virginia,312,136.1,64.2,0.885,0.696,229247
-Roanoke city,Virginia,109,112.2,57.5,0.752,0.561,97171
-Salem city,Virginia,19,74.2,63.2,0.684,,25600
-Suffolk city,Virginia,16,15.9,15.2,0.875,0.929,100659
-Virginia Beach city,Virginia,119,26.2,9.8,0.849,0.75,453649
-Winchester city,Virginia,17,61.6,92.6,0.647,0.538,27617
-Benton County,Washington,57,26.5,13.2,0.807,,215219
-Chelan County,Washington,25,31.3,14.2,0.8,,79997
-Clallam County,Washington,47,60.6,16.8,0.596,,77616
-Clark County,Washington,153,29.4,13.1,0.608,0.266,521150
-Cowlitz County,Washington,53,47,15.4,0.755,,112864
-Franklin County,Washington,22,22.2,,0.682,,99034
-Grant County,Washington,32,31.2,13.3,0.688,,102678
-Grays Harbor County,Washington,64,82.8,20,0.703,,77290
-Island County,Washington,17,19.7,,0.824,,86267
-King County,Washington,1299,57.2,19.1,0.817,0.267,2271380
-Kitsap County,Washington,81,29.2,13.6,0.802,,277658
-Kittitas County,Washington,15,33,,,,45508
-Lewis County,Washington,39,45.3,13.6,0.615,,86154
-Mason County,Washington,37,54.1,25.5,0.676,,68389
+Newport News city,Virginia,61,33.3,19.5,0.885,0.714,183118
+Norfolk city,Virginia,135,58.5,24.3,0.8,0.729,230930
+Petersburg city,Virginia,50,150.1,76.6,0.9,0.75,33309
+Portsmouth city,Virginia,85,87.8,41.3,0.871,0.795,96793
+Richmond city,Virginia,307,133.9,69.9,0.883,0.714,229247
+Roanoke city,Virginia,111,114.2,66.6,0.766,0.576,97171
+Salem city,Virginia,20,78.1,71.1,0.7,,25600
+Suffolk city,Virginia,17,16.9,15.2,0.882,0.929,100659
+Virginia Beach city,Virginia,111,24.5,9.6,0.856,0.791,453649
+Winchester city,Virginia,16,57.9,81.9,0.625,0.565,27617
+Benton County,Washington,52,24.2,13.2,0.769,,215219
+Chelan County,Washington,25,31.3,16.8,0.8,,79997
+Clallam County,Washington,50,64.4,18.1,0.58,,77616
+Clark County,Washington,163,31.3,13.9,0.638,0.279,521150
+Cowlitz County,Washington,56,49.6,16.3,0.804,,112864
+Franklin County,Washington,19,19.2,,0.684,,99034
+Grant County,Washington,32,31.2,13.3,0.719,,102678
+Grays Harbor County,Washington,62,80.2,21.3,0.677,,77290
+Island County,Washington,17,19.7,11.7,0.882,,86267
+King County,Washington,1271,56,18.7,0.819,0.261,2271380
+Kitsap County,Washington,88,31.7,12.9,0.784,,277658
+Kittitas County,Washington,14,30.8,,,,45508
+Lewis County,Washington,36,41.8,13.6,0.583,,86154
+Mason County,Washington,36,52.6,27,0.694,,68389
 Okanogan County,Washington,13,29.7,,,,43712
-Pierce County,Washington,462,49.7,16.4,0.725,0.243,928696
-Skagit County,Washington,49,37.3,13.9,0.796,,131417
-Snohomish County,Washington,311,36.8,20.7,0.804,0.441,844761
-Spokane County,Washington,269,48.8,14,0.732,,551455
-Stevens County,Washington,14,28.7,,,,48837
-Thurston County,Washington,137,45.8,16.5,0.708,0.25,299003
+Pierce County,Washington,467,50.3,16.6,0.719,0.273,928696
+Skagit County,Washington,50,38,14.7,0.82,,131417
+Snohomish County,Washington,295,34.9,20.4,0.797,0.44,844761
+Spokane County,Washington,272,49.3,15.1,0.746,,551455
+Stevens County,Washington,13,26.6,,,,48837
+Thurston County,Washington,139,46.5,16.9,0.712,0.224,299003
 Walla Walla County,Washington,16,26,16.5,0.625,,61568
-Whatcom County,Washington,130,56.1,6.5,0.823,,231919
-Yakima County,Washington,100,39,16.7,0.79,0.548,256643
-Berkeley County,West Virginia,70,52.9,52.9,0.829,0.73,132440
-Boone County,West Virginia,23,111.8,,0.826,,20576
-Cabell County,West Virginia,164,178.1,120.7,0.811,0.847,92082
-Fayette County,West Virginia,35,89.6,59,0.914,0.6,39072
-Greenbrier County,West Virginia,30,93.3,,0.8,,32149
-Hampshire County,West Virginia,10,42.3,51.8,,0.833,23649
-Hancock County,West Virginia,14,49.7,34.7,0.857,,28145
-Harrison County,West Virginia,60,92.8,37.2,0.867,0.52,64639
+Whatcom County,Washington,137,59.1,7.4,0.825,,231919
+Yakima County,Washington,103,40.1,16.3,0.806,0.61,256643
+Berkeley County,West Virginia,64,48.3,54.5,0.812,0.754,132440
+Boone County,West Virginia,22,106.9,,0.773,,20576
+Cabell County,West Virginia,160,173.8,113.1,0.844,0.856,92082
+Fayette County,West Virginia,38,97.3,51.9,0.895,0.636,39072
+Greenbrier County,West Virginia,27,84,,0.852,,32149
+Hancock County,West Virginia,13,46.2,34.7,0.846,,28145
+Harrison County,West Virginia,56,86.6,38.7,0.857,0.462,64639
 Jackson County,West Virginia,10,36.2,,,,27593
-Jefferson County,West Virginia,22,36.8,35,0.864,0.7,59787
-Kanawha County,West Virginia,203,116.1,83.6,0.768,0.55,174805
-Lincoln County,West Virginia,18,91.4,,0.889,,19701
-Logan County,West Virginia,38,123.3,81.2,0.816,0.731,30827
-McDowell County,West Virginia,35,200.7,,0.971,,17439
-Marion County,West Virginia,25,44.8,23.2,0.84,,55807
+Jefferson County,West Virginia,22,36.8,36.7,0.864,0.714,59787
+Kanawha County,West Virginia,197,112.7,82,0.777,0.555,174805
+Lincoln County,West Virginia,20,101.5,,0.85,,19701
+Logan County,West Virginia,37,120,87.4,0.838,0.75,30827
+McDowell County,West Virginia,31,177.8,68.1,1,,17439
+Marion County,West Virginia,28,50.2,28.5,0.857,,55807
 Marshall County,West Virginia,12,40.8,,0.917,,29405
-Mason County,West Virginia,14,56.5,,0.857,,24765
-Mercer County,West Virginia,91,156.7,35.7,0.912,0.714,58057
-Mineral County,West Virginia,10,37.2,,,,26867
-Mingo County,West Virginia,18,81.7,,0.722,,22023
-Monongalia County,West Virginia,77,71.5,47.3,0.805,0.62,107718
+Mason County,West Virginia,14,56.5,,0.929,,24765
+Mercer County,West Virginia,89,153.3,35.7,0.888,0.762,58057
+Mingo County,West Virginia,19,86.3,,0.789,,22023
+Monongalia County,West Virginia,74,68.7,55.9,0.797,0.644,107718
 Nicholas County,West Virginia,14,57.9,,0.929,,24169
-Ohio County,West Virginia,32,77.7,62.8,0.969,0.654,41194
+Ohio County,West Virginia,29,70.4,70,0.966,0.621,41194
 Preston County,West Virginia,16,46.9,,0.75,,34099
 Putnam County,West Virginia,16,28.1,21.3,0.625,0.833,56962
-Raleigh County,West Virginia,113,156.2,98.1,0.903,0.708,72356
-Randolph County,West Virginia,11,40.2,,,,27350
-Wayne County,West Virginia,25,66.3,60.9,0.84,0.833,37686
-Wood County,West Virginia,49,59,45.5,0.878,0.632,83052
-Wyoming County,West Virginia,26,128.2,,0.923,,20277
-Brown County,Wisconsin,76,28,15.5,0.684,0.512,271417
-Chippewa County,Wisconsin,13,19.4,,,,66970
-Columbia County,Wisconsin,13,22.4,19.1,,,58091
-Dane County,Wisconsin,157,27.3,27.8,0.694,0.625,575347
-Dodge County,Wisconsin,18,20.4,19.4,0.944,,88231
-Eau Claire County,Wisconsin,19,17.6,14.3,0.737,,107903
-Fond du Lac County,Wisconsin,33,31.7,9.7,0.727,,103948
-Jackson County,Wisconsin,10,48,,,,20855
-Jefferson County,Wisconsin,14,16.3,16.5,,0.786,85743
-Kenosha County,Wisconsin,58,34.6,16.5,0.793,0.571,167488
-La Crosse County,Wisconsin,53,44,22.9,0.736,0.63,120486
-Manitowoc County,Wisconsin,21,25.8,16.5,0.762,,81331
-Marathon County,Wisconsin,16,11.5,14.7,0.688,,138612
-Milwaukee County,Wisconsin,666,72.7,44.4,0.791,0.602,916205
+Raleigh County,West Virginia,113,156.2,111.8,0.92,0.695,72356
+Randolph County,West Virginia,10,36.6,,,,27350
+Summers County,West Virginia,10,86.3,,,,11581
+Wayne County,West Virginia,25,66.3,63.4,0.84,0.8,37686
+Wood County,West Virginia,50,60.2,39.5,0.88,0.545,83052
+Wyoming County,West Virginia,24,118.4,,0.917,,20277
+Brown County,Wisconsin,76,28,17.8,0.671,0.532,271417
+Chippewa County,Wisconsin,14,20.9,,,,66970
+Columbia County,Wisconsin,11,18.9,20.9,,,58091
+Dane County,Wisconsin,150,26.1,26.7,0.693,0.664,575347
+Dodge County,Wisconsin,17,19.3,22.8,0.941,0.5,88231
+Eau Claire County,Wisconsin,20,18.5,15.3,0.7,,107903
+Fond du Lac County,Wisconsin,34,32.7,11.6,0.706,,103948
+Jackson County,Wisconsin,12,57.5,,0.833,,20855
+Jefferson County,Wisconsin,13,15.2,18.9,,0.75,85743
+Kenosha County,Wisconsin,55,32.8,18.9,0.764,0.594,167488
+La Crosse County,Wisconsin,49,40.7,26.3,0.735,0.677,120486
+Manitowoc County,Wisconsin,18,22.1,17.7,0.778,0.714,81331
+Marathon County,Wisconsin,16,11.5,13.3,0.688,,138612
+Milwaukee County,Wisconsin,650,70.9,45.9,0.78,0.601,916205
 Monroe County,Wisconsin,11,23.8,25.9,,,46151
-Outagamie County,Wisconsin,30,15.5,11.7,0.667,,193234
-Ozaukee County,Wisconsin,18,19.3,15.7,0.667,,93460
+Outagamie County,Wisconsin,30,15.5,11.2,0.667,,193234
+Ozaukee County,Wisconsin,19,20.3,16.8,0.684,,93460
 Portage County,Wisconsin,10,14.1,,,,71024
-Racine County,Wisconsin,68,34.6,20.4,0.809,0.6,196613
-Rock County,Wisconsin,63,38.3,28.8,0.683,0.596,164278
-Sauk County,Wisconsin,13,19.7,17.1,,,65920
-Shawano County,Wisconsin,10,24.3,,,,41109
-Sheboygan County,Wisconsin,17,14.4,19.9,0.824,0.565,117752
-Walworth County,Wisconsin,15,14.2,22.1,0.667,,105822
-Washington County,Wisconsin,27,19.5,11,0.852,,138168
-Waukesha County,Wisconsin,61,14.8,13.6,0.705,0.455,412591
-Winnebago County,Wisconsin,45,26.2,12.8,0.711,0.5,171735
-Wood County,Wisconsin,10,13.5,17.8,,,73939
-Fremont County,Wyoming,11,27.6,,,,39815
-Laramie County,Wyoming,33,32.7,11.1,0.515,,100984
-Natrona County,Wyoming,18,22.5,16.3,,,79941
-Sweetwater County,Wyoming,19,46.1,,0.579,,41249
+Racine County,Wisconsin,70,35.6,21.4,0.786,0.571,196613
+Rock County,Wisconsin,64,39,28.2,0.688,0.609,164278
+Sauk County,Wisconsin,11,16.7,18.6,,,65920
+Sheboygan County,Wisconsin,16,13.6,19.9,0.812,0.652,117752
+Walworth County,Wisconsin,13,12.3,20.2,,,105822
+Washington County,Wisconsin,23,16.6,11,0.87,,138168
+Waukesha County,Wisconsin,58,14.1,13.9,0.69,0.464,412591
+Winnebago County,Wisconsin,44,25.6,14,0.705,0.542,171735
+Wood County,Wisconsin,12,16.2,19.2,0.917,,73939
+Fremont County,Wyoming,11,27.6,25.5,,,39815
+Laramie County,Wyoming,33,32.7,13.1,0.515,,100984
+Natrona County,Wyoming,20,25,16.3,,,79941
+Sweetwater County,Wyoming,18,43.6,,0.556,,41249
 Uinta County,Wyoming,11,53,,,,20745
-United States,United States,105001,31.4,21.5,0.693,0.515,334915000
+United States,United States,103240,30.8,21.8,0.689,0.521,334915000

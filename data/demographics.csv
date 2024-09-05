@@ -1,397 +1,399 @@
 jurisdiction,state,white,black,hispanic,asian,native_hawaiian_or_pacific_islander,american_indian_or_alaska_native,more_than_one_race,total
-United States,United States,32.6,50.9,22.3,5.4,26.6,63.6,17.6,31.4
-Alabama,Alabama,33,34.8,11.7,,,,,31.2
-Alaska,Alaska,37.4,92.2,34.7,,,107.8,50.6,48.4
-Arizona,Arizona,33.2,59.7,32.7,6.4,,67.5,28.4,35.7
-Arkansas,Arkansas,18.3,19.2,6,,,,,16.6
-California,California,39.7,69.8,23.1,5.9,35.5,73.8,25.9,29.5
-Colorado,Colorado,29.7,68.6,37.9,7,,100.3,17,32.7
-Connecticut,Connecticut,34.4,64.7,38.3,,,,16.9,36.7
-Delaware,Delaware,52.8,69.7,31.4,,,,,51.1
-Florida,Florida,42.6,27.1,16.2,5.5,,46.8,16.3,31.4
-Georgia,Georgia,28.6,22.3,9,4,,,4.3,22.7
-Hawaii,Hawaii,30.4,,26.9,6.3,21.8,,30.8,22.2
-Idaho,Idaho,18.8,,16.2,,,60.3,,18.7
-Illinois,Illinois,22.1,73.2,17.9,4.1,,,9,28.1
-Indiana,Indiana,31.9,54.7,22.6,5.7,,,,31.9
-Iowa,Iowa,13.7,35,8,,,,,13.9
-Kansas,Kansas,20.3,45,15.9,,,,19.2,21.6
-Kentucky,Kentucky,46.8,73.9,20.6,,,,,46.2
-Louisiana,Louisiana,51.1,53.6,30.7,,,44,,49
-Maine,Maine,40.9,88.7,,,,147.2,,42.3
-Maryland,Maryland,39.6,60.1,19.8,4.9,,,10.7,40.3
-Massachusetts,Massachusetts,33.1,60.2,40.7,5.5,,,9.7,33.9
-Michigan,Michigan,23,64.8,23.8,4,,49,16.6,28.6
-Minnesota,Minnesota,15.8,74.5,22.1,7.4,,238.6,38.6,23.1
-Mississippi,Mississippi,28.7,12.5,9.6,,,,,21.4
-Missouri,Missouri,28,78,16,,,,16.4,32.5
-Montana,Montana,13.9,,,,,56.1,,16.2
-Nebraska,Nebraska,8,24,6.2,,,,,8.6
-Nevada,Nevada,57.9,66.4,22.9,9.2,,87.2,26.8,42.8
-New Hampshire,New Hampshire,31.5,52.6,26.5,,,,,30.5
-New Jersey,New Jersey,27.2,65.2,23.8,2.7,,,14.6,28.6
-New Mexico,New Mexico,39.5,72.9,51.8,,,50.2,,46.7
-New York,New York,28.2,60.1,36.7,4.5,,54.2,11.3,32.7
-North Carolina,North Carolina,34.2,40.8,15.2,3.6,,61.9,9.4,32
-North Dakota,North Dakota,11.7,,31.4,,,80,,16.2
-Ohio,Ohio,38.5,67.1,32.7,4,,,8.3,40.2
-Oklahoma,Oklahoma,31,51.2,17.6,,,46.6,20.4,31
-Oregon,Oregon,44.6,120.9,26.8,10.8,,116.1,35.9,43
-Pennsylvania,Pennsylvania,31.8,79.4,40.4,5.9,,,16.6,36.5
-Rhode Island,Rhode Island,38.9,37,37,,,,,37.9
-South Carolina,South Carolina,45.8,37,14.5,,,77.3,14,39.9
-South Dakota,South Dakota,7.2,,,,,35.5,,9.1
-Tennessee,Tennessee,52.2,69.5,24.3,9.7,,,22.1,51.5
-Texas,Texas,23.6,28.7,12.5,3.1,,10,5.7,18.4
-Utah,Utah,21.1,44.5,13.7,,,46.4,,19.7
-Virginia,Virginia,27,49,15.7,4.3,,,12.1,28.1
-Washington,Washington,45.6,116.5,31.9,9.9,50.9,162.2,40.7,44.7
-West Virginia,West Virginia,77.5,170.9,37.8,,,,,78.5
-Wisconsin,Wisconsin,24,99,31.8,7.3,,119,10.4,29.4
-Wyoming,Wyoming,20.8,,27.1,,,,,21.7
-Calhoun County,Alabama,54.2,42.9,,,,,,49.8
-Jefferson County,Alabama,72.8,84.9,35.8,,,,,73.9
-Madison County,Alabama,28.7,25.6,,,,,,26.2
-Mobile County,Alabama,39.1,26.1,,,,,,32.1
-Montgomery County,Alabama,33.1,9.6,,,,,,17.8
-Anchorage Borough,Alaska,60.8,129.8,51,,,305.6,75.1,80
-Cochise County,Arizona,33.1,,27.7,,,,,32.1
-Maricopa County,Arizona,36.1,66,36.2,6.3,,157.4,29.2,38.8
-Pima County,Arizona,38.2,64.6,40.3,,,117.1,46.2,45.8
-Pinal County,Arizona,11.6,,15.7,,,,,14
+United States,United States,32,50.1,21.8,5.3,25.3,62.3,17.7,30.8
+Alabama,Alabama,32.4,34.4,11.7,,,,,30.7
+Alaska,Alaska,38.1,96.4,34.7,,,110.6,52.4,49.4
+Arizona,Arizona,32.9,60.5,32,6.4,,64.7,29,35.2
+Arkansas,Arkansas,18.1,19.4,6.3,,,,,16.6
+California,California,38.9,68.6,22.7,5.7,33.4,71.3,25.9,29
+Colorado,Colorado,29.9,68.6,37.6,7,,100.3,18.3,32.8
+Connecticut,Connecticut,34.7,64,37,,,,15.4,36.5
+Delaware,Delaware,51.8,65,33.2,,,,,49.5
+Florida,Florida,42.2,27,15.4,5.5,,53.7,15.8,30.9
+Georgia,Georgia,28.6,21.6,8.7,4,,,4.7,22.5
+Hawaii,Hawaii,30.8,,28.3,7.9,19.6,,33.5,23.4
+Idaho,Idaho,19,,15.5,,,50.2,,18.7
+Illinois,Illinois,21.6,72,17.4,4,,,8.6,27.5
+Indiana,Indiana,31.5,54.6,21.1,5.7,,,,31.5
+Iowa,Iowa,13.7,36.4,8,,,,,14
+Kansas,Kansas,20.1,45,14.1,,,,18,21.1
+Kentucky,Kentucky,46,73.1,20.6,,,,10.4,45.5
+Louisiana,Louisiana,49.9,52.3,30.1,,,40.6,,47.9
+Maine,Maine,40.3,81.6,,,,158.6,,41.6
+Maryland,Maryland,39.2,59.7,18.7,4.7,,,10.7,39.9
+Massachusetts,Massachusetts,32,58.2,40.1,5.9,,,10.4,33
+Michigan,Michigan,22.1,63.8,22.8,4.2,,49,14.7,27.6
+Minnesota,Minnesota,15.8,70.8,20.5,7.7,,240.2,38.6,22.8
+Mississippi,Mississippi,28.1,12.3,8.8,,,,,21
+Missouri,Missouri,27.5,76.9,16.9,7.8,,,13.1,31.9
+Montana,Montana,13.5,,,,,53.1,,15.7
+Nebraska,Nebraska,7.8,22,6.6,,,,,8.3
+Nevada,Nevada,59.5,69,23,10.5,,91,30.8,44.1
+New Hampshire,New Hampshire,31.7,52.6,26.5,,,,,30.6
+New Jersey,New Jersey,27.2,63.9,23.4,2.5,,,15.2,28.3
+New Mexico,New Mexico,37.6,75.2,51.4,,,49.2,,45.7
+New York,New York,27.4,59.6,35.7,4.5,,52.5,11.3,32
+North Carolina,North Carolina,31.9,38.8,14.2,3.6,,55.6,9,30.1
+North Dakota,North Dakota,11.6,,26.2,,,77.3,,15.7
+Ohio,Ohio,37.5,65.1,31.9,4.6,,,8.3,39.1
+Oklahoma,Oklahoma,30.6,51.5,18.2,,,45.1,20.8,30.7
+Oregon,Oregon,44.7,128.8,28,10.4,,113.9,32.6,43.2
+Pennsylvania,Pennsylvania,30.9,77.5,38.7,5.7,,,16.2,35.6
+Rhode Island,Rhode Island,38.1,35.6,36.5,,,,,37
+South Carolina,South Carolina,45,36.7,14.7,,,72.2,11.2,39.3
+South Dakota,South Dakota,7,,,,,34.1,,8.9
+Tennessee,Tennessee,51.6,70.4,23.1,9.7,,,22.1,51.2
+Texas,Texas,23.4,28.6,12.6,3.1,,,5.5,18.3
+Utah,Utah,20.5,42.1,14.8,,,46.4,,19.4
+Virginia,Virginia,26.1,48.3,14.6,3.6,,,11,27.2
+Washington,Washington,45.5,115,30.7,9,52.5,170.8,41.5,44.5
+West Virginia,West Virginia,75.4,167.8,35.2,,,,,76.3
+Wisconsin,Wisconsin,23.3,94.7,31.8,8.3,,107.5,13.8,28.6
+Wyoming,Wyoming,20.2,,28.7,,,,,21.6
+Elmore County,Alabama,30.7,50.9,,,,,,34.3
+Jefferson County,Alabama,71.2,84.9,30.3,,,,,72.9
+Madison County,Alabama,27.5,25.6,,,,,,25.7
+Mobile County,Alabama,41.3,25.4,,,,,,32.8
+Montgomery County,Alabama,27.1,8.8,,,,,,15.6
+Anchorage Borough,Alaska,62.7,143.4,47.3,,,345.3,79.5,85.3
+Cochise County,Arizona,28.8,,25.4,,,,,28.9
+Coconino County,Arizona,16.8,,,,,27.7,,19.4
+Maricopa County,Arizona,35.5,66.7,35.3,6.3,,149.7,29.2,38.2
+Pima County,Arizona,38,64.6,40.3,,,105.8,50.4,45.1
+Pinal County,Arizona,10.8,,16.4,,,,,14
 Yuma County,Arizona,25.6,,15.1,,,,,17.8
-Pulaski County,Arkansas,35.3,27,,,,,,29
-Alameda County,California,26.5,91.4,28,3.6,,,20,25.6
-Butte County,California,79.2,,23.5,,,,,65.6
-Contra Costa County,California,25.7,42,19.6,,,,,20.9
-Fresno County,California,35.4,58.7,17.9,,,,,23.2
-Humboldt County,California,54.7,,,,,191.9,,56
-Kern County,California,87.1,119.2,33.1,47.2,,,70.3,55.6
-Kings County,California,25.7,,24.5,,,,,26.9
-Los Angeles County,California,35,62.8,20.8,6.1,51.1,59.8,18.3,25.6
-Merced County,California,35.2,,13.9,,,,,20.2
-Monterey County,California,44.4,,23.2,,,,,31.1
-Orange County,California,35.6,62,25.3,4,,,20.1,24.9
-Placer County,California,16.5,,14.8,,,,,16.5
-Riverside County,California,52.1,40.7,25.1,5.5,,,33.1,34.3
-Sacramento County,California,51.4,78.1,31.5,10.2,,,38.6,40.8
-San Bernardino County,California,43.6,29.9,18.4,,,,35.9,24.7
-San Diego County,California,34.9,72.4,25.5,6.7,,,25.3,29.5
-San Francisco County,California,68.6,424.3,102.6,11.5,,,71.4,88.1
-San Joaquin County,California,43.1,73,26.6,6.6,,,,30.2
-San Luis Obispo County,California,44.6,,25.3,,,,,38
-San Mateo County,California,18.6,76.2,18.3,,,,,15.1
-Santa Barbara County,California,43.3,,26.6,,,,,34
-Santa Clara County,California,33.8,85.3,25.8,3.8,,,16.2,20.4
-Santa Cruz County,California,64.4,,34.7,,,,,52.4
-Solano County,California,37.3,56.5,20.7,,,,,29.8
-Sonoma County,California,31.9,,16.4,,,,,25.9
-Stanislaus County,California,57.6,,22.1,,,,,34.3
-Tulare County,California,29.8,,13.1,,,,,18.4
-Ventura County,California,36.8,,24,,,,,28.8
-Yolo County,California,31.7,,13.6,,,,,20.4
-Adams County,Colorado,37.3,92.8,35.2,,,,,37.1
-Arapahoe County,Colorado,34.2,36,38.1,,,,,33.5
-Boulder County,Colorado,23.7,,20.8,,,,,21.7
-Denver County,Colorado,65.2,122.6,78.1,,,424.2,,73.3
-El Paso County,Colorado,30.2,47.1,26,,,,,29.8
-Jefferson County,Colorado,29.7,,40.6,,,,,32.3
-Larimer County,Colorado,19.1,,20.6,,,,,18.9
-Pueblo County,Colorado,31.9,,45.9,,,,,43.1
-Weld County,Colorado,19,,18.7,,,,,17.8
-Fairfield County,Connecticut,22.8,44,32.1,,,,,24.9
-Hartford County,Connecticut,38.6,71.1,55.3,,,,,42.9
-New Haven County,Connecticut,53.2,95.2,47,,,,,54
-New London County,Connecticut,34.9,,32.3,,,,,33.5
-Kent County,Delaware,54,49.9,,,,,,49.5
-New Castle County,Delaware,55.2,76,29.1,,,,,53.6
-Sussex County,Delaware,48.3,73.9,,,,,,46.7
-"Washington, D.C.","Washington, D.C.",21.9,157.7,29.5,,,,,79.7
-Alachua County,Florida,32.1,25.1,,,,,,23.8
-Brevard County,Florida,52.7,33.3,21.1,,,,,44.7
-Broward County,Florida,54.7,22.1,15.7,,,,,30.1
-Collier County,Florida,29.7,,16.8,,,,,25
-Duval County,Florida,67.1,36.2,34.6,,,,,49.2
-Escambia County,Florida,74.6,80.3,,,,,,67.9
-Hillsborough County,Florida,44.5,30.9,24.2,,,,28.5,33.8
-Lake County,Florida,30.6,22.9,14.6,,,,,25.4
-Lee County,Florida,38.3,29.3,14.3,,,,,30.7
-Leon County,Florida,22.4,11.8,,,,,,16.5
-Manatee County,Florida,40.3,52.8,26.1,,,,,37.6
-Marion County,Florida,65.4,41.3,16.6,,,,,52.2
-Miami-Dade County,Florida,23.3,20.1,8.6,,,,,12.2
-Orange County,Florida,45.7,24.6,23.3,,,,,31
-Osceola County,Florida,45.4,42.5,31.4,,,,,36.1
-Palm Beach County,Florida,48.2,25.9,16.5,,,,,34.6
-Pasco County,Florida,61.7,25.3,21.4,,,,,48.8
-Pinellas County,Florida,55.9,41.9,29.3,,,,48.7,49.5
-Polk County,Florida,33.1,20.4,11.7,,,,,23.8
-St. Lucie County,Florida,32.7,14.6,15.6,,,,,23.6
-Sarasota County,Florida,32,,24,,,,,30.9
-Seminole County,Florida,35.3,,10.2,,,,,24.4
-Volusia County,Florida,56.4,42.7,21.2,,,,,47.9
-Bibb County,Georgia,44.3,28.2,,,,,,31.3
-Chatham County,Georgia,59,28.1,,,,,,40.5
-Clarke County,Georgia,44.7,51.8,,,,,,40
-Clayton County,Georgia,85.9,14.7,,,,,,18.4
-Cobb County,Georgia,29.9,20.1,9.4,,,,,21.9
-DeKalb County,Georgia,23.8,29.3,20.2,,,,,24.5
-Dougherty County,Georgia,111.7,28.9,,,,,,46
-Fulton County,Georgia,32.4,49.5,15.9,,,,,36.1
-Gwinnett County,Georgia,32.9,10.7,12,,,,,16.6
-Hall County,Georgia,52,75.5,,,,,,38.2
-Henry County,Georgia,32,9.3,,,,,,16.5
-Muscogee County,Georgia,25.3,15.5,,,,,,18.8
-Richmond County,Georgia,109.7,45.4,,,,,,63.3
-Honolulu County,Hawaii,27.1,,18.9,5.8,24.1,,35.1,20.4
-Ada County,Idaho,20.9,,34,,,,,21.7
+Pulaski County,Arkansas,35.3,26.4,,,,,,29
+Alameda County,California,27,93.3,28.3,4.2,,,18.6,26.1
+Butte County,California,77.8,,23.5,,,,,66.1
+Contra Costa County,California,25.5,42,19,,,,,20.6
+Fresno County,California,37.6,50.3,17.7,,,,,23.3
+Humboldt County,California,52.6,,,,,206.6,,55.2
+Kern County,California,82.4,112.7,32.2,49.4,,,70.3,53.2
+Los Angeles County,California,33.5,61.2,21,5.9,,,19.1,25.1
+Mendocino County,California,61.6,,39.9,,,,,56.1
+Merced County,California,32.3,,12.9,,,,,18.5
+Monterey County,California,43.5,,24,,,,,31.1
+Orange County,California,35.2,65.6,24.7,3.4,,,22.2,24.5
+Placer County,California,17.6,,14.8,,,,,16.5
+Riverside County,California,50.3,42,24.1,6.5,,,30,33.2
+Sacramento County,California,50.9,74.8,31.2,8.8,,,36.3,40
+San Bernardino County,California,43.6,29.9,18.2,,,,35.9,24.6
+San Diego County,California,33.4,70.5,24.5,7,,,25.3,28.5
+San Francisco County,California,70.3,421.9,99.6,10.2,,,71.4,87.3
+San Joaquin County,California,44,73,26,6.6,,,,30.5
+San Luis Obispo County,California,39.8,,21.1,,,,,33.4
+San Mateo County,California,17,76.2,16.6,,,,,14.2
+Santa Barbara County,California,41.7,,26.1,,,,,32.4
+Santa Clara County,California,34,89.6,25.4,3.6,,,,20.2
+Santa Cruz County,California,63,,31.5,,,,,50.1
+Solano County,California,38.6,61.6,23.6,,,,,32.7
+Sonoma County,California,31.9,,14.4,,,,,25.9
+Stanislaus County,California,61.6,,22.8,,,,,36.8
+Tulare County,California,28.2,,12.4,,,,,17.5
+Ventura County,California,36.6,,23.2,,,,,28
+Yolo County,California,31.7,,14.9,,,,,20
+Adams County,Colorado,39,82.4,36.5,,,,,38.4
+Arapahoe County,Colorado,35.3,37.3,36,,,,,33.8
+Denver County,Colorado,64.2,121.1,75,,,395.9,,71.3
+El Paso County,Colorado,29.8,49.3,27.5,,,,,30.5
+Jefferson County,Colorado,29,,40.6,,,,,31.9
+Larimer County,Colorado,19.5,,20.6,,,,,19.1
+Pueblo County,Colorado,35.3,,44.5,,,,,44.3
+Weld County,Colorado,21.3,,17.8,,,,,18.9
+Fairfield County,Connecticut,22.3,46,31.7,,,,,24.5
+Hartford County,Connecticut,39.2,67.7,52.3,,,,,42.4
+New Haven County,Connecticut,53.4,93.4,43.5,,,,,53.1
+New London County,Connecticut,36.9,,35.6,,,,,35.4
+Kent County,Delaware,54,44.3,63.4,,,,,48.5
+New Castle County,Delaware,55.6,71.3,30.5,,,,,52.5
+Sussex County,Delaware,44.7,70.4,,,,,,43.6
+"Washington, D.C.","Washington, D.C.",21.5,154.3,31.9,,,,,78.4
+Alachua County,Florida,32.7,26.9,,,,,,24.5
+Brevard County,Florida,51.8,30.3,16.1,,,,,43.3
+Broward County,Florida,54.1,23,14.8,,,,,29.9
+Clay County,Florida,23.9,32.8,,,,,,24.5
+Collier County,Florida,30.5,,14.1,,,,,24.2
+Duval County,Florida,69.5,36.6,32.3,,,,,50.2
+Escambia County,Florida,71.7,76.2,,,,,,65.5
+Hillsborough County,Florida,45.8,31.7,23.6,,,,,34.4
+Lake County,Florida,30.6,22.9,17.1,,,,,25.9
+Lee County,Florida,37.3,27.9,12.4,,,,,29.6
+Leon County,Florida,19.9,14,,,,,,15.8
+Manatee County,Florida,42,50,24.9,,,,,38.3
+Marion County,Florida,64.7,41.3,16.6,,,,,52
+Miami-Dade County,Florida,21.5,19.8,8.3,,,,,11.7
+Okaloosa County,Florida,49.1,47.3,,,,,,42.6
+Orange County,Florida,43.9,23.9,22.7,,,,,30
+Osceola County,Florida,43,40.4,33,,,,,35.9
+Palm Beach County,Florida,44.4,25.2,14.4,,,,,31.9
+Pasco County,Florida,61.9,,22.2,,,,,48.5
+Pinellas County,Florida,55.5,43.9,22.9,,,,,48.4
+Polk County,Florida,35,19.5,12.5,,,,,24.9
+St. Lucie County,Florida,32.7,14.6,16.8,,,,,23.8
+Sarasota County,Florida,31.5,,22,,,,,29.8
+Seminole County,Florida,36.8,18.8,10.2,,,,,25.6
+Volusia County,Florida,54.4,39.6,16.2,,,,,45.6
+Bibb County,Georgia,46.2,27.1,,,,,,31.3
+Chatham County,Georgia,58.3,22.4,,,,,,37.9
+Clarke County,Georgia,43.3,51.8,,,,,,39.3
+Clayton County,Georgia,81.6,13.8,,,,,,17.8
+Cobb County,Georgia,30.4,19.7,9.4,,,,,22
+DeKalb County,Georgia,26.5,30.8,17.7,,,,,26
+Dougherty County,Georgia,95.7,27.2,,,,,,41.1
+Fulton County,Georgia,33.9,47.8,15.9,,,,,36.1
+Gwinnett County,Georgia,34.5,10.4,11.6,,,,,16.8
+Hall County,Georgia,47.3,69.7,,,,,,35
+Henry County,Georgia,30.7,7.2,,,,,,14.1
+Muscogee County,Georgia,29.3,16.5,,,,,,20.8
+Richmond County,Georgia,109.7,40.3,,,,,,60.4
+Hawaii County,Hawaii,24.8,,44.6,,,,21.5,21.2
+Honolulu County,Hawaii,28.2,,17.9,7.3,23,,37.1,21.5
+Ada County,Idaho,20.6,,32.1,,,,,21.5
 Canyon County,Idaho,20.2,,14.9,,,,,18.2
-Champaign County,Illinois,29,65.8,,,,,,28.7
-Cook County,Illinois,25.2,90.7,22.5,4.8,,,,39.6
-DuPage County,Illinois,13.3,20.9,16,,,,,12.5
-Kane County,Illinois,16.3,66.6,10.4,,,,,16.3
-Lake County,Illinois,20.3,61.8,11.8,,,,,19.2
-Peoria County,Illinois,48.7,32.5,,,,,,40.6
-St. Clair County,Illinois,34.5,21.1,,,,,,28.3
-Sangamon County,Illinois,36.5,78.6,,,,,,41.9
-Will County,Illinois,21.8,23.2,12.7,,,,,18.6
-Winnebago County,Illinois,47,119.7,28.8,,,,,53
-Allen County,Indiana,26.3,44.4,27.5,,,,,27.6
-Delaware County,Indiana,65.9,122.6,,,,,,67.7
-Lake County,Indiana,36.2,42.9,22.5,,,,,34
-Marion County,Indiana,84.1,68.9,44.7,,,,,68.7
-St. Joseph County,Indiana,33.7,85.6,,,,,,36.7
-Polk County,Iowa,28.9,38.9,,,,,,26.7
-Sedgwick County,Kansas,37.9,52.1,21.5,,,,,40.1
-Wyandotte County,Kansas,57.1,84.6,17.6,,,,,45.4
-Fayette County,Kentucky,63.3,56,46.7,,,,,56.5
-Jefferson County,Kentucky,77,109.9,21.3,,,,,76.2
-Ascension Parish,Louisiana,47.6,30.8,,,,,,39.5
-Caddo Parish,Louisiana,40.5,15.1,,,,,,25.2
-Calcasieu Parish,Louisiana,32.6,36.2,,,,,,32.4
-East Baton Rouge Parish,Louisiana,83.6,62.5,49.5,,,,,67.8
-Jefferson Parish,Louisiana,71.3,55.5,28.8,,,,,56
-Lafayette Parish,Louisiana,42.9,22.4,,,,,,35.2
-Orleans Parish,Louisiana,156.1,140.5,101.5,,,,,136.2
-Ouachita Parish,Louisiana,61.1,52.3,,,,,,55.2
-Rapides Parish,Louisiana,59.3,57.6,,,,,,56.2
-St. Landry Parish,Louisiana,53.3,29.6,,,,,,41.7
-St. Tammany Parish,Louisiana,36.6,37.5,,,,,,34.1
-Tangipahoa Parish,Louisiana,62.8,38.2,,,,,,50
-Terrebonne Parish,Louisiana,43.1,90.2,,,,,,51.2
-Anne Arundel County,Maryland,32.8,33.3,,,,,,28.4
-Baltimore County,Maryland,37.9,30.8,14.9,,,,,30.8
-Cecil County,Maryland,47.5,127.2,,,,,,52
-Charles County,Maryland,38.8,15.5,,,,,,20.4
-Harford County,Maryland,26.7,36.4,,,,,,28.3
-Montgomery County,Maryland,13.3,21,13.9,,,,,13.1
-Prince George's County,Maryland,39.4,21,21.8,,,,,22.2
-Washington County,Maryland,57.2,92.6,,,,,,57.8
-Wicomico County,Maryland,43.5,73.8,,,,,,46.8
-Baltimore city,Maryland,204.9,204.9,81.9,,,,,188.6
-Bristol County,Massachusetts,44.2,76.5,62.6,,,,,47.8
-Essex County,Massachusetts,30.2,43.1,29.3,,,,,28.8
-Hampden County,Massachusetts,48,96.4,70.5,,,,,56.1
-Middlesex County,Massachusetts,24.5,34.8,22.3,,,,,21.3
-Norfolk County,Massachusetts,27.4,20.4,,,,,,22.1
-Plymouth County,Massachusetts,26.2,34.7,,,,,,26.5
-Suffolk County,Massachusetts,65.3,97.9,49.5,13.4,,,,62.5
-Worcester County,Massachusetts,31.6,52.4,49.6,,,,,34.3
-Berrien County,Michigan,29.9,62.9,,,,,,34.2
-Genesee County,Michigan,46.8,82.6,62.8,,,,,53.8
-Ingham County,Michigan,36,104.8,44.2,,,,,41.5
-Kalamazoo County,Michigan,23.7,70.8,,,,,,31.7
-Kent County,Michigan,15.6,51.9,,,,,,18
-Macomb County,Michigan,23.9,24.7,,,,,,22.9
-Muskegon County,Michigan,39.6,89.7,,,,,,46.4
-Oakland County,Michigan,18.6,38.6,22.9,,,,,20.2
-Saginaw County,Michigan,28.8,61.5,,,,,,34.6
-Washtenaw County,Michigan,22.2,36.6,,,,,,22.4
-Wayne County,Michigan,44,81.1,34.3,,,,33.7,57.7
-Anoka County,Minnesota,11.5,34.2,,,,,,13.2
-Dakota County,Minnesota,12.5,29.8,,,,,,13.2
-Hennepin County,Minnesota,25,101,37.4,11.6,,728.3,75.5,42.2
-Ramsey County,Minnesota,32.1,121.3,30.9,,,431.9,61.9,43.8
-St. Louis County,Minnesota,29.8,394.5,,,,317,,43.4
-Harrison County,Mississippi,44.7,31.5,,,,,,36.1
-Hinds County,Mississippi,54.5,17.2,,,,,,27.5
-Jackson County,Mississippi,67.8,49,,,,,,56.7
-Boone County,Missouri,20.6,101.2,,,,,,27.4
-Greene County,Missouri,38.9,124.9,,,,,,39.1
-Jackson County,Missouri,42,59.1,16.9,,,,48,43.8
-St. Louis County,Missouri,23.5,54.6,,,,,,29.7
-St. Louis city,Missouri,128.2,193.4,67.4,,,,,148.7
-Douglas County,Nebraska,12,20,,,,,,12.2
-Clark County,Nevada,60.9,62,21.3,7.8,,,20.9,40.6
-Washoe County,Nevada,66.2,197,37.2,,,223.1,,60.6
-Hillsborough County,New Hampshire,40.2,,37.2,,,,,37.9
-Atlantic County,New Jersey,74.2,133.3,30.1,,,,,67.6
-Bergen County,New Jersey,13.9,,11.7,,,,,10.9
-Burlington County,New Jersey,24.2,23,,,,,,22.2
-Camden County,New Jersey,52.4,126.5,65.1,,,,,65.6
-Cumberland County,New Jersey,58.3,76.9,27.3,,,,,49.2
-Essex County,New Jersey,34.7,83,40,,,,,51.9
-Hudson County,New Jersey,30.5,67.2,22.3,,,,,25.9
-Mercer County,New Jersey,27.4,65.4,38.2,,,,,33.3
-Middlesex County,New Jersey,33.1,45.3,16.9,,,,,22.1
-Monmouth County,New Jersey,22.9,80.9,12,,,,,24
-Passaic County,New Jersey,23.8,67,27.9,,,,,28
-Union County,New Jersey,21.9,44.2,17.8,,,,,24.1
-Bernalillo County,New Mexico,54.8,109.8,70.6,,,139.8,,67.2
-Dona Ana County,New Mexico,32.9,,32.7,,,,,32.4
-Otero County,New Mexico,40.6,,43.6,,,,,42.1
-Sandoval County,New Mexico,20.1,,15.8,,,,,19.2
-San Juan County,New Mexico,40.9,,58.3,,,20.7,,34.8
-Santa Fe County,New Mexico,33.6,,74,,,,,53.9
-Albany County,New York,34.6,68.3,,,,,,36
-Bronx County,New York,70.2,76.4,61.1,,,,,65.8
-Broome County,New York,44.5,153.6,,,,,,49
-Chautauqua County,New York,43.4,,98.1,,,,,49.6
-Dutchess County,New York,38.9,83,,,,,,38.7
-Erie County,New York,34.3,97.4,72.2,,,,,44.3
-Kings County,New York,23.4,41.1,43.5,,,,,30.5
-Monroe County,New York,47.7,161.6,77.1,,,,,65.6
-Nassau County,New York,16.3,29.8,8.9,,,,,14.4
-New York County,New York,22.6,109.1,58.8,5.7,,,,42.5
-Niagara County,New York,33.8,99.2,,,,,,39.6
-Oneida County,New York,29.8,84.3,,,,,,32.1
-Onondaga County,New York,39.4,92.8,,,,,,43.6
-Orange County,New York,31.8,32.2,19.1,,,,,28
-Queens County,New York,28.7,36.9,21.8,5.8,,,,21.7
-Rensselaer County,New York,44.4,123.1,,,,,,47.7
-Richmond County,New York,32.4,50,33.4,,,,,31
-Schenectady County,New York,34.3,56.6,,,,,,32.5
-Suffolk County,New York,33.8,37.6,22.8,,,,,30.5
-Westchester County,New York,14.4,33.1,13.2,,,,,15.6
-Buncombe County,North Carolina,57.2,147.7,,,,,,59.1
-Craven County,North Carolina,60.6,54.3,,,,,,53.7
-Cumberland County,North Carolina,49.6,33.5,27.1,,,,,37.6
-Durham County,North Carolina,29,62.1,,,,,,36.8
-Forsyth County,North Carolina,54.6,56.7,,,,,,46.6
-Gaston County,North Carolina,52.1,31.2,,,,,,40.9
-Guilford County,North Carolina,42,37.4,19.6,,,,,34.9
-Harnett County,North Carolina,32.7,51.4,,,,,,34.6
-Iredell County,North Carolina,21.2,49.9,,,,,,22
-Johnston County,North Carolina,17.5,27.8,,,,,,15.7
-Mecklenburg County,North Carolina,35.6,47.7,22.1,,,,,34.6
-Nash County,North Carolina,46.4,25,,,,,,33.1
-New Hanover County,North Carolina,37.3,49.9,,,,,,36.8
-Pitt County,North Carolina,48.5,74,,,,,,54.8
-Robeson County,North Carolina,77.5,,,,,73.7,,54.5
-Rowan County,North Carolina,51.3,64.5,,,,,,47.5
-Vance County,North Carolina,82.3,47.2,,,,,,54.4
-Wake County,North Carolina,17.1,32.1,9.5,,,,,17.6
-Wilson County,North Carolina,75.7,55.5,,,,,,60.8
-Butler County,Ohio,38.8,47.2,,,,,,34.9
-Clark County,Ohio,32.5,138.5,,,,,,40.1
-Cuyahoga County,Ohio,47,63.7,45.3,,,,,49.4
-Franklin County,Ohio,64.9,85.3,38,,,,,62.9
-Hamilton County,Ohio,51.6,46.7,39.7,,,,,47.3
-Lorain County,Ohio,39.9,64.5,33.7,,,,,39.9
-Lucas County,Ohio,69.9,70.7,56,,,,,66.3
-Mahoning County,Ohio,65.1,118.9,,,,,,70.5
-Montgomery County,Ohio,60.4,69.2,60.9,,,,,59.2
-Stark County,Ohio,45,91.3,,,,,,46.1
-Summit County,Ohio,41.6,67.8,,,,,,43.5
-Trumbull County,Ohio,58.2,98.2,,,,,,58.9
-Oklahoma County,Oklahoma,52.1,53.3,28.5,,,76.4,36.3,46.6
-Tulsa County,Oklahoma,53,74.1,21.3,,,115.9,24.6,50.4
-Jackson County,Oregon,58.1,,33,,,,,53.4
-Lane County,Oregon,60.8,,43.9,,,,,58.5
-Marion County,Oregon,47.5,,26.6,,,,,39.2
-Multnomah County,Oregon,90.6,188.2,71,20.2,,511.6,110.5,93.8
-Allegheny County,Pennsylvania,47,132.3,27.5,,,,,56.4
-Beaver County,Pennsylvania,35,94.9,,,,,,38
-Berks County,Pennsylvania,21.7,,34.7,,,,,26.1
-Cambria County,Pennsylvania,45.4,177.7,,,,,,51.3
-Dauphin County,Pennsylvania,36.2,58,60.7,,,,,40.5
-Delaware County,Pennsylvania,31.7,34.9,,,,,,29.8
-Erie County,Pennsylvania,37.4,126.6,,,,,,43.4
-Lancaster County,Pennsylvania,14.1,47.1,24.6,,,,,16.3
-Lebanon County,Pennsylvania,17.6,,53.3,,,,,22.9
-Lehigh County,Pennsylvania,35.7,72.6,49,,,,,39.7
-Luzerne County,Pennsylvania,47.5,83.2,,,,,,42.8
-Montgomery County,Pennsylvania,19.4,37.7,20.5,,,,,19.8
-Northampton County,Pennsylvania,18.6,,29.5,,,,,20.7
-Philadelphia County,Pennsylvania,88.6,95.9,79.7,14.2,,,,82.3
-York County,Pennsylvania,27.2,44.6,43.6,,,,,29.3
-Providence County,Rhode Island,53,39.7,39.6,,,,,46.6
-Aiken County,South Carolina,67.7,50.5,,,,,,56.5
-Charleston County,South Carolina,53.4,90.6,37,,,,,59.9
-Florence County,South Carolina,78.1,30.2,,,,,,51.7
-Georgetown County,South Carolina,61.4,55.1,,,,,,57.8
-Greenville County,South Carolina,40.6,55.5,,,,,,38.3
-Horry County,South Carolina,62.7,67.2,,,,,,58.9
-Lancaster County,South Carolina,55,66.5,,,,,,50.8
-Lexington County,South Carolina,38.7,36.1,,,,,,34.6
-Orangeburg County,South Carolina,50.4,41.9,,,,,,42.3
-Richland County,South Carolina,28.5,26.4,,,,,,25.6
-Spartanburg County,South Carolina,54.1,54.1,,,,,,47.9
-Sumter County,South Carolina,52.2,28.4,,,,,,36.5
-York County,South Carolina,43.5,28.6,,,,,,36.9
-Davidson County,Tennessee,106.5,119.5,39.8,,,,84.1,97.8
-Hamilton County,Tennessee,51.5,63.8,35.4,,,,,50.8
-Hardeman County,Tennessee,116.6,133.2,,,,,,117.3
-Knox County,Tennessee,107.3,145,,,,,,100.7
-Madison County,Tennessee,52.7,50.8,,,,,,49.4
-Montgomery County,Tennessee,31.5,27.2,,,,,,29.2
-Rutherford County,Tennessee,31.8,29.8,24.3,,,,,29.7
-Shelby County,Tennessee,60.5,63.3,39.5,,,,,58.5
-Wilson County,Tennessee,30.4,86.9,,,,,,33
-Bell County,Texas,23.1,15.8,,,,,,16.8
-Bexar County,Texas,30.6,36.2,19.8,,,,,23.6
-Brazoria County,Texas,23.6,25.3,18.1,,,,,20.3
-Collin County,Texas,14.6,10.2,6.2,,,,,9.7
-Dallas County,Texas,40.7,42.3,14.7,,,,,27.4
-Denton County,Texas,12.6,12.6,4.8,,,,,9.2
-Ector County,Texas,36.8,,15.1,,,,,20.7
-El Paso County,Texas,41.4,,17.8,,,,,21.6
-Fort Bend County,Texas,14.4,10,7.9,,,,,8.5
-Galveston County,Texas,26.7,,15.5,,,,,20.7
-Harris County,Texas,34.9,35.8,12.6,5.9,,,13.5,22.8
-Hays County,Texas,13.8,,9,,,,,12.8
-Jefferson County,Texas,44.6,23.9,,,,,,27.8
-Lubbock County,Texas,19.2,,10.2,,,,,15.9
-McLennan County,Texas,12.9,26.7,,,,,,13.4
-Montgomery County,Texas,24.1,,7.5,,,,,17.3
-Nueces County,Texas,28.7,,13.5,,,,,18.7
-Tarrant County,Texas,31.2,32.9,13.2,,,,,23.8
-Travis County,Texas,34.2,67,27.5,,,,,31.6
-Williamson County,Texas,15.6,,8.6,,,,,11.6
-Salt Lake County,Utah,30.6,56.1,18.7,,,,,27.1
-Arlington County,Virginia,8.6,51,32.1,,,,,16.7
-Chesterfield County,Virginia,23.4,22.4,,,,,,20.1
-Fairfax County,Virginia,13.4,15.4,15.8,4.7,,,,11.9
-Henrico County,Virginia,30.4,54.7,,,,,,35.5
-Prince William County,Virginia,17.6,15.1,11.6,,,,,13.1
-Chesapeake city,Virginia,29,33.1,,,,,,26
-Danville city,Virginia,99.1,50.2,,,,,,69.3
-Hampton city,Virginia,57.8,34.7,,,,,,38.7
-Hopewell city,Virginia,129.4,148.5,,,,,,127.5
-Lynchburg city,Virginia,32.5,50.5,,,,,,35.2
-Newport News city,Virginia,42.6,32.9,,,,,,35
-Norfolk city,Virginia,52.7,81.5,,,,,,60.2
-Petersburg city,Virginia,332.2,123.8,,,,,,144.1
-Portsmouth city,Virginia,90.2,100.3,,,,,,90.9
-Richmond city,Virginia,80.3,222.9,61.5,,,,,136.1
-Roanoke city,Virginia,126.6,87.4,,,,,,112.2
-Virginia Beach city,Virginia,25.5,41.5,,,,,,26.2
-Benton County,Washington,28.4,,21.1,,,,,26.5
-Clark County,Washington,32.1,,19.8,,,,,29.4
+Champaign County,Illinois,27.5,58.8,,,,,,27.2
+Cook County,Illinois,24.3,89.2,22,4.3,,,,38.7
+DuPage County,Illinois,13.4,23,15.3,,,,,12.6
+Kane County,Illinois,16.6,62.9,9.9,,,,,16.5
+Lake County,Illinois,20.3,68,10.7,,,,,19.3
+Peoria County,Illinois,47,32.5,,,,,,38.9
+St. Clair County,Illinois,33.8,22.4,,,,,,28.3
+Sangamon County,Illinois,34.5,71.1,,,,,,39.3
+Will County,Illinois,22,24.3,13.5,,,,,19
+Winnebago County,Illinois,47.6,109.3,28.8,,,,,51.6
+Allen County,Indiana,25.5,42.2,27.5,,,,,26.9
+Delaware County,Indiana,68,134.9,,,,,,70.3
+Lake County,Indiana,36.9,42.9,19.7,,,,,34
+Marion County,Indiana,79.5,69.7,43.9,,,,,66.7
+St. Joseph County,Indiana,34.2,80,,,,,,36.3
+Polk County,Iowa,28.9,49.2,,,,,,27.7
+Sedgwick County,Kansas,37.4,58.6,21.5,,,,,40.1
+Wyandotte County,Kansas,57.1,75.5,,,,,,42.4
+Fayette County,Kentucky,60.6,58,50.1,,,,,55.3
+Jefferson County,Kentucky,76.2,108.7,18.3,,,,,75.1
+Ascension Parish,Louisiana,48.8,30.8,,,,,,40.3
+Caddo Parish,Louisiana,35.3,14.2,,,,,,22.5
+Calcasieu Parish,Louisiana,31.8,36.2,,,,,,31.4
+East Baton Rouge Parish,Louisiana,84.6,61.1,46.2,,,,,67.3
+Jefferson Parish,Louisiana,71.8,55.5,30.1,,,,,56.2
+Lafayette Parish,Louisiana,42.2,22.4,,,,,,35.2
+Orleans Parish,Louisiana,142.8,134.1,101.5,,,,,128.2
+Ouachita Parish,Louisiana,62.2,50.6,,,,,,55.2
+Rapides Parish,Louisiana,54,65.1,,,,,,55.4
+St. Landry Parish,Louisiana,55.6,29.6,,,,,,43
+St. Tammany Parish,Louisiana,38.6,35,,,,,,35.2
+Tangipahoa Parish,Louisiana,58,40.6,,,,,,47.8
+Terrebonne Parish,Louisiana,44.6,90.2,,,,,,53.1
+Anne Arundel County,Maryland,32.2,35,,,,,,28.3
+Baltimore County,Maryland,38.3,30.8,,,,,,30.9
+Cecil County,Maryland,48.7,115.6,,,,,,52
+Charles County,Maryland,38.8,13.3,,,,,,19.2
+Harford County,Maryland,25.6,31.5,,,,,,26.8
+Montgomery County,Maryland,11.9,20.1,13,,,,,12.1
+Prince George's County,Maryland,38.4,19.7,19.9,,,,,20.9
+St. Mary's County,Maryland,21.9,55.9,,,,,,26
+Washington County,Maryland,51.9,87.8,,,,,,53.9
+Wicomico County,Maryland,43.5,84.4,,,,,,49.6
+Baltimore city,Maryland,208.2,206.3,81.9,,,,,190.2
+Bristol County,Massachusetts,42.2,76.5,62.6,,,,,46.2
+Essex County,Massachusetts,29.3,43.1,30.8,,,,,28.5
+Hampden County,Massachusetts,46.6,96.4,71.3,,,,,55.4
+Middlesex County,Massachusetts,23.2,35.9,21.6,,,,,20.5
+Norfolk County,Massachusetts,24.4,20.4,,,,,,20.2
+Plymouth County,Massachusetts,24.8,34.7,,,,,,25.4
+Suffolk County,Massachusetts,65.3,91.8,48.4,14.8,,,,61.3
+Worcester County,Massachusetts,31.1,48.2,44.7,,,,,32.9
+Berrien County,Michigan,29,62.9,,,,,,33.5
+Genesee County,Michigan,44.7,76.4,74.3,,,,,51.3
+Ingham County,Michigan,36,101.8,44.2,,,,,41.1
+Kalamazoo County,Michigan,23.2,70.8,,,,,,31.3
+Kent County,Michigan,14.5,48.8,,,,,,16.8
+Macomb County,Michigan,23.4,27.2,,,,,,22.9
+Muskegon County,Michigan,39.6,81.1,,,,,,44.7
+Oakland County,Michigan,17.7,36.9,21.4,,,,,19.4
+Saginaw County,Michigan,28,67.4,,,,,,35.1
+Washtenaw County,Michigan,22.6,43.4,,,,,,23.3
+Wayne County,Michigan,42.4,79.7,30.2,,,,29.5,55.8
+Anoka County,Minnesota,11.5,31.4,,,,,,12.9
+Dakota County,Minnesota,12.8,29.8,,,,,,13.2
+Hennepin County,Minnesota,24.7,93.8,37.4,11.6,,740.5,80.5,41.2
+Ramsey County,Minnesota,32.1,124.1,24.3,11.8,,431.9,56.3,43.7
+St. Louis County,Minnesota,29.8,328.7,,,,271.7,,40.4
+Harrison County,Mississippi,41.6,31.5,,,,,,34.2
+Hinds County,Mississippi,54.5,15.3,,,,,,26.1
+Jackson County,Mississippi,63.7,52.3,,,,,,54
+Boone County,Missouri,22.7,95.9,,,,,,27.4
+Greene County,Missouri,38.5,134.5,,,,,,39.1
+Jackson County,Missouri,38.8,60.3,19.3,,,,,42
+St. Louis County,Missouri,24.3,54.2,,,,,,30.1
+St. Louis city,Missouri,124.3,187.6,80.8,,,,,145.2
+Douglas County,Nebraska,10.9,18.5,,,,,,11.4
+Clark County,Nevada,62.8,64.7,21.7,9.3,,,24.9,42.1
+Washoe County,Nevada,67.2,189.1,34.9,,,223.1,,60
+Hillsborough County,New Hampshire,39.9,,39.8,,,,,37.4
+Atlantic County,New Jersey,75.6,135.8,26.5,,,,,67.9
+Bergen County,New Jersey,13.5,,11.2,,,,,10.5
+Burlington County,New Jersey,23.2,21.8,25.6,,,,,22.2
+Camden County,New Jersey,50.3,121.5,70,,,,,64.5
+Cumberland County,New Jersey,55.1,80.6,25.4,,,,,47.9
+Essex County,New Jersey,33.9,82.3,41.9,,,,,51.9
+Hudson County,New Jersey,28.6,63.5,20.9,,,,,24.2
+Mercer County,New Jersey,26.2,64,34.8,,,,,31.7
+Middlesex County,New Jersey,30.9,47.6,16.9,,,,,21.4
+Monmouth County,New Jersey,23.3,76,13.2,,,,,24.1
+Passaic County,New Jersey,25.3,54.8,24.9,,,,,26.1
+Union County,New Jersey,22.4,45.9,16.8,,,,,24.3
+Bernalillo County,New Mexico,52.5,109.8,73.3,,,143,,67.6
+Dona Ana County,New Mexico,32.9,,30,,,,,30.2
+Otero County,New Mexico,37.5,,36.3,,,,,37.8
+Sandoval County,New Mexico,15.5,,17.4,,,,,18
+San Juan County,New Mexico,43.2,,45.8,,,,,32.3
+Santa Fe County,New Mexico,26.6,,67.2,,,,,47.4
+Albany County,New York,35.1,65.8,,,,,,36.3
+Bronx County,New York,70.2,75.6,59.2,,,,,64.8
+Broome County,New York,46.4,136.5,,,,,,49.5
+Chautauqua County,New York,41.5,,89.9,,,,,47.2
+Dutchess County,New York,35.9,86.2,,,,,,37.7
+Erie County,New York,33.5,104,62.3,,,,,44.2
+Kings County,New York,23.3,41.3,44.5,,,,,30.7
+Monroe County,New York,43.9,164.3,70.4,,,,,62.8
+Nassau County,New York,15,27.3,8.5,,,,,13.4
+New York County,New York,21.9,108.6,57.5,5.7,,,,41.8
+Niagara County,New York,37.8,92.6,,,,,,41.5
+Oneida County,New York,32,84.3,,,,,,33.4
+Onondaga County,New York,38,87.2,,,,,,42.1
+Orange County,New York,31,30.1,17.1,,,,,26.8
+Queens County,New York,28.5,35.1,21.2,5.3,,,,21.1
+Rensselaer County,New York,42.9,106.6,,,,,,45.2
+Richmond County,New York,30.5,50,36.6,,,,,30.2
+Schenectady County,New York,33.4,56.6,,,,,,32.5
+Suffolk County,New York,33.1,37.6,20.8,,,,,29.7
+Westchester County,New York,13.6,33.9,12.5,,,,,15.2
+Buncombe County,North Carolina,56.3,141.3,,,,,,57.6
+Craven County,North Carolina,57.7,49.4,,,,,,49.8
+Cumberland County,North Carolina,42.2,28.8,27.1,,,,,32.9
+Durham County,North Carolina,27,60.3,,,,,,34.4
+Forsyth County,North Carolina,49,52.7,,,,,,42.5
+Gaston County,North Carolina,49.5,28.9,,,,,,38.8
+Guilford County,North Carolina,35.7,34.3,21.4,,,,,30.9
+Harnett County,North Carolina,30.3,48,,,,,,31.8
+Iredell County,North Carolina,20.5,45.8,,,,,,21.5
+Johnston County,North Carolina,15.4,25.5,,,,,,14.1
+Mecklenburg County,North Carolina,37.2,48.2,22.1,,,,,35.5
+New Hanover County,North Carolina,34.6,46.3,,,,,,34.3
+Pitt County,North Carolina,47.4,67.5,,,,,,50.8
+Robeson County,North Carolina,70.1,,,,,65.1,,49.4
+Rowan County,North Carolina,45.5,60.5,,,,,,42.2
+Wake County,North Carolina,16,28.2,8,,,,,16
+Wilson County,North Carolina,67.3,52.3,,,,,,55.7
+Butler County,Ohio,39.1,47.2,,,,,,35.1
+Clark County,Ohio,28,130.4,,,,,,35.7
+Cuyahoga County,Ohio,47,62.6,40.7,,,,,48.7
+Franklin County,Ohio,61.2,82.2,41,,,,,60.3
+Hamilton County,Ohio,49.5,45.8,34.7,,,,,45.5
+Lorain County,Ohio,41.5,60.4,30.9,,,,,40.3
+Lucas County,Ohio,65.7,68.3,53.1,,,,,62.5
+Mahoning County,Ohio,66.3,128.1,,,,,,72.3
+Montgomery County,Ohio,58.2,58.8,60.9,,,,,55.5
+Stark County,Ohio,42.5,101.4,,,,,,44.8
+Summit County,Ohio,39.6,61.6,,,,,,41.1
+Trumbull County,Ohio,53.5,98.2,,,,,,54.9
+Oklahoma County,Oklahoma,50.7,53.3,28.5,,,72.4,36.3,45.7
+Tulsa County,Oklahoma,52.5,71.2,23.1,,,111,24.6,49.9
+Jackson County,Oregon,58.6,,30,,,,,53.4
+Lane County,Oregon,60.8,,48.7,,,,,58.8
+Marion County,Oregon,46.6,,28.5,,,,,39.8
+Multnomah County,Oregon,92.7,199,71,20.2,,511.6,101.8,95.4
+Washington County,Oregon,22.7,,8.9,,,,,17.2
+Allegheny County,Pennsylvania,46.4,128,27.5,,,,,55.5
+Beaver County,Pennsylvania,35,113.8,,,,,,38.6
+Berks County,Pennsylvania,20.3,56.8,34.7,,,,,25.9
+Cambria County,Pennsylvania,41.2,177.7,,,,,,47.4
+Dauphin County,Pennsylvania,35.6,55.9,60.7,,,,,40.5
+Delaware County,Pennsylvania,30.9,32.6,,,,,,28.6
+Erie County,Pennsylvania,36.1,126.6,,,,,,41.9
+Lancaster County,Pennsylvania,13.7,56.5,23,,,,,15.9
+Lebanon County,Pennsylvania,18.5,,44.4,,,,,22.2
+Lehigh County,Pennsylvania,36.6,81.2,47.2,,,,,40.2
+Luzerne County,Pennsylvania,45,96,,,,,,40.9
+Montgomery County,Pennsylvania,18.4,41.2,25.6,,,,,19.8
+Northampton County,Pennsylvania,17.7,,25.5,,,,,18.8
+Philadelphia County,Pennsylvania,87.6,92.4,76.5,14.2,,,,80.7
+Westmoreland County,Pennsylvania,24.6,101.8,,,,,,25.6
+York County,Pennsylvania,27.2,37.8,39.2,,,,,28.4
+Providence County,Rhode Island,50.9,38.1,39,,,,,45.1
+Aiken County,South Carolina,65,50.5,,,,,,55.3
+Charleston County,South Carolina,53.7,88.6,,,,,,59.1
+Florence County,South Carolina,79.5,28.5,,,,,,51.7
+Greenville County,South Carolina,41.4,50.3,,,,,,37.6
+Horry County,South Carolina,62.7,69.4,34.5,,,,,59.6
+Lancaster County,South Carolina,52.2,76,,,,,,50.8
+Lexington County,South Carolina,36.9,36.1,,,,,,33.3
+Orangeburg County,South Carolina,46.8,39.9,,,,,,39.8
+Richland County,South Carolina,26.7,28.3,,,,,,25.9
+Spartanburg County,South Carolina,49.8,48.4,,,,,,44
+Sumter County,South Carolina,47.9,30.4,,,,,,35.5
+York County,South Carolina,43,25,,,,,,35.9
+Davidson County,Tennessee,102.1,113.9,34.7,,,,84.1,93.1
+Hamilton County,Tennessee,52.3,66.8,,,,,,51.3
+Hardeman County,Tennessee,123.8,142.8,,,,,,125.2
+Knox County,Tennessee,105.6,159.3,,,,,,100.3
+Madison County,Tennessee,47.1,45.4,,,,,,43.3
+Montgomery County,Tennessee,30.8,29.2,,,,,,28.8
+Rutherford County,Tennessee,36.5,31.5,24.3,,,,,33.2
+Shelby County,Tennessee,64.8,64.1,42,,,,,60.8
+Wilson County,Tennessee,30.4,79,,,,,,32.4
+Bell County,Texas,23.1,14.7,,,,,,16.3
+Bexar County,Texas,28.6,33.2,19.7,,,,,22.8
+Brazoria County,Texas,24.2,25.3,20.5,,,,,21.3
+Collin County,Texas,14.8,8.8,6.8,,,,,9.8
+Dallas County,Texas,41,42.2,16,,,,,28
+Denton County,Texas,13.1,10.9,4.8,,,,,9.3
+Ector County,Texas,36.8,,17.9,,,,,23.1
+El Paso County,Texas,42.4,,17.2,,,,,21.2
+Fort Bend County,Texas,13.6,10,7.9,,,,,8.2
+Galveston County,Texas,29.3,,14.5,,,,,22.1
+Harris County,Texas,33.9,36.7,12.4,6.1,,,13.5,22.6
+Hays County,Texas,14.5,,9.9,,,,,13.5
+Jefferson County,Texas,42.4,23.9,,,,,,27
+Lubbock County,Texas,16.2,,11.1,,,,,14.3
+McLennan County,Texas,15,26.7,,,,,,14.9
+Montgomery County,Texas,23.7,,7.5,,,,,16.9
+Nueces County,Texas,28.7,,14,,,,,19
+Tarrant County,Texas,32.9,32.9,13.5,,,,,24.6
+Travis County,Texas,33.8,63.5,26.8,,,,,30.9
+Williamson County,Texas,15.3,,8.6,,,,,11.5
+Salt Lake County,Utah,29,51.8,19.6,,,,,26.2
+Arlington County,Virginia,7.2,51,29.4,,,,,14.5
+Chesterfield County,Virginia,22.5,19.2,,,,,,18.8
+Fairfax County,Virginia,12.7,17.9,13.4,,,,,11.1
+Henrico County,Virginia,29.2,52.7,,,,,,34.7
+Prince William County,Virginia,17.1,15.1,11.6,,,,,12.9
+Chesapeake city,Virginia,24.6,33.1,,,,,,23.6
+Hampton city,Virginia,59.8,36.2,,,,,,40.8
+Lynchburg city,Virginia,34.5,55.1,,,,,,37.7
+Newport News city,Virginia,39.9,34.2,,,,,,33.3
+Norfolk city,Virginia,52.7,76.1,,,,,,58.5
+Petersburg city,Virginia,353,127.8,,,,,,150.1
+Portsmouth city,Virginia,78.5,106.1,,,,,,87.8
+Richmond city,Virginia,84.4,213.4,61.5,,,,,133.9
+Roanoke city,Virginia,133.9,87.4,,,,,,114.2
+Virginia Beach city,Virginia,24.8,38,,,,,,24.5
+Benton County,Washington,25.6,,21.1,,,,,24.2
+Clark County,Washington,34,,21.3,,,,,31.3
 Grant County,Washington,34.6,,24.2,,,,,31.2
-King County,Washington,58.7,169,55.3,11.3,75.1,294.7,47.8,57.2
-Pierce County,Washington,48.5,92,37,14.4,60.2,176.8,44.9,49.7
-Snohomish County,Washington,44.2,35.8,27.9,,,168.4,30.7,36.8
-Spokane County,Washington,45.1,124.8,52.1,,,185.9,,48.8
-Thurston County,Washington,48,,30.5,,,,66.7,45.8
-Whatcom County,Washington,48.4,,55.8,,,280.5,,56.1
-Yakima County,Washington,48.2,,20.6,,,185.5,,39
-Cabell County,West Virginia,181.2,272.5,,,,,,178.1
-Kanawha County,West Virginia,108.5,248.8,,,,,,116.1
-Mercer County,West Virginia,153.8,313.3,,,,,,156.7
+King County,Washington,57.8,164.6,50.6,10.1,75.1,334.5,51.4,56
+Pierce County,Washington,49.6,89.1,36.2,14.4,60.2,167,49.5,50.3
+Snohomish County,Washington,41.2,38.8,26.9,,,180.4,25.6,34.9
+Spokane County,Washington,46,124.8,52.1,,,172.7,,49.3
+Thurston County,Washington,49.4,,30.5,,,,60.6,46.5
+Whatcom County,Washington,51.7,,51.8,,,336.6,,59.1
+Yakima County,Washington,52.1,,19.1,,,197.1,,40.1
+Cabell County,West Virginia,173.9,317.9,,,,,,173.8
+Kanawha County,West Virginia,105.8,241,,,,,,112.7
+Mercer County,West Virginia,146.1,370.3,,,,,,153.3
+Monongalia County,West Virginia,61.9,255.8,,,,,,68.7
 Raleigh County,West Virginia,158,200,,,,,,156.2
-Brown County,Wisconsin,23.6,,,,,165.7,,28
-Dane County,Wisconsin,25.1,99.6,,,,,,27.3
-Milwaukee County,Wisconsin,62.4,112.7,64,,,,,72.7
-Racine County,Wisconsin,30.8,97.9,,,,,,34.6
-Rock County,Wisconsin,35.4,138.4,,,,,,38.3
+Brown County,Wisconsin,23.6,,,,,150.6,,28
+Dane County,Wisconsin,24.2,90.2,,,,,,26.1
+Milwaukee County,Wisconsin,61.5,107.6,63.4,,,,,70.9
+Racine County,Wisconsin,31.6,93.3,,,,,,35.6
+Rock County,Wisconsin,37,125.8,,,,,,39
